@@ -1,0 +1,30 @@
+[
+  {
+    "question": 1,
+    "question_text": "Que demande ce client au serveur ?",
+    "audio_url": "https://votre-site.com/audios/co_s1_q1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L'addition s'il vous plaît.",
+      "La carte des desserts.",
+      "Une table près de la fenêtre.",
+      "Un verre d'eau en plus."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 2,
+    "question_text": "Quelle est la spécialité de cette exposition ?",
+    "audio_url": "https://votre-site.com/audios/co_s1_q2.mp3",
+    "image_url": "https://votre-site.com/images/co_affiche_musee.png",
+    "sujet": null,
+    "choix": [
+      "La peinture moderne.",
+      "L'histoire de la photographie.",
+      "La sculpture du 18ème siècle.",
+      "Le cinéma abstrait."
+    ],
+    "bonne_reponse_index": 1
+  }
+]
