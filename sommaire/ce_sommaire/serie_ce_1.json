@@ -1,29 +1,29 @@
 [
   {
     "question": 1,
-    "question_text": "Que demande ce client au serveur ?",
-    "audio_url": "https://votre-site.com/audios/co_s1_q1.mp3",
+    "question_text": "Quel est le but de ce message ?",
+    "audio_url": "",
     "image_url": "",
-    "sujet": null,
+    "sujet": "Chers collègues, la réunion prévue demain matin est reportée à 14h dans la salle B.",
     "choix": [
-      "L'addition s'il vous plaît.",
-      "La carte des desserts.",
-      "Une table près de la fenêtre.",
-      "Un verre d'eau en plus."
+      "Annuler une réunion.",
+      "Changer de salle de pause.",
+      "Repousser une réunion.",
+      "Convoquer de nouveaux employés."
     ],
-    "bonne_reponse_index": 0
+    "bonne_reponse_index": 2
   },
   {
     "question": 2,
-    "question_text": "Quelle est la spécialité de cette exposition ?",
-    "audio_url": "https://votre-site.com/audios/co_s1_q2.mp3",
-    "image_url": "https://votre-site.com/images/co_affiche_musee.png",
-    "sujet": null,
+    "question_text": "Que signifie ce panneau de signalisation ?",
+    "audio_url": "",
+    "image_url": "https://votre-site.com/images/ce_s1_q2_panneau.png",
+    "sujet": "",
     "choix": [
-      "La peinture moderne.",
-      "L'histoire de la photographie.",
-      "La sculpture du 18ème siècle.",
-      "Le cinéma abstrait."
+      "Stationnement payant.",
+      "Stationnement interdit tous les jours.",
+      "Voie réservée aux camions.",
+      "Vitesse limitée à 30."
     ],
     "bonne_reponse_index": 1
   }
