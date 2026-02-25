@@ -4,27 +4,547 @@
     "question_text": "Quel est le but de ce message ?",
     "audio_url": "",
     "image_url": "",
-    "sujet": "Chers collègues, la réunion prévue demain matin est reportée à 14h dans la salle B.",
+    "sujet": "La bibliothèque sera fermée exceptionnellement lundi prochain pour maintenance.",
     "choix": [
-      "Annuler une réunion.",
-      "Changer de salle de pause.",
-      "Repousser une réunion.",
-      "Convoquer de nouveaux employés."
+      "Annoncer une nouvelle ouverture.",
+      "Informer d'une fermeture temporaire.",
+      "Proposer un nouvel horaire.",
+      "Organiser un événement."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 2,
+    "question_text": "Que demande ce message ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Merci de remettre votre rapport avant vendredi 16h.",
+    "choix": [
+      "Envoyer un email.",
+      "Assister à une réunion.",
+      "Rendre un document avant une date limite.",
+      "Annuler un projet."
     ],
     "bonne_reponse_index": 2
   },
   {
-    "question": 2,
-    "question_text": "Que signifie ce panneau de signalisation ?",
+    "question": 3,
+    "question_text": "Quel est le sujet principal ?",
     "audio_url": "",
-    "image_url": "https://votre-site.com/images/ce_s1_q2_panneau.png",
-    "sujet": "",
+    "image_url": "",
+    "sujet": "Une promotion spéciale offre 20% de réduction sur tous les articles ce week-end.",
     "choix": [
-      "Stationnement payant.",
-      "Stationnement interdit tous les jours.",
-      "Voie réservée aux camions.",
-      "Vitesse limitée à 30."
+      "Une augmentation des prix.",
+      "Une réduction exceptionnelle.",
+      "Un nouveau magasin.",
+      "Un changement de direction."
     ],
     "bonne_reponse_index": 1
+  },
+  {
+    "question": 4,
+    "question_text": "Que signifie ce message ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Votre colis est arrivé au point de collecte.",
+    "choix": [
+      "Le colis est perdu.",
+      "Le colis est en retard.",
+      "Le colis peut être récupéré.",
+      "Le colis est retourné."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 5,
+    "question_text": "Quelle action est demandée ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Veuillez éteindre vos téléphones pendant le spectacle.",
+    "choix": [
+      "Prendre des photos.",
+      "Mettre les téléphones en mode silencieux.",
+      "Appeler un ami.",
+      "Allumer les lumières."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 6,
+    "question_text": "Quel est l'objectif du message ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Nous recherchons un assistant administratif pour un poste à temps plein.",
+    "choix": [
+      "Annoncer une démission.",
+      "Proposer un stage.",
+      "Publier une offre d'emploi.",
+      "Fermer une entreprise."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 7,
+    "question_text": "Que faut-il comprendre ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "En raison des intempéries, tous les vols sont retardés.",
+    "choix": [
+      "Les vols sont annulés définitivement.",
+      "Les vols partent plus tôt.",
+      "Les vols ont du retard.",
+      "L'aéroport est fermé pour toujours."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 8,
+    "question_text": "Quel est le message principal ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Inscrivez-vous avant le 30 juin pour bénéficier du tarif réduit.",
+    "choix": [
+      "S'inscrire après juin.",
+      "Profiter d'un prix avantageux avant une date limite.",
+      "Annuler une inscription.",
+      "Changer de programme."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 9,
+    "question_text": "Que signifie l'annonce ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Le restaurant est complet ce soir.",
+    "choix": [
+      "Il reste des places.",
+      "Le restaurant est fermé.",
+      "Toutes les tables sont réservées.",
+      "Le menu est modifié."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 10,
+    "question_text": "Quelle est l'information donnée ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Les résultats seront affichés sur le site officiel demain matin.",
+    "choix": [
+      "Les résultats sont déjà disponibles.",
+      "Les résultats seront publiés en ligne.",
+      "Les résultats sont annulés.",
+      "Les résultats seront envoyés par courrier."
+    ],
+    "bonne_reponse_index": 1
+  },
+
+  {
+    "question": 11,
+    "question_text": "Que demande cette note ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Merci de porter un casque de sécurité sur le chantier.",
+    "choix": [
+      "Retirer le casque.",
+      "Respecter une consigne de sécurité.",
+      "Quitter le chantier.",
+      "Acheter du matériel."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 12,
+    "question_text": "Quel est le but de l'annonce ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Cours de yoga gratuits tous les samedis matin au parc central.",
+    "choix": [
+      "Vendre des abonnements.",
+      "Annuler une activité.",
+      "Proposer une activité gratuite.",
+      "Fermer le parc."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 13,
+    "question_text": "Que signifie ce message ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Votre abonnement expire dans trois jours.",
+    "choix": [
+      "L'abonnement commence.",
+      "L'abonnement se termine bientôt.",
+      "L'abonnement est gratuit.",
+      "L'abonnement est prolongé."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 14,
+    "question_text": "Quelle est l'information principale ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Le magasin ouvrira exceptionnellement à 10h demain.",
+    "choix": [
+      "Le magasin ferme plus tôt.",
+      "Le magasin ouvre plus tard que d'habitude.",
+      "Le magasin change de propriétaire.",
+      "Le magasin déménage."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 15,
+    "question_text": "Que faut-il faire ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Veuillez remplir le formulaire en ligne avant de vous présenter.",
+    "choix": [
+      "Imprimer un document.",
+      "Compléter un formulaire sur Internet.",
+      "Appeler le service client.",
+      "Envoyer un fax."
+    ],
+    "bonne_reponse_index": 1
+  },
+
+  {
+    "question": 16,
+    "question_text": "Quel est le thème de l'annonce ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Une collecte de vêtements aura lieu ce dimanche.",
+    "choix": [
+      "Une vente privée.",
+      "Une activité de solidarité.",
+      "Un concours.",
+      "Une fermeture."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 17,
+    "question_text": "Que signifie cet avis ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Accès interdit au public.",
+    "choix": [
+      "Entrée libre.",
+      "Réservé aux employés.",
+      "Zone en travaux.",
+      "Parking gratuit."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 18,
+    "question_text": "Quel est l'objectif ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Merci de confirmer votre présence par email.",
+    "choix": [
+      "Refuser une invitation.",
+      "Valider sa participation.",
+      "Changer la date.",
+      "Envoyer un colis."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 19,
+    "question_text": "Que signifie l'information ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Les inscriptions sont ouvertes jusqu'au 15 septembre.",
+    "choix": [
+      "On peut s'inscrire avant une date limite.",
+      "Les inscriptions sont fermées.",
+      "Le cours est annulé.",
+      "La date est inconnue."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 20,
+    "question_text": "Quel est le message principal ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Merci de garder vos distances dans la file d'attente.",
+    "choix": [
+      "Avancer plus vite.",
+      "Respecter une règle sanitaire.",
+      "Quitter la file.",
+      "Changer de magasin."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 21,
+    "question_text": "Quel est le but de ce message ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "La piscine municipale sera fermée pour rénovation pendant deux semaines.",
+    "choix": [
+      "Annoncer une ouverture spéciale.",
+      "Informer d'une fermeture temporaire.",
+      "Organiser une compétition.",
+      "Augmenter les tarifs."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 22,
+    "question_text": "Que demande cette annonce ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Merci de ne pas nourrir les animaux du parc.",
+    "choix": [
+      "Donner à manger aux animaux.",
+      "Respecter le règlement du parc.",
+      "Acheter de la nourriture.",
+      "Adopter un animal."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 23,
+    "question_text": "Quelle est l'information principale ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Les factures doivent être payées avant la fin du mois.",
+    "choix": [
+      "Les factures sont annulées.",
+      "Les paiements ont une date limite.",
+      "Les factures sont gratuites.",
+      "Le mois est prolongé."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 24,
+    "question_text": "Que signifie ce message ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Train supprimé en raison d'un problème technique.",
+    "choix": [
+      "Le train est en avance.",
+      "Le train est retardé.",
+      "Le train ne circulera pas.",
+      "Le train change de quai."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 25,
+    "question_text": "Quel est le sujet de l'annonce ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Conférence gratuite sur l'entrepreneuriat ce vendredi à 18h.",
+    "choix": [
+      "Un concert payant.",
+      "Une formation gratuite.",
+      "Une réunion obligatoire.",
+      "Une fermeture exceptionnelle."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 26,
+    "question_text": "Que faut-il comprendre ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Votre mot de passe a été modifié avec succès.",
+    "choix": [
+      "Le mot de passe est incorrect.",
+      "La modification a échoué.",
+      "Le mot de passe a été changé.",
+      "Le compte est supprimé."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 27,
+    "question_text": "Quel est le message principal ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Vente flash : -50% sur les chaussures aujourd'hui seulement.",
+    "choix": [
+      "Une augmentation des prix.",
+      "Une réduction limitée dans le temps.",
+      "Un nouveau magasin.",
+      "Une rupture de stock."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 28,
+    "question_text": "Quelle action est demandée ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Veuillez patienter quelques instants.",
+    "choix": [
+      "Partir immédiatement.",
+      "Attendre un moment.",
+      "Appeler le service client.",
+      "Annuler la demande."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 29,
+    "question_text": "Que signifie cette indication ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Sortie de secours.",
+    "choix": [
+      "Entrée principale.",
+      "Issue en cas d'urgence.",
+      "Toilettes publiques.",
+      "Ascenseur."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 30,
+    "question_text": "Quel est l'objectif de l'annonce ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Stage d'été pour étudiants en informatique.",
+    "choix": [
+      "Recruter des étudiants pour une expérience professionnelle.",
+      "Fermer l'entreprise.",
+      "Annuler un projet.",
+      "Organiser un voyage."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 31,
+    "question_text": "Que faut-il faire selon le message ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Merci de respecter le silence dans cette zone.",
+    "choix": [
+      "Parler fort.",
+      "Mettre de la musique.",
+      "Garder le calme.",
+      "Quitter la pièce."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 32,
+    "question_text": "Quelle est l'information donnée ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Le service client est disponible du lundi au vendredi.",
+    "choix": [
+      "Disponible tous les jours.",
+      "Disponible uniquement le week-end.",
+      "Disponible en semaine.",
+      "Fermé définitivement."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 33,
+    "question_text": "Que signifie cet avis ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Paiement refusé.",
+    "choix": [
+      "Le paiement est accepté.",
+      "La transaction n'a pas été validée.",
+      "Le paiement est en attente.",
+      "Le paiement est remboursé."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "question_text": "Quel est le thème du message ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Cours de cuisine italienne à partir du mois prochain.",
+    "choix": [
+      "Un voyage en Italie.",
+      "Une activité culinaire.",
+      "Une fermeture de restaurant.",
+      "Un concours sportif."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 35,
+    "question_text": "Que faut-il comprendre ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Votre commande est en cours de préparation.",
+    "choix": [
+      "La commande est livrée.",
+      "La commande est annulée.",
+      "La commande est en train d'être préparée.",
+      "La commande est perdue."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 36,
+    "question_text": "Quel est le message principal ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Nouveau menu disponible dès aujourd'hui.",
+    "choix": [
+      "Changement de chef.",
+      "Annonce d'une nouveauté.",
+      "Fermeture du restaurant.",
+      "Augmentation des prix."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 37,
+    "question_text": "Quelle action est demandée ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Merci de signer le document ci-joint.",
+    "choix": [
+      "Lire seulement.",
+      "Supprimer le fichier.",
+      "Ajouter une signature.",
+      "Envoyer un colis."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 38,
+    "question_text": "Que signifie cette information ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Le parking est complet.",
+    "choix": [
+      "Il reste des places.",
+      "Aucune place disponible.",
+      "Parking gratuit.",
+      "Parking réservé aux employés."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 39,
+    "question_text": "Quel est le but de ce message ?",
+    "audio_url": "",
+    "image_url": "",
+    "sujet": "Rappel : la date limite d'inscription est demain.",
+    "choix": [
+      "Annuler une inscription.",
+      "Changer la date.",
+      "Rappeler une échéance importante.",
+      "Organiser une fête."
+    ],
+    "bonne_reponse_index": 2
   }
 ]
