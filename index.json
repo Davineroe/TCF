@@ -3,10 +3,10 @@
   "series_disponibles": [
     {
       "urls_sections": {
-        "co": "https://votre-site.com/sommaire/co_sommaire.json",
-        "ce": "https://votre-site.com/sommaire/ce_sommaire.json",
-        "ee": "https://votre-site.com/sommaire/ee_sommaire.json",
-        "eo": "https://votre-site.com/sommaire/eo_sommaire.json"
+        "co": "https://davineroe.github.io/TCF/sommaire/co_sommaire.json",
+        "ce": "https://davineroe.github.io/TCF/sommaire/ce_sommaire.json",
+        "ee": "https://davineroe.github.io/TCF/sommaire/ee_sommaire.json",
+        "eo": "https://davineroe.github.io/TCF/sommaire/eo_sommaire.json"
       }
     }
   ]
