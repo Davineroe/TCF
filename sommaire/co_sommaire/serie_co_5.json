@@ -12,7 +12,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 2
   },
   {
     "question": 2,
@@ -27,7 +27,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 3,
@@ -42,7 +42,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 4,
@@ -57,7 +57,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 5,
@@ -72,7 +72,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 6,
@@ -87,7 +87,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 3
   },
   {
     "question": 7,
@@ -102,7 +102,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 1
   },
   {
     "question": 8,
@@ -117,7 +117,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 3
   },
   {
     "question": 9,
@@ -132,7 +132,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 10,
@@ -147,7 +147,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 2
   },
   {
     "question": 11,
@@ -162,7 +162,7 @@
       "",
       ""
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 2
   },
   {
     "question": 12,
@@ -177,7 +177,7 @@
       "Prendre l’ascenseur.",
       "Passer par la cafétéria."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 1
   },
   {
     "question": 13,
@@ -192,7 +192,7 @@
       "Faire des courses.",
       "Manger en plein air."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 3
   },
   {
     "question": 14,
@@ -207,7 +207,7 @@
       "Un grand appartement.",
       "Un studio en ville."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 3
   },
   {
     "question": 15,
@@ -222,7 +222,7 @@
       "Pour mettre à jour toutes les applications.",
       "Pour réparer des équipements informatiques."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 3
   },
   {
     "question": 16,
@@ -237,7 +237,7 @@
       "Un manque d’activités de plein air.",
       "Un usage excessif des écrans."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 2
   },
   {
     "question": 17,
@@ -252,7 +252,7 @@
       "Annoncer l’arrivée d’un train.",
       "Avertir d’un incident."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 18,
@@ -267,7 +267,7 @@
       "Son ami vient de trouver son premier emploi à l’essai.",
       "Elle va signer un contrat d’embauche à temps complet."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 1
   },
   {
     "question": 19,
@@ -282,7 +282,7 @@
       "De participer à un jeu.",
       "De rencontrer un invité."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 20,
@@ -297,7 +297,7 @@
       "L’évolution professionnelle est très lente.",
       "L’obtention d’un premier emploi est aisée."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 21,
@@ -312,7 +312,7 @@
       "Les travaux nécessaires ne sont pas encore achevés.",
       "La compagnie de téléphone manque de personnel pour le faire."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 2
   },
   {
     "question": 22,
@@ -327,7 +327,7 @@
       "Des sorties équestres pour les écoliers de la région.",
       "Des stages à destination des animateurs jeunesse."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 23,
@@ -342,7 +342,7 @@
       "Comment replanter un arbre ?",
       "Comment scier une branche ?"
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 1
   },
   {
     "question": 24,
@@ -357,7 +357,7 @@
       "Pour se rapprocher de sa famille.",
       "Pour suivre son compagnon."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 3
   },
   {
     "question": 25,
@@ -372,7 +372,7 @@
       "Ils payent plus d’impôts que les autres citoyens européens.",
       "Ils prennent des cours de langue pour améliorer leur niveau."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 1
   },
   {
     "question": 26,
@@ -387,7 +387,7 @@
       "Un récit autobiographique ancré dans la vie intellectuelle du siècle dernier.",
       "Un roman sur l’impact des événements historiques sur le destin individuel."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 2
   },
   {
     "question": 27,
@@ -402,7 +402,7 @@
       "De son emploi du temps professionnel.",
       "De son manque d’organisation habituel."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 2
   },
   {
     "question": 28,
@@ -417,7 +417,7 @@
       "Elle est restée toute seule.",
       "Elle a vu un mauvais film."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 2
   },
   {
     "question": 29,
@@ -432,7 +432,7 @@
       "Le choc du tout premier film qu’elle a vu dans sa vie.",
       "Sa fréquentation des salles dès son plus jeune âge."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 3
   },
   {
     "question": 30,
@@ -447,7 +447,7 @@
       "À créer une échelle lisible de classification des élèves.",
       "À susciter chez l’élève l’envie de devenir le meilleur de la classe."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 2
   },
   {
     "question": 31,
@@ -462,7 +462,7 @@
       "Manger plus léger sans changer ses habitudes.",
       "Se garder de consommer des aliments sucrés."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 2
   },
   {
     "question": 32,
@@ -477,7 +477,7 @@
       "Le recours constant au registre familier.",
       "Les jeux de mots récurrents dans les titres."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 3
   },
   {
     "question": 33,
@@ -492,7 +492,7 @@
       "Déterminer les nouveaux enjeux du théâtre.",
       "Jouer dans des pièces de théâtre inédites."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 34,
@@ -507,7 +507,7 @@
       "De trop faire valoir ses compétences pour montrer sa supériorité.",
       "De vouloir participer à tous les projets sans vraiment s’investir."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 35,
@@ -522,7 +522,7 @@
       "Des contrôles sanitaires plus rapides.",
       "Des systèmes de production innovants."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 1
   },
   {
     "question": 36,
@@ -537,7 +537,7 @@
       "Le taux de réussite des candidats est en baisse.",
       "Le nombre de fraudes constatées augmente."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   },
   {
     "question": 37,
@@ -552,7 +552,7 @@
       "Les municipalités privilégient les projets coûteux.",
       "Les réhabilitations ont une portée limitée."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 3
   },
   {
     "question": 38,
@@ -567,7 +567,7 @@
       "Les responsabilités au travail sont considérées comme des priorités absolues.",
       "Le travail est systématiquement opposé à l’épanouissement personnel."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 1
   },
   {
     "question": 39,
@@ -582,6 +582,6 @@
       "Elle fait ressurgir des rivalités ou des antagonismes oubliés.",
       "Elle remet en cause la domination de fait de certains pays."
     ],
-    "bonne_reponse_index": null
+    "bonne_reponse_index": 0
   }
 ]
