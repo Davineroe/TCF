@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/img2-1.webp",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_2.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/img2-2.webp",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_3.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/img2-3.webp",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_4.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_5.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_6.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_7.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_8.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_9.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_10.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Écrire.",
+      "Téléphoner.",
+      "Lire.",
+      "Écouter."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_11.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il eut un accident sur la route.",
+      "Il fait une chute à la montagne.",
+      "Il est tombé dans son escalier.",
+      "Il s’est battu avec un ami."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_12.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De faire des rencontres.",
+      "De manger gratuitement.",
+      "De trouver un travail.",
+      "De vivre chez quelqu’un."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_13.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De l’actualité européenne.",
+      "Du dernier film qu’elles ont vu.",
+      "D’un trafic de documents.",
+      "D’un vieil ami commun."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_14.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Conseiller les parents en matière d’alimentation.",
+      "Créer l’occasion de se retrouver en famille.",
+      "Découvrir des recettes de grand-mère.",
+      "Ressembler des enfants du monde entier."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_15.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Féliciter les acteurs dans leur loge.",
+      "Remettre un vêtement du vestiaire.",
+      "Retourner à la salle de spectacle.",
+      "S’informer sur la programmation."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_16.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’essayer un vêtement près du corps.",
+      "De changer la taille de l’article choisi.",
+      "De changer la taille de l’article choisi.",
+      "De compléter son achat avec un pull."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_17.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "À un couturier.",
+      "À un jardinier.",
+      "À un traiteur.",
+      "À un décorateur."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_18.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De déjeuner ensemble.",
+      "De faire une soirée.",
+      "De participer à un jeu.",
+      "De rencontrer un invité."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_19.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Avoir de l’expérience dans la vente.",
+      "Habiter près de Sainton-les-Tonges.",
+      "Pratiquer régulièrement un sport.",
+      "Savoir gérer un site internet."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_20.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La circulation routière est coupée.",
+      "La commande s’est perdue.",
+      "Le transporteur est en grève.",
+      "Les marchandises ont été volées."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_21.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Interviewer un réalisateur.",
+      "Participer à un festival.",
+      "Tourner un film.",
+      "Visiter des studios de cinéma."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_22.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Visiter des studios de cinéma.",
+      "Lui apporter un livre.",
+      "Lui présenter son travail.",
+      "Lui proposer une interview."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_23.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils déplorent un manque d’information.",
+      "Ils refusent de participer à la collecte.",
+      "Ils s’inquiètent de la sécurité sanitaire.",
+      "Ils souhaitent rencontrer des soignants."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_24.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La voiture est interdite en centre-ville.",
+      "Le sens de la circulation a été modifié.",
+      "Le stationnement est devenu payant.",
+      "Les embouteillages sont fréquents."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_25.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’organisation d’ateliers vidéo.",
+      "La présence de réalisateurs étrangers.",
+      "La projection de documentaire.",
+      "La variété de la programmation."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_26.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La recherche d’un appartement est rapide.",
+      "Le système de la colocation est encouragé.",
+      "Les habitations proposées sont de qualité.",
+      "Les logements sont bon marché en banlieue."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_27.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Parce qu’elles étaient difficiles à mettre en œuvre.",
+      "Parce qu’elles ignoraient la particularité des contextes.",
+      "Parce qu’elles avaient lieu tôt dans l’année scolaire.",
+      "Parce qu’elles proposaient des exercices complexes."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_28.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’état actuel de la biodiversité.",
+      "L’existence de plantes menaçantes.",
+      "La découverte de nouvelles espèces menacées.",
+      "Le rôle de l’ONU dans la préservation des espèces."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_29.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’apprendre à élaborer des itinéraires de visites.",
+      "D’expérimenter une manière différente de voyager.",
+      "De découvrir des adresses d’hôpital à l’étranger.",
+      "De participer à des actions de solidarité internationale."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_30.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "À classer les établissements selon un taux de performance.",
+      "À communiquer sur les progrès de l’élève dans chaque matière.",
+      "À créer une échelle lisible de classification des élèves.",
+      "À susciter chez l’élève l’envie de devenir le meilleur de la classe."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_31.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De la législation en vigueur.",
+      "De la paye des employés.",
+      "Du bon vouloir du client.",
+      "Du type d’établissement."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_32.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle concerne de moins en moins d’articles.",
+      "Elle est maîtrisée grâce aux contrôles.",
+      "Elle met en danger le marché du travail.",
+      "Elle se concentre sur des objets précieux."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_33.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La télévision touche des droits importants sur les compétitions.",
+      "Les comportements machistes perdurent dans l’univers sportif.",
+      "Les fédérations sont souvent impliquées dans des scandales.",
+      "Les grandes équipes concentrent la majorité des financements."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_34.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un aménagement territorial en fonction des données météorologiques.",
+      "Un programme de réduction des différentes sources de pollution.",
+      "Une analyse comparative entre les modes de vie citadins et ruraux.",
+      "Une proposition de prévention renforcée des grands cataclysmes."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_35.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De l’absurdité qu’il y a à valoriser leur manque de culture scientifique.",
+      "De la nécessité de mieux défendre les acquis de la culture classique.",
+      "Du besoin qu’ont les mathématiciens d’avoir une culture générale.",
+      "Du refus des valeurs humanistes par les milieux scientifiques."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_36.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ses créations sont très romantiques.",
+      "Ses décors sont créés par des artistes américains.",
+      "Ses membres sont d’origines variées.",
+      "Ses spectacles sont donnés dans des sites insolites."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_37.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De consulter un médecin psychothérapeute.",
+      "D’attendre que le temps ait fait son œuvre.",
+      "De prescrire un traitement médicamenteux.",
+      "D’informer les utilisateurs sur leurs dangers."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_38.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De la tranquillité et de l’intimité.",
+      "Des facilités de réservation.",
+      "Un contrat privilégié avec son hôte.",
+      "Un tarif intéressant toute l’année."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_39.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’absence de temps morts.",
+      "L’ennui des distractions.",
+      "L’insuffisance de repos.",
+      "Le manque d’action."
+    ],
+    "bonne_reponse_index": 0
+  }
+]
