@@ -1,550 +1,587 @@
 [
   {
     "question": 1,
-    "question_text": " ",
+    "points": 3,
+    "question_text": "",
     "audio_url": "",
     "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q1-1-1234x800-2.jpg",
-    "sujet": "La bibliothèque sera fermée exceptionnellement lundi prochain pour maintenance.",
+    "sujet": "",
     "choix": [
-      "Annoncer une nouvelle ouverture.",
-      "Informer d'une fermeture temporaire.",
-      "Proposer un nouvel horaire.",
-      "Organiser un événement."
+      "Il dort",
+      "Il travaille",
+      "Il joue",
+      "Il mange"
     ],
     "bonne_reponse_index": 1
   },
   {
     "question": 2,
-    "question_text": "Que demande ce message ?",
+    "points": 3,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Merci de remettre votre rapport avant vendredi 16h.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q2-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Envoyer un email.",
-      "Assister à une réunion.",
-      "Rendre un document avant une date limite.",
-      "Annuler un projet."
+      "Annoncer un changement",
+      "Décrire un endroit",
+      "Donner un rendez-vous",
+      "Organiser une réunion"
     ],
-    "bonne_reponse_index": 2
+    "bonne_reponse_index": 0
   },
   {
     "question": 3,
-    "question_text": "Quel est le sujet principal ?",
+    "points": 3,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Une promotion spéciale offre 20% de réduction sur tous les articles ce week-end.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q3-1-1234x800-2.jpg",
+    "sujet": "",
     "choix": [
-      "Une augmentation des prix.",
-      "Une réduction exceptionnelle.",
-      "Un nouveau magasin.",
-      "Un changement de direction."
-    ],
-    "bonne_reponse_index": 1
-  },
-  {
-    "question": 4,
-    "question_text": "Que signifie ce message ?",
-    "audio_url": "",
-    "image_url": "",
-    "sujet": "Votre colis est arrivé au point de collecte.",
-    "choix": [
-      "Le colis est perdu.",
-      "Le colis est en retard.",
-      "Le colis peut être récupéré.",
-      "Le colis est retourné."
+      "Professionnelles",
+      "Familiales",
+      "Amicales",
+      "Commerciales"
     ],
     "bonne_reponse_index": 2
   },
   {
-    "question": 5,
-    "question_text": "Quelle action est demandée ?",
+    "question": 4,
+    "points": 3,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Veuillez éteindre vos téléphones pendant le spectacle.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q4-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Prendre des photos.",
-      "Mettre les téléphones en mode silencieux.",
-      "Appeler un ami.",
-      "Allumer les lumières."
+      "Il va avoir de nouveaux horaires",
+      "Il va changer de propriétaire",
+      "Il va déménager en septembre",
+      "Il va fermer pendant l'été"
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q5-1-1234x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Canadienne",
+      "Espagnole",
+      "Italienne",
+      "Mexicaine"
     ],
     "bonne_reponse_index": 1
   },
   {
     "question": 6,
-    "question_text": "Quel est l'objectif du message ?",
+    "points": 9,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Nous recherchons un assistant administratif pour un poste à temps plein.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q6-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Annoncer une démission.",
-      "Proposer un stage.",
-      "Publier une offre d'emploi.",
-      "Fermer une entreprise."
+      "Ils vont bientôt déménager",
+      "Ils vont faire des travaux",
+      "Ils vont organiser une soirée",
+      "Ils vont recevoir de la visite"
     ],
-    "bonne_reponse_index": 2
+    "bonne_reponse_index": 1
   },
   {
     "question": 7,
-    "question_text": "Que faut-il comprendre ?",
+    "points": 9,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "En raison des intempéries, tous les vols sont retardés.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q7-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Les vols sont annulés définitivement.",
-      "Les vols partent plus tôt.",
-      "Les vols ont du retard.",
-      "L'aéroport est fermé pour toujours."
+      "La retraite de ses parents",
+      "Son anniversaire de mariage",
+      "Un nouveau logement",
+      "Une création d'entreprise"
     ],
     "bonne_reponse_index": 2
   },
   {
     "question": 8,
-    "question_text": "Quel est le message principal ?",
+    "points": 9,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Inscrivez-vous avant le 30 juin pour bénéficier du tarif réduit.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q8-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "S'inscrire après juin.",
-      "Profiter d'un prix avantageux avant une date limite.",
-      "Annuler une inscription.",
-      "Changer de programme."
+      "Offrir des emplois",
+      "Participer à un forum",
+      "Présenter leur action",
+      "Trouver de l'argent"
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 0
   },
   {
     "question": 9,
-    "question_text": "Que signifie l'annonce ?",
+    "points": 9,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Le restaurant est complet ce soir.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q9-2-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Il reste des places.",
-      "Le restaurant est fermé.",
-      "Toutes les tables sont réservées.",
-      "Le menu est modifié."
+      "Un document professionnel",
+      "Un titre de transport",
+      "Une enveloppe timbrée",
+      "Une somme d'argent"
     ],
-    "bonne_reponse_index": 2
+    "bonne_reponse_index": 0
   },
   {
     "question": 10,
-    "question_text": "Quelle est l'information donnée ?",
+    "points": 9,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Les résultats seront affichés sur le site officiel demain matin.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q10-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Les résultats sont déjà disponibles.",
-      "Les résultats seront publiés en ligne.",
-      "Les résultats sont annulés.",
-      "Les résultats seront envoyés par courrier."
+      "Des cours de cuisine",
+      "Des menus différents",
+      "Des plats à emporter",
+      "Des tickets bon marché"
     ],
     "bonne_reponse_index": 1
   },
-
   {
     "question": 11,
-    "question_text": "Que demande cette note ?",
+    "points": 15,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Merci de porter un casque de sécurité sur le chantier.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q11-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Retirer le casque.",
-      "Respecter une consigne de sécurité.",
-      "Quitter le chantier.",
-      "Acheter du matériel."
+      "Un service de création de site",
+      "Une aide informatique rapide",
+      "Une formation sur Internet",
+      "Une publicité à faible coût"
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 3
   },
   {
     "question": 12,
-    "question_text": "Quel est le but de l'annonce ?",
+    "points": 15,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Cours de yoga gratuits tous les samedis matin au parc central.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q12-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Vendre des abonnements.",
-      "Annuler une activité.",
-      "Proposer une activité gratuite.",
-      "Fermer le parc."
+      "Pour acheter des meubles de bibliothèque",
+      "Pour organiser un concours de lecture",
+      "Pour ouvrir un salon de thé littéraire",
+      "Pour s'installer dans un local plus vaste"
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q13-1-1234x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Acheter du matériel",
+      "Appeler un réparateur",
+      "Imprimer un document",
+      "Noter un rendez-vous"
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q14-1-1234x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Fès",
+      "Casablanca",
+      "Marrakech",
+      "Tanger"
     ],
     "bonne_reponse_index": 2
   },
   {
-    "question": 13,
-    "question_text": "Que signifie ce message ?",
-    "audio_url": "",
-    "image_url": "",
-    "sujet": "Votre abonnement expire dans trois jours.",
-    "choix": [
-      "L'abonnement commence.",
-      "L'abonnement se termine bientôt.",
-      "L'abonnement est gratuit.",
-      "L'abonnement est prolongé."
-    ],
-    "bonne_reponse_index": 1
-  },
-  {
-    "question": 14,
-    "question_text": "Quelle est l'information principale ?",
-    "audio_url": "",
-    "image_url": "",
-    "sujet": "Le magasin ouvrira exceptionnellement à 10h demain.",
-    "choix": [
-      "Le magasin ferme plus tôt.",
-      "Le magasin ouvre plus tard que d'habitude.",
-      "Le magasin change de propriétaire.",
-      "Le magasin déménage."
-    ],
-    "bonne_reponse_index": 1
-  },
-  {
     "question": 15,
-    "question_text": "Que faut-il faire ?",
+    "points": 15,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Veuillez remplir le formulaire en ligne avant de vous présenter.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q15-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Imprimer un document.",
-      "Compléter un formulaire sur Internet.",
-      "Appeler le service client.",
-      "Envoyer un fax."
+      "Il fait observer la nature de façon différente",
+      "Il aide au développement de la recherche",
+      "Il nécessite un bon entrainement sportif",
+      "Il s'adresse à des spécialistes passionnés"
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 0
   },
-
   {
     "question": 16,
-    "question_text": "Quel est le thème de l'annonce ?",
+    "points": 15,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Une collecte de vêtements aura lieu ce dimanche.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q16-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Une vente privée.",
-      "Une activité de solidarité.",
-      "Un concours.",
-      "Une fermeture."
+      "On les a tués afin de les manger",
+      "On les a attrapés et emmenés ailleurs",
+      "On les a chassés de l'aéroport",
+      "On les a soignés et relâchés"
     ],
     "bonne_reponse_index": 1
   },
   {
     "question": 17,
-    "question_text": "Que signifie cet avis ?",
+    "points": 15,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Accès interdit au public.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q17-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Entrée libre.",
-      "Réservé aux employés.",
-      "Zone en travaux.",
-      "Parking gratuit."
+      "Le choix des matières est vaste",
+      "Le nombre d'étudiants est limité",
+      "Le prix des études est peu élevé",
+      "L'enseignement est d'un bon niveau"
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 3
   },
   {
     "question": 18,
-    "question_text": "Quel est l'objectif ?",
+    "points": 15,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Merci de confirmer votre présence par email.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q18-1-1234x800-2.jpg",
+    "sujet": "",
     "choix": [
-      "Refuser une invitation.",
-      "Valider sa participation.",
-      "Changer la date.",
-      "Envoyer un colis."
+      "La quantité de travail est importante",
+      "Le rôle est peu valorisé",
+      "Les postes sont supprimés",
+      "Les tâches sont limitées"
     ],
     "bonne_reponse_index": 1
   },
   {
     "question": 19,
-    "question_text": "Que signifie l'information ?",
+    "points": 15,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Les inscriptions sont ouvertes jusqu'au 15 septembre.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q19-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "On peut s'inscrire avant une date limite.",
-      "Les inscriptions sont fermées.",
-      "Le cours est annulé.",
-      "La date est inconnue."
+      "Elle doit devenir la langue de l'administration publique",
+      "Elle peut perdre son statut de langue dominante",
+      "Elle restera la langue privilégiée dans le commerce",
+      "Elle va provoquer la disparition de langues minoritaires"
     ],
-    "bonne_reponse_index": 0
+    "bonne_reponse_index": 1
   },
   {
     "question": 20,
-    "question_text": "Quel est le message principal ?",
+    "points": 21,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Merci de garder vos distances dans la file d'attente.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q20-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Avancer plus vite.",
-      "Respecter une règle sanitaire.",
-      "Quitter la file.",
-      "Changer de magasin."
+      "Exposer l'ensemble de ses qualités professionnelles",
+      "Faire la preuve de son désir de travailler",
+      "Parler avec enthousiasme de ses projets de formation",
+      "Parler des emplois qu'on a déjà occupés"
     ],
     "bonne_reponse_index": 1
   },
   {
     "question": 21,
-    "question_text": "Quel est le but de ce message ?",
+    "points": 21,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "La piscine municipale sera fermée pour rénovation pendant deux semaines.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q21-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Annoncer une ouverture spéciale.",
-      "Informer d'une fermeture temporaire.",
-      "Organiser une compétition.",
-      "Augmenter les tarifs."
+      "Leur conception de la cuisine est passée de mode",
+      "Leur créativité leur assure une célébrité mondiale",
+      "Leur nom s'est transformé en label de prestige",
+      "Leurs établissements sont cotes en bourse"
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 2
   },
   {
     "question": 22,
-    "question_text": "Que demande cette annonce ?",
+    "points": 21,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Merci de ne pas nourrir les animaux du parc.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q22-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Donner à manger aux animaux.",
-      "Respecter le règlement du parc.",
-      "Acheter de la nourriture.",
-      "Adopter un animal."
+      "Des adaptations télévisées de Maupassant",
+      "Des programmes d'études littéraires",
+      "Une exposition consacrée à Maupassant",
+      "Un ouvrage critique récemment paru"
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 0
   },
   {
     "question": 23,
-    "question_text": "Quelle est l'information principale ?",
+    "points": 21,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Les factures doivent être payées avant la fin du mois.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q23-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Les factures sont annulées.",
-      "Les paiements ont une date limite.",
-      "Les factures sont gratuites.",
-      "Le mois est prolongé."
+      "Bâtir une église identique dans le quartier",
+      "Débuter le réaménagement du boulevard",
+      "Entreprendre une rénovation du lieu",
+      "Réhabiliter les logements sociaux existants"
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 2
   },
   {
     "question": 24,
-    "question_text": "Que signifie ce message ?",
+    "points": 21,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Train supprimé en raison d'un problème technique.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q24-1-1234x800-2.jpg",
+    "sujet": "",
     "choix": [
-      "Le train est en avance.",
-      "Le train est retardé.",
-      "Le train ne circulera pas.",
-      "Le train change de quai."
+      "C'est une réponse à des besoins alimentaires accrus",
+      "Des recherches remettent en cause l'intérêt nutritif",
+      "Elle s'avère moins rentable que les cultures de céréales",
+      "Les citoyens exigent des garanties sanitaires"
     ],
-    "bonne_reponse_index": 2
+    "bonne_reponse_index": 0
   },
   {
     "question": 25,
-    "question_text": "Quel est le sujet de l'annonce ?",
+    "points": 21,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Conférence gratuite sur l'entrepreneuriat ce vendredi à 18h.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q25-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Un concert payant.",
-      "Une formation gratuite.",
-      "Une réunion obligatoire.",
-      "Une fermeture exceptionnelle."
+      "Les producteurs évitent de prendre des risques",
+      "Les réalisateurs sont à la recherche d'idées neuves",
+      "Les scénaristes font preuve d'une imagination limitée",
+      "Les spectateurs privilégient les créations classiques"
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 0
   },
   {
     "question": 26,
-    "question_text": "Que faut-il comprendre ?",
+    "points": 21,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Votre mot de passe a été modifié avec succès.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q26-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Le mot de passe est incorrect.",
-      "La modification a échoué.",
-      "Le mot de passe a été changé.",
-      "Le compte est supprimé."
+      "Pour aider à faire le deuil du passé",
+      "Pour alléger le stockage des données",
+      "Pour faire obstacle aux multinationales",
+      "Pour rester maitre de sa vie privée"
     ],
-    "bonne_reponse_index": 2
+    "bonne_reponse_index": 3
   },
   {
     "question": 27,
-    "question_text": "Quel est le message principal ?",
+    "points": 21,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Vente flash : -50% sur les chaussures aujourd'hui seulement.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q27-1-1234x800-3.jpg",
+    "sujet": "",
     "choix": [
-      "Une augmentation des prix.",
-      "Une réduction limitée dans le temps.",
-      "Un nouveau magasin.",
-      "Une rupture de stock."
+      "Un obstacle pour les bateaux de pêche.",
+      "Un réchauffement dramatique des eaux.",
+      "Un risque d'intoxication des populations du Pacifique.",
+      "Une diminution de la diversité de la faune océanique."
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 3
   },
   {
     "question": 28,
-    "question_text": "Quelle action est demandée ?",
+    "points": 21,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Veuillez patienter quelques instants.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q28-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Partir immédiatement.",
-      "Attendre un moment.",
-      "Appeler le service client.",
-      "Annuler la demande."
+      "Élaborer le budget de leur voyage à Barcelone",
+      "Gagner de l'argent pour payer leur séjour",
+      "Montrer aux autres classes leurs talents culinaires",
+      "Soutenir le futur projet des élèves de terminale"
     ],
     "bonne_reponse_index": 1
   },
   {
     "question": 29,
-    "question_text": "Que signifie cette indication ?",
+    "points": 21,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Sortie de secours.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q29-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Entrée principale.",
-      "Issue en cas d'urgence.",
-      "Toilettes publiques.",
-      "Ascenseur."
-    ],
-    "bonne_reponse_index": 1
-  },
-  {
-    "question": 30,
-    "question_text": "Quel est l'objectif de l'annonce ?",
-    "audio_url": "",
-    "image_url": "",
-    "sujet": "Stage d'été pour étudiants en informatique.",
-    "choix": [
-      "Recruter des étudiants pour une expérience professionnelle.",
-      "Fermer l'entreprise.",
-      "Annuler un projet.",
-      "Organiser un voyage."
-    ],
-    "bonne_reponse_index": 0
-  },
-  {
-    "question": 31,
-    "question_text": "Que faut-il faire selon le message ?",
-    "audio_url": "",
-    "image_url": "",
-    "sujet": "Merci de respecter le silence dans cette zone.",
-    "choix": [
-      "Parler fort.",
-      "Mettre de la musique.",
-      "Garder le calme.",
-      "Quitter la pièce."
+      "Ils donnent l'impression de vénérer les produits",
+      "Ils ont l'air éblouis par le gigantisme des magasins",
+      "Ils paraissent manipulés par une force supérieure",
+      "Ils semblent perdus dans le labyrinthe des rayons"
     ],
     "bonne_reponse_index": 2
   },
   {
-    "question": 32,
-    "question_text": "Quelle est l'information donnée ?",
+    "question": 30,
+    "points": 26,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Le service client est disponible du lundi au vendredi.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q30-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Disponible tous les jours.",
-      "Disponible uniquement le week-end.",
-      "Disponible en semaine.",
-      "Fermé définitivement."
+      "La gestion du stress est difficile",
+      "La santé est mise en péril",
+      "Le corps est moins réactif",
+      "Le système génétique est affecté"
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q31-1-1234x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "L'absence totale des signes visuels du langage",
+      "L'opposition des familles à leurs interventions",
+      "La nécessité de modérer le ton des échanges",
+      "Les nombreuses remarques des participants"
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q32-1-1234x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Si on les prend en compte avec lucidité",
+      "Si on les remodèle à travers l'Imagination",
+      "Si on modifie la façon dont on les perçoit",
+      "Si on recherche leur signification profonde"
     ],
     "bonne_reponse_index": 2
   },
   {
     "question": 33,
-    "question_text": "Que signifie cet avis ?",
+    "points": 26,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Paiement refusé.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q33-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Le paiement est accepté.",
-      "La transaction n'a pas été validée.",
-      "Le paiement est en attente.",
-      "Le paiement est remboursé."
+      "La description du personnage",
+      "La longueur du texte",
+      "La qualité de l'écriture",
+      "Le déroulement des événements"
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 3
   },
   {
     "question": 34,
-    "question_text": "Quel est le thème du message ?",
+    "points": 26,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Cours de cuisine italienne à partir du mois prochain.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q34-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Un voyage en Italie.",
-      "Une activité culinaire.",
-      "Une fermeture de restaurant.",
-      "Un concours sportif."
-    ],
-    "bonne_reponse_index": 1
-  },
-  {
-    "question": 35,
-    "question_text": "Que faut-il comprendre ?",
-    "audio_url": "",
-    "image_url": "",
-    "sujet": "Votre commande est en cours de préparation.",
-    "choix": [
-      "La commande est livrée.",
-      "La commande est annulée.",
-      "La commande est en train d'être préparée.",
-      "La commande est perdue."
+      "Ils correspondent à des programmes scolaires obsolètes",
+      "Ils méconnaissent l'existence des familles recomposées",
+      "Ils présentent un partage sexiste des tâches dans le couple",
+      "Ils se moquent du quotidien des personnes sans emploi"
     ],
     "bonne_reponse_index": 2
   },
   {
-    "question": 36,
-    "question_text": "Quel est le message principal ?",
+    "question": 35,
+    "points": 26,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Nouveau menu disponible dès aujourd'hui.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q35-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Changement de chef.",
-      "Annonce d'une nouveauté.",
-      "Fermeture du restaurant.",
-      "Augmentation des prix."
+      "Les gestes révèleraient systématiquement la langue maternelle des locuteurs",
+      "Il existerait un ordre universel de la pensée, indépendant de l'ordre linguistique",
+      "Il y aurait autant de façons de penser que de structures de langue différentes",
+      "Les structures des langues seraient dépendantes de notre expérience du monde"
     ],
     "bonne_reponse_index": 1
   },
   {
-    "question": 37,
-    "question_text": "Quelle action est demandée ?",
+    "question": 36,
+    "points": 33,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Merci de signer le document ci-joint.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q36-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Lire seulement.",
-      "Supprimer le fichier.",
-      "Ajouter une signature.",
-      "Envoyer un colis."
+      "La quasi-absence d'héroïnes",
+      "L'appel constant à la violence",
+      "L'atténuation des clichés",
+      "L'uniformité des scénarios"
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q37-1-1236x800-3.jpg",
+    "sujet": "",
+    "choix": [
+      "Parce qu'elle finance les programmes de développement des TIC",
+      "Parce qu'elle organise des débats entre États membres sur les TIC",
+      "Parce qu'elle sensibilise les établissements d'enseignement aux TIC",
+      "Parce qu'elle habilite des formateurs à l'utilisation des TIC"
     ],
     "bonne_reponse_index": 2
   },
   {
     "question": 38,
-    "question_text": "Que signifie cette information ?",
+    "points": 33,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Le parking est complet.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q38-1-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Il reste des places.",
-      "Aucune place disponible.",
-      "Parking gratuit.",
-      "Parking réservé aux employés."
+      "De concrétiser des objectifs personnels",
+      "De fonctionner dans un cadre innovant",
+      "De limiter la répartition des gains",
+      "De renforcer les liens entre les générations"
     ],
-    "bonne_reponse_index": 1
+    "bonne_reponse_index": 0
   },
   {
     "question": 39,
-    "question_text": "Quel est le but de ce message ?",
+    "points": 33,
+    "question_text": "",
     "audio_url": "",
-    "image_url": "",
-    "sujet": "Rappel : la date limite d'inscription est demain.",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-1-Q39-1234x800-1.jpg",
+    "sujet": "",
     "choix": [
-      "Annuler une inscription.",
-      "Changer la date.",
-      "Rappeler une échéance importante.",
-      "Organiser une fête."
+      "Il contribue à améliorer les méthodes d'apprentissage",
+      "Il est indispensable pour accéder au monde professionnel",
+      "Il permet de certifier les compétences réelles d'un candidat",
+      "Il perturbe le processus d'acquisition des connaissances"
     ],
-    "bonne_reponse_index": 2
+    "bonne_reponse_index": 3
   }
 ]
