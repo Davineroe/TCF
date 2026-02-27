@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q1-–-PREP-TCF-CANADA.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/19-1.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q2-–-PREP-TCF-CANADA.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/19-2.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q3-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q4-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q5-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q6-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q7-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q8-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q9-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q10-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’un lieu de restauration.",
+      "D’un nouveau musée.",
+      "D’une école de pâtisserie.",
+      "D’une maison de famille."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q11-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle va acheter un restaurant.",
+      "Elle va partir en vacances.",
+      "Elle va suivre des cours.",
+      "Elle va travailler un mois."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q12-–-PREP-TCF-CANADA-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un climat trop froid.",
+      "Un tarif trop cher.",
+      "Un trafic trop dense.",
+      "Un travail trop dur."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q13-–-PREP-TCF-CANADA-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Dîner avec un ami.",
+      "Regarder un film.",
+      "Rentrer avec elle.",
+      "Travailler tard."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q14-–-PREP-TCF-CANADA-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La qualité du catalogue.",
+      "Le prix des entrées.",
+      "Les conditions de visite.",
+      "Les œuvres présentées."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q15-–-PREP-TCF-CANADA-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Prendre un car.",
+      "Rester dans le train.",
+      "Se renseigner au guichet.",
+      "Prendre une correspondance."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q16-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour conseiller un livre.",
+      "Pour discuter d’écologie.",
+      "Pour parler de sa ville.",
+      "Pour raconter un voyage."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q17-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "A quel moment il pourra poser des congés.",
+      "Dans quelle ville il devra partir en mission.",
+      "Qui sera de permanence au mois d’août.",
+      "S’il sera autorisé à suivre un stage en été."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q18-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De créer un réseau étudiant pour échanger des services.",
+      "De mettre en contact des personnes pour partager du matériel.",
+      "De trouver une voiture pour transporter des affaires lourdes.",
+      "D’employer des jeunes pour réparer de vieux objets."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q19-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Les conditions de recrutement sont plus difficiles aujourd’hui.",
+      "Les étudiants ignorent le fonctionnement de l’entreprise.",
+      "Les jeunes étaient préparés plus sérieusement dans le passé.",
+      "Les patrons actuels ont un degré d’exigence trop élevé."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q20-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il ne fera pas beau durant le week-end.",
+      "La maison est mal chauffée.",
+      "Le voyage est trop long.",
+      "Il n’aime pas rester enfermé."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q21-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle est en congé.",
+      "Elle est tombée malade.",
+      "Elle travaille la nuit.",
+      "Elle voyage souvent."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q22-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle a perdu aux jeux de société.",
+      "Elle est restée près de chez elle.",
+      "La météo était très mauvaise.",
+      "Le logement était mal situé."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q23-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La construction de villes sur l’eau.",
+      "La création d’un lieu de vie sous-marin.",
+      "Le développement de bateaux aménagés.",
+      "L’installation de digues sur les côtes."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q24-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un meilleur contrôle des repas dabs les cantines.",
+      "Une information complète pour le consommateur.",
+      "Une promotion des produits bons pour la santé.",
+      "Une suppression des emballages en plastique."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q25-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "A l’époque de sa jeunesse.",
+      "A sa passion pour un artiste.",
+      "A son amour des langues.",
+      "A un voyage aux Etats-Unis."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q26-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il avait du mal à accepter ses choix.",
+      "Il essayait souvent de rivaliser avec elle.",
+      "Il était attentif à ses centres d’intérêt.",
+      "Il lui interdisait les activités intellectuelles."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q27-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour améliorer la cohésion des équipes.",
+      "Pour empêcher la diffusion de rumeurs.",
+      "Pour éviter les sollicitations abusives.",
+      "Pour limiter les distractions au travail."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q28-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Conseiller des médicaments.",
+      "Etablir un certificat médical.",
+      "Examiner une radiographie.",
+      "Traiter un problème de poids."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q29-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’un outil qui facilite l’apprentissage, quelle que soit la discipline étudiée.",
+      "De la bonne méthode de révision d’un cours quand on est pris par le temps.",
+      "De la difficulté à rédiger des cours motivants pour les jeunes étudiants.",
+      "Des limites de l’enseignement à distance pour certaines disciplines."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q30-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un bijou d’artisanat local.",
+      "Un guide touristique illustré.",
+      "Un modèle réduit de bateau.",
+      "Un album de souvenirs personnels."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q31-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Metteur en scène.",
+      "Explorateur.",
+      "Photographe",
+      "Journaliste."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q32-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "En écoutant les gens dans la sphère privée.",
+      "En employant des technologies innovantes.",
+      "En interrogeant des personnes cultivées.",
+      "En observant divers types d’interlocuteurs."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q33-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Sur l’amplitude de l’effet de la dette sur la croissance.",
+      "Sur l’utilisation des recettes fiscales pour régler la dette.",
+      "Sur l’acquittement de la dette par la vente du patrimoine de l’Etat.",
+      "Sur le montant de la dette contractée par la province québécoise."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q34-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La qualité croissante des résultats.",
+      "Les aménagements hydrauliques.",
+      "L’expérience de ses collègues.",
+      "L’importation de pieds de vigne."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q35-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Des fouilles archéologiques dans un sanctuaire.",
+      "La construction d’un édifice emblématique.",
+      "Le tourisme religieux au cours des siècles.",
+      "Une visite lors des journées du patrimoine."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q36-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’automatiser leurs techniques.",
+      "D’éviter les rivalités entre collègues.",
+      "De perfectionner leur savoir-faire.",
+      "D’enrichir leurs échanges internes."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q37-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’industrialisation galopante des rives.",
+      "La dégradation d’un site naturel rare.",
+      "La pollution des nappes phréatiques.",
+      "La raréfaction des énergies fossiles."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q38-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle est trop éloignée des orientations politiques actuelles.",
+      "Elle fait référence à des événements historiques douloureux.",
+      "Elle fait ressurgir des rivalités ou des antagonismes oubliés.",
+      "Elle remet en cause la domination de fait de certains pays."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-19-Q39-–-PREP-TCF-CANADA.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elles entraînent des dépendances maladives.",
+      "Elles nuisent aux capacités d’apprentissage.",
+      "Elles perturbent la perception de la réalité.",
+      "Elles provoquent un isolement dangereux."
+    ],
+    "bonne_reponse_index": 0
+  }
+]
