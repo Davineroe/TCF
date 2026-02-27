@@ -1,0 +1,163 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Le journal « Bienvenue » souhaite publier un article sur les habitants de notre ville. Écrivez un message qui sera publié dans ce numéro. Vous venez d'arriver dans cette ville : présentez-vous et décrivez les endroits que vous aimez particulièrement dans cette ville.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté au concert de votre artiste préféré. Rédigez un article sur votre blog personnel pour raconter cette expérience et donner envie à vos amis et aux autres de venir à son prochain concert.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo : Bonne ou Mauvaise Chose ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les enfants, jusqu'à l'adolescence, jouent régulièrement aux jeux vidéo. Avec le temps, cela peut développer des pensées négatives et des comportements violents. Une étude récente menée sur des enfants de 9 à 18 ans qui jouent souvent à des jeux violents a montré que ces jeux augmentent fortement l'agressivité. Selon Diego Gentil, ce phénomène est inévitable, même si les parents surveillent leurs enfants."
+                },
+                {
+                  "numero": 2,
+                  "texte": "On entend souvent parler des effets négatifs des jeux vidéo, mais ils ont aussi des bénéfices pour le cerveau et la santé en général. Par exemple, les jeux vidéo améliorent plusieurs fonctions cognitives comme la concentration, la créativité et la capacité d'analyse. C'est logique : quand on joue, on doit souvent trouver des solutions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez emménagé dans une nouvelle ville il y a un mois. Écrivez un courriel à votre ami Léo pour lui donner de vos nouvelles. Racontez-lui comment est votre appartement, décrivez votre quartier, donnez votre avis sur la ville en général et parlez-lui des activités que vous pratiquez.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à une fête traditionnelle, soit dans votre pays, soit à l'étranger. Rédigez un article pour votre blog afin de raconter cette fête et d'expliquer pourquoi vous l'avez appréciée.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Parcs Zoologique : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je pense qu'il ne faut pas mettre les animaux dans les zoos. Les zoos ne sont pas leur vrai habitat. Les animaux ont besoin de la nature et de la liberté pour vivre bien. Par exemple, un ours polaire ne peut pas vivre heureux dans un zoo où il fait 15 degrés. Même si les zoos aident certaines espèces, je trouve que ce n'est pas suffisant. Les animaux doivent rester dans leur environnement naturel et non enfermés."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Dans les zoo, les animaux sont bien soignés et les zoos aident à sauver les espèces en danger. C'est vrai que ce n'est pas leur habitat naturel, mais sans les zoos, certains animaux pourraient disparaître. Par exemple, les zoos aident les animaux à se reproduire et les protègent des dangers. Je crois aussi que les zoos permettent aux gens de mieux connaître les animaux et de les respecter."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez bientôt célébrer votre anniversaire. Vos amis vous demandent ce que vous aimeriez recevoir comme cadeaux. Vous souhaitez des vêtements. Écrivez-leur un message pour décrire les vêtements que vous aimeriez qu'ils vous offrent.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "www.manger-international.com Ce mois-ci, notre site s'intéresse aux habitudes alimentaires dans différents pays. Racontez comment mangent les habitants de votre pays ! Les 10 premiers témoignages seront publiés sur notre site. Vous avez lu cette annonce. Rédigez un article destiné aux lecteurs de \"www.manger-international.com\". Expliquez comment mangent les habitants de votre pays et précisez quelles habitudes vous appréciez ou non, et pourquoi.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo : Bonne ou Mauvaise Idée ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Beaucoup de personnes pensent encore que les jeux vidéo rendent moins intelligents. Pourtant, plusieurs études prouvent le contraire. Par exemple, une étude montre que les amateurs de jeux de course améliorent leur orientation, leur mémoire et leur précision. D'autres recherches démontrent aussi que les joueurs développent leur rapidité et leur concentration. Certains jeux sont même conçus pour aider les personnes âgées à entretenir leur mémoire et leur vivacité d'esprit. Bref, la science le prouve : les jeux vidéo rendent plus intelligent !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les jeux vidéo – qu'ils soient sur console ou ordinateur, joués seuls ou en ligne – peuvent créer une véritable dépendance. On parle d'addiction quand le jeu devient l'activité principale, au détriment des relations, du travail, de l'école ou d'autres loisirs. Cette dépendance est particulièrement inquiétante chez les adolescents, car elle peut nuire à leurs résultats scolaires."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous prévoyez de partir en week-end avec vos amis le mois prochain. Écrivez-leur un message pour leur présenter votre projet : parlez du lieu choisi, du moyen de transport et des activités prévues.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "COURRIER DES LECTEURS. Tout quitter pour partir voyager pendant un an : est-ce une bonne ou une mauvaise idée ? Écrivez votre réponse sur notre site Internet : \"voyage.internaute.fr\". Dans votre message, donnez votre avis en illustrant votre réponse avec des exemples tirés de votre expérience personnelle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail : un Atout ou un Obstacle ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le travail occupe une place centrale dans nos vies. Depuis l'enfance, on nous demande souvent : « Que veux-tu faire plus tard ? ». Travailler devrait rimer avec réussite et épanouissement, mais pour beaucoup, cela signifie plutôt fatigue et contraintes. Aujourd'hui, certains estiment qu'on ne consacre pas assez de temps à sa famille ou à ses amis. Selon eux, il est urgent de repenser la place du travail dans notre société. Travailler moins offrirait plus de temps libre et améliorerait la qualité de vie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "D'autres ont choisi de quitter leur emploi pour changer de mode de vie. Pourtant, travailler reste essentiel aujourd'hui. La question : « Tu fais quoi dans la vie ? » est souvent posée lors d'une rencontre. Cela montre que l'emploi fait partie de notre identité. Selon le spécialiste Jean-Daniel Remond, l'entreprise est un lieu fondamental : les relations quotidiennes, les réseaux, les amitiés, le sentiment d'être utile mais aussi les difficultés participent à la construction de soi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "“Salut ! Merci pour ton invitation au mariage, je suis vraiment heureux pour toi ! La fête aura lieu au château Saint-Simon, mais je ne connais pas cet endroit. Tu pourrais me dire comment y aller ? À bientôt.” Vous répondez à votre ami par courriel et vous lui donnez toutes les informations nécessaires pour se rendre au château (adresse, localisation, transport, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Sur un forum en ligne, les utilisateurs sont invités à partager leur expérience dans l'apprentissage des langues. Rédigez un message pour raconter comment vous avez appris le français ou une autre langue, et expliquez pourquoi, selon vous, il est essentiel de parler une langue étrangère aujourd'hui.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Cuisine : Métier de Passion ou Passion devenue Métier ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Depuis quelques années, on remarque que de plus en plus de gens s'intéressent à la cuisine. Les blogs culinaires se multiplient sur le web. Chacun y raconte ses expériences, parfois réussies, parfois non… Pourtant, il existe une vraie différence entre ces passionnés et les professionnels comme moi : c'est la formation ! Aujourd'hui, on croit que ce métier est ouvert à tous, alors qu'il exige de nombreuses compétences et connaissances. C'est un métier exigeant, mais quelle satisfaction et quelle fierté d'être un véritable cuisinier !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le Salon du blog culinaire lance sa toute première édition en Belgique : 450 blogueurs sont réunis jusqu'à dimanche pour faire des démonstrations de cuisine en public et partager leurs expériences. Une passion qui devient parfois un métier, comme pour Pascale Wocks, première blogueuse culinaire française. Depuis, elle a publié cinq livres de cuisine et teste des produits pour différentes marques. D'amatrice, elle est devenue une véritable professionnelle !"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
