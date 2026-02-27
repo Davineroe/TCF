@@ -7,27 +7,27 @@
           "taches": [
             {
               "numero": 1,
-              "consigne": "Votre ami(e) veut commencer à faire du sport. Rédigez un message pour lui recommander une salle dans votre quartier en précisant son emplacement, les tarifs et les activités proposées.",
+              "consigne": "Ton appartement est trop grand pour toi et tu souhaites le partager avec un colocataire. Tu rédiges une annonce destinée à un journal, en précisant la superficie du logement, le type de colocataire recherché ainsi que le montant du loyer.",
               "min_mots": 60,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Vous avez assisté à un événement marquant (anniversaire, mariage, etc.). Écrivez un récit pour partager votre souvenir et mettre en avant ce qui vous a le plus marqué.",
+              "consigne": "Tu as récemment débuté une nouvelle activité de loisir, que ce soit un sport, de la danse ou une autre discipline. Sur ton blog, tu racontes ton expérience, tes premières impressions et les bénéfices que cette activité t'apporte.",
               "min_mots": 120,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "La Lecture pour les Enfants",
+              "theme": "L'Accès Gratuit aux Musées : Pour ou Contre ?",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Avec le développement des nouvelles technologies et l'omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo et des tablettes. Les parents s'inquiètent de cette désaffection pour les livres qui pourrait avoir des conséquences sur le développement intellectuel de leurs enfants."
+                  "texte": "La gratuité des musées peut entraîner une trop forte affluence, ce qui nuit à la qualité de la visite. De plus, la suppression des frais d'entrée pourrait réduire les ressources financières des établissements, affectant ainsi l'entretien des collections. Une solution intermédiaire serait d'appliquer un tarif réduit afin de garantir un accès élargi à la culture tout en préservant le bon fonctionnement des musées."
                 },
                 {
                   "numero": 2,
-                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans. Les bibliothèques tentent de s'adapter en proposant des espaces numériques et des ateliers pour reconquérir le jeune public."
+                  "texte": "Permettre l'accès gratuit aux musées est une initiative bénéfique, car elle offre à chacun, quel que soit son revenu, l'opportunité de découvrir la culture. Grâce à cette mesure, j'ai pu visiter de nombreux musées sans contrainte financière. Cette accessibilité favorise la transmission du patrimoine et enrichit les connaissances du public."
                 }
               ]
             }
@@ -38,27 +38,27 @@
           "taches": [
             {
               "numero": 1,
-              "consigne": "Vous avez récemment changé d'appartement. Écrivez un email à un ami pour lui décrire votre nouveau logement, son quartier et l'inviter à le visiter.",
-              "min_mots": 80,
-              "max_mots": 130
+              "consigne": "L'anniversaire de ton ami(e) approche et tu souhaites lui offrir un cadeau spécial. Tu envoies un message à tes amis pour leur proposer d'acheter un cadeau commun, en leur expliquant ton idée et en leur demandant leur avis.",
+              "min_mots": 60,
+              "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Racontez une expérience de voyage qui vous a particulièrement marqué(e) en décrivant les lieux visités, les rencontres faites et les émotions ressenties.",
-              "min_mots": 130,
-              "max_mots": 160
+              "consigne": "Proposition d'un lieu pour une fête d'école de musique La direction d'une école de musique cherche un espace pouvant accueillir une fête pour 100 personnes. Tu rédiges un courriel pour leur recommander un lieu approprié, en détaillant son emplacement, les services proposés et les tarifs appliqués.",
+              "min_mots": 120,
+              "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "Les Transports en Commun",
+              "theme": "L'Éducation des Enfants : Entre Autorité et Liberté",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Dans les grandes villes, les transports en commun connaissent une affluence record aux heures de pointe. Les usagers se plaignent régulièrement des retards et de la vétusté de certaines infrastructures malgré les investissements annoncés par les municipalités."
+                  "texte": "J'ai bientôt 22 ans et je vis encore chez mes parents, qui restent très stricts malgré mon âge. Plus jeune, il m'était interdit de dormir chez des amis ou de sortir après 21h. Aujourd'hui, même si j'ai plus d'autonomie, ma mère ne cesse de m'appeler pour s'assurer que je suis rentré(e) en sécurité."
                 },
                 {
                   "numero": 2,
-                  "texte": "Face à l'urgence climatique, de plus en plus de citoyens abandonnent leur voiture individuelle au profit des transports collectifs. Cette transition écologique pousse les autorités à repenser entièrement leur réseau de transport urbain."
+                  "texte": "Certains parents redoutent d'être trop sévères avec leurs enfants, de peur de freiner leur épanouissement. Toutefois, une éducation trop laxiste peut aussi poser problème. Un enfant habitué à obtenir tout ce qu'il désire risque de rencontrer des difficultés à accepter les règles et à s'adapter aux exigences de la société."
                 }
               ]
             }
@@ -69,27 +69,337 @@
           "taches": [
             {
               "numero": 1,
-              "consigne": "Votre entreprise organise une journée de team-building. Rédigez une note pour présenter le programme de cette journée à vos collègues.",
-              "min_mots": 70,
+              "consigne": "Tu souhaites assister à un festival de cinéma organisé dans ta ville et aimerais être accompagné(e). Rédige un message à ton ami(e) pour lui proposer de t'y joindre. Donne-lui toutes les informations essentielles, telles que les films à l'affiche, les dates, les horaires et les tarifs d'entrée.",
+              "min_mots": 60,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Décrivez votre plat préféré en expliquant comment il se prépare, pourquoi vous l'aimez et avec qui vous aimez le partager.",
-              "min_mots": 110,
+              "consigne": "Tu as hébergé un(e) étudiant(e) étranger(e) pendant une semaine. Sur ton blog, partage ton expérience en racontant comment s'est déroulé ce séjour et en expliquant ce que tu en as retiré.",
+              "min_mots": 120,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "L'Importance du Sommeil",
+              "theme": "La Restauration Rapide : Entre Choix et Conséquences",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Les médecins tirent la sonnette d'alarme : les Français dorment en moyenne une heure et demie de moins qu'il y a cinquante ans. Ce manque de sommeil chronique aurait des conséquences désastreuses sur la santé physique et mentale de la population."
+                  "texte": "Les chaînes de restauration rapide s'efforcent de proposer des menus variés et équilibrés tout en respectant des normes d'hygiène strictes. En offrant aux clients la possibilité de composer leur propre repas, elles leur permettent de faire des choix adaptés à leurs préférences et à leurs besoins alimentaires."
                 },
                 {
                   "numero": 2,
-                  "texte": "Le rythme de vie moderne, avec ses sollicitations permanentes et la lumière bleue des écrans, perturbe notre horloge biologique. Les experts recommandent de respecter des cycles de sommeil réguliers et d'éviter les excitants en fin de journée."
+                  "texte": "D'après les spécialistes, une consommation fréquente de fast-food peut nuire à la santé. Ces restaurants proposent souvent des aliments riches en calories, comme les frites, les hamburgers et les sodas sucrés, qui dépassent les apports nutritionnels recommandés. De plus, l'usage massif d'emballages plastiques contribue à la pollution et à l'accumulation de déchets nocifs pour l'environnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Ali t'a envoyé un message pour prendre de tes nouvelles et savoir comment se déroule ton nouveau travail. Il te demande également si tu es satisfait(e) de ton poste. Tu lui réponds en décrivant ton environnement professionnel (lieu, ambiance, collègues, etc.) et en partageant ton ressenti.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vivre avec une personne âgée : Une expérience enrichissante ? Un site internet recueille des témoignages sur la cohabitation avec une personne âgée. Tu partages ton vécu, en expliquant comment tu as vécu cette expérience, les défis rencontrés et ce que tu en as appris.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Apprendre une Langue en Ligne : Une Bonne Alternative ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "L'apprentissage des langues via Internet est aujourd'hui une option efficace qui permet d'obtenir de bons résultats. Contrairement aux cours traditionnels, ces formations offrent une grande flexibilité : on peut étudier à tout moment, sans contrainte de déplacement. Cette méthode représente un gain de temps considérable et permet de réduire les coûts liés aux cours en présentiel."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, les cours en ligne ne conviennent pas à tout le monde. Ils nécessitent une connexion Internet fiable et un équipement adapté. De plus, apprendre en autonomie exige une grande discipline. L'absence de professeur et de camarades de classe peut rendre l'apprentissage moins motivant, augmentant ainsi le risque d'abandon en cours de route."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Léa t'a contacté pour te proposer un pique-nique samedi prochain et te demander si tu connais un endroit agréable qui conviendrait aussi bien aux adultes qu'aux enfants. Tu acceptes son invitation et lui recommandes un lieu idéal, en décrivant ses particularités et les activités possibles sur place.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Aaron et Perla t'ont écrit pour t'annoncer qu'ils viendront en janvier visiter ton pays pendant leurs vacances. Ils souhaitent explorer des sites historiques et découvrir la gastronomie locale. Tu leur réponds en leur suggérant des lieux incontournables, en expliquant ton choix à partir de ton expérience personnelle et en partageant des anecdotes de tes propres voyages.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Manger chez Soi ou au Restaurant : Quel Choix Privilégier ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Aïcha, 28 ans et célibataire, préfère manger à l'extérieur plutôt que seule chez elle. Elle aime la spontanéité qu'offre la vie à Lyon et apprécie les repas partagés entre amis. Elle constate également que sa génération consacre peu de temps à la cuisine, préférant les restaurants pour leur aspect pratique et social."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Laura, 45 ans et mère de famille, considère que manger au restaurant est trop onéreux. Bien qu'elle aimerait éviter de cuisiner parfois, son budget ne le lui permet pas. Elle critique aussi la qualité des plats servis et préfère préparer ses repas à domicile pour en contrôler la composition et garantir une alimentation plus saine."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Matthias t'annonce une excellente nouvelle : il a enfin obtenu son visa pour le Canada et arrivera le 3 mars. Il te demande de l'aider à trouver un hôtel pour sa première semaine sur place. Tu lui réponds en lui envoyant un courriel détaillant l'établissement que tu as réservé, en précisant son emplacement, le prix et les services disponibles.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu as récemment passé une soirée mémorable avec des amis en assistant à un spectacle (film, pièce de théâtre, concert, etc.) qui t'a particulièrement plu. Sur ton blog, tu partages ton ressenti en expliquant ce qui t'a marqué et pourquoi cet événement a été si spécial.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Relations Amicales au Travail",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Tisser des liens d'amitié avec ses collègues présente de nombreux avantages. Un environnement de travail où règnent la convivialité et la bonne entente favorise une ambiance agréable et motivante. Avoir des amis parmi ses collègues renforce la cohésion d'équipe, améliore la communication et facilite la collaboration. Ces relations permettent également de mieux gérer les défis professionnels et de trouver plus facilement des solutions aux problèmes rencontrés. De plus, partager des moments de détente en dehors du cadre professionnel, comme des repas ou des activités communes, contribue à renforcer ces liens et à créer une dynamique d'équipe plus solide."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Toutefois, il est important de maintenir un équilibre entre amitié et professionnalisme. Des liens trop étroits entre collègues peuvent parfois générer des tensions, notamment lors de prises de décision importantes. De plus, des affinités trop marquées entre certains membres d'une équipe peuvent mener à l'exclusion d'autres collègues, ce qui nuit à l'esprit de groupe et à la collaboration. Il est donc essentiel d'établir des limites claires afin que les relations amicales ne compromettent ni la hiérarchie, ni l'efficacité, ni l'harmonie au sein de l'entreprise."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Tu prévois un week-end avec tes amis le mois prochain. Tu leur envoies un message pour leur présenter ton projet en détaillant la destination, les moyens de transport et les activités prévues.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Sur un site internet, tu réponds à la question : « Abandonner tout pour voyager un an, est-ce une bonne idée ? » en partageant ton avis et ton expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail : Essentiel ou Contraignant ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le travail tient une place prépondérante dans nos vies. Dès l'enfance, la question « Que veux-tu faire plus tard ? » nous est posée, associant souvent la carrière à la réussite et au bien-être. Pourtant, pour beaucoup, il rime davantage avec fatigue et obligations. Aujourd'hui, nombreux sont ceux qui jugent que leur emploi leur laisse trop peu de temps pour profiter de leurs proches. Cette réalité soulève un débat sur l'équilibre entre vie professionnelle et personnelle. Certains défendent l'idée d'une réduction du temps de travail afin de permettre à chacun de mieux s'épanouir en dehors du cadre professionnel."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Si certaines personnes ont choisi d'abandonner leur emploi pour adopter un autre mode de vie, le travail demeure une composante essentielle de notre société. Lors des premières rencontres, il n'est pas rare que la question « Que fais-tu dans la vie ? » soit posée, illustrant ainsi l'importance accordée à l'emploi dans la construction de notre identité. L'expert Jean-Daniel Remond souligne que la vie en entreprise joue un rôle crucial. Les échanges entre collègues, le développement d'un réseau, les amitiés nouées et le sentiment d'utilité au sein d'une organisation sont autant d'éléments qui façonnent notre personnalité et renforcent notre sentiment d'appartenance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Mehdi vient d'arriver en ville et cherche des informations sur les moyens de transport. Tu lui envoies un message détaillant les différentes options, les tarifs et les abonnements disponibles.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu exprimes ton admiration pour une personnalité célèbre ou non à travers un article de blog. Tu mets en avant ses actions et expliques pourquoi elle t'inspire.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vivre en Colocation : Avantages et Inconvénients",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La colocation permet de réduire les dépenses liées au logement et favorise les interactions sociales. C'est une opportunité idéale pour rencontrer des personnes venant de divers horizons et tisser des liens d'amitié enrichissants."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, vivre en colocation implique des défis : la gestion des différences de personnalité, la répartition des tâches ménagères et le respect de l'espace personnel. Pour une cohabitation harmonieuse, il est essentiel d'instaurer des règles claires et une bonne communication."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Cédric ne connaît pas le Château de Chombony, où se déroulera ton mariage. Tu lui décris le lieu en précisant son emplacement, les moyens de transport pour s'y rendre et d'autres informations utiles.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Sur un forum, tu racontes ton expérience d'apprentissage d'une langue étrangère. Tu partages les défis rencontrés et les stratégies qui t'ont aidé à progresser.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Cuisinier Amateur ou Professionnel ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les cuisiniers amateurs parviennent à réaliser certaines recettes, mais ils manquent souvent des techniques et du savoir-faire des professionnels. Pour maîtriser l'art culinaire, une formation et une expérience approfondie sont essentielles."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certains autodidactes se sont fait un nom grâce aux réseaux sociaux et à des formations en ligne. L'histoire d'une passionnée devenue cheffe et auteure de livres de cuisine illustre qu'il est possible de réussir sans passer par un parcours traditionnel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Ton ami(e) souhaite découvrir ta région. Tu lui écris un message pour lui recommander des lieux intéressants à visiter, en précisant leurs attraits et pourquoi ils valent le détour.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu racontes ton expérience dans une salle de sport à travers un article de blog. Tu y décris l'ambiance, les équipements et l'encadrement, en partageant ton avis sur la qualité de l'expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Livraison de Repas au Bureau : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Recevoir ses repas directement au bureau est un gain de temps considérable pour les employés. Ils évitent ainsi de quitter leur lieu de travail et peuvent manger après une réunion sans interruption. Ce service est particulièrement adapté aux entreprises où la continuité du travail est essentielle, tout en améliorant la productivité."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Malgré ses avantages, la livraison de repas en entreprise peut poser problème. Les retards de livraison génèrent parfois du stress, et l'absence de pause hors du cadre professionnel peut augmenter la fatigue des employés. Il est donc important de prévoir des moments de détente pour préserver un bon équilibre entre travail et repos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Tu souhaites trouver un partenaire pour pratiquer une activité sportive et publies une annonce dans le journal de ton université. Tu y précises le type de sport, les jours et horaires souhaités, ainsi que le profil de la personne recherchée.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu racontes ton arrivée dans un pays étranger à travers un article de blog. Tu partages tes premières impressions, les découvertes que tu as faites et les éventuelles difficultés d'adaptation rencontrées.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Rôle de la Télévision dans l'Éducation des Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La télévision est un média omniprésent dans nos vies, influençant à la fois les individus et la culture. Elle ne se limite pas à l'information, mais propose aussi des programmes de divertissement et de transmission du savoir. Sa large audience en fait un outil puissant pour l'éducation, la diffusion des connaissances et la sensibilisation aux grandes questions sociétales."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, la télévision présente des inconvénients. Certains contenus peuvent véhiculer des stéréotypes ou des idées discutables. De plus, une exposition excessive à l'écran peut réduire le temps consacré à d'autres activités enrichissantes, comme la lecture, le sport ou les échanges sociaux. Il est donc essentiel de réguler l'accès des enfants à la télévision afin de garantir un équilibre entre apprentissage et divertissement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Barbara t'a écrit pour savoir où elle pourrait déjeuner en plein air ce week-end. Tu lui réponds en lui suggérant un lieu agréable, comme un parc, un jardin ou une terrasse, en décrivant ses particularités et les raisons pour lesquelles tu le recommandes.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu viens de découvrir un pays lors de tes vacances et souhaites partager ton expérience sur un site internet. Tu détailles ton séjour, les endroits visités et ton avis sur le pays en question.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Faut-il Continuer à Utiliser le Plastique ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Franck défend une utilisation raisonnée du plastique, insistant sur son rôle essentiel dans des secteurs comme l'alimentation et la médecine. Il met en avant son importance pour la conservation des aliments et la stérilisation du matériel médical. Il prône une gestion plus responsable et un recyclage efficace, tout en reconnaissant que certains usages du plastique restent indispensables."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Amicha s'oppose fermement à l'utilisation du plastique en raison de son impact environnemental dévastateur. Elle alerte sur la pollution des océans et la destruction des écosystèmes causée par les déchets plastiques. Selon elle, il est urgent de privilégier des alternatives écologiques et durables afin de préserver l'environnement et la santé publique."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 13,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Bernard t'annonce qu'il va bientôt s'installer dans ton quartier et qu'il cherche un marché bien approvisionné pour faire ses courses. Tu lui réponds en lui décrivant un marché que tu apprécies particulièrement, en détaillant son emplacement, ses horaires et la diversité des produits qu'on peut y trouver.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu es membre d'une association de quartier qui organise des activités pour les enfants, telles que le soutien scolaire, des sorties et des jeux. Sur le site web de l'association, tu partages ton expérience et expliques pourquoi ce type d'initiative est bénéfique pour les jeunes et la communauté.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Livre Papier ou Livre Numérique ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Depuis plusieurs années, de nombreux lecteurs se tournent vers les livres numériques plutôt que les ouvrages imprimés. Pour eux, cet outil est plus économique : il réduit la consommation de papier et coûte généralement moins cher qu'un livre physique. De plus, il offre des options pratiques, notamment pour les personnes malvoyantes, grâce à l'ajustement de la taille des caractères."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le livre papier peut-il être remplacé par son équivalent numérique ? La majorité des lecteurs pense que non. Le format papier conserve un charme unique : tourner les pages, sentir l'odeur du livre, qu'il soit neuf ou ancien, et ajouter une dédicace lors d'un cadeau. À l'inverse, le livre numérique semble impersonnel et nécessite une certaine maîtrise des outils informatiques, ce qui peut être un frein."
                 }
               ]
             }
