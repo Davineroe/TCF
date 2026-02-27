@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q1.jpg",
+    "sujet": "",
+    "choix": [
+      "Un animal.",
+      "Un bijou.",
+      "Un sac.",
+      "Un téléphone."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q2az.jpg",
+    "sujet": "",
+    "choix": [
+      "Un cours.",
+      "Une fête.",
+      "Un match.",
+      "Un spectacle."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q3.jpg",
+    "sujet": "",
+    "choix": [
+      "De faire des économies.",
+      "De pratiquer un sport.",
+      "De rester en bonne santé.",
+      "De trouver des produits bios."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q4.jpg",
+    "sujet": "",
+    "choix": [
+      "De choisir une salle pour la fête.",
+      "De s’occuper de la décoration.",
+      "De trouver un bon restaurant.",
+      "D’organiser son anniversaire chez lui."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q5.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle doit partir une journée.",
+      "Elle propose un déjeuner.",
+      "Elle souhaite parler à Françoise.",
+      "Elle veut visiter une entreprise."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q6.jpg",
+    "sujet": "",
+    "choix": [
+      "Des avions.",
+      "Des jeux.",
+      "Des stages.",
+      "Des statistiques."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q7.jpg",
+    "sujet": "",
+    "choix": [
+      "Un journal.",
+      "Un restaurant.",
+      "Une association.",
+      "Une école."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q8.jpg",
+    "sujet": "",
+    "choix": [
+      "Aller chercher un colis.",
+      "Échanger son achat.",
+      "Envoyer une lettre.",
+      "Réserver son article."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q9az.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils aiment en voir dans la nature.",
+      "Ils les regardent à la télévision.",
+      "Ils sont nombreux à en avoir.",
+      "Ils vont les voir dans des zoos."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q10.jpg",
+    "sujet": "",
+    "choix": [
+      "L’alimentation.",
+      "L’éducation",
+      "La cuisine.",
+      "Le commerce."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q11.jpg",
+    "sujet": "",
+    "choix": [
+      "Aller chercher Anne.",
+      "Faire des courses.",
+      "Préparer le repas.",
+      "Se coucher tôt."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q12.jpg",
+    "sujet": "",
+    "choix": [
+      "Accueillir les étudiants étrangers.",
+      "Faciliter la recherche d’emploi.",
+      "Préparer la rentrée universitaire.",
+      "Présenter de nouvelles formations."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q13.jpg",
+    "sujet": "",
+    "choix": [
+      "Un échange de maison.",
+      "Un studio en centre-ville.",
+      "Une chambre chez l’habitant.",
+      "Une colocation entre étudiants."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q14.jpg",
+    "sujet": "",
+    "choix": [
+      "Changer d’abonnement.",
+      "Choisis un appareil.",
+      "Payer une commande.",
+      "Vérifier sa consommation."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q15az.jpg",
+    "sujet": "",
+    "choix": [
+      "Des pannes d’autobus.",
+      "Des travaux sur la ligne.",
+      "Un accident de circulation.",
+      "Une grève des transports."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q16.jpg",
+    "sujet": "",
+    "choix": [
+      "D’un lieu d’accueil.",
+      "D’un monument historique.",
+      "D’une épicerie familiale.",
+      "D’un restaurant traditionnel."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q17.jpg",
+    "sujet": "",
+    "choix": [
+      "La pression de la société,",
+      "La réputation des clubs.",
+      "Les bienfaits pour la santé.",
+      "Les envies des adolescents."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q18.jpg",
+    "sujet": "",
+    "choix": [
+      "C’est une activité qui enrichit l’imagination.",
+      "Elle permet d’améliorer ses performances.",
+      "Il est difficile de s’y livrer si on est angoissé.",
+      "Sa pratique exige des connaissances variées."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q19.jpg",
+    "sujet": "",
+    "choix": [
+      "Il est facile de s’identifier aux personnages.",
+      "Les lieux de tournage sont authentiques.",
+      "On y dresse un portrait juste de la société.",
+      "Son humour fait passer un message sérieux."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q20.jpg",
+    "sujet": "",
+    "choix": [
+      "Informer sur de nouvelles méthodes éducatives.",
+      "Montrer la vie de tous les jours d’un jeune couple.",
+      "Présenter les relations familiales avec humour.",
+      "Proposer des solutions à des situations de crise."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q21.jpg",
+    "sujet": "",
+    "choix": [
+      "Un spectacle de cirque.",
+      "Une activité de maquillage.",
+      "Une rencontre avec un clown.",
+      "Une sortie au zoo."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q22.jpg",
+    "sujet": "",
+    "choix": [
+      "D’interdire les photos portant atteinte à leur dignité.",
+      "De diversifier le type de femmes prises pour modèles.",
+      "De mentionner les références précises des produits.",
+      "De signaler sur les photos les modifications effectuées."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q23.jpg",
+    "sujet": "",
+    "choix": [
+      "Le confort a été très nettement amélioré.",
+      "Le mode d’hébergement est écologique.",
+      "Les prestations proposées sont inédites.",
+      "Les prix deviennent de plus en plus attractifs."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q24.jpg",
+    "sujet": "",
+    "choix": [
+      "De nouvelles pratiques de vente.",
+      "Des comportements d’achat différents.",
+      "Des habitudes alimentaires saines.",
+      "Des modes de recyclage innovants."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q25.jpg",
+    "sujet": "",
+    "choix": [
+      "C’est un dépôt de plainte destiné aux services de police.",
+      "C’est une lettre de menace destinée à des voisins bruyants.",
+      "C’est une mise en demeure destinée à un propriétaire.",
+      "C’est une réclamation destinée au gérant d’un immeuble."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q26.jpg",
+    "sujet": "",
+    "choix": [
+      "Créer des partenariats avec le milieu associatif.",
+      "Former des jeunes défavorisés au management.",
+      "Intégrer des valeurs sociales et environnementales.",
+      "Préparer des techniciens aux dangers de la finance."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q27.jpg",
+    "sujet": "",
+    "choix": [
+      "Contrôler la qualité sanitaire des fromages.",
+      "Empêcher le trafic des fromages de contrebande.",
+      "Enquêter sur les vols de fromages de luxe.",
+      "Protéger les secrets d’élaboration des fromages."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q28.jpg",
+    "sujet": "",
+    "choix": [
+      "D’un moyen de communication inédit.",
+      "D’un système de guidage par ondes.",
+      "D’une innovation technologique.",
+      "D’une pollution imperceptible."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q29.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils donnent l’impression de vénérer les produits.",
+      "Ils ont l’air éblouis par le gigantisme des magasins.",
+      "Ils paraissent manipulés par une force supérieure.",
+      "Ils semblent perdus dans le labyrinthe des rayons."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q30.jpg",
+    "sujet": "",
+    "choix": [
+      "Sa connaissance des médias.",
+      "Ses méthodes ancestrales.",
+      "Ses recettes originales.",
+      "Son charisme incroyable."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q31.jpg",
+    "sujet": "",
+    "choix": [
+      "La longévité des programmes.",
+      "La qualité des services offerts.",
+      "Le changement régulier des séries.",
+      "Le contentement de leurs abonnés."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q32.jpg",
+    "sujet": "",
+    "choix": [
+      "Développer leur esprit critique.",
+      "Encourager les débats entre eux.",
+      "Enrichir leur capacité mémorielle.",
+      "Évaluer régulièrement leurs acquis."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q33az.jpg",
+    "sujet": "",
+    "choix": [
+      "L’attirance pour les espaces naturels.",
+      "L’insécurité des zones urbaines.",
+      "La précarité du monde professionnel.",
+      "Le désir des vivres en communauté."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q34.jpg",
+    "sujet": "",
+    "choix": [
+      "La liberté accordée aux visiteurs.",
+      "La simplicité des moyens artistiques.",
+      "Le classicisme de sa présentation.",
+      "Le discours politique des plasticiens."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q35az.jpg",
+    "sujet": "",
+    "choix": [
+      "Si c’est une occasion d’élargir son réseau social.",
+      "Si c’est une opportunité de changer de mode de vie.",
+      "Si c’est la possibilité de trouver un emploi.",
+      "Si c’est le fruit d’une décision personnelle."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q36.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle favorise l’égalité des chances.",
+      "Elle prépare à la vie professionnelle.",
+      "Elle remplace l’évaluation continue.",
+      "Elle simplifie le travail des enseignants."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q37.jpg",
+    "sujet": "",
+    "choix": [
+      "Attirer davantage d’étudiants brillants.",
+      "Être à la pointe de la technologie.",
+      "Ouvrir ses cours à un public élargi.",
+      "Proposer des disciplines inédites."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q38.jpg",
+    "sujet": "",
+    "choix": [
+      "L’importance des agencements intérieurs.",
+      "L’insuffisance des plages de repos.",
+      "Les bienfaits d’un éclairage électrique optimal.",
+      "Les effets du surmenage sur la santé."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-19Q39az.jpg",
+    "sujet": "",
+    "choix": [
+      "Il constitue une création artistique novatrice.",
+      "Il établit des ponts avec d’autres auteurs.",
+      "Il fait connaître les travaux d’un écrivain.",
+      "Il ouvre la voie à de prochaines réalisations."
+    ],
+    "bonne_reponse_index": 2
+  }
+]
