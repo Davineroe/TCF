@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q1-1103x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Le jeudi soir.",
+      "Le mardi matin.",
+      "Le mercredi après-midi.",
+      "Le samedi midi."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q2-1300x742-1.jpg",
+    "sujet": "",
+    "choix": [
+      "La durée du spectacle.",
+      "Le nom du cinéma.",
+      "Le prix du billet.",
+      "Le titre du film."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q3-1300x745-1.jpg",
+    "sujet": "",
+    "choix": [
+      "De faire des économies.",
+      "De pratiquer un sport.",
+      "De rester en bonne santé.",
+      "De trouver des produits bios."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q4-1300x673-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Aux clients de l’hôtel.",
+      "Au service de nettoyage.",
+      "Au directeur de l’hôtel.",
+      "Aux serveurs du bar."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q5-1300x728-1.jpg",
+    "sujet": "",
+    "choix": [
+      "La comptable.",
+      "La secrétaire.",
+      "Le directeur.",
+      "Le réparateur."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q6-1300x728-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il les renseigne sur des formations.",
+      "Il leur permet de trouver un emploi.",
+      "Il leur présente des stages en entreprise.",
+      "Il leur propose des logements étudiants."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q7-643x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Un salon des entreprises.",
+      "Une compétition sportive.",
+      "Une conférence sur le chômage.",
+      "Une manifestation sociale."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q8-973x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "C’est lui qui appelle le réparateur.",
+      "Il doit utiliser les escaliers.",
+      "Ses voisins sont bruyants.",
+      "Son logement est au dernier étage."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q9-1229x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "D’envoyer des photos.",
+      "D’inventer une recette.",
+      "De créer un spectacle.",
+      "De découvrir une langue."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q10-1300x786-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Dialoguer avec le personnel enseignant.",
+      "Écouter une présentation du directeur.",
+      "Participer à une conférence sur l’éducation.",
+      "Répondre à un questionnaire sur les cours."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q11-1300x588-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Un service de création de sites.",
+      "Une aide informatique rapide.",
+      "Une formation sur internet.",
+      "Une publicité à faible coût."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q12-878x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Sur l’architecte qui l’a conçue.",
+      "Sur l’emplacement qui a été choisi.",
+      "Sur la somme qu’elle a coûtée.",
+      "Sur le symbole qu’elle représente."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q13-634x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "L’aménagement des lieux.",
+      "La rapidité de sa construction.",
+      "Le choix de son emplacement.",
+      "Le coût des matériaux utilisés."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q14-1300x719-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Acheter un billet d’avion.",
+      "Organiser des vacances.",
+      "Réserver un parking.",
+      "Transporter des personnes."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q15-683x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Les clubs disparaissaient vite après leur création.",
+      "Les groupes concernés étaient trop nombreux.",
+      "Les lecteurs refusaient de parler à des journalistes.",
+      "Les rencontres se faisaient de manière irrégulière."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q16-683x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "D’améliorer rapidement les résultats scolaires.",
+      "De délivrer des bourses d’études à l’étranger.",
+      "De proposer des circuits touristiques complets.",
+      "D’organiser des échanges de longue durée."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q17-808x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Des ateliers pendant les vacances.",
+      "Des cours particuliers payants.",
+      "Un accompagnement personnalisé.",
+      "Un suivi psychologique gratuit."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q18-754x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour éviter de conduire.",
+      "Pour faire rêver les enfants.",
+      "Pour marcher sans souffrir.",
+      "Pour porter des objets lourds."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q19-758x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Exporter davantage de produits biologiques nationaux.",
+      "Inciter à la consommation de produits biologiques.",
+      "Satisfaire la demande en produits biologiques locaux.",
+      "Simplifier la certification des produits biologiques."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q20-908x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Le temps chronologique est impossible à représenter.",
+      "La notion de projection spatiale a disparu au fil du temps.",
+      "Les différentes expressions du temps ont la même forme linguistique.",
+      "L’expression du temps est opposée à la représentation habituelle."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q21-1300x600-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Leur conception de la cuisine est passée de mode.",
+      "Leur créativité leur assure une célébrité mondiale.",
+      "Leur nom s’est transformé en Label de prestige.",
+      "Leurs établissements sont cotés en bourse."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q22-858x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour bénéficier d’une promotion.",
+      "Pour participer à la finale d’un jeu.",
+      "Pour recevoir un coupon de voyage.",
+      "Pour retirer un chèque cadeau."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q23-1019x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "De lutter contre la saleté dans la capitale.",
+      "De proposer plus de moyens à l’avenir.",
+      "De récompenser le civisme des gens.",
+      "D’écouter les plaintes des riverains."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q24-1205x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Ce sont des réseaux de commerçants qui les ont créés.",
+      "Ils sont financés discrètement par des entreprises.",
+      "Les prestations qu’ils proposent sont payantes.",
+      "Leur maintenance est assurée par des bénévoles."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q25-887x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Créer des partenariats avec le milieu associatif.",
+      "Former des jeunes défavorisés au management.",
+      "Intégrer des valeurs sociales et environnementales.",
+      "Préparer des techniques aux dangers de la finance."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q26-887x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Augmenter la surface des terres agricoles.",
+      "Garantir la qualité des aliments pour animaux.",
+      "Généraliser l’agriculture biologique.",
+      "Lutter contre la démographie galopante."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q27-601x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Un obstacle pour les bateaux de pêche.",
+      "Un réchauffement dramatique des eaux.",
+      "Un risque d’intoxication des populations du pacifique.",
+      "Une diminution de la diversité de la faune océanique."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q28-601x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Un marché traditionnel.",
+      "Un spectacle de cirque.",
+      "Une cérémonie officielle.",
+      "Une manifestation culturelle."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q29-1002x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour améliorer la qualité des documentaires.",
+      "Pour dissimuler la pauvreté des contenus.",
+      "Pour moderniser leurs méthodes de travail.",
+      "Pour piége les gens visés par les enquêtes."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q30-645x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils finissent par maîtriser l’ensemble des matières.",
+      "Ils font des efforts dans les autres matières étudiées.",
+      "Ils négligent les matières trop faciles pour eux.",
+      "Ils se fixent des objectifs élevés dans ces matières."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q31-713x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils résistent aux comportements de la société du tout numérique.",
+      "Ils se remettent à niveau pour utiliser les téléphones portables.",
+      "Ils se sentent désorientés face aux outils technologies.",
+      "Ils sont parfaitement à l’aise avec les derniers outils multimédias."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q32-1189x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "L’inauguration d’une exposition temporaire.",
+      "L’inscription d’une œuvre au patrimoine mondial.",
+      "L’ouverture au public d’une zone dangereuse.",
+      "L’accès réglementé à un emplacement protégé."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q33-905x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "À gagner du temps.",
+      "À minimiser les aléas.",
+      "À réduire les frais.",
+      "À simplifier les procédures."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q34-600x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Parce que des tests sur les réacteurs nucléaires sont en cours.",
+      "Parce que l’approvisionnement en électricité est compromis.",
+      "Parce que la production française couvre à peine les besoins nationaux.",
+      "Parce que la régulation de la consommation d’énergie est inefficace."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q35-950x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "La quasi-absence d’héroïnes.",
+      "L’appel constant à la violence.",
+      "L’atténuation des clichés.",
+      "L’uniformité des scénarios."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q36-564x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il permet d’apprendre à lire et à écrire de façon ludique.",
+      "Il raconte les aventures d’un professeur d’histoire.",
+      "Il ravive l’intérêt des littéraires pour les matières scientifiques.",
+      "Il retrace l’improbable parcours de vie d’un ancien cancre."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q37-1103x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "La démesure du complexe imaginé.",
+      "La flambée des prix de l’immobilier.",
+      "La lenteur de la construction du centre.",
+      "Le manque d’inventivité des promoteurs."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q38-808x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Redonner un côté ludique aux mathématiques.",
+      "Inventer un nouveau langage mathématique.",
+      "Rendre intelligible le langage mathématique.",
+      "Trouver une explication logique aux erreurs."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Ecrite-Test-15Q39-1072x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "La concurrence de reportages en direct.",
+      "La défaillance récurrente de l’arbitrage.",
+      "La diminution du nombre de fans.",
+      "Le rajeunissement des spectateurs."
+    ],
+    "bonne_reponse_index": 0
+  }
+]
