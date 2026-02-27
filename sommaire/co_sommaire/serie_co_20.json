@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-1-2.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-1.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-2-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-3-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-4-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-5-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-6-3.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-7-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’aller au concert tous les deux.",
+      "D’inviter sa sœur à une sortie.",
+      "De diner avec sa famille.",
+      "De fêter son anniversaire."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-8-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La représentation est annulée.",
+      "Le spectacle est complet.",
+      "Les places sont trop chères.",
+      "Les réservations sont terminées."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-9-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’un prochain déménagement.",
+      "De sport pour le week-end.",
+      "De vacances en famille.",
+      "D’un problème de santé."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-10-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La publication de son CV en ligne.",
+      "Un remplacement dans son entreprise.",
+      "Une formation gratuite à l’université.",
+      "Une rencontre avec son patron."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-11-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle a oublié un objet important.",
+      "Elle a raté son bus ce matin.",
+      "Elle doit s’absenter du bureau.",
+      "Elle est en retard à une réunion."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-12-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’apprendre une langue",
+      "D’arrêter ses études.",
+      "De partir à l’étranger",
+      "De rencontrer du monde."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-13-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’aller à l’université à pied.",
+      "De courir pour être à l’heure.",
+      "De déjeuner avant de partir",
+      "De prendre le bus de midi."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-14-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il est peu coloré.",
+      "Il est très confortable.",
+      "Il est trop ancien.",
+      "Il est vraiment beau."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-15-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Manger des plats typiques.",
+      "Rencontrer sa famille.",
+      "Travailler toute la journée.",
+      "Voir une exposition."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-16-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Les conducteurs qui klaxonnent au feu rouge.",
+      "Les motards qui s’amusent sur le parking.",
+      "Les ouvriers qui travaillent sur l’autoroute.",
+      "Les véhicules qui circulent près de chez lui."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-17-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour lui annoncer qu’elle sort avec des amis.",
+      "Pour lui demander de préparer le repas.",
+      "Pour lui dire qu’elle est retenue au bureau.",
+      "Pour lui résumer sa journée de travail."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-18-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’assister à une rencontre sportive.",
+      "De fêter leur victoire entre copains.",
+      "De jouer au basket-ball sans payer.",
+      "De s’inscrire dans un nouveau club."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-19-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Acheter un autre billet.",
+      "Échanger son billet.",
+      "Partir pour Montréal.",
+      "Récupérer son argent."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-20-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle a décidé de changer d’emballage.",
+      "Elle a laissé son portefeuille chez elle.",
+      "Elle a mal rempli la fiche de douane.",
+      "Elle a oublié l’adresse du destinataire."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-21-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De conforter le rôle de chacun.",
+      "De faire des économies.",
+      "De renforcer les relations.",
+      "De transmettre des savoir-faire."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-22-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle a perdu aux jeux de société.",
+      "Elle est restée près de chez elle.",
+      "La météo était très mauvaise.",
+      "Le logement était mal situé."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO20-23.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De conservation des plantes.",
+      "De nettoyage d’espaces verts.",
+      "De procédés de recyclage.",
+      "De techniques de culture."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-24-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Amener l’élève à participer à sa propre formation.",
+      "Axer principalement l’apprentissage sur le jeu.",
+      "Initier les élèves à des activités parascolaires",
+      "Responsabiliser les élèves encore immatures."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-25-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Le report de la remise d’un devoir.",
+      "Le changement de l’emploi du temps.",
+      "Le rattrapage d’une mauvaise note.",
+      "Le programme de révision pour un examen."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-26-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Développer sa coopération industrielle.",
+      "Favoriser l’embauche de profils créatifs.",
+      "Financer des projets de recherche innovants.",
+      "Renforcer la formation numérique des jeunes."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-27-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Renforcer la formation numérique des jeunes.",
+      "Renforcer la formation numérique des jeunes.",
+      "Elle perpétue des usages de la société médiévale.",
+      "Elle reflète une vision sexiste de la société."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-28-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Aider les consommateurs à mieux acheter.",
+      "Faire la publicité des produits biologiques.",
+      "Garantir l’origine de certains aliments.",
+      "Identifier les emballages recyclables."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-29-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De devenir entrepreneur en créant son entreprise.",
+      "De s’informer sur les secteurs porteurs d’emplois.",
+      "De suivre une formation diplômante à l’université.",
+      "D’élargir sa recherche d’emploi à d’autres domaines."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-30-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Accroître la mixité sociale dans les grandes villes.",
+      "Décrocher des financements pour ses activités.",
+      "Modifier le fonctionnement des marchés aux puces.",
+      "Obtenir un statut professionnel officiel pour les biffins."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-31-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Les jeunes diplômés privilégient le travail en milieu urbain.",
+      "Les lauréats aux concours vétérinaires sont trop peu nombreux.",
+      "Les soins aux animaux de ferme demandent une spécialisation.",
+      "Les vétérinaires en activité refusent de former les nouveaux."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-32-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "C’est un détail négligeable pour les recruteurs.",
+      "Il est indépendant de la promotion professionnelle.",
+      "Il est prévu de tester celui des futurs salariés.",
+      "La question est préoccupante pour les plus jeunes."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-33-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’industrie du plastique.",
+      "Les activités agricoles.",
+      "Les pièges de braconniers.",
+      "Les pratiques de pêcheurs."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-34-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La seule visée de cet enseignement est d’initier les enfants à la langue.",
+      "Le temps imparti à cette discipline est trop court pour qu’il soit utile.",
+      "Les élèves manquent de la maturité nécessaire pour cet apprentissage.",
+      "Les professeurs sont opposés au concept d’une jeunesse plurilingue."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-35-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle aborde des sujets de fonds.",
+      "Elle créé de la concurrence entre auteurs.",
+      "Elle est encadrée par des normes strictes.",
+      "Elle s’adresse à un public averti."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-36-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils favorisent les interactions avec les adultes.",
+      "Ils permettent d’apprendre de façon ludique.",
+      "Ils peuvent compenser les absences des parents.",
+      "Ils sont utiles pour l’accompagnement scolaire."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-37-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il conseillé d’augmenter la productivité.",
+      "Il milite pour la création d’un label qualité.",
+      "Il s’efforce de moderniser sa profession.",
+      "Il valorise les méthodes traditionnelles."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-38-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "À l’occasion d’une entrevue.",
+      "En côtoyant des auteurs connus.",
+      "Grâce à des relations amicales.",
+      "Lors d’une émission de radio."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-20-39-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Expliquer l’intérêt de renseigner un document.",
+      "Motiver les employés ayant un mauvais bilan.",
+      "Présenter un nouveau système d’avancement.",
+      "Remercier l’équipe pour son investissement."
+    ],
+    "bonne_reponse_index": 0
+  }
+]
