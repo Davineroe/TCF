@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-1-1.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14-1.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-2-1.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14-2.jpg",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-3.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14-3-1.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-4-1.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14-4-1.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-5.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-6.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-7.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-8.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-9.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-10.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Attendre la réponse.",
+      "Compléter son dossier.",
+      "Demander un passeport.",
+      "Envoyer son inscription."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-11.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De cinéma.",
+      "De lecture.",
+      "De musique.",
+      "De théâtre."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-12.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il y a un service internet.",
+      "Le placement est libre.",
+      "On y propose des repas.",
+      "Son personnel est bilingue."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-13.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La date de départ.",
+      "La durée du voyage.",
+      "La situation de l’hôtel.",
+      "Le prix du séjour."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-14.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle n’aime pas l’œuvre de ce peintre.",
+      "La présentation des tableaux lui a déplu.",
+      "Elle a trouvé qu’il y avait trop de visiteurs.",
+      "Ele s’est ennuyé en faisant la queue."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-15.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour lui présenter un produit.",
+      "Pour organiser un voyage.",
+      "Pour suivre une formation.",
+      "Pour visiter Lyon avec lui."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-16.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Son caractère.",
+      "Ses diplômes.",
+      "Son expérience.",
+      "Ses motivations."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-17.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Son âge.",
+      "Sa motivation.",
+      "Son expérience.",
+      "Sa qualification."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-18.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Qu’elle l’avait oublié en vacances.",
+      "Qu’un collègue l’avait consulté.",
+      "Que son assistant l’avait perdu.",
+      "Qu’on l’avait envoyé ailleurs."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-19.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle va appeler le locataire.",
+      "Elle va attendre un petit peu.",
+      "Elle va refuser le paiement.",
+      "Elle va revenir une autre fois."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-20.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il fait beau plus qu’hier.",
+      "Il fait plus mauvais qu’hier.",
+      "Il pleut plus qu’hier.",
+      "Il y a moins de soleil qu’hier."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-21.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle va repartir avec sa voiture.",
+      "Elle va revenir dans dix minutes.",
+      "Elle va revenir le lendemain.",
+      "Elle va repartir sans sa voiture."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-22.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils affichaient des prix erronés.",
+      "Ils annonçaient de fausses promotions.",
+      "Ils soldaient des articles périmés.",
+      "Ils vendaient des marchandises à perte."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-23.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "II n’y a plus de place en seconde classe.",
+      "II n’y a plus de place pour la voiture.",
+      "Il n’y a plus de place pour quatre personnes.",
+      "II n’y a plus de cabines pour quatre personnes."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-24.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle a changé de cursus universitaire.",
+      "Elle a rencontré des gens étonnants.",
+      "Elle a suivi des enseignements variés.",
+      "Elle a trouvé le niveau des cours facile."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-25.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Amener l’élève à participer à sa propre formation.",
+      "Axer principalement l’apprentissage sur le jeu.",
+      "Initier les élèves à des activités parascolaires.",
+      "Responsabiliser les élèves encore immatures."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-26.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils annulent leurs activités.",
+      "Ils partent à la montagne.",
+      "Ils préfèrent sortir la nuit.",
+      "Ils restent au frais à l’intérieur."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-27.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De ses difficultés à se réveiller le matin.",
+      "De son dernier salaire qui est insuffisant.",
+      "De son emploi du temps professionnel.",
+      "De son manque d’organisation habituel."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-28.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La répartition des tâches dans le service.",
+      "Le manque d’expérience de l’équipe.",
+      "Le retard pris dans la réalisation d’un projet.",
+      "Les désaccords entre employeur et employés."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-29.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’apprendre à élaborer des itinéraires de visites.",
+      "D’expérimenter une manière différente de voyager.",
+      "De découvrir des adresses d’hôtel à l’étranger.",
+      "De participer à des actions de solidarité internationale."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-30.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il y a eu des problèmes de circulation automobile.",
+      "Le réveille-matin n’a pas sonné.",
+      "Il y a eu une panne d’électricité dans le métro.",
+      "Le personnel du métro a fait grève."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-31.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il annonce une réorganisation.",
+      "Il encourage un collaborateur.",
+      "Il négocie des délais de livraison.",
+      "II rappelle à l’ordre un employé."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-32.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’attribution d’aides financières.",
+      "Les inégalités salariales.",
+      "Les modes de consommation.",
+      "L’essor du travail féminin."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-33.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Les jeunes diplômés privilégient le travail en milieu urbain.",
+      "Les lauréats aux concours vétérinaires sont trop peu nombreux.",
+      "Les soins aux animaux de ferme demandent une spécialisation.",
+      "Les vétérinaires en activité refusent de former les nouveaux."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-34-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Faire découvrir des spécialités gastronomiques du terroir.",
+      "Présenter aux visiteurs des spécimens d’animaux d’élevage.",
+      "Promouvoir la campagne comme destination touristique.",
+      "Sensibiliser le public à la protection de l’environnement."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-35-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Des enquêtes sondent la population sur la compréhensibilité des textes.",
+      "Des juristes contrôlent la rédaction qui a été assurée par des médecins.",
+      "Des professionnels de santé et des utilisateurs vérifient les notices.",
+      "Des programmes informatiques garantissent la lisibilité des textes."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-36.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il demande un délai supplémentaire de réflexion.",
+      "Il doute de l’intérêt d’un diagnostic préalable.",
+      "Il hésite sur la définition de son projet.",
+      "II souhaite l’avis de consultants extérieurs."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-37.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De la mise en vente libre de jouets sans contrôle sanitaire.",
+      "De la tendance des adultes à s’approprier les jouets des enfants.",
+      "De l’intérêt croissant suscité par les jouets tout au long de l’année.",
+      "Du niveau de toxicité maximal toléré dans la fabrication des jouets."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-38.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Sur l’étroite collaboration avec les équipes locales.",
+      "Sur la formation des employés expatriés.",
+      "Sur la prédominance de bénévoles dans chaque pays.",
+      "Sur le montant élevé des bénéfices réalisés."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-39.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’absence de temps morts.",
+      "L’ennui des distractions.",
+      "L’insuffisance de repos.",
+      "Le manque d’action."
+    ],
+    "bonne_reponse_index": 0
+  }
+]
