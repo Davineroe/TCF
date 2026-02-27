@@ -1,0 +1,163 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous venez de vous installer dans une nouvelle ville. Vous écrivez un message à un(e) ami(e) pour lui présenter votre nouvel environnement (le quartier, les voisins, les commerces, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez pris part à une action organisée pour la « Journée mondiale du nettoyage de la planète ». Avec d'autres personnes, vous avez ramassé des déchets dans un lieu public (rue, forêt, plage, etc.). Vous racontez cette expérience à vos amis et expliquez pourquoi ce genre d'action est important.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Publicités : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Certaines personnes trouvent la publicité agaçante, mais selon moi, elle reste essentielle pour les commerces et les entreprises. Grâce à elle, les produits et services sont mieux connus. De plus, certaines publicités sont amusantes : j'aime les écouter en voiture, elles me tiennent informé des nouveautés et des réductions. J'aime comparer les prix et faire des économies. Enfin, sans la publicité, de nombreuses applications ou jeux gratuits sur téléphone deviendraient payants. Lucas, 28 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "La publicité envahit notre quotidien : télévision, journaux, Internet, téléphone, radio… Sur certaines chaînes, les émissions sont interrompues par des publicités, ce qui est irritant. En plus, recevoir chaque année des piles de publicités papier dans la boîte aux lettres nuit à l'environnement. Il faudrait, selon moi, adopter une loi pour limiter ces publicités à la télévision et par courrier. Si elles étaient plus discrètes, elles seraient sans doute mieux perçues. Élodie, 35 ans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Envoyez un courriel pour inviter vos amis à un anniversaire surprise organisé pour votre meilleur(e) ami(e). Précisez le lieu, la date et l'heure de l'événement.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une brocante dans votre ville et vous avez beaucoup aimé cette expérience d'achat et de vente d'objets d'occasion. Écrivez un article sur votre blog personnel pour expliquer pourquoi cette activité vous a plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Vols à Bas Prix",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je voyage souvent avec des compagnies aériennes à bas coût. Ces entreprises proposent des tarifs bien inférieurs à ceux des compagnies régulières, ce qui me revient parfois moins cher qu'un voyage en voiture ou en train. Toutefois, ces prix attractifs ont un revers : aucun service à bord n'est inclus (ni repas, ni boissons). Ces compagnies ne conviennent donc pas pour les vols long-courriers."
+                },
+                {
+                  "numero": 2,
+                  "texte": "J'ai récemment décidé d'arrêter d'utiliser les compagnies low-cost. Après réflexion, ce choix s'est imposé comme une évidence : sièges inconfortables, conditions de travail difficiles pour le personnel, avions vieillissants qui posent des questions de sécurité… Pour les longs trajets, mieux vaut privilégier une compagnie régulière, et pour les distances plus courtes, le train offre un confort supérieur et permet d'admirer de magnifiques paysages."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Ali t'a envoyé un message pour prendre de tes nouvelles et savoir comment se déroule ton nouveau travail. Il te demande également si tu es satisfait(e) de ton poste. Tu lui réponds en décrivant ton environnement professionnel (lieu, ambiance, collègues, etc.) et en partageant ton ressenti.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vivre avec une personne âgée : Une expérience enrichissante ? Un site internet recueille des témoignages sur la cohabitation avec une personne âgée. Tu partages ton vécu, en expliquant comment tu as vécu cette expérience, les défis rencontrés et ce que tu en as appris.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Apprendre une Langue en Ligne : Une Bonne Alternative ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "L'apprentissage des langues via Internet est aujourd'hui une option efficace qui permet d'obtenir de bons résultats. Contrairement aux cours traditionnels, ces formations offrent une grande flexibilité : on peut étudier à tout moment, sans contrainte de déplacement. Cette méthode représente un gain de temps considérable et permet de réduire les coûts liés aux cours en présentiel."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, les cours en ligne ne conviennent pas à tout le monde. Ils nécessitent une connexion Internet fiable et un équipement adapté. De plus, apprendre en autonomie exige une grande discipline. L'absence de professeur et de camarades de classe peut rendre l'apprentissage moins motivant, augmentant ainsi le risque d'abandon en cours de route."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez changer la décoration de votre logement (meubles, peinture, objets, etc.). Vous écrivez un message à un(e) ami(e) pour lui présenter votre projet et lui demander son aide.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "“VENEZ DÉCOUVRIR NOTRE ÉCOLE DE MUSIQUE ! COURS GRATUITS, CONCERTS, ANIMATIONS. RENDEZ-VOUS SAMEDI DÈS 10 HEURES DANS NOS LOCAUX !” Vous avez assisté à cet événement. Vous écrivez à vos amis pour raconter ce que vous avez vécu et donner votre avis sur cette journée.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Parents : Trop stricts ou Trop permissifs ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "J'ai 19 ans et je vis encore chez mes parents. Je suis adulte et responsable, mais ils restent très stricts avec moi. Avant mes 18 ans, je devais rentrer avant 20 heures et je ne pouvais pas dormir chez mes amies. Aujourd'hui, j'ai un peu plus de liberté, mais ma mère continue de s'inquiéter. Elle m'appelle souvent pour savoir où je suis et ne dort pas tant que je ne suis pas rentrée. Mes parents me laissent un peu d'autonomie, mais je pense en avoir moins que les autres. Michelle"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certains parents refusent d'être trop stricts et contrôlent peu leurs enfants. Ils craignent qu'en limitant leur liberté, leurs enfants soient malheureux ou perdent confiance en eux. Ces parents acceptent donc la plupart de leurs demandes. Cela ne pose pas trop de problèmes durant l'enfance, mais plus tard, à l'âge adulte, ces enfants auront du mal à respecter les règles et à s'adapter à la vie en société. D'après blog-parents.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Je cherche un vélo en bon état à un prix abordable. Contactez-moi par courriel à cette adresse : adresse-mail@wahou.fr » Vous avez un vélo à vendre. Vous écrivez un message à cette personne pour décrire votre vélo et indiquer le prix que vous proposez. Vous lui fixez un rendez-vous pour qu'elle puisse venir l'essayer.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé une journée à la campagne. À votre retour, vous écrivez sur votre blog personnel pour raconter cette expérience à vos amis. Vous expliquez ce que vous avez apprécié pendant cette journée (lieu, activités, animaux, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Courses : Supermarché ou Petits Commerces ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Faire ses courses au supermarché est très pratique. On y trouve tout au même endroit : fruits, légumes, viandes, fromages, et bien plus encore. Le choix est large et les prix sont souvent plus avantageux que dans les petits magasins. En plus, les supermarchés permettent de gagner du temps et disposent de grands parkings faciles d'accès. Acheter en grande quantité aide aussi à faire des économies. Pierre, 38 ans, père de famille"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Association pour la défense des petits commerces. Le projet « Un mois sans supermarché » vise à limiter l'influence des grandes surfaces et à soutenir les petits commerçants. Le principe est simple : pendant un mois, ne rien acheter dans les supermarchés et privilégier les commerces de proximité. Cette initiative rappelle l'importance d'acheter local, car les produits sont souvent de meilleure qualité et cela renforce les liens entre les habitants d'un même quartier. D'après reponse-conso.fr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
