@@ -1,0 +1,194 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Tu souhaites assister à un festival de cinéma organisé dans ta ville et aimerais être accompagné(e). Rédige un message à ton ami(e) pour lui proposer de t'y joindre. Donne-lui toutes les informations essentielles, telles que les films à l'affiche, les dates, les horaires et les tarifs d'entrée.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu as hébergé un(e) étudiant(e) étranger(e) pendant une semaine. Sur ton blog, partage ton expérience en racontant comment s'est déroulé ce séjour et en expliquant ce que tu en as retiré.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Restauration Rapide : Entre Choix et Conséquences",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les chaînes de restauration rapide s'efforcent de proposer des menus variés et équilibrés tout en respectant des normes d'hygiène strictes. En offrant aux clients la possibilité de composer leur propre repas, elles leur permettent de faire des choix adaptés à leurs préférences et à leurs besoins alimentaires."
+                },
+                {
+                  "numero": 2,
+                  "texte": "D'après les spécialistes, une consommation fréquente de fast-food peut nuire à la santé. Ces restaurants proposent souvent des aliments riches en calories, comme les frites, les hamburgers et les sodas sucrés, qui dépassent les apports nutritionnels recommandés. De plus, l'usage massif d'emballages plastiques contribue à la pollution et à l'accumulation de déchets nocifs pour l'environnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez refaire la décoration de votre appartement (mobilier, peinture, objets décoratifs, etc.). Écrivez un message à un(e) ami(e) pour lui exposer votre projet et lui demander son aide.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "École de musique ! « Cours gratuits, concerts, animations. Rendez-vous vendredi dès 9h ! ». Vous avez participé à cet événement et vous souhaitez partager votre expérience avec vos amis. Rédigez un message pour raconter votre journée et donner votre avis sur l'événement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Faut-il faire ses Courses dans de Petits Magasins ou dans des Supermarchés ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les supermarchés offrent une grande diversité de produits en un seul lieu, ce qui est très pratique. Vous pouvez stationner votre voiture facilement et parcourir les rayons pour acheter tout ce dont vous avez besoin : fruits, légumes, viandes, boissons, etc. De plus, ces grandes surfaces proposent plusieurs marques pour un même article et offrent souvent des promotions intéressantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "L'Association pour la préservation des petits commerces a lancé le défi « Février sans supermarché » afin de contrer la domination des grandes surfaces et soutenir les commerces de proximité. Pendant un mois, les consommateurs sont invités à privilégier les épiceries de quartier, où ils trouveront des produits frais de meilleure qualité et pourront tisser des liens avec les commerçants et les habitants du quartier."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message pour inviter votre ami(e) à venir passer ses vacances dans votre ville. Présentez-lui les lieux intéressants et les endroits à visiter.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours pour gagner un séjour de deux semaines dans la ville que vous préférez. Le thème du concours est « Mon artiste préféré ». Rédigez un article de blog pour présenter cet artiste.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Chasse Aux Animaux : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "« Je fais partie de ces personnes qui ne parviennent pas à comprendre qu'on puisse ressentir du plaisir en tuant des animaux. Cela me dépasse totalement. J'ai également du mal à concevoir que certaines personnes puissent prétendre aimer la nature tout en participant activement à sa destruction. » – Sabrina, 29 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "« Il existe de nombreuses raisons pour lesquelles certaines personnes pratiquent la chasse. Cela peut être pour se nourrir, dans un but commercial, ou encore pour gérer et réguler certaines espèces animales. D'autres le font pour défendre leurs terres ou simplement comme activité physique, de loisir ou même pour gagner en reconnaissance sociale. » – David, journaliste à la FRM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Ton appartement est trop grand pour toi et tu souhaites le partager avec un colocataire. Tu rédiges une annonce destinée à un journal, en précisant la superficie du logement, le type de colocataire recherché ainsi que le montant du loyer.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu as récemment débuté une nouvelle activité de loisir, que ce soit un sport, de la danse ou une autre discipline. Sur ton blog, tu racontes ton expérience, tes premières impressions et les bénéfices que cette activité t'apporte.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Accès Gratuit aux Musées : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La gratuité des musées peut entraîner une trop forte affluence, ce qui nuit à la qualité de la visite. De plus, la suppression des frais d'entrée pourrait réduire les ressources financières des établissements, affectant ainsi l'entretien des collections. Une solution intermédiaire serait d'appliquer un tarif réduit afin de garantir un accès élargi à la culture tout en préservant le bon fonctionnement des musées."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Permettre l'accès gratuit aux musées est une initiative bénéfique, car elle offre à chacun, quel que soit son revenu, l'opportunité de découvrir la culture. Grâce à cette mesure, j'ai pu visiter de nombreux musées sans contrainte financière. Cette accessibilité favorise la transmission du patrimoine et enrichit les connaissances du public."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Tu souhaites assister à un festival de cinéma organisé dans ta ville et aimerais être accompagné(e). Rédige un message à ton ami(e) pour lui proposer de t'y joindre. Donne-lui toutes les informations essentielles, telles que les films à l'affiche, les dates, les horaires et les tarifs d'entrée.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu as hébergé un(e) étudiant(e) étranger(e) pendant une semaine. Sur ton blog, partage ton expérience en racontant comment s'est déroulé ce séjour et en expliquant ce que tu en as retiré.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Restauration Rapide : Entre Choix et Conséquences",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les chaînes de restauration rapide s'efforcent de proposer des menus variés et équilibrés tout en respectant des normes d'hygiène strictes. En offrant aux clients la possibilité de composer leur propre repas, elles leur permettent de faire des choix adaptés à leurs préférences et à leurs besoins alimentaires."
+                },
+                {
+                  "numero": 2,
+                  "texte": "D'après les spécialistes, une consommation fréquente de fast-food peut nuire à la santé. Ces restaurants proposent souvent des aliments riches en calories, comme les frites, les hamburgers et les sodas sucrés, qui dépassent les apports nutritionnels recommandés. De plus, l'usage massif d'emballages plastiques contribue à la pollution et à l'accumulation de déchets nocifs pour l'environnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez passé un week-end à la campagne et souhaitez partager votre expérience avec un(e) ami(e). Rédigez un message pour lui raconter ce que vous avez vécu.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Votre entreprise recherche une salle pouvant accueillir 100 invités pour la fête de fin d'année. Vous avez trouvé un espace idéal et vous écrivez à votre direction pour leur en donner les détails (emplacement, tarifs, services proposés, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Usage des Nouvelles Technologies dans les Écoles : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Pierre : Je suis persuadé que l'intégration des nouvelles technologies à l'école est essentielle pour préparer les élèves au monde numérique. L'utilisation de tablettes et d'ordinateurs capte leur attention et enrichit leur apprentissage en leur donnant accès à une multitude de ressources. Cela stimule aussi leur créativité et leur autonomie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Sophia : J'ai des réserves quant à l'omniprésence des technologies dans l'éducation. Je pense que cela peut réduire les interactions humaines essentielles et engendrer une dépendance excessive aux écrans. Selon moi, les méthodes d'enseignement traditionnelles et la relation directe avec les enseignants restent indispensables pour un apprentissage équilibré."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
