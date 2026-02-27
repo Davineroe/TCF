@@ -1,0 +1,163 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous prévoyez de partir en week-end avec vos amis le mois prochain. Écrivez-leur un message pour leur présenter votre projet : parlez du lieu choisi, du moyen de transport et des activités prévues.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "COURRIER DES LECTEURS. Tout quitter pour partir voyager pendant un an : est-ce une bonne ou une mauvaise idée ? Écrivez votre réponse sur notre site Internet : \"voyage.internaute.fr\". Dans votre message, donnez votre avis en illustrant votre réponse avec des exemples tirés de votre expérience personnelle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail : un Atout ou un Obstacle ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le travail occupe une place centrale dans nos vies. Depuis l'enfance, on nous demande souvent : « Que veux-tu faire plus tard ? ». Travailler devrait rimer avec réussite et épanouissement, mais pour beaucoup, cela signifie plutôt fatigue et contraintes. Aujourd'hui, certains estiment qu'on ne consacre pas assez de temps à sa famille ou à ses amis. Selon eux, il est urgent de repenser la place du travail dans notre société. Travailler moins offrirait plus de temps libre et améliorerait la qualité de vie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "D'autres ont choisi de quitter leur emploi pour changer de mode de vie. Pourtant, travailler reste essentiel aujourd'hui. La question : « Tu fais quoi dans la vie ? » est souvent posée lors d'une rencontre. Cela montre que l'emploi fait partie de notre identité. Selon le spécialiste Jean-Daniel Remond, l'entreprise est un lieu fondamental : les relations quotidiennes, les réseaux, les amitiés, le sentiment d'être utile mais aussi les difficultés participent à la construction de soi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Mehdi vient d'arriver en ville et cherche des informations sur les moyens de transport. Tu lui envoies un message détaillant les différentes options, les tarifs et les abonnements disponibles.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu exprimes ton admiration pour une personnalité célèbre ou non à travers un article de blog. Tu mets en avant ses actions et expliques pourquoi elle t'inspire.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vivre en Colocation : Avantages et Inconvénients",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La colocation présente plusieurs bénéfices. Partager un logement avec d'autres personnes permet de réduire les coûts comme le loyer, les charges ou les dépenses communes. Elle favorise aussi les relations sociales et les échanges culturels. Vivre avec des colocataires offre l'occasion de rencontrer des personnes d'origines variées, de créer des amitiés et de partager des expériences enrichissantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La vie en colocation comporte toutefois des inconvénients. Les différences de caractère et de style de vie peuvent générer des tensions. La répartition des tâches ménagères et des responsabilités peut aussi causer des conflits. En outre, la colocation peut réduire l'intimité et l'espace personnel. Pour que la cohabitation reste agréable, il est essentiel d'instaurer une communication claire et respectueuse ainsi que des règles communes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez invité votre ami Cédric à votre mariage au Château de Chombony. Il vous a répondu qu'il ne connaît pas cet endroit. Vous lui décrivez le château (situation, accès, moyens de transport, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Sur un forum, vous racontez votre expérience dans l'apprentissage d'une langue étrangère (vous écrivez en partageant votre expérience dans l'étude d'une langue étrangère).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Cuisinier Amateur ou Professionnel ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les cuisiniers amateurs parviennent à réaliser certaines recettes, mais ils manquent souvent des techniques et du savoir-faire des professionnels. Pour maîtriser l'art culinaire, une formation et une expérience approfondie sont essentielles."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certains autodidactes se sont fait un nom grâce aux réseaux sociaux et à des formations en ligne. L'histoire d'une passionnée devenue cheffe et auteure de livres de cuisine illustre qu'il est possible de réussir sans passer par un parcours traditionnel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez bientôt vous installer à Nice. Vous écrivez un message à une agence immobilière pour chercher un logement. Indiquez ce que vous recherchez (taille du logement, budget, nombre de pièces, quartier, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Votre ville a organisé un Salon du livre. Vous avez participé à cet événement (conférences, expositions, rencontres avec des auteurs, etc.). Dans un message à vos amis, vous racontez ce que vous avez vu et vous donnez vos impressions sur cet événement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Faire ses Courses à la ferme ou au supermarché ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je fais mes courses alimentaires dans un rayon de dix kilomètres autour de chez moi. J'ai la chance d'habiter à la campagne, ce qui me permet d'acheter directement à la ferme et de discuter avec les producteurs. Bien entendu, cela coûte un peu plus cher, mais les produits sont de meilleure qualité et je sais comment ils sont faits. Pour moi, il est essentiel d'avoir confiance dans les petits producteurs locaux et de privilégier la consommation régionale."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Pour mes achats, je vais toujours au supermarché, c'est mon choix. Comme j'habite en centre-ville, c'est bien plus pratique, surtout avec les enfants. Je trouve tout au même endroit et il y a souvent des réductions. Ce qui m'importe, c'est de gagner du temps, de dépenser moins et de faire mes courses près de chez moi. Je préfère garder de l'argent pour profiter d'activités comme aller au cinéma ou manger au restaurant de temps en temps."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez inviter vos amis à découvrir un site touristique que vous appréciez beaucoup. Vous leur écrivez un message pour présenter votre projet de sortie (dates, lieu, hébergement, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à un festival (cinéma, musique, gastronomie, etc.) qui vous a déçu. Vous racontez cette expérience sur votre site Internet et vous expliquez les raisons de votre insatisfaction.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vivre à la Ville ou à la Campagne",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Marie, 42 ans : Ma vie a changé depuis que je vis à la campagne. Les chants des oiseaux et le jardin ont remplacé la pharmacie et le cinéma près de chez moi. Depuis longtemps, je voulais fuir la pollution, le bruit et la foule des grandes villes pour la tranquillité, les espaces verts et le calme de la campagne. Ici, on profite d'un environnement apaisant et de vastes espaces sans avoir à les partager avec les voisins."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Vivre à la campagne ne convient pas à tout le monde. Les commerces, les loisirs et les services comme les écoles ou les hôpitaux se situent parfois à plusieurs kilomètres. La voiture devient donc indispensable pour se déplacer, et même Internet peut être difficile d'accès selon la région. Pour beaucoup, la ville offre plus de liberté grâce aux transports publics, mais aussi un grand confort de vie."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
