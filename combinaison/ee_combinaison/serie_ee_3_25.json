@@ -1,0 +1,380 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami Lucas vous a envoyé un courriel pour obtenir des informations sur les nouveaux locaux de votre entreprise. Répondez-lui en détaillant l'emplacement, la disposition des pièces et les équipements disponibles.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à l'événement « Une semaine sans voiture ». Écrivez un texte pour raconter votre expérience, donner votre ressenti et décrire le déroulement de cette initiative (dates, lieu, activités proposées).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Vêtements de Grandes Marques",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Pour les enfants et les adolescents, les vêtements de marque sont bien plus qu'un simple choix vestimentaire : ils permettent d'affirmer leur identité et de se sentir intégrés dans un groupe social. Chez les plus jeunes, l'attachement aux logos et aux personnages de dessins animés influence fortement leurs préférences vestimentaires."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les enfants grandissent vite, et leurs vêtements deviennent rapidement trop petits. De plus, en jouant dehors, ils usent et salissent fréquemment leurs habits. Investir dans des vêtements de marque peut donc sembler peu rentable, surtout lorsqu'ils ne sont portés que quelques mois avant d'être remplacés."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Un(e) ami(e) souhaite suivre des cours de langue dans votre école. Rédigez un message pour lui donner des informations sur les lieux, les tarifs et les formations proposées.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous travaillez dans une association qui vient en aide aux personnes âgées. Rédigez un article pour raconter votre expérience et encourager d'autres personnes à s'engager dans cette cause.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Animaux de Compagnie pour les Enfants : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "D'après de nombreux psychologues, offrir un animal de compagnie à un enfant a plusieurs avantages. Pour ceux qui n'ont ni frère ni sœur, un animal devient un véritable compagnon qui combat la solitude. Il aide aussi l'enfant à gagner en confiance et lui apprend à respecter et prendre soin d'un être vivant. En sa présence, l'enfant se sent en sécurité et développe son autonomie sans toujours dépendre de ses parents."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Beaucoup d'enfants rêvent d'avoir un animal de compagnie, souvent un chien ou un chat. Pourtant, avant d'en adopter un, il faut bien réfléchir. Un animal est un engagement à long terme et nécessite des soins constants. De plus, son entretien peut coûter cher. Ce n'est pas un simple jouet que l'on peut abandonner dès que l'enfant perd son intérêt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami(e) veut commencer à faire du sport. Rédigez un message pour lui recommander une salle dans votre quartier en précisant son emplacement, les tarifs et les activités proposées.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à un événement marquant (anniversaire, mariage, etc.). Écrivez un récit pour partager votre souvenir et mettre en avant ce qui vous a le plus marqué.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Lecture pour les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Avec le développement des nouvelles technologies et l'omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo, du sport ou de la musique. Contrairement aux adultes d'aujourd'hui, qui ont grandi en lisant de nombreux livres, la jeune génération passe plus de temps sur les réseaux sociaux ou à suivre les grandes stars du sport. Alors, faut-il vraiment forcer les enfants à lire ? Comme le dit un proverbe, « le goût de la lecture ne s'impose pas ». Il vaut mieux les laisser choisir leurs lectures sans les y contraindre."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans. Lire régulièrement aide les enfants à mieux maîtriser la langue et à améliorer leur concentration. Pour encourager cette habitude, les parents peuvent consacrer 10 minutes par jour à la lecture avec leur enfant, un moment de partage qui renforce leur complicité."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Un(e) ami(e) vous a demandé des informations sur la salle de sport que vous fréquentez. Écrivez lui un message pour lui en parler (équipements, ambiance, avantages, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez lu un débat sur un forum à propos des formations en ligne. Rédigez un message pour partager votre expérience et donner votre avis sur ce que vous avez aimé ou non.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les produits Faits Maison : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Fabriquer soi-même ses produits bio permet de mieux contrôler les ingrédients et d'opter pour des solutions plus saines et personnalisées. Cela réduit également les déchets plastiques grâce aux emballages réutilisables. De plus, cette démarche peut être économique sur le long terme et encourage la créativité."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Toutefois, la fabrication maison comporte des risques. Des erreurs dans la composition peuvent rendre les produits inefficaces ou irritants. De plus, trouver et préparer les ingrédients demande du temps et un certain savoir-faire. Enfin, le coût initial pour acheter des matières premières de qualité peut être un frein."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "France Télévision prépare un reportage sur le sport amateur. Partagez votre témoignage sur votre pratique sportive en envoyant un message sur leur site.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé vos vacances dans une magnifique région de votre pays. Rédigez un message à vos amis pour leur décrire votre séjour et expliquer pourquoi vous l'avez tant apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Écoles Privées ou Publiques ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le nombre d'élèves inscrits dans les écoles privées ne cesse d'augmenter en France. Ce succès n'est pas uniquement lié aux résultats scolaires, mais aussi à l'image que ces établissements véhiculent. De nombreux parents pensent que les élèves y bénéficient d'un meilleur encadrement et que les classes homogènes, souvent constituées d'enfants issus de milieux favorisés, permettent un meilleur suivi."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les établissements privés comptent peu d'élèves issus de milieux modestes. Le fait que ces écoles soient payantes crée une barrière financière, limitant la mixité sociale. Ce système renforce les inégalités en cloisonnant les élèves selon leur origine sociale et en réduisant les échanges entre jeunes de milieux différents."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez commandé un article en ligne, mais à la réception, il est endommagé. Envoyez un courriel au service client pour signaler le problème, décrire l'état du produit et indiquer la solution que vous attendez.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez visité une exposition consacrée à votre artiste préféré. Écrivez un article pour raconter votre expérience, décrire les œuvres exposées et partager vos impressions.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Devoirs à la Maison",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Selon des associations de parents, les devoirs à la maison sont bénéfiques, car ils permettent aux élèves d'apprendre à mieux gérer leur temps. De plus, cela renforce le lien entre l'école et les parents. Bien que certains trouvent difficile de superviser les devoirs après une longue journée de travail, ils apprécient ces moments de partage avec leurs enfants, qui sont heureux de recevoir leur attention."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Nous nous opposons aux devoirs à la maison pour plusieurs raisons. Aucune étude n'a prouvé qu'ils améliorent les résultats scolaires. Par ailleurs, tous les parents n'ont pas la possibilité ou les compétences nécessaires pour aider leurs enfants. Ceux qui réussissent en classe perdent du temps à refaire les exercices, tandis que ceux qui ne sont pas accompagnés à la maison restent en difficulté. C'est pourquoi nous estimons qu'il faudrait supprimer les devoirs à domicile."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez passé un week-end à la campagne et souhaitez partager votre expérience avec un(e) ami(e). Rédigez un message pour lui raconter ce que vous avez vécu.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Votre entreprise recherche une salle pouvant accueillir 100 invités pour la fête de fin d'année. Vous avez trouvé un espace idéal et vous écrivez à votre direction pour leur en donner les détails (emplacement, tarifs, services proposés, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Usage des Nouvelles Technologies dans les Écoles : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Pierre : Je suis persuadé que l'intégration des nouvelles technologies à l'école est essentielle pour préparer les élèves au monde numérique. L'utilisation de tablettes et d'ordinateurs capte leur attention et enrichit leur apprentissage en leur donnant accès à une multitude de ressources. Cela stimule aussi leur créativité et leur autonomie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Sophia : J'ai des réserves quant à l'omniprésence des technologies dans l'éducation. Je pense que cela peut réduire les interactions humaines essentielles et engendrer une dépendance excessive aux écrans. Selon moi, les méthodes d'enseignement traditionnelles et la relation directe avec les enseignants restent indispensables pour un apprentissage équilibré."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Envoyez un courriel pour inviter vos amis à un anniversaire surprise organisé pour votre meilleur(e) ami(e). Précisez le lieu, la date et l'heure de l'événement.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une brocante dans votre ville et vous avez beaucoup aimé cette expérience d'achat et de vente d'objets d'occasion. Écrivez un article sur votre blog personnel pour expliquer pourquoi cette activité vous a plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Vols à Bas Prix",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je voyage souvent avec des compagnies aériennes à bas coût. Ces entreprises proposent des tarifs bien inférieurs à ceux des compagnies régulières, ce qui me revient parfois moins cher qu'un voyage en voiture ou en train. Toutefois, ces prix attractifs ont un revers : aucun service à bord n'est inclus (ni repas, ni boissons). Ces compagnies ne conviennent donc pas pour les vols long-courriers."
+                },
+                {
+                  "numero": 2,
+                  "texte": "J'ai récemment décidé d'arrêter d'utiliser les compagnies low-cost. Après réflexion, ce choix s'est imposé comme une évidence : sièges inconfortables, conditions de travail difficiles pour le personnel, avions vieillissants qui posent des questions de sécurité… Pour les longs trajets, mieux vaut privilégier une compagnie régulière, et pour les distances plus courtes, le train offre un confort supérieur et permet d'admirer de magnifiques paysages."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez refaire la décoration de votre appartement (mobilier, peinture, objets décoratifs, etc.). Écrivez un message à un(e) ami(e) pour lui exposer votre projet et lui demander son aide.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "École de musique ! « Cours gratuits, concerts, animations. Rendez-vous vendredi dès 9h ! ». Vous avez participé à cet événement et vous souhaitez partager votre expérience avec vos amis. Rédigez un message pour raconter votre journée et donner votre avis sur l'événement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Faut-il faire ses Courses dans de Petits Magasins ou dans des Supermarchés ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les supermarchés offrent une grande diversité de produits en un seul lieu, ce qui est très pratique. Vous pouvez stationner votre voiture facilement et parcourir les rayons pour acheter tout ce dont vous avez besoin : fruits, légumes, viandes, boissons, etc. De plus, ces grandes surfaces proposent plusieurs marques pour un même article et offrent souvent des promotions intéressantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "L'Association pour la préservation des petits commerces a lancé le défi « Février sans supermarché » afin de contrer la domination des grandes surfaces et soutenir les commerces de proximité. Pendant un mois, les consommateurs sont invités à privilégier les épiceries de quartier, où ils trouveront des produits frais de meilleure qualité et pourront tisser des liens avec les commerçants et les habitants du quartier."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Je souhaite acheter un vélo en bon état à un prix abordable. Vous pouvez me contacter par e-mail : mathieu@gmail.com » Vous possédez un vélo que vous souhaitez vendre. Rédigez un courriel à l'acheteur potentiel pour lui décrire votre vélo, proposer un prix et lui fixer un rendez-vous pour l'essayer.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé une journée agréable à la campagne avec vos amis. À votre retour, vous écrivez un message sur un forum pour partager votre expérience. Vous expliquez ce que vous avez apprécié (les activités, le paysage, les animaux, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Sévérité des Parents envers leurs Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "J'ai bientôt 22 ans et je vis encore chez mes parents. Malgré ma majorité, ils restent stricts avec moi. Lorsque j'étais plus jeune, ils m'interdisaient de dormir ailleurs et de rentrer après 21h lorsque je sortais avec des amies. Aujourd'hui, même si j'ai le droit de rester dehors plus tard, ma mère m'appelle constamment jusqu'à ce que je sois de retour à la maison."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certains parents ont peur d'être trop autoritaires avec leurs enfants. Ils redoutent qu'une éducation trop stricte freine leur épanouissement et les empêche de développer leur personnalité. Pourtant, leur céder tout par amour peut aussi être néfaste une fois devenus adultes. En effet, pour bien vivre en société, certaines règles doivent être respectées."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous organisez une fête d'anniversaire dans un restaurant et souhaitez inviter vos amis. Vous leur écrivez un courriel pour leur fournir tous les détails (lieu, date, heure, menu, prix) et leur demander un retour avec une réponse.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez quitté la ville pour vivre à la campagne. Sur un forum en ligne, vous expliquez les raisons de ce choix et décrivez les avantages de cette nouvelle vie.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Caméras de Surveillance dans les Écoles : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Dans l'école où j'enseigne à Montréal, des caméras sont installées un peu partout. Cette surveillance permet de faire comprendre aux élèves que tout acte de violence sera sanctionné. Ce dispositif est largement accepté par les parents, les enseignants et la majorité des élèves. Les parents se sentent rassurés quant à la sécurité de leurs enfants, et les professeurs y voient une garantie pour exercer leur métier dans de bonnes conditions. Cependant, certains élèves critiquent la présence des caméras, affirmant qu'elles portent atteinte à leur vie privée."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Je suis opposé à l'installation de caméras de surveillance dans les écoles de Montréal. Dans les pays où ce système est utilisé, les résultats ne sont pas très concluants. Les caméras étant facilement repérables, une personne extérieure pourrait entrer dans l'établissement en contournant les zones surveillées. Pour améliorer la discipline, une meilleure communication entre les élèves, l'administration et les enseignants serait souvent suffisante. Plutôt que d'installer des caméras, il vaudrait mieux s'assurer que le règlement intérieur soit bien compris et respecté par tous. D'après lapresse.co"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Rédigez un courriel à votre ami pour lui proposer de passer une journée ensemble. Précisez le lieu, la date et les activités prévues.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une journée de formation dans votre entreprise. Rédigez un article sur un forum destiné à vos collègues pour partager votre expérience et expliquer ce que vous avez apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Location entre Particuliers : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De plus en plus de personnes mettent en location leur logement ou une chambre à des voyageurs pour arrondir leurs fins de mois ou rencontrer de nouvelles personnes. Ce système repose sur la confiance et permet aux visiteurs de se loger à moindre coût par rapport à un hôtel. En accord avec le propriétaire, ils peuvent même utiliser la cuisine, ce qui leur évite d'aller au restaurant ! L'hôte peut également servir de guide et donner des conseils sur les endroits à visiter. C'est un échange enrichissant pour tous ! D'après rapidloc.com"
+                },
+                {
+                  "numero": 2,
+                  "texte": "L'année dernière, j'ai loué mon appartement à un couple de touristes pour une semaine de vacances à Marseille. Cette expérience a été très décevante et m'a fait changer d'avis sur ce type de location ! Ils sont arrivés en retard, et j'ai dû patienter pour leur remettre les clés. Ils ont fait beaucoup de bruit, dérangeant mes voisins. De plus, ils sont partis en laissant la vaisselle sale et leurs déchets. J'ai passé trois heures à tout nettoyer. Franck, 36 ans"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
