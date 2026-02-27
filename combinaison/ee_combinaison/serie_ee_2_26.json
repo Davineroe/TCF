@@ -7,6 +7,223 @@
           "taches": [
             {
               "numero": 1,
+              "consigne": "Tu souhaites trouver un partenaire pour pratiquer une activité sportive et publies une annonce dans le journal de ton université. Tu y précises le type de sport, les jours et horaires souhaités, ainsi que le profil de la personne recherchée.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu racontes ton arrivée dans un pays étranger à travers un article de blog. Tu partages tes premières impressions, les découvertes que tu as faites et les éventuelles difficultés d'adaptation rencontrées.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Rôle de la Télévision dans l'Éducation des Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La télévision est un média omniprésent dans nos vies, influençant à la fois les individus et la culture. Elle ne se limite pas à l'information, mais propose aussi des programmes de divertissement et de transmission du savoir. Sa large audience en fait un outil puissant pour l'éducation, la diffusion des connaissances et la sensibilisation aux grandes questions sociétales."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, la télévision présente des inconvénients. Certains contenus peuvent véhiculer des stéréotypes ou des idées discutables. De plus, une exposition excessive à l'écran peut réduire le temps consacré à d'autres activités enrichissantes, comme la lecture, le sport ou les échanges sociaux. Il est donc essentiel de réguler l'accès des enfants à la télévision afin de garantir un équilibre entre apprentissage et divertissement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Un restaurant vient d'ouvrir près de chez vous. Vous envoyez un message à un(e) ami(e) pour lui proposer d'y aller ensemble. Vous présentez le restaurant (type de cuisine, prix, ambiance, décoration, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez découvert une ville que vous ne connaissiez pas auparavant et vous souhaitez partager votre expérience. Vous publiez un message sur un site Internet consacré aux voyages. Vous racontez votre séjour et expliquez ce que vous avez aimé et ce que vous avez moins apprécié dans cette ville.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Colocation entre Adultes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Vivre avec d'autres adultes implique de bien s'entendre et de respecter certaines règles. Il n'est pas toujours possible de mettre de la musique forte, d'inviter des amis à tout moment ou de laisser la cuisine en désordre. Chacun a ses habitudes, qui peuvent parfois déranger les autres. Il est donc important de fixer des règles communes et de les respecter. En cas de problème, la communication entre colocataires est essentielle. L'organisation et le dialogue jouent un rôle clé dans la réussite d'une colocation."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Choisir la colocation à l'âge adulte permet souvent d'accéder à un logement plus grand à moindre coût. Même si chacun dispose seulement de sa chambre et partage les espaces communs comme la cuisine ou la salle de bain, ce mode de vie peut offrir une maison avec jardin ou un grand appartement bien situé. Le partage du loyer et des charges permet de réduire nettement les dépenses par rapport à un logement individuel, rendant ainsi ce type d'habitation plus accessible."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Un(e) ami(e) souhaite suivre des cours de langue dans votre école. Rédigez un message pour lui donner des informations sur les lieux, les tarifs et les formations proposées.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous travaillez dans une association qui vient en aide aux personnes âgées. Rédigez un article pour raconter votre expérience et encourager d'autres personnes à s'engager dans cette cause.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Animaux de Compagnie pour les Enfants : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "D'après de nombreux psychologues, offrir un animal de compagnie à un enfant a plusieurs avantages. Pour ceux qui n'ont ni frère ni sœur, un animal devient un véritable compagnon qui combat la solitude. Il aide aussi l'enfant à gagner en confiance et lui apprend à respecter et prendre soin d'un être vivant. En sa présence, l'enfant se sent en sécurité et développe son autonomie sans toujours dépendre de ses parents."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Beaucoup d'enfants rêvent d'avoir un animal de compagnie, souvent un chien ou un chat. Pourtant, avant d'en adopter un, il faut bien réfléchir. Un animal est un engagement à long terme et nécessite des soins constants. De plus, son entretien peut coûter cher. Ce n'est pas un simple jouet que l'on peut abandonner dès que l'enfant perd son intérêt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Rédigez un message pour inviter vos amis à une fête organisée à la fin de l'année.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez voyagé au Canada grâce à une agence de voyages. Vous écrivez un commentaire pour raconter votre expérience et décrire ce que vous avez vécu pendant ce séjour.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Limitation des Voitures dans les Centres-villes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Face à des niveaux de pollution très élevés observés dans de nombreuses régions du monde, certaines villes ont choisi d'interdire la circulation automobile dans les zones urbaines. La capitale de la Norvège, Oslo, a récemment adopté cette mesure et en tire un bilan positif, estimant qu'elle est bénéfique pour tous. À long terme, le nombre d'accidents diminuerait, la dépendance au pétrole serait réduite et la qualité de l'air s'améliorerait."
+                },
+                {
+                  "numero": 2,
+                  "texte": "De nombreuses villes mettent en place des projets d'interdiction des voitures en centre-ville sans disposer des infrastructures nécessaires pour accompagner ce changement. Même si la réduction du trafic permettrait de diminuer la pollution, il est indispensable de prévoir des parkings adaptés, de renforcer les transports en commun (métros, bus) et d'autoriser la circulation de certains professionnels, comme les services d'urgence ou les livreurs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Je souhaite acheter un vélo en bon état à un prix abordable. Vous pouvez me contacter par e-mail : kevin@gmail.com » Vous possédez un vélo que vous souhaitez vendre. Rédigez un courriel à l'acheteur potentiel pour lui décrire votre vélo, proposer un prix et lui fixer un rendez-vous pour l'essayer.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé une journée agréable à la campagne avec vos amis. À votre retour, vous écrivez un message sur un forum pour partager votre expérience. Vous expliquez ce que vous avez apprécié (les activités, le paysage, les animaux, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Sévérité des Parents envers leurs Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "J'ai bientôt 22 ans et je vis encore chez mes parents. Malgré ma majorité, ils restent stricts avec moi. Lorsque j'étais plus jeune, ils m'interdisaient de dormir ailleurs et de rentrer après 21h lorsque je sortais avec des amies. Aujourd'hui, même si j'ai le droit de rester dehors plus tard, ma mère m'appelle constamment jusqu'à ce que je sois de retour à la maison."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certains parents ont peur d'être trop autoritaires avec leurs enfants. Ils redoutent qu'une éducation trop stricte freine leur épanouissement et les empêche de développer leur personnalité. Pourtant, leur céder tout par amour peut aussi être néfaste une fois devenus adultes. En effet, pour bien vivre en société, certaines règles doivent être respectées."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez refaire la décoration de votre appartement (mobilier, peinture, objets décoratifs, etc.). Écrivez un message à un(e) ami(e) pour lui exposer votre projet et lui demander son aide.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "École de musique ! « Cours gratuits, concerts, animations. Rendez-vous vendredi dès 9h ! ». Vous avez participé à cet événement et vous souhaitez partager votre expérience avec vos amis. Rédigez un message pour raconter votre journée et donner votre avis sur l'événement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Faut-il faire ses Courses dans de Petits Magasins ou dans des Supermarchés ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les supermarchés offrent une grande diversité de produits en un seul lieu, ce qui est très pratique. Vous pouvez stationner votre voiture facilement et parcourir les rayons pour acheter tout ce dont vous avez besoin : fruits, légumes, viandes, boissons, etc. De plus, ces grandes surfaces proposent plusieurs marques pour un même article et offrent souvent des promotions intéressantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "L'Association pour la préservation des petits commerces a lancé le défi « Février sans supermarché » afin de contrer la domination des grandes surfaces et soutenir les commerces de proximité. Pendant un mois, les consommateurs sont invités à privilégier les épiceries de quartier, où ils trouveront des produits frais de meilleure qualité et pourront tisser des liens avec les commerçants et les habitants du quartier."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Envoyez un courriel pour inviter vos amis à un anniversaire surprise organisé pour votre meilleur(e) ami(e). Précisez le lieu, la date et l'heure de l'événement.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une brocante dans votre ville et vous avez beaucoup aimé cette expérience d'achat et de vente d'objets d'occasion. Écrivez un article sur votre blog personnel pour expliquer pourquoi cette activité vous a plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Vols à Bas Prix",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je voyage souvent avec des compagnies aériennes à bas coût. Ces entreprises proposent des tarifs bien inférieurs à ceux des compagnies régulières, ce qui me revient parfois moins cher qu'un voyage en voiture ou en train. Toutefois, ces prix attractifs ont un revers : aucun service à bord n'est inclus (ni repas, ni boissons). Ces compagnies ne conviennent donc pas pour les vols long-courriers."
+                },
+                {
+                  "numero": 2,
+                  "texte": "J'ai récemment décidé d'arrêter d'utiliser les compagnies low-cost. Après réflexion, ce choix s'est imposé comme une évidence : sièges inconfortables, conditions de travail difficiles pour le personnel, avions vieillissants qui posent des questions de sécurité… Pour les longs trajets, mieux vaut privilégier une compagnie régulière, et pour les distances plus courtes, le train offre un confort supérieur et permet d'admirer de magnifiques paysages."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
               "consigne": "Votre ami(e) veut commencer à faire du sport. Rédigez un message pour lui recommander une salle dans votre quartier en précisant son emplacement, les tarifs et les activités proposées.",
               "min_mots": 60,
               "max_mots": 120
@@ -23,73 +240,11 @@
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Avec le développement des nouvelles technologies et l'omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo et des tablettes. Les parents s'inquiètent de cette désaffection pour les livres qui pourrait avoir des conséquences sur le développement intellectuel de leurs enfants."
+                  "texte": "Avec le développement des nouvelles technologies et l'omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo, du sport ou de la musique. Contrairement aux adultes d'aujourd'hui, qui ont grandi en lisant de nombreux livres, la jeune génération passe plus de temps sur les réseaux sociaux ou à suivre les grandes stars du sport. Alors, faut-il vraiment forcer les enfants à lire ? Comme le dit un proverbe, « le goût de la lecture ne s'impose pas ». Il vaut mieux les laisser choisir leurs lectures sans les y contraindre."
                 },
                 {
                   "numero": 2,
-                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans. Les bibliothèques tentent de s'adapter en proposant des espaces numériques et des ateliers pour reconquérir le jeune public."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "numero": 2,
-          "taches": [
-            {
-              "numero": 1,
-              "consigne": "Vous avez récemment changé d'appartement. Écrivez un email à un ami pour lui décrire votre nouveau logement, son quartier et l'inviter à le visiter.",
-              "min_mots": 80,
-              "max_mots": 130
-            },
-            {
-              "numero": 2,
-              "consigne": "Racontez une expérience de voyage qui vous a particulièrement marqué(e) en décrivant les lieux visités, les rencontres faites et les émotions ressenties.",
-              "min_mots": 130,
-              "max_mots": 160
-            },
-            {
-              "numero": 3,
-              "theme": "Les Transports en Commun",
-              "documents": [
-                {
-                  "numero": 1,
-                  "texte": "Dans les grandes villes, les transports en commun connaissent une affluence record aux heures de pointe. Les usagers se plaignent régulièrement des retards et de la vétusté de certaines infrastructures malgré les investissements annoncés par les municipalités."
-                },
-                {
-                  "numero": 2,
-                  "texte": "Face à l'urgence climatique, de plus en plus de citoyens abandonnent leur voiture individuelle au profit des transports collectifs. Cette transition écologique pousse les autorités à repenser entièrement leur réseau de transport urbain."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "numero": 3,
-          "taches": [
-            {
-              "numero": 1,
-              "consigne": "Votre entreprise organise une journée de team-building. Rédigez une note pour présenter le programme de cette journée à vos collègues.",
-              "min_mots": 70,
-              "max_mots": 120
-            },
-            {
-              "numero": 2,
-              "consigne": "Décrivez votre plat préféré en expliquant comment il se prépare, pourquoi vous l'aimez et avec qui vous aimez le partager.",
-              "min_mots": 110,
-              "max_mots": 150
-            },
-            {
-              "numero": 3,
-              "theme": "L'Importance du Sommeil",
-              "documents": [
-                {
-                  "numero": 1,
-                  "texte": "Les médecins tirent la sonnette d'alarme : les Français dorment en moyenne une heure et demie de moins qu'il y a cinquante ans. Ce manque de sommeil chronique aurait des conséquences désastreuses sur la santé physique et mentale de la population."
-                },
-                {
-                  "numero": 2,
-                  "texte": "Le rythme de vie moderne, avec ses sollicitations permanentes et la lumière bleue des écrans, perturbe notre horloge biologique. Les experts recommandent de respecter des cycles de sommeil réguliers et d'éviter les excitants en fin de journée."
+                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans. Lire régulièrement aide les enfants à mieux maîtriser la langue et à améliorer leur concentration. Pour encourager cette habitude, les parents peuvent consacrer 10 minutes par jour à la lecture avec leur enfant, un moment de partage qui renforce leur complicité."
                 }
               ]
             }
