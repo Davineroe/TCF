@@ -1,0 +1,349 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "“Salut, Je vais bientôt passer mes vacances dans ta région et j'aimerais avoir tes conseils. Est-ce que tu pourrais me recommander un endroit sympa à visiter pendant mon séjour ? Merci d'avance pour ton aide ! Mathieu.” Vous répondez à votre ami Mathieu. Vous décrivez un lieu à visiter et à ne pas manquer dans votre région.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Bonjour, Vous avez récemment suivi des cours dans notre salle de sport. Que pensez-vous de notre site Internet ? Partagez votre expérience et donnez-nous votre avis ici : www.masalledesport.org. Sur le site Internet, vous répondez à cette demande : racontez votre expérience et exprimez votre opinion sur les services proposés.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Livraison de Repas : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Commander à manger permet de gagner du temps, surtout quand on est au travail. On peut recevoir son repas directement au bureau et finir sa pause plus tôt. En plus, il y a du choix pour tout le monde : un collègue veut une pizza, vous préférez des sushis ? Pas de problème. Autre avantage : certains restos livrent 24h/24. — Céline, 25 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "La livraison de repas est pratique, mais elle n'est pas toujours bonne pour l'environnement. Les livraisons en scooter ou en voiture polluent. Cette habitude peut aussi nuire à notre vie sociale : on reste enfermé, on voit moins de monde. Pourtant, c'est important de sortir, de respirer et de faire des rencontres. — Ahmed, 40 ans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez vu une annonce en ligne concernant un appartement à louer. Rédigez un courriel pour demander des précisions sur le logement et le quartier.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez pris part à un programme dans une école spécialisée dans l'apprentissage des langues. Écrivez un article sur votre site personnel pour partager votre expérience et vos impressions.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Caméras de Surveillance : Protection ou Intrusion ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "L'installation de caméras dans les espaces urbains est de plus en plus répandue. Une majorité de Français soutiennent cette mesure, car elle contribue à renforcer la sécurité. Un sondage révèle que 75 % sont favorables à leur usage. Cependant, cette approbation concerne uniquement les lieux publics comme les rues, les commerces ou les transports. Les Français restent opposés à leur usage dans le cadre professionnel. En France, la surveillance au travail est encore très encadrée."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Plusieurs études soulignent le coût élevé de la vidéosurveillance et remettent en question son efficacité réelle. Étant visibles, les caméras ne suffisent pas à dissuader certains actes comme les agressions, les vols ou la consommation de drogue. De plus, leur gestion reste compliquée : une étude allemande montre qu'il faut jusqu'à sept personnes pour analyser les images d'une seule caméra."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami(e) souhaite découvrir la région où vous habitez. Écrivez-lui un message pour lui proposer quelques endroits intéressants à visiter.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Rédigez un article pour votre blog dans lequel vous racontez votre participation à un cours dans une salle de sport. Partagez votre expérience, donnez votre opinion sur l'ambiance, le matériel, les encadrants, et votre ressenti général.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Recevoir ses Repas au Bureau : Bonne idée ou pas ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Se faire livrer à manger sur son lieu de travail permet aux employés de gagner un temps précieux. Ils n'ont plus besoin de sortir pour aller chercher un repas, ce qui limite les déplacements et aide à rester concentré. Cela améliore aussi la productivité, surtout après une réunion ou pendant une journée chargée. Ce service est particulièrement utile dans les entreprises au rythme de travail intense."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Mais cette solution a aussi ses limites. Les livreurs, parfois débordés, peuvent prendre du retard, ce qui crée du stress. De plus, si les employés restent à leur poste pour manger, ils risquent de ne pas suffisamment se reposer. Il est donc important de faire de vraies pauses, même dans un emploi du temps chargé."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Invitez votre ami(e) à venir passer ses vacances chez vous. Dans votre message, présentez les lieux touristiques et les endroits à ne pas manquer dans votre ville.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez été choisi(e) pour participer à un concours dont la récompense est un séjour de deux semaines dans votre ville préférée. Le thème du concours était : « Mon artiste préféré ». Rédigez un article sur votre blog pour parler de l'artiste que vous admirez le plus.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Chasse aux Animaux : Tradition ou Cruauté ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "David : Les raisons pour lesquelles on chasse sont nombreuses : alimentation, commerce, régulation des espèces, protection des terres, activité physique, loisir ou encore prestige social."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Melissa : Je ne comprends pas qu'on puisse ressentir du plaisir en tuant des animaux. Et je ne comprends pas non plus qu'on dise aimer la nature tout en participant activement à sa destruction."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous répondez à un ami qui souhaite avoir des renseignements sur une salle de sport bien connue pour la qualité de ses services. Dans votre message, donnez-lui des informations sur cette salle (équipements, ambiance, horaires, tarifs, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Rédigez un message pour raconter votre expérience avec une formation en ligne. Mettez en avant les aspects positifs du programme suivi, mais évoquez aussi les éventuelles difficultés que vous avez rencontrées pendant l'apprentissage.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Produits faits Maison : Solution responsable ou pas ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Préparer soi-même ses produits bio à la maison permet de choisir les ingrédients avec précision, pour un résultat plus sain et adapté à ses besoins. Cela réduit aussi les déchets plastiques grâce à l'usage de contenants réutilisables. Cette démarche écologique, en plus d'être économique sur le long terme, valorise la créativité et encourage un mode de vie respectueux de l'environnement."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, fabriquer ses produits chez soi n'est pas sans risques. Une mauvaise composition peut réduire leur efficacité ou causer des réactions cutanées. Cela demande aussi du temps et de la rigueur pour trouver des ingrédients fiables. Sans contrôle strict, le produit peut se détériorer ou se contaminer. Enfin, l'achat d'ingrédients de qualité peut représenter un coût important."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous êtes inscrit(e) dans un club sportif et venez de remporter une compétition. Rédigez un courriel à vos amis pour leur raconter cet événement et exprimer votre joie.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez déjà eu l'expérience de vivre en colocation avec des amis. Le site « colocation.com » recherche des témoignages. Partagez votre expérience en expliquant comment cela s'est passé et donnez votre avis sur la vie en colocation.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Agrandissement des Villes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "L'expansion rapide des villes a un impact négatif sur l'environnement. Plus l'urbanisation progresse, plus les milieux naturels sont détruits, ce qui affecte aussi notre santé. La déforestation est l'un des effets les plus inquiétants : les plantes absorbent le carbone, mais elles sont remplacées par des bâtiments, ce qui réduit leur capacité à limiter le changement climatique."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La plupart des gens vivent désormais en ville, notamment dans les pays développés. Cela pose de grands défis écologiques. On critique souvent les villes pour leur conception peu respectueuse de l'environnement. Pourtant, il ne faut pas généraliser : un habitant d'une grande ville consomme parfois moins d'énergie qu'une personne vivant à la campagne."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez bientôt fêter votre anniversaire. Rédigez un message à vos amis pour les inviter et leur décrire ce que vous avez prévu (lieu, programme, ambiance, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Quelqu'un a publié un message sur Facebook à propos des études à l'étranger. Écrivez un commentaire pour exprimer votre point de vue en évoquant les avantages et les difficultés de cette expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Enfants et les Technologies Modernes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les élèves du primaire peuvent utiliser la technologie pour enrichir leurs apprentissages. Par exemple, ils peuvent regarder des vidéos éducatives ou jouer à des jeux interactifs qui développent leurs compétences en lecture, en calcul ou en dactylographie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, de nombreux parents s'inquiètent du rôle passif que ces outils peuvent provoquer chez les enfants. Les écrans réduisent les échanges humains, les jeux créatifs et l'activité physique. Il serait utile de proposer des activités originales et stimulantes pour les encourager à décrocher un peu des écrans."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez récemment organisé une fête d'anniversaire. Écrivez un message à vos amis pour leur raconter comment s'est passée la fête. Parlez de ce que vous avez le plus apprécié pendant la soirée et mentionnez les cadeaux qui vous ont le plus plu.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous revenez d'un voyage à l'étranger. Rédigez un texte pour raconter comment s'est déroulé votre séjour et partagez vos impressions. Donnez à votre ami(e) de bonnes raisons de découvrir ce pays.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Énergie Nucléaire : une Solution d'Avenir ou un Danger à Éviter ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De nombreux experts considèrent que l'énergie nucléaire est indispensable pour répondre aux besoins croissants en électricité tout en limitant les émissions de gaz à effet de serre. Contrairement aux énergies fossiles, elle ne rejette presque pas de CO₂. C'est aussi une source d'énergie stable, capable de produire une grande quantité d'électricité en continu, ce qui la rend essentielle pour assurer la sécurité énergétique des pays développés."
+                },
+                {
+                  "numero": 2,
+                  "texte": "D'autres spécialistes s'opposent fermement à l'usage de l'énergie nucléaire. Ils rappellent que les déchets radioactifs restent dangereux pendant des milliers d'années et qu'en cas d'accident, les conséquences peuvent être catastrophiques. Pour eux, il faut investir davantage dans les énergies renouvelables comme le solaire ou l'éolien, qui sont plus sûres, propres et respectueuses de l'environnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "“Tu as pris des cours au centre de langues cultures pour tous ? Comment trouve tu cette école ? Paul.” Vous répondez à votre ami Paul en lui en décrivant l'école : les salles de classe, le matériel, les professeurs, et d'autres éléments importants.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un pique-nique organisé avec vos collègues de travail. Rédigez un article pour le journal interne de votre entreprise. Racontez comment s'est déroulé cet événement (lieu, ambiance, repas, météo, activités, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Faut-il Réduire sa Consommation de Viande ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Quentin, 45 ans : Est-il vraiment nécessaire de manger de la viande tous les jours ? C'est une question que je me suis souvent posée et, finalement, j'ai choisi de réduire ma consommation de viande et de poisson. J'en mange seulement de temps en temps, quand je suis invité chez des amis ou au restaurant. Chez moi, je n'en prépare jamais. Je trouve que c'est une bonne décision : mon alimentation est plus équilibrée qu'avant, ce qui est meilleur pour ma santé car je mange moins gras. J'imagine aussi que c'est plus respectueux de l'environnement."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Vanessa, 24 ans : Réduire sa consommation de viande, c'est un vrai sujet d'actualité ! Pour ma part, je ne pourrais pas vivre sans manger de viande. J'ai des amis végétariens, et quand je dîne chez eux, j'apprécie leurs plats. Mais chez moi, je trouve que c'est difficile de préparer des repas sans viande… Et puis, peut-on vraiment se passer de viande sans mettre sa santé en danger ? J'ai déjà essayé d'en manger moins et je me sentais très fatiguée. Selon moi, il est important de manger de tout pour rester en bonne santé."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez envie de passer une journée avec votre ami(e). Vous écrivez à votre ami(e), vous l'invitez et vous décrivez le programme de la journée (heure, lieu du rendez-vous, activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Dans le cadre de votre emploi, vous avez assisté à une journée de formation professionnelle. Votre entreprise vous demande de rédiger un article pour raconter cette expérience à vos collègues, décrivez le déroulement de la journée et donnez votre avis sur cette formation.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Colocation : une Bonne Expérience ou une Source de Conflits ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Pour ceux qui n'aiment pas manger seuls ou qui apprécient les échanges quotidiens, la colocation est idéale. Vivre avec d'autres permet de partager les repas, de jouer ensemble, et de diviser les tâches ménagères. La colocation offre aussi l'occasion d'ouvrir son esprit, de découvrir d'autres modes de vie, de tisser des liens forts et de s'entraider au quotidien. D'après etudiant.aujourdhui.fr"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Vivre en colocation peut aussi être source de tensions. Il est parfois difficile de trouver du calme ou de supporter les amis des autres colocataires. Il faut aussi être prêt à bien répartir les corvées ménagères pour éviter les disputes. La colocation demande donc beaucoup de diplomatie, sauf si l'on a la chance de tomber sur un colocataire parfait. D'après nrj.fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez testé un nouveau restaurant situé près de chez vous. Écrivez un courriel à un(e) ami(e) pour lui donner vos impressions sur cet établissement (ambiance, accueil, prix, qualité des plats, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez suivi un cours de langue récemment. Sur un forum Internet, rédigez un article pour raconter votre expérience (lieu, organisation, durée, etc.) et donner votre avis sur la qualité du cours.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Végétarisme : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La France compte plus de 1,5 million de végétariens. Pour Brigitte G., membre d'une association, devenir végétarien, c'est avant tout refuser l'exploitation animale et défendre leur cause. Le végétarisme est aussi souvent lié à une préoccupation écologique : selon une étude scientifique, l'élevage serait responsable de 18 % des émissions mondiales de CO₂. Même si la majorité des Français restent omnivores, la sensibilisation à la cause animale progresse fortement. Respect des animaux, écologie ou engagement personnel, ces raisons poussent de plus en plus de personnes à réduire leur consommation de produits issus des animaux."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Selon une étude scientifique récente, une alimentation végétarienne pourrait être plus polluante qu'une alimentation incluant de la viande. Des chercheurs de l'université de Carnegie-Mellon ont comparé les émissions de carbone liées à la production de fruits et légumes avec celles de l'élevage. Ils ont découvert, par exemple, que produire et transporter une laitue génère trois fois plus de pollution qu'élever un poulet. Cette étude remet donc en question plusieurs idées reçues sur l'impact environnemental du végétarisme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
