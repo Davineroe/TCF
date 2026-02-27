@@ -5,8 +5,8 @@
       "urls_sections": {
         "co": "https://davineroe.github.io/TCF/sommaire/co_sommaire.json",
         "ce": "https://davineroe.github.io/TCF/sommaire/ce_sommaire.json",
-        "ee": "https://davineroe.github.io/TCF/sommaire/ee_sommaire.json",
-        "eo": "https://davineroe.github.io/TCF/sommaire/eo_sommaire.json"
+        "ee": "https://davineroe.github.io/TCF/combinaison/ee_combinaison.json",
+        "eo": "https://davineroe.github.io/TCF/combinaison/eo_combinaison.json"
       }
     }
   ]
