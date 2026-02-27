@@ -3,7 +3,7 @@
     {
       "combinaisons": [
         {
-          "numero": 8,
+          "numero": 1,
           "taches": [
             {
               "numero": 1,
@@ -23,41 +23,73 @@
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Avec le développement des nouvelles technologies et l’omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo..."
+                  "texte": "Avec le développement des nouvelles technologies et l'omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo et des tablettes. Les parents s'inquiètent de cette désaffection pour les livres qui pourrait avoir des conséquences sur le développement intellectuel de leurs enfants."
                 },
                 {
                   "numero": 2,
-                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans..."
+                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans. Les bibliothèques tentent de s'adapter en proposant des espaces numériques et des ateliers pour reconquérir le jeune public."
                 }
               ]
             }
-          ],
-
+          ]
+        },
+        {
           "numero": 2,
           "taches": [
             {
               "numero": 1,
-              "consigne": "Votre ami(e) veut commencer à faire du sport. Rédigez un message pour lui recommander une salle dans votre quartier en précisant son emplacement, les tarifs et les activités proposées.",
-              "min_mots": 60,
+              "consigne": "Vous avez récemment changé d'appartement. Écrivez un email à un ami pour lui décrire votre nouveau logement, son quartier et l'inviter à le visiter.",
+              "min_mots": 80,
+              "max_mots": 130
+            },
+            {
+              "numero": 2,
+              "consigne": "Racontez une expérience de voyage qui vous a particulièrement marqué(e) en décrivant les lieux visités, les rencontres faites et les émotions ressenties.",
+              "min_mots": 130,
+              "max_mots": 160
+            },
+            {
+              "numero": 3,
+              "theme": "Les Transports en Commun",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Dans les grandes villes, les transports en commun connaissent une affluence record aux heures de pointe. Les usagers se plaignent régulièrement des retards et de la vétusté de certaines infrastructures malgré les investissements annoncés par les municipalités."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Face à l'urgence climatique, de plus en plus de citoyens abandonnent leur voiture individuelle au profit des transports collectifs. Cette transition écologique pousse les autorités à repenser entièrement leur réseau de transport urbain."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre entreprise organise une journée de team-building. Rédigez une note pour présenter le programme de cette journée à vos collègues.",
+              "min_mots": 70,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Vous avez assisté à un événement marquant (anniversaire, mariage, etc.). Écrivez un récit pour partager votre souvenir et mettre en avant ce qui vous a le plus marqué.",
-              "min_mots": 120,
+              "consigne": "Décrivez votre plat préféré en expliquant comment il se prépare, pourquoi vous l'aimez et avec qui vous aimez le partager.",
+              "min_mots": 110,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "La Lecture pour les Enfants",
+              "theme": "L'Importance du Sommeil",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Avec le développement des nouvelles technologies et l’omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo..."
+                  "texte": "Les médecins tirent la sonnette d'alarme : les Français dorment en moyenne une heure et demie de moins qu'il y a cinquante ans. Ce manque de sommeil chronique aurait des conséquences désastreuses sur la santé physique et mentale de la population."
                 },
                 {
                   "numero": 2,
-                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans..."
+                  "texte": "Le rythme de vie moderne, avec ses sollicitations permanentes et la lumière bleue des écrans, perturbe notre horloge biologique. Les experts recommandent de respecter des cycles de sommeil réguliers et d'éviter les excitants en fin de journée."
                 }
               ]
             }
