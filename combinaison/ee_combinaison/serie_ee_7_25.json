@@ -1,0 +1,132 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message pour inviter votre ami(e) à venir passer ses vacances dans votre ville. Présentez-lui les lieux intéressants et les endroits à visiter.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours pour gagner un séjour de deux semaines dans la ville que vous préférez. Le thème du concours est « Mon artiste préféré ». Rédigez un article de blog pour présenter cet artiste.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Chasse Aux Animaux : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "« Je fais partie de ces personnes qui ne parviennent pas à comprendre qu'on puisse ressentir du plaisir en tuant des animaux. Cela me dépasse totalement. J'ai également du mal à concevoir que certaines personnes puissent prétendre aimer la nature tout en participant activement à sa destruction. » – Sabrina, 29 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "« Il existe de nombreuses raisons pour lesquelles certaines personnes pratiquent la chasse. Cela peut être pour se nourrir, dans un but commercial, ou encore pour gérer et réguler certaines espèces animales. D'autres le font pour défendre leurs terres ou simplement comme activité physique, de loisir ou même pour gagner en reconnaissance sociale. » – David, journaliste à la FRM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut, j'ai entendu dire que tu vas dans une super salle de sport. Tu peux m'en parler ? » Vous lui répondez dans un message et vous donnez des détails sur cette salle (ambiance, équipements, prix, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez lu un débat sur un forum au sujet des formations en ligne. Écrivez un message pour raconter votre propre expérience (cours de langue, formation professionnelle, etc.). Dites ce que vous avez apprécié et ce que vous avez moins aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Produits Faits Maison : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Préparer soi-même des produits bio à la maison permet de maîtriser totalement les ingrédients utilisés, ce qui assure des solutions plus adaptées et meilleures pour la santé. Cela aide aussi à limiter les déchets plastiques en utilisant des contenants réutilisables. Par ailleurs, cela permet d'économiser sur le long terme et d'apprendre des savoir-faire créatifs, tout en adoptant un mode de vie plus responsable."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Faire des produits bio chez soi présente certains inconvénients. Des erreurs dans les recettes peuvent rendre les produits inefficaces ou causer des réactions. De plus, chercher et préparer les ingrédients demande du temps et de l'énergie. Ces produits n'ont pas toujours de garanties de sécurité ou de conservation, ce qui peut favoriser les bactéries. Enfin, les ingrédients de qualité coûtent cher au départ, ce qui peut décourager certaines personnes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami(e) souhaite découvrir la région où vous habitez. Rédigez-lui un message dans lequel vous lui recommandez quelques endroits intéressants à visiter.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez récemment suivi un cours de sport dans une salle de votre ville. Rédigez un article pour votre blog personnel afin de raconter cette expérience et donner votre avis sur cette salle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Livraison Des Repas Au Bureau : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Commander un repas livré au bureau fait gagner du temps. En effet, on peut rester sur place pendant la pause déjeuner, ce qui permet de finir plus tôt sa journée. Ce service permet aussi à chacun de choisir le repas qui lui plaît : si l'un veut un plat italien et l'autre des sushis, chacun peut commander séparément sans problème. Un autre avantage est la disponibilité : certains restaurants fonctionnent 24 heures sur 24, ce qui rend ce service accessible à tout moment."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Mais ce mode de consommation présente aussi des limites. Quand il y a trop de commandes, les livreurs peuvent être débordés, ce qui entraîne des retards et du stress. Pour les employés, rester assis à son bureau sans faire de vraie pause peut provoquer de la fatigue. Il est donc conseillé de faire une vraie coupure, même courte, pour rester efficace dans son travail."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez bientôt vous installer à Nice. Vous écrivez un message à une agence immobilière pour chercher un logement. Indiquez ce que vous recherchez (taille du logement, budget, nombre de pièces, quartier, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez de commencer des cours dans une école de langues. Vous écrivez à vos amis pour leur raconter votre première semaine. Donnez vos impressions sur les cours, les professeurs et l'ambiance de l'école.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Caméras De Surveillance : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Aujourd'hui, les caméras de surveillance sont de plus en plus présentes dans les villes. Beaucoup de Français les apprécient, car elles leur donnent un sentiment de sécurité. Selon un sondage, 75 % des personnes interrogées soutiennent leur développement. La majorité accepte d'être filmée dans les lieux publics comme les rues, les magasins ou les transports. En revanche, ils ne veulent pas être surveillés sur leur lieu de travail. En France, très peu de caméras sont installées dans les entreprises."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Des recherches montrent que la vidéosurveillance est coûteuse et peu efficace. Les caméras sont faciles à repérer, ce qui limite leur impact pour empêcher les délits comme le vol, la drogue ou la violence. De plus, leur utilisation demande beaucoup de ressources humaines. Une étude allemande indique qu'il faut jusqu'à sept personnes pour suivre et analyser les images d'une seule caméra."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
