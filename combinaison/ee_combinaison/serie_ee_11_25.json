@@ -1,0 +1,380 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous partez bientôt en vacances avec vos amis et vous avez trouvé un hôtel. Vous leur écrivez un message pour leur présenter cet établissement (prix, emplacement, équipements, etc.) et leur suggérez d'y faire une réservation.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous travaillez actuellement à l'étranger. Vous écrivez un message à vos amis pour leur raconter cette nouvelle expérience professionnelle et partagez ce qui vous a le plus plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Des recherches ont montré que certaines zones du cerveau chez l'adulte peuvent se développer grâce aux jeux vidéo. Ils peuvent donc être bénéfiques, car ils améliorent la réflexion, la rapidité et la prise de décision. C'est une bonne chose, puisque 83 % des joueurs sont des adultes. Cependant, il faut rester vigilant, car tous les jeux ne produisent pas ces effets positifs sur le cerveau. Lucas, 28 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Une étude menée pendant trois ans auprès d'enfants de 8 à 17 ans révèle que ceux qui jouent beaucoup aux jeux vidéo deviennent plus nerveux, plus agressifs et plus stressés. Ils obtiennent aussi de moins bons résultats scolaires que les autres. Il est donc recommandé aux parents de surveiller le temps de jeu et d'en limiter l'usage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut ! Je sais que tu t'es mis(e) au sport depuis le mois dernier. Ça m'intéresse beaucoup et j'aimerais venir avec toi. Tu peux m'en dire un peu plus ? À bientôt ! Camille » Vous répondez à votre ami(e) Camille. Dans votre message, vous décrivez le sport que vous pratiquez et vous donnez des précisions utiles (lieu, durée, prix, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tout quitter pour changer de vie ? « Il y a deux ans, nous avons décidé de tout recommencer. Paul a quitté son travail de banquier à Paris et nous avons ouvert une boulangerie à Calgary ! Que pensez-vous de ce choix ? Avez-vous déjà vécu un grand changement, professionnel ou personnel ? Paul et Naïma » Vous avez lu ce message sur un forum. Vous répondez à Paul et Naïma pour donner votre avis sur leur décision et expliquer ce que vous feriez dans une situation semblable.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Bien-être au Travail",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Nous avons installé dans l'entreprise des bureaux réglables en hauteur afin de permettre aux employés de choisir la position la plus confortable pour travailler. Les salariés sont contents et affirment être plus efficaces et concentrés, notamment lors des appels téléphoniques. De plus, l'ambiance générale s'est améliorée et la communication entre collègues est devenue plus agréable. Marie, responsable."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Aujourd'hui, les entreprises recherchent toujours plus de rendement et de performance. Les employés passent donc davantage de temps sur leur lieu de travail. Les entreprises tentent souvent de montrer qu'elles se soucient du bien-être de leurs employés, mais c'est aussi une manière de les inciter à travailler davantage. Pour ma part, je préfère simplement faire mon travail durant mes horaires normaux sans devoir faire d'heures supplémentaires. Franck, ingénieur."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Je suis votre amie Anna et je prévois de passer un week-end dans votre ville. Donnez-moi des informations sur les moyens de transport disponibles pour découvrir la ville. Répondez à Anna dans un message.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à la fête des voisins de votre quartier. Écrivez un article sur votre blog pour expliquer pourquoi vous avez apprécié cet événement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Distributeurs de Boissons dans les Lycées : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je suis favorable à la présence de distributeurs de boissons dans les lycées. Ils offrent un service pratique aux élèves, surtout à ceux qui n'ont pas le temps d'aller à la cafétéria pendant les pauses. S'ils sont bien gérés, ils peuvent proposer des boissons saines comme de l'eau, des jus de fruits naturels ou des boissons sans sucre ajouté. De plus, les bénéfices générés peuvent aider à financer des projets ou améliorer les équipements scolaires."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Je suis opposé à l'installation de distributeurs de boissons dans les lycées, principalement pour des raisons de santé. La majorité contient des boissons trop sucrées, comme les sodas, qui favorisent le surpoids et le diabète. Même les jus de fruits peuvent contenir beaucoup de sucre. L'école doit promouvoir de bonnes habitudes alimentaires, et la présence de ces distributeurs risque d'encourager une consommation excessive de produits sucrés."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez organiser un week-end sportif avec vos amis. Vous leur écrivez une lettre pour leur proposer cette idée en précisant la date, le lieu et le programme prévu.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Rédigez un article sur votre blog pour expliquer les raisons qui vous ont poussé à modifier vos habitudes alimentaires et raconter comment vous avez changé votre manière de manger.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Sieste au Travail : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Selon le site \"siestepourtous.com\", une courte sieste permettrait d'améliorer la productivité et la créativité des employés de 35 %, ce qui profite à la fois aux salariés et aux entreprises. Elle contribuerait aussi à renforcer la mémoire et la concentration. Un travailleur bien reposé serait plus attentif et plus efficace. De plus, la sieste réduirait le stress et les risques de maladies cardiovasculaires."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Même si les bienfaits de la sieste sont reconnus, certaines personnes restent opposées à sa mise en place. En effet, toutes les entreprises n'ont pas les moyens d'aménager des espaces adaptés au repos. Pour autoriser la sieste, elles doivent respecter plusieurs conditions : disposer d'un local spécifique, garantir l'égalité entre salariés et prévenir les risques liés au harcèlement. Sa mise en œuvre reste donc complexe pour de nombreuses structures."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous écrivez un message pour inviter votre ami(e) à venir passer ses vacances dans votre ville. Vous lui présentez les lieux et les endroits intéressants à visiter.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours pour gagner un séjour de deux semaines dans votre ville préférée. Le thème du concours est « Mon artiste préféré ». Vous rédigez un article sur votre blog pour parler de l'artiste que vous aimez le plus.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Chasse aux Animaux : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je ne comprends pas comment on peut éprouver du plaisir à tuer des animaux. Je ne saisis pas non plus comment on peut prétendre aimer la nature tout en la détruisant. Élodie, 29 ans."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les raisons de la chasse varient selon les personnes : elle peut servir à se nourrir, à faire du commerce, à gérer la faune, à protéger les biens, ou encore être pratiquée pour le sport, la détente ou le prestige. Baptiste, journaliste à la FRM."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez assister à un festival de cinéma organisé dans votre ville. Vous écrivez un message à votre ami(e) pour l'inviter à venir avec vous. Vous lui donnez les informations utiles sur l'événement (films présentés, dates, horaires, tarifs, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez hébergé un(e) étudiant(e) étranger(e) pendant une semaine. Vous écrivez un article sur votre blog pour raconter cette expérience et expliquer ce que vous avez apprécié durant ce séjour.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Restauration Rapide : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les restaurants de restauration rapide mettent en avant leur volonté d'offrir une large gamme de plats équilibrés tout en respectant les règles d'hygiène. En permettant aux clients de composer eux-mêmes leur repas, ils les rendent responsables de leurs choix et répondent à leurs goûts personnels."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Selon certains experts, consommer régulièrement dans des fast-foods présente des risques pour la santé. Les menus proposés sont souvent similaires : frites, hamburgers et boissons sucrées, très riches en calories. De plus, les produits sont majoritairement emballés dans du plastique, ce qui génère beaucoup de déchets et nuit à l'environnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« J'ai hâte de passer la journée avec toi demain au parc de loisirs. Peux-tu me dire ce que nous allons faire ? » Répondez à votre ami(e) en décrivant la sortie (horaires, moyens de transport, activités prévues, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous écrivez un message à vos amis pour leur raconter votre expérience au salon du livre. Vous décrivez les moments marquants (conférences, expositions, rencontres avec des auteurs, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Faire ses Courses Alimentaires : Chez les Producteurs Locaux ou au Supermarché ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Richard, qui habite à la campagne, préfère acheter ses produits alimentaires directement à la ferme. Il apprécie leur qualité, même s'ils coûtent un peu plus cher."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Karine, qui vit en ville, choisit de faire ses courses au supermarché. Elle aime la variété des produits proposés et les prix plus avantageux."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez aller à un festival de cinéma organisé dans votre ville. Vous écrivez un message à votre ami(e) pour lui proposer d'y aller avec vous. Vous lui donnez les informations importantes sur l'événement (films présentés, dates, horaires, tarifs, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez récemment participé à un festival de cinéma et un film vous a particulièrement plu. Vous écrivez un message à vos amis pour raconter votre expérience et leur parler du film qui vous a le plus marqué.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Maisons de Retraite : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les maisons de retraite représentent une bonne option pour les personnes âgées. Elles y bénéficient de soins adaptés et de la présence de professionnels. De plus, elles participent à des activités qui favorisent les échanges et leur évitent la solitude. Dans certains cas, c'est une meilleure solution que de vivre seules chez elles."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les maisons de retraite peuvent créer un sentiment d'éloignement et d'abandon chez les personnes âgées. Les conditions ne sont pas toujours satisfaisantes, et certains établissements manquent de personnel formé. Le maintien à domicile me semble une meilleure alternative, car il permet de rester proche de sa famille."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut ! Je suis d'accord pour m'occuper de ta maison et de ton jardin pendant tes vacances. Tu peux m'expliquer ce que je dois faire ? À bientôt, Cédric » Vous répondez à Cédric. Dans votre message, vous lui indiquez ce qu'il doit faire chez vous pendant votre absence (entretien du jardin, plantes, courrier, animaux, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez effectué un séjour à l'étranger organisé par une agence de voyages, mais vous êtes déçu(e) des services proposés. Vous écrivez à l'agence pour raconter votre expérience et donner votre avis sur la qualité du séjour.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Restauration Rapide : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je suis totalement opposée à la restauration rapide, car on ignore souvent quels ingrédients sont utilisés. Pour moi, la qualité des aliments dans ces établissements est mauvaise. Ce type de nourriture peut provoquer des problèmes de santé, comme le montre le film « Supersize Me ». Certes, manger des hamburgers ou des frites est simple et peu coûteux, mais il vaut mieux faire d'autres choix pour préserver sa santé."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Je suis favorable à la restauration rapide. Je travaille pour une grande chaîne et je pense qu'on peut y manger équilibré. Les menus sont complets : salades, légumes, viande, pain, etc. Le client reste responsable de ses choix alimentaires. S'il commande trop de sandwichs ou de sauces, ce n'est pas un repas sain. De plus, ces restaurants respectent des règles strictes d'hygiène et sont pratiques pour venir en famille ou entre amis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "La bibliothèque de votre quartier organise une rencontre avec un(e) écrivain(e). Vous souhaitez y assister avec un(e) ami(e). Vous lui écrivez un message pour décrire l'événement et l'inviter à venir avec vous.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Dans le cadre de la Semaine du goût, vous avez participé à une activité de découverte des cuisines du monde. Vous rédigez un article pour le site de votre ville afin de raconter cette expérience et d'expliquer ce que vous avez apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Art Urbain : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Dans de nombreuses grandes villes, on voit de plus en plus de peintures et de fresques sur les murs des bâtiments, des écoles ou même des églises. L'art urbain permet d'intégrer la culture dans l'espace public. Certains maires estiment qu'il est essentiel d'offrir aux artistes des lieux autorisés pour s'exprimer. De plus, ces œuvres attirent les touristes, qui découvrent la ville à travers des visites dédiées à cet art."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Plusieurs villes dépensent beaucoup d'argent pour effacer les graffitis. Ces dessins sur les murs, les bancs ou dans le métro sont difficiles à nettoyer et nécessitent l'intervention d'équipes spécialisées. Certains habitants pensent que ces peintures dégradent l'image de leur quartier et irritent les propriétaires, qui doivent parfois les effacer eux-mêmes. Malgré les amendes et les interdictions, de nouveaux graffitis apparaissent sans cesse dans les villes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous venez d'emménager dans un nouveau logement et vous cherchez un colocataire. Vous rédigez une annonce avec les informations essentielles sur l'appartement (emplacement, superficie, loyer, équipements, etc.) et vous décrivez le type de personne avec qui vous aimeriez partager ce logement (personnalité, habitudes de vie, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez commencé une nouvelle activité de loisir (danse, sport, peinture, etc.). Vous écrivez un message à vos amis pour raconter cette expérience et donner votre avis sur cette activité.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Gratuité des Musées : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La gratuité fait partie de l'identité des musées, car elle symbolise le partage de la culture. De nombreux professionnels du secteur souhaitent favoriser l'accès à tous en réduisant les obstacles financiers. Depuis longtemps, les musées nationaux ouvrent gratuitement leurs portes un dimanche par mois afin d'attirer un public plus large. Le musée, en tant que lieu d'apprentissage, doit rester accessible au plus grand nombre. (D'après ouest-france.fr)"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Rendre les musées entièrement gratuits n'est pas une bonne idée, car cela donne l'impression que la culture ne coûte rien. Les musées ont pourtant besoin de ressources pour préserver et enrichir leurs collections. Proposer des tarifs réduits à certains publics serait plus juste. Pour que cela fonctionne, il faut accompagner ces visiteurs, par exemple en organisant des visites pour les jeunes ou les personnes à mobilité réduite. Le but est de créer une vraie interaction entre le musée et ses visiteurs grâce à des activités adaptées. (D'après lesechos.fr)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez bientôt déménager et vos amis ont proposé de vous aider. Vous leur écrivez un message collectif pour expliquer comment la journée va s'organiser (lieux, horaires, trajet, durée, tâches à faire, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Participez à notre concours pour gagner un séjour pour deux personnes dans la ville de votre choix ! Thème : « La vie de mon artiste préféré(e) ». Vous rédigez un article pour ce concours où vous expliquez les raisons de votre choix et racontez la vie de votre artiste préféré(e).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Objets Connectés : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les objets connectés simplifient la vie de tous les jours. Ils permettent de contrôler à distance certains équipements, comme le chauffage ou les portes, grâce à un téléphone ou à Internet. Les montres et bracelets connectés analysent nos activités et nous encouragent à bouger davantage. Ils sont aussi très utiles pour le suivi de la santé : certains rappellent les rendez-vous médicaux ou les médicaments à prendre, comme un carnet de santé numérique."
+                },
+                {
+                  "numero": 2,
+                  "texte": "On estime qu'il existe environ 50 milliards d'objets connectés dans le monde : alarmes, téléviseurs, volets, caméras, détecteurs de fumée, etc. Mais cette évolution soulève des problèmes de sécurité. Des pirates peuvent facilement prendre le contrôle de ces appareils. Par exemple, un cambrioleur pourrait observer si une maison est vide ou un pirate pourrait même manipuler à distance une voiture connectée."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
