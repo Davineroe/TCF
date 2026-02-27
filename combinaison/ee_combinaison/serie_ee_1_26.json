@@ -3,31 +3,310 @@
     {
       "combinaisons": [
         {
-          "numero": 8,
+          "numero": 1,
           "taches": [
             {
               "numero": 1,
-              "consigne": "Votre ami(e) veut commencer à faire du sport. Rédigez un message pour lui recommander une salle dans votre quartier en précisant son emplacement, les tarifs et les activités proposées.",
+              "consigne": "Salut, Comment vas-tu ? Alors, comment est ta nouvelle université ? Les étudiants sont-ils sympathiques ? Et les professeurs, comment sont-ils ? À bientôt. Alex. Vous répondez à Alex dans un message où vous présentez votre université (enseignants, étudiants, activités proposées, etc.).",
               "min_mots": 60,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Vous avez assisté à un événement marquant (anniversaire, mariage, etc.). Écrivez un récit pour partager votre souvenir et mettre en avant ce qui vous a le plus marqué.",
+              "consigne": "Vous avez décidé d'arrêter d'utiliser votre réseau social préféré. Vous écrivez à vos amis pour raconter cette expérience et expliquer les raisons de votre choix.",
               "min_mots": 120,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "La Lecture pour les Enfants",
+              "theme": "La Photo sur le CV : Pour ou Contre ?",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Avec le développement des nouvelles technologies et l’omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo..."
+                  "texte": "Aujourd'hui, certains candidats ajoutent une photo à leur CV, d'autres non. Pour éviter les discriminations, il faudrait interdire les photos. Des études montrent que les recruteurs accordent plus d'importance à l'expérience et aux diplômes qu'à l'apparence. Très peu d'employeurs commencent la lecture d'un CV par la photo, ce qui prouve qu'elle est peu utile."
                 },
                 {
                   "numero": 2,
-                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans..."
+                  "texte": "La présence d'une photo sur le CV divise les recruteurs. Pour certains, elle aide à mieux visualiser le candidat et à s'en souvenir lorsqu'il y a beaucoup de CV. Dans certains métiers, notamment dans l'accueil, la photo peut être pertinente. Cependant, elle doit rester professionnelle afin de donner une image positive."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez trouvé un nouvel emploi. Vous écrivez à votre ami(e) francophone pour lui annoncer la nouvelle et décrire votre poste, vos collègues et votre lieu de travail.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Bonjour à tous, J'ai 19 ans et je vais bientôt partir étudier à l'étranger. J'aimerais lire les témoignages et les avis d'étudiants qui ont déjà vécu cette expérience loin de leur pays. Merci pour vos réponses. Marie. Vous avez étudié à l'étranger pendant un an. Vous publiez une réponse sur le forum. Vous racontez votre expérience à l'étranger, vous dites si cette expérience vous a plu ou non et vous expliquez pourquoi.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Aide aux Personnes en Difficulté",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Nadine, 56 ans : Chaque hiver, je consacre un peu de temps et d'argent pour aider les personnes qui vivent dans la rue. Pour moi, il est important de penser à ceux qui sont dans le besoin. Donner quelques dollars ou soutenir des associations est essentiel. Cette action me donne le sentiment d'être utile, au moins une fois par an. C'est un geste de solidarité accessible à tous."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Jean, 65 ans : Au lieu de donner de l'argent directement, il serait préférable de changer notre mode de vie. Je préfère m'engager régulièrement comme bénévole dans une association locale. Les personnes sans logement ont surtout besoin d'un travail et d'un toit. Les aider à devenir autonomes est plus efficace. Donner de l'argent ne fait que soulager notre conscience sans résoudre le problème."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous écrivez un courriel à votre ami pour lui proposer de passer une journée avec vous. Vous précisez le lieu, la date et les activités prévues.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à une journée de formation dans votre entreprise. Vous écrivez un courriel à vos collègues pour raconter le déroulement de cette journée et dire ce que vous avez apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Colocation entre Adultes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Vivre avec d'autres adultes implique de bien s'entendre et de respecter certaines règles. Il n'est pas toujours possible d'écouter de la musique forte, d'inviter des amis pour faire la fête ou de laisser la vaisselle sale. Chacun a des habitudes qui peuvent déranger les autres. Il est donc indispensable de fixer des règles communes et de les respecter. Une bonne communication est essentielle pour résoudre les problèmes. L'organisation et le dialogue sont indispensables pour que la colocation fonctionne bien."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Vivre en colocation à l'âge adulte permet d'accéder à un logement plus grand et moins cher. Même si l'on ne dispose que d'une chambre personnelle et que les espaces communs sont partagés, il est possible de vivre dans une maison avec jardin ou un grand appartement bien situé. En partageant le loyer et les charges, les dépenses sont nettement réduites par rapport à un logement individuel. La colocation offre donc des solutions de logement plus abordables."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Le journal « Bienvenue » souhaite publier un article consacré aux habitants de notre ville. Vous écrivez un message destiné à paraître dans ce numéro. Vous êtes récemment installé(e) dans cette ville et il vous est demandé de vous présenter, puis de décrire vos lieux préférés dans la ville.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez d'assister à un concert de votre artiste préféré. Vous écrivez un article sur votre blog personnel pour raconter cette expérience et donner envie à vos amis et aux lecteurs d'assister à son prochain concert.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les enfants, jusqu'à l'adolescence, jouent régulièrement aux jeux vidéo et, avec le temps, cela peut entraîner des pensées négatives et des comportements agressifs. Une étude récente menée auprès d'enfants âgés de 9 à 18 ans, qui jouent fréquemment aux jeux vidéo, montre que les jeux violents augmentent fortement l'agressivité. Selon Diego Gentil, ce phénomène serait inévitable, quel que soit le niveau de surveillance des parents."
+                },
+                {
+                  "numero": 2,
+                  "texte": "On évoque souvent les effets négatifs des jeux vidéo, mais ils peuvent aussi présenter certains avantages pour le cerveau et la santé en général. Par exemple, les jeux vidéo peuvent améliorer plusieurs fonctions cognitives, comme la concentration, la créativité et la capacité d'analyse. Cela peut s'expliquer par le fait que, lorsqu'on joue, il faut constamment réfléchir et trouver des solutions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous écrivez un message à votre ami(e) pour l'informer de l'organisation de votre déménagement vers votre nouveau logement et lui demander de vous aider (date, lieu, déroulement, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours permettant de gagner un séjour de deux semaines dans votre ville préférée. Le thème du concours est « Mon artiste préféré ». Vous écrivez un article de blog pour présenter votre artiste préféré.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Objets Connectés",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les objets connectés rendent la vie quotidienne plus simple. Il s'agit d'appareils que l'on peut contrôler à distance grâce à un téléphone portable ou à Internet, comme le chauffage ou les portes d'un logement. Les montres et bracelets connectés permettent également d'analyser nos activités. Un programme peut compter nos pas afin de nous encourager à faire plus d'exercice. Leur utilité est particulièrement visible dans le domaine de la santé, car certains objets fonctionnent comme un carnet médical en rappelant les rendez-vous ou la prise de médicaments."
+                },
+                {
+                  "numero": 2,
+                  "texte": "On estime qu'il existe environ 50 milliards d'objets connectés dans le monde : alarmes, téléviseurs, caméras de surveillance, volets, détecteurs de fumée, etc. Cette évolution pose cependant des problèmes de sécurité. Un pirate informatique peut prendre le contrôle d'un objet connecté en peu de temps. Par exemple, un cambrioleur pourrait vérifier, grâce à des caméras connectées, si une maison est vide. Il est également possible de pirater le système connecté d'une voiture et d'en contrôler le fonctionnement à distance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous pratiquez un sport dans un club. Vous venez de gagner une compétition. Vous écrivez un courriel à vos amis pour leur raconter cet événement sportif et leur annoncer votre succès.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Le site « colocation.com » recherche des témoignages sur des expériences de colocation. Vous avez déjà vécu en colocation avec des amis. Vous partagez votre expérience avec les membres du site et vous donnez votre avis sur ce mode de logement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Grossissement des Villes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Aujourd'hui, les villes ne cessent de s'agrandir. Malheureusement, ce phénomène a un impact important sur l'environnement. Plus une ville se développe, plus ses effets sur la nature, et donc sur l'être humain, sont négatifs. L'un des impacts les plus visibles est la déforestation. Les arbres et les espaces verts retiennent le carbone. Lorsqu'ils sont supprimés pour construire des routes ou des immeubles, on détruit des zones capables de stocker de grandes quantités de carbone."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Plus de la moitié de la population mondiale vit en ville, et dans les pays développés, huit personnes sur dix sont citadines. La vie urbaine représente donc un enjeu écologique majeur. On affirme souvent que l'organisation des villes actuelles n'est pas respectueuse de l'environnement et que leur expansion aggrave la situation. Pourtant, il faut nuancer cette idée : les villes ne sont pas toujours aussi polluantes qu'on le pense. Par exemple, un habitant de la ville consomme généralement moins d'énergie qu'une personne vivant à la campagne."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez organiser une sortie culturelle dans votre ville. Vous envoyez un message à vos amis pour les inviter et leur transmettre toutes les informations utiles (date, lieu, activités prévues, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à une soirée écologique organisée dans votre université pour la protection de la planète. Vous racontez cette expérience sur votre blog et expliquez pourquoi cette soirée vous a plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Devoirs à la Maison : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "D'après des associations de parents d'élèves, les devoirs à domicile sont utiles car ils aident les élèves à mieux gérer leur temps de façon autonome. Pour les parents, les devoirs représentent un lien quotidien avec l'école. Même s'il est parfois difficile de s'en occuper après une journée de travail fatigante, ils apprécient ce moment partagé avec leurs enfants, qui sont heureux de voir l'intérêt que leurs parents leur portent. Cela est valorisant."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Nous contestons depuis longtemps les devoirs à la maison pour plusieurs raisons. Leur efficacité pour améliorer les résultats scolaires n'a jamais été réellement prouvée. De nombreux parents manquent de temps ou ne savent pas aider leurs enfants. De leur côté, les élèves qui ont compris en classe perdent du temps à refaire les exercices à la maison, tandis que ceux qui ne sont pas accompagnés restent en difficulté. C'est pourquoi nous pensons qu'il faudrait supprimer les devoirs à la maison."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Je recherche un vélo en bon état à un prix abordable. Contactez-moi par courriel : Thomas@gmail.com » Vous possédez un vélo à vendre. Vous écrivez un courriel pour présenter votre vélo et proposer un prix. Vous fixez également un rendez-vous pour que la personne puisse l'essayer.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous écrivez un message à vos amis pour leur raconter votre expérience de travail saisonnier réalisé pendant les vacances d'été.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Gratuité des Transports en Commun : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Rendre les transports en commun gratuits est une excellente initiative. Cela permet de réduire le nombre de voitures en circulation et de limiter les embouteillages. C'est aussi une solution efficace pour diminuer la pollution et les problèmes de santé liés à la qualité de l'air. Dans ma ville, les transports sont gratuits et on constate une augmentation de leur utilisation. Cette mesure a également eu un effet positif sur les commerces du centre-ville, car les habitants y reviennent plus facilement pour faire leurs achats."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Selon moi, cette idée n'est pas pertinente. Tout d'abord, la gratuité représenterait un coût important pour les municipalités, alors que certaines villes, comme Toulouse, ont d'autres priorités. Par exemple, l'aménagement des espaces verts devrait être traité en premier. Ensuite, il serait préférable d'améliorer l'organisation des transports publics plutôt que de les rendre gratuits, car certains quartiers sont mal desservis. Enfin, garder les transports payants incite les usagers à mieux respecter les équipements, puisqu'ils contribuent financièrement à leur fonctionnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez vu une annonce sur un site Internet proposant d'aider les personnes qui souhaitent apprendre le français en les mettant en contact avec des partenaires pour pratiquer la langue et améliorer leur niveau. Vous envoyez un courriel pour répondre à cette annonce, en vous présentant et en expliquant pourquoi vous voulez pratiquer le français.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez été invité(e) à une fête de famille. Vous écrivez un message à vos amis pour raconter cette fête et expliquer ce que vous avez le plus apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Interdiction des Voitures dans les Centres-Villes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Face à des niveaux de pollution très élevés observés dans plusieurs régions du monde, certaines villes ont choisi d'interdire la circulation automobile dans les zones urbaines. La ville d'Oslo, en Norvège, a récemment adopté cette mesure et en tire un bilan positif, estimant qu'elle profite à tous. Avec le temps, les accidents diminuent, la dépendance au pétrole baisse et la qualité de l'air s'améliore."
+                },
+                {
+                  "numero": 2,
+                  "texte": "De nombreuses villes lancent des projets visant à interdire les voitures en centre-ville sans prévoir les infrastructures nécessaires à cette transition. Il est vrai que la réduction du trafic permettrait de diminuer les embouteillages, le stress et la pollution de l'air. Cependant, il faut aussi anticiper la création de grands parkings, renforcer les transports en commun comme les bus et les métros, et accorder des autorisations spéciales à certains professionnels, tels que les services d'urgence, la police ou les livreurs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez inviter vos amis à visiter un lieu touristique que vous aimez beaucoup. Dans un message convivial, vous décrivez ce lieu, expliquez ce qui vous plaît et proposez une date, un horaire et un hébergement pour cette sortie.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un festival (musique, cinéma, gastronomie, etc.), mais l'expérience vous a déçu. Vous écrivez un article sur votre blog pour expliquer ce qui ne vous a pas satisfait.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Vie à la Campagne : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Selon moi, la vie en ville offre de nombreuses possibilités de loisirs. Il est facile d'aller au cinéma, de manger au restaurant ou de faire les magasins. Tout se trouve à proximité, ce qui évite de longs déplacements pour se divertir. Il suffit de marcher un peu ou de prendre un taxi si nécessaire. La ville propose également une grande variété d'activités culturelles comme les musées, les théâtres ou les opéras, ce qui permet à chacun de trouver ce qui lui plaît."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Récemment, j'ai choisi de quitter la ville pour m'installer à la campagne, car je ressentais le besoin de vivre plus près de la nature et de profiter du calme. Aujourd'hui, plutôt que de sortir dans les bars ou les restaurants, j'invite des amis chez moi pour partager un verre sur la terrasse ou organiser un barbecue dans le jardin. Le prix du logement a aussi joué un rôle important dans mon choix. À la campagne, les habitations sont beaucoup moins chères qu'en ville. Avec le même budget, j'ai pu acheter une grande maison avec une terrasse et un jardin, ce qui aurait été impossible en milieu urbain."
                 }
               ]
             }
