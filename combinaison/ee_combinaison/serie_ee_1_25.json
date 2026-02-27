@@ -1,0 +1,39 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami(e) veut commencer à faire du sport. Rédigez un message pour lui recommander une salle dans votre quartier en précisant son emplacement, les tarifs et les activités proposées.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à un événement marquant (anniversaire, mariage, etc.). Écrivez un récit pour partager votre souvenir et mettre en avant ce qui vous a le plus marqué.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Lecture pour les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Avec le développement des nouvelles technologies et l’omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo..."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
