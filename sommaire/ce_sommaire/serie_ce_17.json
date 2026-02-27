@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q1.jpg",
+    "sujet": "",
+    "choix": [
+      "À un cours de pâtisserie.",
+      "À un déjeuner chez un ami.",
+      "À une fête d’anniversaire.",
+      "À une sortie en discothèque."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q2.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour lui conseiller un film.",
+      "Pour lui demander des nouvelles.",
+      "Pour lui proposer une sortie.",
+      "Pour lui raconter ses vacances."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q3.jpg",
+    "sujet": "",
+    "choix": [
+      "Un changement de lieu.",
+      "Un nouvel horaire.",
+      "Une absence de professeur.",
+      "Une rencontre entre étudiants."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q4.jpg",
+    "sujet": "",
+    "choix": [
+      "Avant ce soir.",
+      "Cette semaine.",
+      "Dans trois mois.",
+      "Pendant le déjeuner."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q5xy.jpg",
+    "sujet": "",
+    "choix": [
+      "Découvrir la nourriture locale.",
+      "Gagner un repas traditionnel.",
+      "Prendre un cours de cuisine.",
+      "Visiter une ferme française."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q6.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle est en voyage à Montpellier.",
+      "Elle rencontre des amis à Paris.",
+      "Elle suit des cours à l’université.",
+      "Elle travaille dans un restaurant."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q7xy.jpg",
+    "sujet": "",
+    "choix": [
+      "D’apprendre à conduire.",
+      "De réparer des automobiles.",
+      "De voyager plus rapidement.",
+      "D’utiliser des véhicules."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q8.jpg",
+    "sujet": "",
+    "choix": [
+      "Comment elle a acheté un article en ligne ?",
+      "Où elle a cherché un cadeau bon marché ?",
+      "Pourquoi elle a eu un chèque de réduction ?",
+      "Quand elle a échangé un vêtement soldé ?"
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q9.jpg",
+    "sujet": "",
+    "choix": [
+      "Continuer ses ventes.",
+      "Déménager à Montélimar.",
+      "Rencontrer des clients.",
+      "Téléphoner à Biotopia."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q10.jpg",
+    "sujet": "",
+    "choix": [
+      "Une visite de Londres.",
+      "Un billet d’avion.",
+      "Un séjour à Paris.",
+      "Un voyage en train."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q11.jpg",
+    "sujet": "",
+    "choix": [
+      "De changer les poubelles.",
+      "De collecter du plastique.",
+      "De gagner une bicyclette.",
+      "De travailler pour la mairie."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q12.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle est bonne pour la santé.",
+      "Elle facilite la socialisation.",
+      "Elle développe la mémoire.",
+      "Elle enrichit la personnalité."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q13xy.jpg",
+    "sujet": "",
+    "choix": [
+      "Annuler son achat.",
+      "Échanger son article.",
+      "Obtenir une réduction.",
+      "Rendre le vêtement."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q14.jpg",
+    "sujet": "",
+    "choix": [
+      "Assister à des spectacles.",
+      "Obtenir de meilleures places.",
+      "Rencontrer des comédiens.",
+      "Suivre des visites guidées."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q15.jpg",
+    "sujet": "",
+    "choix": [
+      "Les clubs disparaissaient vite après leur création.",
+      "Les groupes concernés étaient trop nombreux.",
+      "Les lecteurs refusaient de parler à des journalistes.",
+      "Les rencontres se faisaient de manière irrégulière."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q16.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour aider les élèves à ne pas s’enrhumer.",
+      "Pour enseigner le droit à la tolérance.",
+      "Pour respecter des normes d’hygiène.",
+      "Pour supprimer les différences sociales."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q17.jpg",
+    "sujet": "",
+    "choix": [
+      "D’acheter des médicaments sans ordonnance.",
+      "D’avoir le choix entre différents spécialistes.",
+      "De prendre rapidement rendez-vous.",
+      "De traiter seul des affectations bénignes."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q18.jpg",
+    "sujet": "",
+    "choix": [
+      "Un abonnement mensuel.",
+      "Un choix d’appartements.",
+      "Une location moins chère.",
+      "Une offre intéressante."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q19.jpg",
+    "sujet": "",
+    "choix": [
+      "Donner à ces activités une fonction éducative.",
+      "Faire de ces loisirs des moments de partage.",
+      "Fixer des plages horaires pour jouer en ligne.",
+      "S’informer auprès des professionnels de santé."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q20xy.jpg",
+    "sujet": "",
+    "choix": [
+      "Un manque d’intérêt du grand public.",
+      "Un risque de déconcentration des joueurs.",
+      "Une moindre crédibilité des arbitres.",
+      "Une perte de spontanéité des matchs."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q21.jpg",
+    "sujet": "",
+    "choix": [
+      "Améliorer des capacités physiques.",
+      "Découvrir de nouveaux types de sports.",
+      "Développer le cercle de ses relations sociales.",
+      "Maintenir les performances de la mémoire."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q22.jpg",
+    "sujet": "",
+    "choix": [
+      "Il est à l’origine d’une politique de diminution des flux.",
+      "Il nécessite une réorganisation des lieux les plus visités.",
+      "Il permet de répartir les voyageurs sur tout le territoire.",
+      "Il suscite l’engagement des professionnels du secteur."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q23.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle concentre une intense activité diplomatique.",
+      "C’est un carrefour culturel intercontinental.",
+      "C’est une plaque tournante du marché de l’art.",
+      "Elle héberge de multiples lieux d’exposition."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q24.jpg",
+    "sujet": "",
+    "choix": [
+      "Il devient la solution idéale des voyages organisés à la dernière minute.",
+      "Il est accessible à un nombre croissant d’utilisateurs grâce à internet.",
+      "Il occupe une place grandissante dans les petites annonces des journaux.",
+      "Il s’impose comme le moyen de déplacement à la mode chez les jeunes."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q25.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour comparer son histoire à celle de la Terre.",
+      "Pour évaluer les possibilités d’aller y vivre.",
+      "Pour expliquer son grand nombre de séismes.",
+      "Pour obtenir des données sur sa composition."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q26.jpg",
+    "sujet": "",
+    "choix": [
+      "De nouvelles pédagogies semblent nécessaires.",
+      "Il conviendrait d’améliorer les résultats des élèves.",
+      "L’Europe doit engager une réforme des programmes.",
+      "Un soutien scolaire journalier serait bénéfique."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q27xy.jpg",
+    "sujet": "",
+    "choix": [
+      "Les conséquences d’un régime végétarien.",
+      "Les doutes sur les méthodes de production.",
+      "Les effets de l’usage de produits chimiques.",
+      "Les problèmes causés par la surpopulation."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q28.jpg",
+    "sujet": "",
+    "choix": [
+      "La manipulation des clients par les industriels.",
+      "L’attitude imprévisible des consommateurs.",
+      "L’uniformisation des saveurs et des gouts.",
+      "L’utilisation abusive des produits de synthèse."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q29.jpg",
+    "sujet": "",
+    "choix": [
+      "Faire évoluer les mentalités au sujet du handicap au travail.",
+      "Permettre de modifier la législation sur le handicap au travail.",
+      "Recenser les discriminations dont sont victimes les handicapés.",
+      "Subventionner les entreprises qui recrutent des handicapés."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q30.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils finissent par maîtriser l’ensemble des matières.",
+      "Ils font des efforts dans les autres matières étudiées.",
+      "Ils négligent les matières trop faciles pour eux.",
+      "Ils se fixent des objectifs élevés dans ces matières."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q31.jpg",
+    "sujet": "",
+    "choix": [
+      "C’est la photographie qui est la forme d’art la moins valorisée.",
+      "Il y a peu d’événements culturels consacrés à la photographie.",
+      "Les photographies sont commercialisées à bas prix.",
+      "N’importe qui peut s’improviser photographe."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q32.jpg",
+    "sujet": "",
+    "choix": [
+      "De participer à l’exploration du monde numérique.",
+      "De restreindre le temps consacré aux jeux vidéo.",
+      "De sélectionner des contenus adaptés aux enfants.",
+      "De surveiller la navigation des jeunes sur la toile."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q33.jpg",
+    "sujet": "",
+    "choix": [
+      "Il inquiète les patrons de sociétés.",
+      "Il touche les employés les plus faibles.",
+      "Son existence doit être officialisée.",
+      "Son traitement est peu efficace."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q34.jpg",
+    "sujet": "",
+    "choix": [
+      "Ce sont des blessures corporelles superficielles.",
+      "Elles sont commises par des groupes minoritaires.",
+      "Les autorités universitaires s’en préoccupent peu.",
+      "Lutter contre elles peut nuire à certaines libertés."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q35.jpg",
+    "sujet": "",
+    "choix": [
+      "Aborder des œuvres réputées difficiles avec leurs élèves.",
+      "Encourager leurs élèves à écrire des textes littéraires.",
+      "Inviter régulièrement des écrivains célèbres dans leur classe.",
+      "Monter des pièces de théâtre d’auteurs classiques."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q36.jpg",
+    "sujet": "",
+    "choix": [
+      "L’influence de ses contemporains.",
+      "La singularité de ses portraits.",
+      "Son engouement pour la nature.",
+      "Son travail post-impressionniste."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q37.jpg",
+    "sujet": "",
+    "choix": [
+      "Il analyse l’établissement d’une dynastie royale.",
+      "Il explique l’origine d’une légende médiévale.",
+      "Il explore la construction identitaire des Français.",
+      "Il renforce de mythe de la bataille de Bouvines."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q38.jpg",
+    "sujet": "",
+    "choix": [
+      "Il est déconseillé de rester enfermé chez soi.",
+      "Il est inutile de partir loin pour être dépaysé.",
+      "Il faut organiser les voyages avec des proches.",
+      "Il suffit d’apprendre à profiter du quotidien."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-17Q39.jpg",
+    "sujet": "",
+    "choix": [
+      "Améliorer les résultats scolaires.",
+      "Avoir plus de temps pour eux.",
+      "Resserrer les liens familiaux.",
+      "Se donner bonne conscience."
+    ],
+    "bonne_reponse_index": 3
+  }
+]
