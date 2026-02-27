@@ -1,0 +1,132 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez reçu ce message de votre ami Thomas : « Salut ! Je ne connais pas bien la culture et les traditions de ton pays. Peux-tu me parler d'une grande fête célébrée chez toi ? À bientôt ! » Répondez lui en décrivant une fête importante de votre pays.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à un festival de cinéma. Vous avez vu plusieurs films. Sur votre site personnel, vous racontez le film que vous avez préféré. Vous expliquez votre choix.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Maisons de Retraite : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "J'habite dans un pays où il y a très peu de maisons de retraite. Ici, quand une personne âgée ne peut plus être autonome, elle habite avec les générations plus jeunes, et dans l'ensemble, cela ne pose pas de problèmes majeurs. Il nous paraît étrange de confier nos parents ou grands-parents à des personnes qu'ils ne connaissent pas."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Beaucoup de gens critiquent les maisons de retraite, pourtant c'est une bonne solution d'accueil pour les personnes âgées ! D'abord, pour lutter contre l'isolement puisqu'elles sont entourées de personnes de leur âge à la maison de retraite. Ensuite, pour les soins et les services médicaux offerts dans ce type d'établissement. Enfin, parce que c'est pratique et rassurant pour leurs enfants et petits-enfants. Malheureusement, ce type de logement reste encore trop cher pour certains."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Ali t'a envoyé un message pour prendre de tes nouvelles et savoir comment se déroule ton nouveau travail. Il te demande également si tu es satisfait(e) de ton poste. Tu lui réponds en décrivant ton environnement professionnel (lieu, ambiance, collègues, etc.) et en partageant ton ressenti.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vivre avec une personne âgée : Une expérience enrichissante ? Un site internet recueille des témoignages sur la cohabitation avec une personne âgée. Tu partages ton vécu, en expliquant comment tu as vécu cette expérience, les défis rencontrés et ce que tu en as appris.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Apprendre une Langue en Ligne : Une Bonne Alternative ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "L'apprentissage des langues via Internet est aujourd'hui une option efficace qui permet d'obtenir de bons résultats. Contrairement aux cours traditionnels, ces formations offrent une grande flexibilité : on peut étudier à tout moment, sans contrainte de déplacement. Cette méthode représente un gain de temps considérable et permet de réduire les coûts liés aux cours en présentiel."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, les cours en ligne ne conviennent pas à tout le monde. Ils nécessitent une connexion Internet fiable et un équipement adapté. De plus, apprendre en autonomie exige une grande discipline. L'absence de professeur et de camarades de classe peut rendre l'apprentissage moins motivant, augmentant ainsi le risque d'abandon en cours de route."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous terminez un séjour professionnel dans un pays étranger et vous souhaitez fêter votre départ. Vous écrivez un courriel à vos collègues pour les inviter au restaurant. Vous décrivez votre projet et vous leur donnez les informations nécessaires (adresse, date, heure, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez commencé une nouvelle activité sportive. Sur votre blog, vous racontez votre expérience. Vous expliquez pourquoi cette activité peut être intéressante pour tout le monde.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Animaux de Compagnie au Travail",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Venir au bureau avec son animal de compagnie, c'est à la mode. L'intérêt de cette présence ? C'est simple : diminuer le stress des employés. La présence d'un chien ou d'un chat change l'ambiance générale d'une entreprise : elle réduit les tensions entre collègues, ce qui n'est pas négligeable car chaque année, l'État français dépense entre 2 et 3 milliards d'euros pour soigner les salariés malades du stress. Selon une enquête, un quart des employés pensent aussi que la présence des animaux permet d'être plus motivé au travail. D'après challenges.fr"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Dans l'entreprise où je travaille, les employés sont autorisés à venir avec leur animal de compagnie, chat ou chien. Personnellement, cela me dérange. Je ne suis pas très à l'aise avec les animaux, qui peuvent avoir des comportements imprévisibles. D'autre part, je trouve que cela peut poser des problèmes de santé. Que faire si un employé est allergique aux chats ? Sera-t-il obligé de rester enfermé dans son bureau ? Et puis c'est aussi une source de distraction. Mes collègues et moi ne serons pas plus productifs grâce à un chien ou un chat ! Sophie, 34 ans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous venez d'arriver dans une nouvelle ville. Vous écrivez un message à un(e) ami(e) pour lui décrire votre cadre de vie (quartier, voisins, commerces, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à une opération pour la « Journée mondiale du nettoyage de la planète ». Avec d'autres personnes, vous avez ramassé des déchets dans un espace public (plage, forêt, rue…). Vous racontez cette expérience à vos amis et expliquez pourquoi ce type d'action est important.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Publicités Alimentaires pour les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Certains trouvent la publicité ennuyeuse, mais pour moi elle reste essentielle pour les entreprises. Elle permet de faire connaître un produit ou un service. Et parfois, elles sont amusantes ! J'aime les écouter en voiture, car elles m'informent sur les nouveautés et les promotions. J'aime aussi comparer les produits : cela m'aide à faire des économies. De plus, beaucoup de jeux gratuits sur téléphone existent grâce à la publicité. Robert, 28 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "La publicité est omniprésente dans la vie quotidienne : journaux, télévision, radios, téléphones, Internet… Sur certaines chaînes, les programmes sont interrompus et cela devient agaçant. Recevoir énormément de publicité papier chaque année n'est pas non plus écologique. Selon moi, il faudrait une loi pour réduire ces publicités, à la télévision comme dans les boîtes aux lettres. Si la publicité était plus discrète, elle serait mieux acceptée. Francine, 35 ans"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
