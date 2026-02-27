@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q1-1098x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "À moto.",
+      "À pied.",
+      "À vélo.",
+      "En taxi."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q2-1098x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Ses leçons à distance.",
+      "Ses professeurs expérimentés.",
+      "Ses salles neuves connectées.",
+      "Ses tarifs bon marché."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q3-1234x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il annonce son absence.",
+      "Il donne un rendez-vous.",
+      "Il indique son arrivée.",
+      "Il signale son retard."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q4-934x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "D’aller à un concert.",
+      "D’organiser un voyage.",
+      "De déjeuner chez lui.",
+      "De garder ses enfants."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q5-1300x701-1.jpg",
+    "sujet": "",
+    "choix": [
+      "La date.",
+      "La matière.",
+      "Le lieu.",
+      "L’heure."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q6-1277x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "D’apprendre à cuisiner des plats étrangers.",
+      "D’organiser des repas-spectacles à thèmes.",
+      "De gagner un voyage à la fin du repas.",
+      "De goûter des spécialités franco-espagnoles."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q7-642x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "De l’inscription des élèves.",
+      "Des horaires de sortie.",
+      "Des repas à la cantine.",
+      "Du temps de repos."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q8-1117x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Cuisiner.",
+      "Étudier.",
+      "S’amuser.",
+      "Se promener."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q9-1118x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils aiment en voir dans la nature.",
+      "Ils les regardent à la télévision.",
+      "Ils sont nombreux à en avoir.",
+      "Ils vont les voir dans des zoos."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q10-1118x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "D’envoyer des photos.",
+      "D’inventer une recette.",
+      "De créer un spectacle.",
+      "De découvrir une langue."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q11-932x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Des chocolats.",
+      "Des romans.",
+      "Des valises.",
+      "Ses vêtements."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q12-934x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour acheter des meubles de bibliothèque.",
+      "Pour organiser un concours de lecture.",
+      "Pour ouvrir un salon de thé littéraire.",
+      "Pour s’installer dans un local plus vaste."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q13-773x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "D’argent pour la course.",
+      "De livres pour les enfants.",
+      "De produits pour les repas.",
+      "D’une voiture pour le transport."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q14-910x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il a un rendez-vous à l’hôpital.",
+      "Il doit annuler leur rencontre.",
+      "Il est parti acheter un portable.",
+      "Il va arriver en retard chez lui."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q15-1300x663-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Écouter des chansons.",
+      "Gagner des cadeaux.",
+      "Goûter des recettes.",
+      "Jouer dans un film."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q16-1057x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "C’est un musée peu fréquenté.",
+      "Il a réussi à séduire un public local.",
+      "On y découvrir l’histoire de la région.",
+      "Sa collection sera présentée à Paris."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q17-839x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "D’un comédien qui tourne dans des bidonvilles.",
+      "D’un homme qui produit des œuvres originales.",
+      "De la santé d’un membre du gouvernement.",
+      "De mesure écologique prise par une mairie."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q18-1051x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Des idées de stages en entreprise.",
+      "Un guide des démarches d’inscription.",
+      "Une méthode pour choisir une formation.",
+      "Une sélection des meilleures universités."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q19-847x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "L’origine historique de la recette.",
+      "Le secret d’une bonne préparation.",
+      "Les adresses où les consommer.",
+      "Les raisons de leur popularité."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q20-847x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "La réputation de restaurants touristiques est menacée par internet.",
+      "La technologie modifie la relation à la gastronomie.",
+      "Les grands chefs livrent leurs secrets sur des sites.",
+      "Les traditions culinaires peuvent se perpétuer grâce au numérique."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q21-998x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Le remboursement de son article.",
+      "L’échange de son téléphone.",
+      "L’envoi de son téléphone par la poste.",
+      "Une réclamation sur son achat."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q22-998x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "C’est possible à la campagne.",
+      "C’est possible avec du temps.",
+      "C’est possible, mais pénible.",
+      "C’est possible pour tous."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q23-1104x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il considère que l’ère du support papier est définitivement terminée.",
+      "Il estime qu’il reste du travail à faire pour mieux préparer cette évolution.",
+      "Il juge indispensable de n’utiliser que les supports électroniques.",
+      "Il pense qu’il faut privilégier le contact des élèves avec l’outil internet."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q24-1225x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "D’aménager des réserves restreignant la pêche.",
+      "D’encourager une politique mondiale de la pêche.",
+      "D’organiser des contrôles pour surveiller la pêche.",
+      "De créer des taxes sur les produits de la pêche."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q25-1222x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils influencent les élèves au-delà de la classe.",
+      "Ils instillent le goût du travail en équipe.",
+      "Ils permettent au système de se maintenir.",
+      "Ils suscitent de nombreuses vocations."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q26-1300x749-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils alternent les supports selon le type d’activité.",
+      "Ils hésitent à utiliser les techniques informatiques.",
+      "Ils optent toujours pour des ouvrages imprimés.",
+      "Ils tiennent compte des progrès des apprenants."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q27-786x800-1.png",
+    "sujet": "",
+    "choix": [
+      "La réactivité aux changements de la mode.",
+      "Le recrutement de personnels qualifiés.",
+      "Les formations inadaptées aux besoins.",
+      "Les techniques de production dépassées."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q28-865x800-2.jpg",
+    "sujet": "",
+    "choix": [
+      "L’ambiance de l’école doit être calquée sur le modèle familial.",
+      "L’autorité du professeur doit être compensée par sa gentillesse.",
+      "L’épanouissement de l’enfant doit primer sur sa réussite.",
+      "L’impartialité doit être l’une des qualités principales d’un maître."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q29-865x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Les changements de climat.",
+      "Les méthodes de culture.",
+      "Les oiseaux prédateurs.",
+      "Les politiques publiques."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q30-1119x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Sa connaissance des médias.",
+      "Ses méthodes ancestrales.",
+      "Ses recettes originales.",
+      "Son charisme incroyable."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q31-775x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Amélie a déménagé récemment.",
+      "Amélie a invité Florence.",
+      "Florence a beaucoup de travail.",
+      "Florence aime le bord de mer."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q32-773x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il a plus d’illustrations que d’écrit.",
+      "Il préserve l’imaginaire des enfants.",
+      "Il touche également les adultes.",
+      "Il valorise le patrimoine littéraire."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q33-875x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "D’anciens artistes ont l’occasion de monter sur scène.",
+      "Les financements publics contribuent à leur expansion.",
+      "Les organisateurs s’adaptent aux nouvelles tendances.",
+      "Les tarifs proposés dépendent de la programmation."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q34-941x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il constitue un bienfait autant qu’un problème.",
+      "Il est menacé d’assèchement.",
+      "Il pollue les terres avoisinantes.",
+      "Il représente un attrait touristique essentiel."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q35-907x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Sa technique puise dans divers mouvements artistiques.",
+      "Ses œuvres se fondent dans leur environnement.",
+      "Son inspiration provient de ses nombreuses lectures.",
+      "Son savoir-faire met en valeur des procédés connus."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q36-910x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "L’influence de ses contemporains.",
+      "La singularité de ses portraits.",
+      "Son engouement pour la nature.",
+      "Son travail post-impressionniste."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q37-630x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Une adéquation avec l’attente des lecteurs.",
+      "Une diffusion abusive de copies illégales.",
+      "Une offre promotionnelle provisoire.",
+      "Une perte croissante du nombre d’abonnés."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q38-856x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "C’est un accessoire d’élégance masculine.",
+      "C’est un signe de reconnaissance entre pairs.",
+      "C’est une coutume en réunion.",
+      "C’est une marque de courtoisie."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/14Q39-1011x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il reconnaît ses aspects pratiques.",
+      "Il remet en cause ses bienfaits.",
+      "Il s’inquiète de son usage abusif.",
+      "Il s’émerveille de sa technologie."
+    ],
+    "bonne_reponse_index": 2
+  }
+]
