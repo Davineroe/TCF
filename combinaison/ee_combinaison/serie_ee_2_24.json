@@ -1,0 +1,132 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Je vais bientôt vivre dans ton quartier. Je cherche un endroit sympathique pour faire mes courses. Est-ce que tu connais un marché intéressant ? Merci d'avance et à bientôt ! Bernard. Vous répondez à votre ami Bernard. Dans votre message, vous décrivez un marché de votre quartier que vous aimez bien (lieu, horaires, produits, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous faites partie d'une association de quartier qui propose des activités aux enfants (aide aux devoirs, sorties, jeux, etc.). Sur votre site internet, vous racontez votre expérience et vous expliquez pourquoi ce type d'association est utile.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le livre papier ou le livre numérique ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Depuis plusieurs années maintenant, de nombreux lecteurs ont décidé de remplacer la bibliothèque traditionnelle par des livres numériques. Selon eux, l'avantage est avant tout économique. D'une part, le livre numérique permet d'économiser du papier, d'autre part la version numérique d'un livre est généralement moins chère que la version papier. Les livres numériques ont un autre avantage : ils permettent une ouverture sur le monde pour les personnes en situation de handicap. Certaines options, comme la possibilité d'augmenter la taille des lettres, facilitent la lecture pour les personnes malvoyantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le livre numérique remplacera-t-il le livre papier ? « Non », répondront la plupart des lecteurs. Le livre papier est un beau support. Quel plaisir de le prêter aux gens qu'on aime ou de l'offrir en glissant un petit mot dedans ! Le livre papier a une histoire, l'odeur du neuf ou de l'ancien… Il transmet beaucoup d'émotions alors que le livre numérique a un côté un peu impersonnel. De plus, les livres numériques demandent de posséder un minimum de connaissances en informatique, ce qui peut être une difficulté pour certaines personnes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Bonjour, Je viens bientôt en vacances dans ta région. Est-ce que tu peux me conseiller une visite à faire pendant mon voyage ? Merci beaucoup. Mathieu. Vous répondez à votre ami Mathieu. Vous décrivez un lieu à visiter dans votre région.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Bonjour, Vous avez pris des cours dans notre salle de sport. Donnez-nous votre avis sur notre site Internet ! www.masalledesport.org. Sur le site Internet de la salle de sport, vous répondez à ce message. Vous racontez cette expérience et vous donnez votre avis.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Livraison Des Repas Au Bureau : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La livraison de repas permet de gagner du temps. Par exemple, quand on travaille, on peut se faire livrer un repas au bureau sans se déplacer. On perd moins de temps pendant la pause déjeuner, on rentre donc plus tôt chez soi. Généralement, cela offre plus de choix : si un de nos collègues veut commander une pizza mais que nous souhaitons manger des sushis, plus de disputes, il suffit de commander des plats dans différents restaurants. L'autre avantage de ce nouveau mode de consommation est qu'il est disponible à toute heure. En effet, on trouve toujours des restaurants qui restent ouverts 24 heures sur 24. Céline, 25 ans."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La livraison de repas plaît de plus en plus aux consommateurs qui n'ont pas le temps ou l'envie de cuisiner. Toutefois, ce service présente des inconvénients écologiques. Les repas sont souvent livrés en scooter ou en voiture, qui sont des modes de transport polluants ! Cette habitude a aussi des conséquences négatives sur la vie sociale. Quand on mange des repas livrés au bureau ou à domicile, on a tendance à rester enfermé et à voir les mêmes personnes. Pourtant, il est important de sortir prendre l'air et, pourquoi pas, de rencontrer d'autres personnes. Ahmed, 40 ans."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Salut ! Je cherche un endroit pour déjeuner en plein air ce week-end. Qu'est-ce que tu me proposes ? A bientôt. Barbara. Vous répondez à votre amie Barbara. Vous décrivez le lieu (parc, jardin, terrasse, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez visité un nouveau pays pendant vos vacances. Sur un site internet, vous racontez votre expérience et vous donnez votre opinion sur ce pays.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'utilisation du plastique, pour ou contre",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "À mon avis, faire disparaître le plastique de notre quotidien est impossible. Il faudrait plutôt réduire sa consommation. Le plastique est pratique et je pense qu'il est difficile de s'en passer. Il est présent dans tous les emballages (alimentaires, cosmétiques, etc.) et également dans le matériel que nous utilisons pour nos loisirs : raquettes de tennis, de ping-pong, nos maillots de bain, etc. L'industrie du plastique crée énormément d'emplois et elle réalise beaucoup de bénéfices. On ne peut pas supprimer tout ce secteur d'activité ! Justine, 30 ans."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le plastique est présent dans notre vie de tous les jours… mais pas seulement ! Il est aussi présent dans les mers et les océans et, à cause de lui, de nombreux poissons meurent car ils mangent du plastique. Il faut donc créer de nouveaux matériaux plus écologiques pour le remplacer, mais cela va prendre beaucoup de temps. Nous devons changer nos habitudes. De mon côté, je préfère ne pas acheter de produits emballés dans du plastique. J'utilise des boîtes en verre pour conserver mes aliments. Arthur, 35 ans."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message dans le journal de votre université pour rechercher un partenaire avec qui faire du sport.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez dans un article un message pour raconter votre arrivée dans un pays étranger en donnant vos impressions.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Rôle De La Télévision Dans L'éducation Des Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La télévision est un outil de communication et de divertissement largement répandu dans notre société moderne. Son influence est incontestable, tant sur les individus que sur la culture en général. Elle permet de diffuser des informations, d'offrir des divertissements variés et de favoriser la diffusion de la culture. La télévision est présente dans de nombreux foyers et constitue une source d'information et de divertissement accessibles à tous. Grâce à sa portée et à sa capacité à toucher un large public, la télévision joue un rôle important dans la transmission des connaissances et la sensibilisation aux enjeux sociaux."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La télévision peut également présenter certains inconvénients. Les émissions télévisées peuvent parfois véhiculer des stéréotypes, des préjugés et des valeurs discutables. De plus, le temps passé devant la télévision peut réduire le temps consacré à d'autres activités plus enrichissantes, telles que la lecture, les interactions sociales ou la pratique d'un sport. Il est important de faire preuve de discernement et de réguler l'exposition à la télévision, en particulier pour les enfants, afin de préserver un équilibre sain entre les différentes formes d'apprentissage et de divertissement."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
