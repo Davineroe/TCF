@@ -1,0 +1,147 @@
+{
+  "expression_orale": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Pouvez-vous vous présenter ? L'entretien commence par un échange avec l'examinateur. Vous devez pouvoir parler de vous et répondre à des questions simples, par exemple :\n*   Quel est votre film préféré ? Pourquoi ?\n*   Où êtes-vous allé durant vos dernières vacances ?\n*   Comment imaginez-vous votre vie dans 30 ans ?\n*   Où avez-vous appris le français ?",
+              "duree": 60,
+              "reponse": "Bonjour, je m'appelle [Votre Nom]. Je suis actuellement [votre situation, ex: étudiant en économie]. J'aime beaucoup le cinéma, et mon film préféré est 'Intouchables' parce que c'est une histoire touchante et pleine d'humour sur l'amitié. Pour mes dernières vacances, je suis allé à la mer, à Nice, où j'ai profité du soleil et de la plage. Dans 30 ans, j'espère avoir une carrière épanouissante, peut-être comme cadre dans une entreprise internationale, et avoir une vie de famille équilibrée. J'ai appris le français à l'école, mais aussi en regardant des films et en écoutant de la musique."
+            },
+            {
+              "numero": 2,
+              "consigne": "Exercice en interaction : Vous devez poser des questions à l'examinateur pour obtenir des informations sur une situation précise. Vous avez 90 secondes pour poser un maximum de questions.",
+              "duree": 330,
+              "reponse": {
+                "type": "choix_du_sujet",
+                "sujets": [
+                  {
+                    "theme": "Invitation à un concert",
+                    "questions_possibles": [
+                      "Quel style de musique sera joué pendant ce concert ?",
+                      "Où exactement aura lieu l'événement ?",
+                      "À quelle date et à quelle heure ça commence ?",
+                      "Est-ce qu'il faut acheter les billets à l'avance ?",
+                      "Combien coûte l'entrée ?",
+                      "Est-ce que le concert est en plein air ou en salle ?",
+                      "Tu connais déjà les artistes qui vont jouer ?",
+                      "Combien de temps dure le concert environ ?",
+                      "Est-ce qu'il y aura beaucoup de monde ?",
+                      "Tu y es déjà allé auparavant ?"
+                    ]
+                  },
+                  {
+                    "theme": "Atelier de cuisine",
+                    "questions_possibles": [
+                      "Quel était le thème principal de l'atelier ?",
+                      "Combien coûte la formation ?",
+                      "Combien de temps dure chaque séance ?",
+                      "Est-ce que c'est pour les débutants ou il faut déjà savoir cuisiner ?",
+                      "Où se trouve l'atelier exactement ?",
+                      "Combien de personnes participaient ?",
+                      "Quelles recettes avez-vous apprises ?",
+                      "Est-ce que les ingrédients sont fournis ?",
+                      "Est-ce que c'est plutôt pratique ou théorique ?",
+                      "Tu comptes y retourner une autre fois ?"
+                    ]
+                  },
+                  {
+                    "theme": "Recherche d'un restaurant pour un anniversaire",
+                    "questions_possibles": [
+                      "Tu connais un restaurant sympa pour organiser une soirée ?",
+                      "Quel genre de cuisine on y trouve ?",
+                      "Est-ce que l'endroit est adapté pour les groupes ?",
+                      "Les prix sont raisonnables ou plutôt élevés ?",
+                      "Est-ce qu'il faut réserver à l'avance ?",
+                      "Tu sais s'il y a de la musique ou une ambiance spéciale ?",
+                      "L'endroit est bien situé, facile d'accès ?",
+                      "Est-ce qu'il y a des options pour les végétariens ?",
+                      "Est-ce que tu y es déjà allé ?",
+                      "Tu penses que c'est une bonne idée pour un anniversaire ?"
+                    ]
+                  },
+                  {
+                    "theme": "Inscription des enfants à l'école",
+                    "questions_possibles": [
+                      "Quelles sont les écoles proches de notre quartier ?",
+                      "Est-ce qu'elles ont une bonne réputation ?",
+                      "Quels niveaux scolaires sont proposés ?",
+                      "Y a-t-il des activités extrascolaires ?",
+                      "Est-ce qu'il y a un service de transport scolaire ?",
+                      "Comment se passe l'inscription ?",
+                      "Les enseignants sont-ils faciles à contacter ?",
+                      "Est-ce que les écoles proposent des cours de langue ?",
+                      "Les bâtiments sont récents ou plutôt anciens ?",
+                      "Y a-t-il des écoles privées dans le secteur ?"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "consigne": "Expression d'un point de vue à partir d'une question simple. Vous devez présenter votre opinion sur un sujet de société et la défendre.",
+              "duree": 270,
+              "reponse": {
+                "type": "choix_du_sujet",
+                "sujets": [
+                  {
+                    "sujet": "Certaines personnes choisissent de vivre sans utiliser la technologie (téléphone, Internet, ordinateur). Qu'en pensez-vous ?",
+                    "introduction": "Dans une société où les technologies occupent une place centrale, certaines personnes choisissent volontairement de limiter ou d'abandonner l'usage du téléphone, d'internet ou de l'ordinateur. Ce choix peut sembler surprenant, mais il mérite d'être analysé avec attention.",
+                    "avantages": "Vivre sans technologie peut permettre de réduire le stress lié aux notifications permanentes et à la pression des réseaux sociaux. Cela favorise des relations plus directes et plus authentiques avec les autres. Certaines personnes estiment aussi que cela améliore leur concentration et leur qualité de vie.",
+                    "inconvenients": "Cependant, dans le monde actuel, il est difficile de se passer totalement des outils numériques, notamment pour le travail, les démarches administratives ou l'accès à l'information. L'absence de technologie peut également limiter les opportunités professionnelles et sociales.",
+                    "conseils": "Plutôt que d'abandonner complètement la technologie, il serait plus réaliste d'en faire un usage modéré et réfléchi. Fixer des moments sans écran peut permettre de trouver un équilibre satisfaisant.",
+                    "conclusion": "À mon avis, vivre totalement sans technologie est possible mais difficile. Une utilisation contrôlée semble être une solution plus adaptée à notre époque."
+                  },
+                  {
+                    "sujet": "Les transports en commun devraient-ils être gratuits pour tout le monde ? Êtes-vous d'accord avec cette idée ?",
+                    "introduction": "La gratuité des transports publics est une proposition discutée dans plusieurs villes. Elle vise à améliorer la mobilité et à réduire la pollution.",
+                    "avantages": "Des transports gratuits encourageraient davantage de personnes à laisser leur voiture. Cela permettrait de réduire les embouteillages et les émissions polluantes. Cette mesure favoriserait aussi l'égalité sociale.",
+                    "inconvenients": "Cependant, la gratuité représente un coût important pour les collectivités. Le financement devrait être assuré par d'autres sources, ce qui pourrait augmenter les impôts.",
+                    "conseils": "Une solution pourrait être d'offrir la gratuité à certaines catégories comme les étudiants ou les personnes âgées. Il est aussi important d'améliorer la qualité du service.",
+                    "conclusion": "Je pense que la gratuité peut être bénéfique, mais elle doit être étudiée avec attention pour rester viable."
+                  },
+                  {
+                    "sujet": "Pour bien profiter de la vie, faut-il travailler moins ? Qu'en pensez-vous ?",
+                    "introduction": "Le travail occupe une place importante dans la vie des adultes. Certains estiment qu'il faut réduire son temps de travail pour être plus heureux.",
+                    "avantages": "Travailler moins permet de consacrer plus de temps à la famille, aux loisirs et au repos. Cela peut réduire le stress et améliorer la qualité de vie.",
+                    "inconvenients": "Cependant, réduire son temps de travail peut diminuer les revenus et limiter certaines opportunités professionnelles. Le travail peut aussi être une source de satisfaction personnelle.",
+                    "conseils": "Il est important de trouver un équilibre entre vie professionnelle et vie personnelle. Une bonne organisation et des horaires flexibles peuvent aider.",
+                    "conclusion": "À mon avis, il ne faut pas forcément travailler moins, mais plutôt travailler de manière équilibrée pour profiter de la vie."
+                  },
+                  {
+                    "sujet": "Vivre à la campagne est-il plus agréable que vivre en ville ? Partagez-vous cette opinion ?",
+                    "introduction": "Le choix entre la ville et la campagne dépend des préférences personnelles. Chaque environnement présente des avantages et des inconvénients.",
+                    "avantages": "La campagne offre un cadre plus calme, un environnement naturel et moins de pollution. Elle permet souvent un mode de vie plus paisible.",
+                    "inconvenients": "Cependant, la ville propose davantage de services, d'emplois et d'activités culturelles. Les transports et les infrastructures y sont généralement plus développés.",
+                    "conseils": "Il est important de choisir en fonction de son mode de vie et de ses besoins. Certaines personnes préfèrent vivre à la campagne tout en travaillant en ville.",
+                    "conclusion": "Je pense que la campagne peut être plus agréable pour le calme, mais la ville offre plus d'opportunités."
+                  },
+                  {
+                    "sujet": "Voyager est-il réservé aux personnes aisées ? Êtes-vous d'accord avec cette affirmation ?",
+                    "introduction": "Voyager est souvent associé à un certain niveau de revenus. Pourtant, cette idée mérite d'être examinée.",
+                    "avantages": "Les voyages lointains ou luxueux peuvent être coûteux et accessibles surtout aux personnes ayant des moyens financiers importants.",
+                    "inconvenients": "Cependant, il existe aujourd'hui des solutions économiques comme les billets à bas prix ou les hébergements abordables. Il est possible de voyager avec un budget limité.",
+                    "conseils": "Planifier à l'avance et comparer les offres permet de réduire les coûts. Choisir des destinations proches peut aussi rendre le voyage plus accessible.",
+                    "conclusion": "À mon avis, voyager n'est pas réservé aux personnes riches, mais il nécessite une bonne organisation financière."
+                  },
+                  {
+                    "sujet": "Faut-il offrir un téléphone portable à un enfant ? Pourquoi ?",
+                    "introduction": "De plus en plus d'enfants possèdent un téléphone portable dès le plus jeune âge. Cette situation suscite un débat important chez les parents et les éducateurs.",
+                    "avantages": "Un téléphone peut permettre aux parents de rester en contact avec leur enfant et d'assurer sa sécurité. Il peut aussi être utile pour les devoirs et l'accès à certaines informations éducatives.",
+                    "inconvenients": "Cependant, un usage précoce peut entraîner une dépendance aux écrans et réduire les interactions sociales directes. Il existe également des risques liés aux réseaux sociaux et aux contenus inadaptés.",
+                    "conseils": "Il est préférable de fixer des règles claires concernant l'utilisation du téléphone et de limiter le temps d'écran. Donner un appareil simple, sans accès illimité à internet, peut être une solution intermédiaire.",
+                    "conclusion": "À mon avis, il est possible de donner un téléphone à un enfant, mais seulement avec un encadrement strict et adapté à son âge."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
