@@ -1,0 +1,318 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez publié une annonce pour la location de votre appartement. Rédigez un courriel à une personne intéressée en lui fournissant des informations sur l'appartement ainsi que sur le quartier.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez de commencer les cours à l'université à Montréal. Écrivez un message à votre ami pour lui raconter votre première semaine à l'université.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Animaux de Compagnie pour les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Offrir un animal de compagnie à un enfant présente de nombreux avantages, comme le soulignent beaucoup de psychologues. Pour des enfants qui n'ont pas de frères et/ou de sœurs, l'animal est un compagnon qui leur évitera la solitude. Grâce à lui, un enfant prendra confiance en lui et il apprendra vite qu'un animal est un être vivant qui a besoin d'attention et de respect. En sa présence, l'enfant se sentira en sécurité et pourra agir de manière autonome, sans l'aide de ses parents."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Beaucoup d'enfants demandent, un jour ou l'autre, un animal à leurs parents, le plus souvent un chien ou un chat. Mais même si vous avez envie de faire plaisir à votre enfant, il vaut mieux réfléchir sérieusement avant d'acheter un animal domestique. L'animal devient un nouveau membre de la famille et représente un engagement sur de nombreuses années. Or, avoir un animal coûte souvent très cher, et c'est une grande responsabilité. On ne peut pas le traiter comme un jouet que l'on met à la poubelle quand l'enfant s'en désintéresse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous organisez une fête surprise pour l'anniversaire de votre meilleur(e) ami(e). Vous envoyez un message à ses amis pour les inviter et pour leur donner toutes les informations nécessaires (date, lieu, activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours artistique (musique, danse, dessin, etc.) sur votre blog, vous écrivez un court article pour raconter cet événement. Vous expliquez ce que vous avez aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Salaires des Sportifs",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Grâce, entre autres, aux contrats publicitaires signés avec les grandes marques sportives, des stars connues dans certaines disciplines comme le football, le tennis ou le basketball perçoivent, annuellement, plusieurs dizaines de millions d'euros. Une question se pose : ces rémunérations sont-elles compatibles avec les valeurs fondamentales de ces sports ? Les passionnés de sport, en général, se posent fréquemment cette question, surtout dans un contexte où le chômage et la crise économique sont des sujets d'actualité."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Lorsqu'on analyse de près les salaires des sportifs professionnels, on a vite le tournis. Ce sujet a toujours alimenté les débats dans l'opinion publique. Ceux qui défendent ces salaires estiment que, vu leur talent et la brièveté de leur carrière, ces rémunérations sont largement méritées. C'est ce qu'affirme l'ancienne star de Liverpool et du Real Madrid, Michael Owen, en soulignant qu'un joueur professionnel fait rêver ses fans, le comparant ainsi à une star de la chanson qui gagne aussi beaucoup d'argent en se produisant devant des milliers de spectateurs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un courriel à votre ami pour l'inviter à passer une journée avec vous (lieu, date, activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à une journée de formation dans votre entreprise. Sur un forum, rédigez un article destiné à vos collègues pour raconter cette journée et exprimer ce que vous avez apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vie en Colocation entre Adultes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Vivre avec d'autres personnes demande d'avoir une bonne entente et de respecter certaines règles. Il n'est pas toujours possible d'écouter sa musique préférée à volume élevé, d'inviter tous ses amis pour faire la fête ou de laisser de la vaisselle sale dans la cuisine. Chaque individu a des habitudes susceptibles d'irriter les autres. C'est pourquoi il est essentiel d'établir des règles de vie en communauté et de les respecter mutuellement. Il est important de communiquer avec ses colocataires chaque fois qu'un problème survient. L'organisation et la discussion sont les clés d'une colocation réussie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Être adulte et vivre en colocation ? C'est un choix qui permet d'accéder à un logement plus spacieux et économique. Il est vrai que vous n'aurez qu'une chambre pour vous, et que vous devrez partager la cuisine, le salon et la salle de bain. Toutefois, une colocation peut inclure une maison avec jardin ou un grand appartement en centre-ville ! En partageant le loyer et les charges avec vos colocataires, vous réduirez considérablement vos dépenses par rapport à un appartement individuel. Ainsi, même si vous n'aurez qu'une chambre à vous et devrez partager les espaces communs, la colocation offre des opportunités de logements bien plus abordables."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous partez en vacances avec des amis. Vous avez trouvé un hôtel. Vous écrivez un message à vos amis pour décrire cet hôtel (localisation, prix, équipements, etc.). Vous leur proposez de réserver cet hôtel.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous êtes parti(e) travailler à l'étranger. Vous envoyez un message à vos amis pour raconter cette nouvelle expérience professionnelle. Vous expliquez ce que vous avez le plus aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéos, pour ou contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les jeux vidéo ont la réputation d'être néfastes; cependant, plusieurs études montrent qu'en y jouant, un adulte peut développer des capacités cognitives; ils permettent par exemple d'améliorer l'aptitude à réagir. Cela peut être considéré comme un point positif surtout si on sait que 88,4% des joueurs sont des adultes. Cela dit, il faut rester vigilant car de nombreux jeux favorisent plutôt la violence et l'addiction et ne développent par conséquent aucune zone du cerveau."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Vu les chiffres d'affaires de plus en plus importants qu'ils réalisent, les jeux vidéo font régulièrement l'objet de plusieurs études. Parmi ces études, une qui a duré trois ans et qui s'est intéressée à des enfants âgés de 8 à 17 ans. Son résultat n'est sans doute pas une grande surprise; les enfants les plus addicts aux jeux développent des comportements violents, nerveux et sont souvent stressés. Dans certains cas, cela peut même se répercuter sur les résultats scolaires. Il est donc primordial que les parents interviennent afin d'imposer des règles et limiter les temps de jeu."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez trouvé un nouveau travail. Vous écrivez à votre amie francophone pour lui annoncer la bonne nouvelle. Vous décrivez votre poste, vos collègues et votre lieu de travail.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Julie, une étudiante âgée de 19 ans, veut aller à l'étranger pour les études. Elle demande aux internautes du forum de partager leurs expériences et vous avez fait un an à l'étranger. Parlez-lui de votre expérience en décrivant votre séjour à l'étranger, les activités, etc.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Aide Aux Personnes Pauvres",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Marie, 58 ans : J'ai pris l'habitude, depuis des années maintenant, de donner un peu de mon temps et de mon argent afin d'aider les personnes vivant dans la précarité extrême, surtout ceux qui vivent sans abri en période hivernale. Pour moi, c'est un devoir d'aider et de contribuer afin que ces personnes puissent vivre le plus normalement possible. En assistant des pauvres ou des associations, on se sent utile au sein d'une société qui devient de plus en plus impitoyable."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Paul, 63 ans : Pour aider les personnes vivant dans la précarité, on doit s'investir davantage dans des associations caritatives. Personnellement, c'est ce que je fais, je suis bénévole dans une association située dans mon quartier. Elle a pour principal but d'aider les sans-abris à trouver un logement et un travail afin qu'ils vivent le plus normalement possible. Cette action est plus bénéfique à long terme car elle permet de les rendre autonomes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut, Comment ça va ? Alors, comment est la nouvelle université ? Est-ce que les étudiants sont sympas ? Comment sont les profs ? À bientôt. Alex » Vous répondez à Alex dans un message où vous décrivez votre université (professeurs, étudiants, activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez décidé de ne plus utiliser votre réseau social préféré (Instagram, Facebook, etc.). Vous écrivez à vos amis pour leur raconter cette expérience et expliquer pourquoi vous avez pris cette décision.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Photo sur le CV : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Aujourd'hui, certains candidats mettent une photo sur leur CV, d'autres non. Il faudrait interdire les photos sur les CV pour éviter les discriminations et les injustices. Selon une étude menée par des spécialistes de l'emploi, cette pratique est inutile. L'étude révèle que les employeurs prêtent plus attention à l'expérience professionnelle (32%) et aux diplômes (15%) qu'à l'apparence physique. Seulement 2% des employeurs commencent la lecture d'un CV par la photo. C'est une statistique surprenante, surtout quand on connaît l'importance que certaines personnes accordent à leur apparence physique."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La question de la photo sur le CV divise les employeurs. Pour certains, la photo permet de mieux se représenter la personne avant de la rencontrer. De plus, une photo peut aider à se souvenir d'un candidat lorsqu'un grand nombre de CV sont reçus. Pour d'autres, cela dépend du poste : pour des métiers d'accueil, par exemple, il peut être pertinent d'inclure une photo. Cependant, elle doit toujours être professionnelle pour donner une impression positive."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous faites du sport dans un club. Vous venez de remporter une compétition. Vous écrivez un courriel à vos amis pour leur raconter cet évènement sportif et annoncer votre réussite sportive.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Le site « colocation.com » recherche des témoignages sur vos expériences de colocation. Écrivez-nous ! Vous avez déjà habité en colocation avec des amis. Vous racontez votre expérience aux membres du site internet. Vous donnez votre opinion sur ce mode de logement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Grossissement des Villes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De nos jours, les villes grossissent toujours plus. Malheureusement, ce phénomène a un impact fort sur l'environnement. Car plus une ville grossit, plus elle a des effets négatifs sur la nature et donc, ensuite, sur l'homme. L'effet négatif le plus visible est la déforestation, qui réduit les végétaux qui retiennent le carbone. Donc, quand on les supprime pour construire des bâtiments ou des rues, on supprime des espaces verts capables de retenir des millions de tonnes de carbone."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Plus de la moitié de l'humanité vit en ville (huit habitants sur dix dans les pays riches). La vie urbaine est donc le principal enjeu écologique. On entend souvent dire que l'organisation actuelle des villes n'est pas écologique, et que le grossissement des villes ne fait qu'augmenter le problème. Pourtant, il faut se méfier des apparences : les villes ne sont pas toujours aussi antiécologiques qu'on l'imagine. Par exemple, la consommation d'énergie d'un citadin est moins importante que celle d'un habitant de la campagne."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami veut se mettre au sport. Vous lui envoyez un message pour lui conseiller une salle de sport située dans votre quartier (localisation, prix, type d'activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un événement qui vous a marqué (anniversaire, mariage, etc.). Racontez votre souvenir.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Lecture pour les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Avec l'avancée technologique et les produits high-tech qui envahissent de plus en plus notre quotidien, nos enfants oublient la lecture et s'intéressent davantage aux jeux vidéo, aux sports, à la musique… Contrairement à nous les adultes, dont beaucoup d'entre nous ont lu des milliers de pages, la génération actuelle est toujours occupée par les réseaux sociaux et le gaming ou prend du plaisir à pratiquer un sport qui attire davantage de jeunes grâce aux stars internationales du football, du tennis, de l'athlétisme… Alors avec tout ça, pourquoi devons-nous forcer les enfants à lire un bouquin ? Et comme le dit un proverbe, « le goût de la lecture ne peut pas s'imposer »… il faut laisser l'enfant choisir ce qu'il veut lire et surtout ne pas l'obliger à lire quand il n'a pas envie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "L'amour de la lecture se transmet de génération en génération bien que, ces dernières années, on ne trouve plus beaucoup de bouquins entre les mains des enfants, laissant la place aux smartphones et aux tablettes. En apprenant à lire régulièrement, l'enfant acquiert le langage plus aisément tout en développant sa capacité d'audition et de concentration. De plus, et pour prendre du plaisir ensemble, les parents peuvent consacrer quotidiennement 10 minutes à leurs enfants pour lire des bouquins ; une activité qui renforcera à coup sûr la complicité parent/enfant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message à vos amis pour les inviter à votre anniversaire et leur raconter comment va se dérouler votre fête.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Répondez en commentaire à une publication sur Facebook au sujet des études à l'étranger en citant les avantages et les inconvénients de cette expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Nouvelles Technologies pour les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les enfants de l'école primaire peuvent utiliser la technologie pour trouver des vidéos sur les sujets qu'ils ont étudiés à l'école ou pour jouer à des jeux qui améliorent leur aisance en mathématiques, leur compréhension de la lecture ou leurs compétences en dactylographie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les nouvelles technologies encouragent les enfants à être sédentaires. C'est une préoccupation majeure pour les parents. Cela ne mène à aucun jeu libre créatif, à aucune interaction sociale face à face, conduisant à aucun effort physique ! Pourquoi ne pas essayer certaines de ces activités amusantes pour encourager vos enfants à ranger leurs appareils ?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous partez en voyage et vous laissez votre appartement à un ami qui veut venir rester chez vous pendant vos vacances. Vous lui envoyez un message pour décrire votre appartement (immeuble, logement, accès…).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez un article de blog sur votre souvenir de voyage que vous avez aimé le plus.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vivre chez ses Parents, Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les avantages : penser à l'avenir, avoir les vêtements propres, être en confort surtout que l'argent n'est pas toujours suffisant. Vivre avec ses parents pendant la période des études permet aux jeunes d'économiser les frais de logement, des plats faits maison et une certaine stabilité psychique. Les adolescents qui vivent avec leurs parents peuvent économiser leur argent pour des projets de vie (ils ne paient ni le loyer ni la nourriture). Le loyer est très cher et étudier loin de chez soi revient plus cher. Vivre avec ses parents est plus bénéfique : la bouffe est bonne, vêtements toujours propres et pas de place pour la solitude."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les inconvénients : manque de liberté. Vivre seul permet d'être indépendant. Les adolescents qui vivent avec leurs parents s'ennuient car leurs parents décident à leur place et ils sont toujours dépendants de leurs parents. Un certain monsieur de 25 ans a perdu son job, donc il était dans l'obligation de rentrer vivre chez ses parents, et maintenant il a perdu son espace d'intimité. Revenir chez ses parents, c'est revenir en arrière."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
