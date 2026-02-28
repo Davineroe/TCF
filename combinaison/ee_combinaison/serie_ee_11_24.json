@@ -1,0 +1,318 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message à votre amie pour lui proposer un lieu de camping (lieu, date, activités…).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vos amis veulent passer une congé de 2 semaines chez vous. Vous leur écrivez un message pour leur proposer des lieux à visiter.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Habitudes Alimentaires",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De nos jours, les journées passent très vite car nous sommes tout le temps pris par un rythme de vie effréné : travail, enfants, loisirs… Dès lors, beaucoup d'entre nous préfèrent et favorisent des habitudes alimentaires basées essentiellement sur des repas tout faits à emporter ou à consommer sur place. Prenons l'exemple d'Annette, une jeune femme de 28 ans qui se consacre énormément à son travail et qui aime dîner au restaurant tout en passant de bons moments avec ses amis. Cela lui permet de manger sainement sans avoir à passer des heures dans la cuisine après une rude journée de travail. Ce mode de vie lui convient en tant que célibataire, lui permettant de découvrir de nouveaux restaurants bien notés, de faire de nouvelles connaissances, et d'éviter de longues soirées seule devant sa télévision. Et ceci est vrai même pour les plus jeunes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les fast-foods et la restauration en général ont conduit beaucoup d'entre nous à adopter de mauvaises habitudes alimentaires, basées sur des plats rapides, déséquilibrés, et riches en calories et en graisses. Heureusement, certaines familles tiennent encore bon et choisissent de manger chez elles tout en faisant des économies. Prenons l'exemple de Jeanne, une femme mariée de 45 ans qui préfère manger à la maison avec son mari et ses cinq enfants. En cuisinant elle-même, elle sait ce qu'elle met dans son assiette tout en préservant son budget. Cette caissière, qui travaille dans une grande surface, préfère réaliser elle-même ses recettes car, non seulement ses moyens financiers sont limités, mais elle prend également un plaisir fou à cuisiner pour sa famille."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Je vais bientôt vivre dans ton quartier. Je cherche un endroit sympathique pour faire mes courses. Est-ce que tu connais un marché intéressant ? Merci d'avance et à bientôt ! Bernard. Vous répondez à votre ami Bernard. Dans votre message, vous décrivez un marché de votre quartier que vous aimez bien (lieu, horaires, produits, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous faites partie d'une association de quartier qui propose des activités aux enfants (aide aux devoirs, sorties, jeux, etc.). Sur votre site internet, vous racontez votre expérience et vous expliquez pourquoi ce type d'association est utile.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Livre Papier ou le Livre Numérique ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Depuis plusieurs années maintenant, de nombreux lecteurs ont décidé de remplacer la bibliothèque traditionnelle par des livres numériques. Selon eux, l'avantage est avant tout économique. D'une part, le livre numérique permet d'économiser du papier, d'autre part la version numérique d'un livre est généralement moins chère que la version papier. Les livres numériques ont un autre avantage : ils permettent une ouverture sur le monde pour les personnes en situation de handicap. Certaines options, comme la possibilité d'augmenter la taille des lettres, facilitent la lecture pour les personnes malvoyantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le livre numérique remplacera-t-il le livre papier ? « Non », répondront la plupart des lecteurs. Le livre papier est un beau support. Quel plaisir de le prêter aux gens qu'on aime ou de l'offrir en glissant un petit mot dedans ! Le livre papier a une histoire, l'odeur du neuf ou de l'ancien… Il transmet beaucoup d'émotions alors que le livre numérique a un côté un peu impersonnel. De plus, les livres numériques demandent de posséder un minimum de connaissances en informatique, ce qui peut être une difficulté pour certaines personnes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Parc de loisirs : \"J'ai hâte de passer la journée avec toi demain. S'il te plaît, dis-moi, quelle activité nous pourrons faire ?\". Répondez à votre ami pour lui décrire la sortie (horaires, transport, billet, activités).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez un message à un ami pour lui partager vos expériences et impressions lors de votre récent voyage dans un pays que vous avez visité.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Utilisation du Plastique, Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Franck soutient l'utilisation limitée du plastique, soulignant son importance dans de nombreux secteurs, notamment médical et alimentaire. Pour lui, le plastique est vital pour la conservation des aliments et la stérilisation des équipements médicaux. Il prône une utilisation responsable et le recyclage, mais reconnaît que certains usages du plastique sont indispensables pour la société moderne."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Amicha s'oppose fermement à l'utilisation du plastique, mettant en avant son impact environnemental dévastateur. Elle argue que les déchets plastiques polluent les océans et les écosystèmes, causant des dommages irréparables. Amicha milite pour des alternatives écologiques et durables, insistant sur l'urgence de renoncer au plastique pour protéger l'environnement et la santé publique."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez communiquer avec quelqu'un en français en toute convivialité. Vous écrivez un courriel à cette adresse(…) pour qu'on vous propose quelqu'un (centre d'intérêt, présentez vous…).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez un message à vos amis pour leur raconter à propos d'une fête à laquelle vous avez assisté en famille.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Interdiction des Voitures en Ville",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le dernier exemple vient d'Oslo, la capitale norvégienne. Une responsable du projet annonce : « Ce sera mieux pour les piétons, les cyclistes, les commerces. Mieux pour tout le monde ». Moins de voitures, c'est la reconquête de la ville par ses habitants. Les bénéfices pour la qualité de l'air et pour l'économie locale seront garantis."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le dernier exemple vient d'Oslo, la capitale norvégienne. Une responsable du projet annonce : « Ce sera mieux pour les piétons, les cyclistes, les commerces. Mieux pour tout le monde ». Moins de voitures, c'est la reconquête de la ville par ses habitants. Les bénéfices pour la qualité de l'air et pour l'économie locale seront garantis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "\"Bonjour, ça y est, j'ai obtenu mon visa pour le Canada. Je vais arriver le 3 mars. Est-ce que tu pourras m'aider à trouver un hôtel pour la première semaine ? Merci d'avance pour ton aide.\" Matthias. Vous avez trouvé un hôtel pour Matthias. Vous lui écrivez un courriel. Dans ce message vous décrivez l'hôtel et vous lui donnez toutes les informations utiles (situation, tarif…).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous êtes allés voir un spectacle (film, pièce de théâtre, concert, etc.) avec des amis. Vous l'avez aimé. Sur votre blog, vous racontez votre soirée et vous expliquez pourquoi vous avez aimé le spectacle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Relations Amicales Au Travail",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les amitiés entre collègues au travail peuvent être extrêmement bénéfiques. Elles favorisent un climat de travail agréable et une ambiance positive au sein de l'équipe. Avoir des amis parmi ses collègues permet de renforcer les liens professionnels et de créer un sentiment de camaraderie. Cela peut contribuer à une meilleure communication, une collaboration plus étroite et une résolution plus efficace des problèmes. De plus, partager des moments de convivialité en dehors du travail, comme des déjeuners ou des activités après le bureau peut renforcer les liens et créer une dynamique de groupe solide."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Il est important de trouver un équilibre entre amitié et professionnalisme au travail. Les amitiés excessivement proches peuvent parfois créer des tensions ou des conflits lorsque des décisions professionnelles doivent être prises. De plus, les amitiés exclusives entre certains collègues peuvent exclure les autres membres de l'équipe, ce qui peut nuire à la cohésion et à la collaboration. Il est essentiel de maintenir des limites claires et de veiller à ce que les amitiés ne compromettent pas le professionnalisme, la hiérarchie ou la productivité au sein de l'organisation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez partir en week-end avec vos amis le mois prochain. Vous leur écrivez un message pour décrire votre projet (lieu, transport, activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "COURRIER DES LECTEURS. Tout quitter pour partir en voyage pendant un an : bonne ou mauvaise idée ? Répondez sur notre site Internet : \"voyage.internaute.fr\". Vous écrivez un message sur ce site internet, vous répondez à la question posée en prenant des exemples de votre vie personnelle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail : Favorable ou Défavorable ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le travail est au centre de notre vie. Dès l'enfance, on entend souvent la question : «Qu'est-ce que tu veux faire quand tu seras grand ? ». Le travail devrait être synonyme de réussite et de satisfaction, mais il est trop souvent synonyme de fatigue et d'emprisonnement. Aujourd'hui, beaucoup pensent que l'on ne passe pas assez de temps avec sa famille, ses amis. Il est urgent de revoir la place occupée par le travail dans notre société. Certains pensent que travailler moins permettrait d'avoir plus de temps libre pour mieux vivre."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certaines personnes ont décidé d'arrêter de travailler pour changer de mode de vie. Pourtant, aujourd'hui, travailler, c'est exister. La question : «Qu'est-ce que tu fais dans la vie ?» revient souvent lors d'une première rencontre. Elle prouve que l'emploi fait partie de notre identité. D'après le spécialiste Jean-Daniel Remond, la vie en entreprise est très importante. Les contacts quotidiens, les réseaux, les amitiés, l'impression d'être utile, mais aussi les difficultés, tout cela contribue à construire notre personnalité et notre identité."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami Mehdi vient d'emménager dans votre ville et cherche des renseignements sur les moyens de transports. Écrivez un message en lui donnant les informations nécessaires (types de transport, abonnement, tarif, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Exprimez votre admiration pour une personnalité, célèbre ou non, en vous appuyant sur ses actions spécifiques. Rédigez un article de blog en détaillant les actions remarquables de cette personne et expliquez pourquoi vous l'aimez.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vivre en Colocation",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La vie en colocation offre de nombreux avantages. Partager un logement avec d'autres personnes permet de réduire les dépenses, que ce soit le loyer, les factures ou les frais généraux. De plus, cela favorise les interactions sociales et les échanges culturels. Vivre avec des colocataires permet de rencontrer des individus de différents horizons, de nouer des amitiés et de partager des expériences enrichissantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La colocation peut cependant présenter des défis. Les différences de personnalité et de mode de vie entre les colocataires peuvent entraîner des tensions. La gestion des responsabilités et des tâches ménagères peut également être source de conflits. De plus, la colocation peut limiter l'intimité et l'espace personnel. Il est important d'établir une communication ouverte et respectueuse, ainsi que des règles de vie commune, pour favoriser une cohabitation harmonieuse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez invité votre ami Cédric à votre mariage au Château de Chambon et il vous a répondu qu'il ne connait pas ce château. Décrivez à votre ami (lieu, localisation, transports, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Dans votre blog, racontez votre expérience de l'apprentissage d'une langue étrangère (vous écrivez sur un forum internet en racontant votre expérience en apprenant une langue étrangère).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Cuisinier Amateur ou Cuisinier Professionnel ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les amateurs ont fait des recettes réussies, mais ils manquent toujours des compétences et des techniques, c'est pourquoi la formation et l'expérience sont nécessaires pour être un vrai cuisinier."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Il parle des cuisiniers qui ont appris le métier de cuisinier sur internet et qui ont le buzz sur les réseaux sociaux. Il raconte aussi l'histoire d'une amatrice qui est devenue professionnelle et qui a rédigé plusieurs livres sur la cuisine pour les amateurs de cuisine à la maison."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "C'est bientôt l'anniversaire de votre amie Flavie. Vous voulez lui offrir un voyage et écrivez à votre amie Flavie. Expliquez votre projet. Décrivez le programme du voyage (activités, destination, logement, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Je suis étudiante et je vais partir étudier un an à l'étranger. Mais, j'ai un peu peur. Qui a déjà fait cela ? Justine. Vous répondez à Justine : Racontez un séjour d'étude que vous avez fait dans un pays étranger. Expliquez pourquoi cette expérience a été positive ou négative pour vous.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Réduction du Temps de Travail : Pour ou Contre",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Maman d'une petite fille, Anna témoigne : « Lorsque je travaillais 5 jours par semaine, j'utilisais mon temps de repos pour faire des tâches ménagères : rangement, nettoyage, lessives, etc. Je devais aussi faire les courses le samedi, au moment où il y a le plus de monde ! Maintenant, j'ai plus de temps libre. Je profite de ma fille et je peux faire des activités qui me plaisent. Je ne voudrais pas travailler de nouveau 5 jours par semaine. »"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Jack, 45 ans, donne son avis : « La réduction du temps de travail hebdomadaire n'est pas une bonne idée. La quantité de travail ne diminue pas, et le nombre de réunions non plus. On doit donc tout faire plus vite ! Selon moi, cette organisation du temps de travail est beaucoup plus fatigante. La réduction du temps de travail peut avoir des conséquences très négatives. »"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous organisez une fête d'anniversaire pour votre ami. Écrivez un message pour inviter ses amis. Précisez la date, le lieu et les activités prévues.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous participez à un concours artistique (musique, dessin, etc.). Racontez les événements dans un blog. Décrivez ce que vous avez aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Salaires des Sportifs de Haut Niveau",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "On s'interroge sur les gros salaires des sportifs de haut niveau. Chaque année, ils gagnent énormément grâce aux contrats publicitaires. Ces salaires sont-ils compatibles avec les valeurs sportives de partage ? Pour le peuple, cela est inconcevable, surtout face au chômage actuel."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Désaccord sur les salaires des sportifs : seuls les meilleurs deviennent professionnels. Cela justifie-t-il leur richesse ? On affirme que les joueurs sont mieux payés en raison de leur carrière brève et de leurs talents rares."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
