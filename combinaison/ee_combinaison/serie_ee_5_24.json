@@ -1,0 +1,349 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez passé un week-end à la campagne. Écrivez un message à votre ami(e) pour lui décrire ce qui s'est passé.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Votre direction est à la recherche d'une salle pour la fête de fin d'année, capable d'accueillir 100 invités. Rédigez un message à la direction pour leur dire que vous avez trouvé un local idéal. (lieu, tarifs, services, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Utilisation Des Nouvelles Technologies Dans Les Écoles : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Jean : Je suis fermement convaincu que l'intégration des nouvelles technologies dans les écoles est cruciale pour préparer les élèves à un avenir numérique. Je pense que l'usage des tablettes et des ordinateurs stimule non seulement l'engagement des élèves mais enrichit également leur expérience éducative en leur offrant un accès facile à une variété de ressources, encourageant ainsi leur créativité et autonomie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Sara : Je suis sceptique quant à l'usage intensif des technologies dans l'enseignement. Je crois que cela peut réduire les interactions humaines essentielles et favoriser une dépendance préoccupante aux écrans. À mon avis, les méthodes d'enseignement traditionnelles et le contact direct entre enseignants et élèves restent indispensables pour un développement équilibré et complet des compétences des jeunes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut, j'ai appris que tu vas à une salle de sport et qu'elle est magnifique. Peux-tu m'en dire plus ». Écrivez un message pour répondre à votre ami concernant ce sujet.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez lu sur un forum un débat concernant les formations en ligne. Écrivez un message en décrivant votre expérience (cours de langue, formation professionnelle, etc.). Donnez votre avis sur ce que vous avez aimé et ce que vous n'avez pas aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Produits Faits Maison : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Fabriquer vos propres produits biologiques à la maison offre un contrôle total sur les ingrédients, garantissant des options plus saines et personnalisées. Cela contribue également à réduire les déchets plastiques grâce à des emballages réutilisables. De plus, vous économiserez de l'argent à long terme et développerez des compétences créatives, favorisant ainsi un mode de vie plus durable."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, la fabrication de produits biologiques à domicile comporte des risques. Les erreurs de formulation peuvent entraîner des produits inefficaces ou irritants. De plus, le temps et les efforts nécessaires pour trouver et préparer les ingrédients peuvent être contraignants. Il y a également un manque de garantie de sécurité et de stabilité des produits faits maison, avec un risque accru de contamination bactérienne si les produits ne sont pas correctement conservés. Enfin, le coût initial élevé pour l'achat d'ingrédients de qualité peut être dissuasif pour certains."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "France Télévision prépare un reportage sur le sport amateur. Et vous, quel sportif êtes-vous ? Envoyez-nous vos témoignages sur francetélévision.fr.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé des vacances dans une belle région de votre pays. Vous écrivez un message à vos amis dans lequel vous décrivez votre expérience, vous expliquez pourquoi vous avez beaucoup aimé ce séjour.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Écoles Privées Ou Publiques ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "À la rentrée, le nombre d'élèves inscrits dans des écoles privées a augmenté en France. Le succès des établissements privés n'est pas directement lié aux bons résultats scolaires de leurs élèves. C'est la réputation de ces lieux qui explique un tel enthousiasme. Aux yeux de nombreux parents, les élèves y sont mieux encadrés, mieux surveillés et les professeurs sont plus présents. Les parents sont aussi rassurés parce que les classes sont homogènes : elles accueillent généralement des élèves de milieux sociaux favorisés. En effet, les études dans ces établissements sont payantes, ce qui n'est pas le cas dans les écoles publiques."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Dans les collèges privés, il y a peu d'élèves de milieux sociaux défavorisés. Comme les études dans ces établissements sont payantes, certaines catégories de population en sont exclues. Ce système qui oppose écoles publiques et écoles privées ne facilite pas la mixité sociale. Ainsi, les élèves du privé ont rarement l'occasion de rencontrer d'autres jeunes issus de milieux sociaux moins favorisés qu'eux et inversement. Ce modèle scolaire reproduit les inégalités sociales et renforce le sentiment d'exclusion de certains jeunes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez commandé un objet sur Internet et après réception du colis, vous constatez que l'objet est cassé. Rédigez un e-mail au service clientèle pour signaler le problème, décrivez le dommage de l'objet et précisez ce que vous attendez comme solution.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez visité une exposition de votre artiste préféré. Rédigez un article exprimant votre expérience lors de la visite. Décrivez ce que vous avez vu et vos impressions.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Devoirs À La Maison",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Selon des associations des parents d'élèves, les devoirs à la maison sont utiles, car ils permettent aux élèves d'apprendre à organiser leur temps de manière autonome. Pour les parents, les devoirs sont un lien quotidien avec l'école. Même s'il est parfois difficile de suivre les devoirs après une journée de travail fatigant, ils apprécient ce moment partagé avec leurs enfants parce que ceux-ci sont contents que leurs parents s'intéressent à eux. C'est valorisant !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Nous protestons depuis longtemps contre les devoirs à la maison pour plusieurs raisons. Personne n'a jamais prouvé leur utilité pour améliorer les résultats des élèves. Beaucoup de parents ont peu de temps pour encadrer les devoirs de leurs enfants et certains parents ne savent pas le faire. Quant aux élèves, ceux qui ont réussi les exercices en classe perdent leur temps à les refaire à la maison. Ceux qui ne sont pas aidés à la maison ne réussissent toujours pas, ils sont défavorisés. C'est pourquoi nous pensons qu'il faut supprimer les devoirs à la maison."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Invitez vos amis à célébrer votre anniversaire tout en sollicitant leur soutien pour organiser la fête.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours de cuisine, décrivez vos souvenirs dans votre blog en indiquant les détails.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail Des Étudiants Pendant Les Vacances : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Opinion 1 : Pierre, un conseiller d'orientation : « Je suis fermement pour le travail des jeunes pendant les vacances. C'est une excellente occasion d'acquérir des compétences pratiques, d'apprendre à travailler en équipe et de découvrir différentes industries. Les jeunes peuvent gagner de l'argent qu'ils peuvent économiser pour l'avenir ou utiliser pour financer des activités ou des loisirs. De plus, le fait d'avoir une expérience de travail sur leur CV peut leur donner un avantage lorsqu'ils postulent pour des emplois ou des stages à l'avenir. Les vacances d'été sont longues et il y a amplement de temps pour se reposer et travailler. »"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Opinion 2 : Sophie, une psychologue pour adolescents : « Je suis contre l'idée que les jeunes doivent travailler pendant leurs vacances. Les adolescents sont déjà sous une énorme pression pendant l'année scolaire avec les études, les examens et les activités parascolaires. Les vacances doivent être une période pour eux de se détendre, de se décompresser et de poursuivre des intérêts personnels. Les forcer à travailler pourrait contribuer au stress et à l'épuisement. Il est également important pour les jeunes de disposer de temps non structuré pour explorer leur créativité, passer du temps avec leurs amis et leur famille, et tout simplement être des enfants. Le travail peut attendre. »"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Le journal \"Bienvenue\" compte publier un article qui parle des habitants de notre ville. Écrivez nous un message qui sera diffusé dans ce numéro. Vous êtes récemment installé dans cette ville, et il vous est demandé de vous présenter et décrire ensuite tous vos lieux préférés au sein de cette ville.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez d'assister au concert de votre artiste favori. Vous écrivez un article sur votre blog personnel, pour partager cette expérience et inciter vos amis et les autres à assister à son prochain concert.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les enfants, jusqu'à l'âge de l'adolescence, jouent d'une manière régulière aux jeux vidéo et à force, ils peuvent développer des pensées négatives et des comportements agressifs. En effet, une étude récente, menée sur des enfants âgés de 9 à 18 ans jouant fréquemment aux jeux vidéo, a révélé que le fait de jouer à des jeux de violence augmente considérablement un comportement agressif. Et selon Diego Gentil, ce phénomène est inévitable quel que soit le degré de vigilance des parents !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "On parle tout le temps des effets négatifs des jeux vidéo, mais ces derniers peuvent également avoir quelques avantages pour le fonctionnement du cerveau et pour la santé d'une manière générale. Si on prend, par exemple, leur rapport pour le cerveau, les jeux vidéo permettent d'améliorer plusieurs fonctions cognitives telles que l'amélioration de la concentration, de la création et de la capacité d'analyse. Ceci peut paraître évident, dans la mesure où lorsqu'on y joue, on doit toujours trouver des solutions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami Mehdi vient de s'installer dans votre ville et il a besoin d'aide concernant les transports. Répondez-lui en lui donnant les informations (types de transport, abonnement, prix…).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous aimez une personne célèbre ou non par ses actions. Écrivez dans votre blog personnel en précisant l'action que cette personne a faite et dites pourquoi vous l'adorez.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vie En Colocation : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La vie en colocation offre de nombreux avantages. Partager un logement avec d'autres personnes permet de réduire les dépenses, que ce soit le loyer, les factures ou les frais généraux. De plus, cela favorise les interactions sociales et les échanges culturels. Vivre avec des colocataires permet de rencontrer des individus de différents horizons, de nouer des amitiés et de partager des expériences enrichissantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La colocation peut cependant présenter des défis. Les différences de personnalité et de mode de vie entre les colocataires peuvent entraîner des tensions. La gestion des responsabilités et des tâches ménagères peut également être source de conflits. De plus, la colocation peut limiter l'intimité et l'espace personnel. Il est important d'établir une communication ouverte et respectueuse, ainsi que des règles de vie commune, pour favoriser une cohabitation harmonieuse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez assister à un festival de cinéma dans votre ville. Vous écrivez un message à votre ami(e) pour lui proposer de venir avec vous. Vous lui donnez toutes les informations nécessaires sur l'événement (films, dates et horaires, tarifs, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez accueilli un étudiant étranger pendant une semaine chez vous. Sur votre blog, vous écrivez un article pour raconter cette semaine. Vous expliquez pourquoi vous avez aimé cette expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Restauration Rapide",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les restaurants rapides se distinguent par leur engagement à proposer une variété de plats équilibrés, respectant strictement les normes d'hygiène. En laissant aux clients la liberté de composer leur propre menu, ces établissements les responsabilisent dans leurs choix alimentaires, tout en satisfaisant leurs préférences gustatives."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les spécialistes affirment que manger régulièrement dans des restaurants de fast-food, qui proposent de la restauration rapide, est dangereux pour la santé. La nourriture servie est souvent la même : frites, hamburgers et boissons sucrées. Ces aliments contiennent une grande quantité de calories, bien trop pour un seul repas. De plus, la plupart des produits dans ces restaurants sont emballés dans du plastique. Par conséquent, manger dans un fast-food augmente la production de déchets plastiques, ce qui est nuisible pour l'environnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Parc de loisirs : « J'ai hâte de passer la journée avec toi demain. S'il te plaît, dis-moi, quelle activité nous pourrons faire ? » Répondez à votre ami pour lui décrire la sortie (horaires, transport, billet, activités).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez un message à vos amis pour leur raconter votre expérience lors d'un salon du livre (conférence, expositions et rencontre avec les auteurs…).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Faire Ses Courses Alimentaires Chez Les Producteurs Locaux Ou Au Supermarché",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Jean qui vit à la campagne favorise l'achat des produits alimentaires directement à la ferme pour la bonne qualité quitte à payer un peu plus cher."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Camille qui vit en ville préfère faire ses courses au supermarché pour la variété qu'il propose et pour les prix abordables."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Rédigez un message pour inviter votre ami à passer ses vacances dans votre ville.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours pour gagner un séjour de deux semaines dans votre ville préférée. Le thème de ce concours est \"Mon artiste préféré\". Écrivez un article de blog pour parler de votre artiste préféré.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Chasse Aux Animaux : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "« Je suis de ceux qui n'arrivent pas à comprendre comment l'on peut prendre du plaisir à tuer des animaux. Je suis de ceux qui n'arrivent pas à comprendre comment on peut prétendre aimer la nature alors qu'on la détruit. » Gala, 29 ans."
+                },
+                {
+                  "numero": 2,
+                  "texte": "« Les gens chassent pour différentes raisons : la subsistance, le commerce, la conservation et l'aménagement de la faune, la protection de la propriété, l'exercice, le loisir et le prestige. » David, Journaliste de la FRM."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous partez en vacances avec une amie, vous avez trouvé un hôtel. Vous écrivez un message à vos amis pour décrire cet hôtel (localisation, prix, équipements, etc.) et vous leur proposez de réserver cet hôtel.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous êtes parti(e) travailler à l'étranger. Vous envoyez un message à vos amis pour raconter cette nouvelle expérience professionnelle. Vous expliquez ce que vous avez le plus aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Des études ont montré que certaines zones du cerveau de l'adulte peuvent être développées en jouant aux jeux vidéo. Ainsi, il peut être intéressant de jouer aux jeux vidéo, car ils permettent, par exemple, d'améliorer la capacité d'analyse, la capacité à faire des choix et la rapidité de réaction. C'est une bonne nouvelle car la répartition des joueurs par âge montre que 83% des joueurs sont des adultes. Cependant, il convient de rester prudent car certains jeux vidéo ne favorisent pas ce type d'amélioration sur le cerveau."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Pendant trois ans, des enfants âgés de 8 à 17 ans ont participé à une étude sur les jeux vidéo. Les résultats de cette étude montrent que les enfants qui jouent beaucoup aux jeux vidéo sont plus violents, plus nerveux et plus stressés que ceux qui ne jouent pas ou peu. Ceux qui jouent beaucoup ont également moins de bons résultats à l'école. Il est donc conseillé aux parents d'être vigilants et de limiter l'usage de ces jeux par leurs enfants."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
