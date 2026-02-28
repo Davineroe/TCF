@@ -1,0 +1,411 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Je vais bientôt vivre dans ton quartier. Je cherche un endroit sympathique pour faire mes courses. Est-ce que tu connais un marché intéressant ? Merci d'avance et à bientôt ! Bernard. Vous répondez à votre ami Bernard. Dans votre message, vous décrivez un marché de votre quartier que vous aimez bien (lieu, horaires, produits, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous faites partie d'une association de quartier qui propose des activités aux enfants (aide aux devoirs, sorties, jeux, etc.). Sur votre site internet, vous racontez votre expérience et vous expliquez pourquoi ce type d'association est utile.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le livre papier ou le livre numérique ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Depuis plusieurs années maintenant, de nombreux lecteurs ont décidé de remplacer la bibliothèque traditionnelle par des livres numériques. Selon eux, l'avantage est avant tout économique. D'une part, le livre numérique permet d'économiser du papier, d'autre part la version numérique d'un livre est généralement moins chère que la version papier. Les livres numériques ont un autre avantage : ils permettent une ouverture sur le monde pour les personnes en situation de handicap. Certaines options, comme la possibilité d'augmenter la taille des lettres, facilitent la lecture pour les personnes malvoyantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le livre numérique remplacera-t-il le livre papier ? « Non », répondront la plupart des lecteurs. Le livre papier est un beau support. Quel plaisir de le prêter aux gens qu'on aime ou de l'offrir en glissant un petit mot dedans ! Le livre papier a une histoire, l'odeur du neuf ou de l'ancien… Il transmet beaucoup d'émotions alors que le livre numérique a un côté un peu impersonnel. De plus, les livres numériques demandent de posséder un minimum de connaissances en informatique, ce qui peut être une difficulté pour certaines personnes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Salut ! Je cherche un endroit pour déjeuner en plein air ce week-end. Qu'est-ce que tu me proposes ? A bientôt. Barbara. Vous répondez à votre amie Barbara. Vous décrivez le lieu (parc, jardin, terrasse, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez visité un nouveau pays pendant vos vacances. Sur un site internet, vous racontez votre expérience et vous donnez votre opinion sur ce pays.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'utilisation du plastique, pour ou contre",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "À mon avis, faire disparaître le plastique de notre quotidien est impossible. Il faudrait plutôt réduire sa consommation. Le plastique est pratique et je pense qu'il est difficile de s'en passer. Il est présent dans tous les emballages (alimentaires, cosmétiques, etc.) et également dans le matériel que nous utilisons pour nos loisirs : raquettes de tennis, de ping-pong, nos maillots de bain, etc. L'industrie du plastique crée énormément d'emplois et elle réalise beaucoup de bénéfices. On ne peut pas supprimer tout ce secteur d'activité ! Justine, 30 ans."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le plastique est présent dans notre vie de tous les jours… mais pas seulement ! Il est aussi présent dans les mers et les océans et, à cause de lui, de nombreux poissons meurent car ils mangent du plastique. Il faut donc créer de nouveaux matériaux plus écologiques pour le remplacer, mais cela va prendre beaucoup de temps. Nous devons changer nos habitudes. De mon côté, je préfère ne pas acheter de produits emballés dans du plastique. J'utilise des boîtes en verre pour conserver mes aliments. Arthur, 35 ans."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Bonjour, Je viens bientôt en vacances dans ta région. Est-ce que tu peux me conseiller une visite à faire pendant mon voyage ? Merci beaucoup. Mathieu. Vous répondez à votre ami Mathieu. Vous décrivez un lieu à visiter dans votre région.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Bonjour, Vous avez pris des cours dans notre salle de sport. Donnez-nous votre avis sur notre site Internet ! www.masalledesport.org. Sur le site Internet de la salle de sport, vous répondez à ce message. Vous racontez cette expérience et vous donnez votre avis.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Livraison Des Repas Au Bureau : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La livraison de repas permet de gagner du temps. Par exemple, quand on travaille, on peut se faire livrer un repas au bureau sans se déplacer. On perd moins de temps pendant la pause déjeuner, on rentre donc plus tôt chez soi. Généralement, cela offre plus de choix : si un de nos collègues veut commander une pizza mais que nous souhaitons manger des sushis, plus de disputes, il suffit de commander des plats dans différents restaurants. L'autre avantage de ce nouveau mode de consommation est qu'il est disponible à toute heure. En effet, on trouve toujours des restaurants qui restent ouverts 24 heures sur 24. Céline, 25 ans."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La livraison de repas plaît de plus en plus aux consommateurs qui n'ont pas le temps ou l'envie de cuisiner. Toutefois, ce service présente des inconvénients écologiques. Les repas sont souvent livrés en scooter ou en voiture, qui sont des modes de transport polluants ! Cette habitude a aussi des conséquences négatives sur la vie sociale. Quand on mange des repas livrés au bureau ou à domicile, on a tendance à rester enfermé et à voir les mêmes personnes. Pourtant, il est important de sortir prendre l'air et, pourquoi pas, de rencontrer d'autres personnes. Ahmed, 40 ans."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message dans le journal de votre université pour rechercher un partenaire avec qui faire du sport.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez dans un article un message pour raconter votre arrivée dans un pays étranger en donnant vos impressions.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Rôle De La Télévision Dans L'éducation Des Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La télévision est un outil de communication et de divertissement largement répandu dans notre société moderne. Son influence est incontestable, tant sur les individus que sur la culture en général. Elle permet de diffuser des informations, d'offrir des divertissements variés et de favoriser la diffusion de la culture. La télévision est présente dans de nombreux foyers et constitue une source d'information et de divertissement accessibles à tous. Grâce à sa portée et à sa capacité à toucher un large public, la télévision joue un rôle important dans la transmission des connaissances et la sensibilisation aux enjeux sociaux."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La télévision peut également présenter certains inconvénients. Les émissions télévisées peuvent parfois véhiculer des stéréotypes, des préjugés et des valeurs discutables. De plus, le temps passé devant la télévision peut réduire le temps consacré à d'autres activités plus enrichissantes, telles que la lecture, les interactions sociales ou la pratique d'un sport. Il est important de faire preuve de discernement et de réguler l'exposition à la télévision, en particulier pour les enfants, afin de préserver un équilibre sain entre les différentes formes d'apprentissage et de divertissement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous faites du sport dans un club. Vous venez de remporter une compétition. Vous écrivez un courriel à vos amis pour leur raconter cet évènement sportif et annoncer votre réussite sportive.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "« Le site colocation.com recherche des témoignages sur vos expériences de colocation. Écrivez-nous ! » Vous avez déjà habité en colocation avec des amis. Vous racontez votre expérience aux membres du site internet. Vous donnez votre opinion sur ce mode de logement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Grossissement Des Villes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De nos jours, les villes grossissent toujours plus. Malheureusement, ce phénomène a un impact fort sur l'environnement. Car plus une ville grossit, plus elle a des effets négatifs sur la nature et donc, ensuite, sur l'homme. L'effet négatif le plus visible est la déforestation, qui réduit les végétaux qui retiennent le carbone. Donc, quand on les supprime pour construire des bâtiments ou des rues, on supprime des espaces verts capables de retenir des millions de tonnes de carbone."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Plus de la moitié de l'humanité vit en ville (huit habitants sur dix dans les pays riches). La vie urbaine est donc le principal enjeu écologique. On entend souvent dire que l'organisation actuelle des villes n'est pas écologique, et que le grossissement des villes ne fait qu'augmenter le problème. Pourtant, il faut se méfier des apparences : les villes ne sont pas toujours aussi antiécologiques qu'on l'imagine. Par exemple, la consommation d'énergie d'un citadin est moins importante que celle d'un habitant de la campagne."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami veut se mettre au sport. Vous lui envoyez un message pour lui conseiller une salle de sport située dans votre quartier (localisation, prix, type d'activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un événement qui vous a marqué (anniversaire, mariage, etc.). Racontez votre souvenir.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Lecture Pour Les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Avec l'avancée technologique et les produits high-tech qui envahissent de plus en plus notre quotidien, nos enfants oublient la lecture et s'intéressent davantage aux jeux vidéo, aux sports, à la musique… Contrairement à nous les adultes, dont beaucoup d'entre nous ont lu des milliers de pages, la génération actuelle est toujours occupée par les réseaux sociaux et le gaming ou prennent du plaisir à pratiquer du sport qui attirent davantage de jeunes grâce aux stars internationales du football, du tennis, de l'athlétisme… alors avec tout ça, pourquoi devons-nous forcer les enfants à lire un bouquin ? Et comme le dit un proverbe, « le goût de la lecture ne peut pas s'imposer »… il faut laisser l'enfant choisir ce qu'il veut lire et surtout ne pas l'obliger à lire quand il n'a pas envie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "L'amour de la lecture se transmet de génération en génération bien que, ces dernières années, on ne trouve plus beaucoup de bouquins entre les mains des enfants, laissant la place aux smartphones et aux tablettes. En apprenant à lire régulièrement, l'enfant acquiert le langage plus aisément tout en développant sa capacité d'audition et de concentration. De plus, et pour prendre du plaisir ensemble, les parents peuvent consacrer quotidiennement 10 minutes à leurs enfants pour lire des bouquins ; une activité qui renforcera à coup sûr la complicité parent/enfant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message à vos amis pour les inviter à votre anniversaire et leur raconter comment va se dérouler votre fête.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Répondez en commentaire à une publication sur Facebook au sujet des études à l'étranger en citant les avantages et les inconvénients de cette expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Nouvelles Technologies Pour Les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les enfants de l'école primaire peuvent utiliser la technologie pour trouver des vidéos sur les sujets qu'ils ont étudiés à l'école ou pour jouer à des jeux qui améliorent leur aisance en mathématiques, leur compréhension de la lecture ou leurs compétences en dactylographie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les nouvelles technologies encouragent les enfants à être sédentaires. C'est une préoccupation majeure pour les parents. Cela ne mène à aucun jeu libre créatif, à aucune interaction sociale face à face, conduisant à aucun effort physique ! Pourquoi ne pas essayer certaines de ces activités amusantes pour encourager vos enfants à ranger leurs appareils ?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous partez en voyage et vous laissez votre appartement à un ami qui veut venir rester chez vous pendant vos vacances. Vous lui envoyez un message pour décrire votre appartement (immeuble, logement, accès…).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez un article de blog sur votre souvenir de voyage que vous avez aimé le plus.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vivre Chez Ses Parents, Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les avantages : penser à l'avenir, avoir les vêtements propres, être en confort surtout que l'argent n'est pas toujours suffisant. Vivre avec ses parents pendant la période des études permet aux jeunes d'économiser les frais de logement, des plats faits maison et une certaine stabilité psychique. Les adolescents qui vivent avec leurs parents peuvent économiser leur argent pour des projets de vie (ils ne paient ni le loyer ni la nourriture). Le loyer est très cher et étudier loin de chez soi revient plus cher. Vivre avec ses parents est plus bénéfique : la bouffe est bonne, vêtements toujours propres et pas de place pour la solitude."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les inconvénients : manque de liberté. Vivre seul permet d'être indépendant. Les adolescents qui vivent avec leurs parents s'ennuient car leurs parents décident à leur place et ils sont toujours dépendants de leurs parents. Un certain monsieur de 25 ans a perdu son job, donc il était dans l'obligation de rentrer vivre chez ses parents, et maintenant il a perdu son espace d'intimité. Revenir chez ses parents, c'est revenir en arrière."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez bientôt déménager. Écrivez un message à votre ami(e) pour demander son aide en fournissant les informations (date, lieu, transports, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous faites une réclamation par rapport aux mauvaises prestations d'une agence de voyage suite à un voyage mal organisé. Exprimez votre mécontentement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les enfants, jusqu'à l'âge de l'adolescence, jouent d'une manière régulière aux jeux vidéo et à force, ils peuvent développer des pensées négatives et des comportements agressifs. En effet, une étude récente, menée sur des enfants âgés de 9 à 18 ans jouant fréquemment aux jeux vidéo, a révélé que le fait de jouer à des jeux de violence augmente considérablement un comportement agressif. Et selon Diégo Gentil, ce phénomène est inévitable, quel que soit le degré de vigilance des parents !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "On parle tout le temps des effets négatifs des jeux vidéo, mais ces derniers peuvent également avoir quelques avantages pour le fonctionnement du cerveau et pour la santé d'une manière générale. Si on prend, par exemple, leur apport pour le cerveau, les jeux vidéo permettent d'améliorer plusieurs fonctions cognitives telles que l'amélioration de la concentration, de la réaction et de la capacité d'analyser. Ceci peut paraître évident, dans la mesure où lorsqu'on y joue, on doit toujours trouver des solutions à des situations plus ou moins complexes (surtout pour les jeux de stratégie)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Je suis votre amie Anna et je compte passer un weekend dans ta ville. Donnez-moi des informations sur les moyens de transport pour explorer la ville. Répondez à Anna dans un message.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une fête de voisins du quartier, écrivez un blog pour montrer pourquoi vous avez aimé cette fête.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'utilisation Des Distributeurs Automatiques Au Sein Des Établissements Scolaires, Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Opinion 1 : « Je suis en faveur des distributeurs de boissons dans les lycées. Premièrement, ils offrent une commodité supplémentaire pour les élèves, notamment pour ceux qui n'ont pas le temps de passer à la cafétéria pendant les pauses. Deuxièmement, s'ils sont bien gérés, ces distributeurs peuvent offrir une gamme de boissons saines, comme de l'eau, du jus de fruits pur et des boissons aux fruits sans sucre ajouté. Ces distributeurs peuvent être une source de revenus supplémentaire pour l'école, qui peut être réinvestie dans l'amélioration des infrastructures ou des programmes scolaires. »"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Opinion 2 : « Je suis contre l'installation de distributeurs de boissons dans les lycées. Ma principale préoccupation est liée à la santé des élèves. Malheureusement, beaucoup de ces distributeurs sont remplis de boissons sucrées et de sodas qui contribuent à l'obésité infantile et à d'autres problèmes de santé comme le diabète. Même les jus de fruits, qui peuvent sembler sains, contiennent souvent beaucoup de sucre. Les écoles devraient être des lieux qui encouragent des habitudes alimentaires saines et je crains que la présence de ces distributeurs n'encourage une consommation excessive de boissons sucrées. »"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez invité votre ami Cédric à votre mariage au Château de Chombony et il vous a répondu qu'il ne connaît pas ce château. Décrivez à votre ami (lieu, localisation, transports, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Dans votre blog, racontez votre expérience de l'apprentissage d'une langue étrangère (vous écrivez sur un forum internet en racontant votre expérience en apprenant une langue étrangère).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Cuisinier Amateur Ou Cuisinier Professionnel ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les amateurs ont fait des recettes réussies, mais ils manquent toujours des compétences et des techniques, c'est pourquoi la formation et l'expérience sont nécessaires pour être un vrai cuisinier."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Il parle des cuisiniers qui ont appris le métier de cuisinier sur internet et qui ont le buzz sur les réseaux sociaux. Il raconte aussi l'histoire d'une amatrice qui est devenue professionnelle et qui a rédigé plusieurs livres sur la cuisine pour les amateurs de cuisine à la maison."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami Mehdi vient d'emménager dans votre ville et cherche des renseignements sur les moyens de transports. Écrivez un message en lui donnant les informations nécessaires (types de transport, abonnement, tarif, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Exprimez votre admiration pour une personnalité, célèbre ou non, en vous appuyant sur ses actions spécifiques. Rédigez un article de blog en détaillant les actions remarquables de cette personne et expliquez pourquoi vous l'aimez.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vivre En Colocation : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La vie en colocation offre de nombreux avantages. Partager un logement avec d'autres personnes permet de réduire les dépenses, que ce soit le loyer, les factures ou les frais généraux. De plus, cela favorise les interactions sociales et les échanges culturels. Vivre avec des colocataires permet de rencontrer des individus de différents horizons, de nouer des amitiés et de partager des expériences enrichissantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La colocation peut cependant présenter des défis. Les différences de personnalité et de mode de vie entre les colocataires peuvent entraîner des tensions. La gestion des responsabilités et des tâches ménagères peut également être source de conflits. De plus, la colocation peut limiter l'intimité et l'espace personnel. Il est important d'établir une communication ouverte et respectueuse, ainsi que des règles de vie commune, pour favoriser une cohabitation harmonieuse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 13,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez trouvé un nouveau travail. Vous écrivez à votre amie francophone pour lui annoncer la bonne nouvelle. Vous décrivez votre poste, vos collègues et votre lieu de travail.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Une étudiante de 19 ans veut aller à l'étranger pour les études. Elle demande aux internautes du forum de partager leurs expériences et vous avez fait un an à l'étranger. Parlez-lui de votre expérience (décrire le séjour à l'étranger, les activités…).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Aide Aux Personnes Pauvres",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Marie, 58 ans : J'ai pris l'habitude, depuis des années maintenant, de donner un peu de mon temps et de mon argent afin d'aider les personnes vivant dans la précarité extrême, surtout ceux qui vivent sans abri en période hivernale. Pour moi, c'est un devoir d'aider et de contribuer afin que ces personnes puissent vivre le plus normalement possible. En assistant des pauvres ou des associations, on se sent utile au sein d'une société qui devient de plus en plus impitoyable."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Paul, 63 ans : Pour aider les personnes vivant dans la précarité, on doit s'investir davantage dans des associations caritatives. Personnellement, c'est ce que je fais, je suis bénévole dans une association située dans mon quartier. Elle a pour principal but d'aider les sans-abris à trouver un logement et un travail afin qu'ils vivent le plus normalement possible. Cette action est plus bénéfique à long terme car elle permet de les rendre autonomes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
