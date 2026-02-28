@@ -1,34 +1,76 @@
 {
   "eo_2026": {
-    "1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_1_26.json",
-    "2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_2_26.json"
+    "1": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2026/1_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2026/1_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2026/1_tache3.json"
+    },
+    "2": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2026/2_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2026/2_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2026/2_tache3.json"
+    }
   },
   "eo_2025": {
-    "1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_1_25.json",
-    "2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_2_25.json",
-    "3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_3_25.json",
-    "4": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_4_25.json",
-    "5": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_5_25.json",
-    "6": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_6_25.json",
-    "7": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_7_25.json",
-    "8": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_8_25.json",
-    "9": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_9_25.json",
-    "10": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_10_25.json",
-    "11": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_11_25.json",
-    "12": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_12_25.json"
-  },
-    "eo_2024": {
-    "1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_1_24.json",
-    "2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_2_24.json",
-    "3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_3_24.json",
-    "4": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_4_24.json",
-    "5": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_5_24.json",
-    "6": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_6_24.json",
-    "7": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_7_24.json",
-    "8": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_8_24.json",
-    "9": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_9_24.json",
-    "10": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_10_24.json",
-    "11": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_11_24.json",
-    "12": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/serie_eo_12_24.json"
+    "1": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/1_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/1_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/1_tache3.json"
+    },
+    "2": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/2_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/2_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/2_tache3.json"
+    },
+    "3": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/3_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/3_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/3_tache3.json"
+    },
+    "4": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/4_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/4_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/4_tache3.json"
+    },
+    "5": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/5_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/5_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/5_tache3.json"
+    },
+    "6": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/6_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/6_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/6_tache3.json"
+    },
+    "7": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/7_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/7_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/7_tache3.json"
+    },
+    "8": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/8_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/8_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/8_tache3.json"
+    },
+    "9": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/9_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/9_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/9_tache3.json"
+    },
+    "10": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/10_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/10_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/10_tache3.json"
+    },
+    "11": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/11_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/11_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/11_tache3.json"
+    },
+    "12": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/12_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/12_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/12_tache3.json"
+    }
   }
 }
