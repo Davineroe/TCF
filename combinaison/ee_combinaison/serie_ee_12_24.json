@@ -1,0 +1,318 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un courriel à vos amis pour les inviter à un anniversaire surprise de votre meilleur(e) ami(e), (Lieu, date, horaire, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à une brocante (achat / vente de produits d'occasion) dans votre ville. Sur votre blog personnel, racontez pourquoi vous avez aimé cette activité.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Vols à Bas Prix",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je fais souvent mes voyages avec des compagnies aériennes à bas prix. Les compagnies Low-cost mettent à disposition des prix inférieurs à ceux proposés par les compagnies aériennes régulières. Cela me coûte des fois moins cher que de voyager en voiture ou en train. Avec ces tarifs-là, vous en doutez qu'il y a un hic, en effet, vous n'aurez le droit à aucun service à bord (ni aliments, ni boissons). Je dirais donc, que le low-cost n'est surtout pas fait pour les vols long courrier."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Récemment, j'ai pris la décision de ne plus voyager avec les compagnies aériennes à bas prix. En effet, j'ai longuement réfléchi afin de prendre ma décision, mais ce choix était évident : des sièges inconfortables, des conditions de travail pénibles et surtout des avions vétustes qui remettent en cause la sécurité ! Dès lors, pour certains voyages, je vais opter pour la voiture ou même le train, ce dernier permet même de découvrir de jolis paysages. Quant aux longs trajets, vaut mieux prendre un vol en compagnie régulière."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez changer la décoration de votre appartement (meubles, peinture, objets, etc.). Vous écrivez un message à un(e) ami(e). Vous lui décrivez votre projet et vous lui demandez de vous aider.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "« École De Musique ! Cours Gratuits, Concerts, Jeux. Rendez-Vous Vendredi, À partir de 9 Heures ». Vous avez participé à cet évènement. Vous écrivez à vos amis pour raconter votre expérience et vous donnez votre opinion sur cette journée.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Faut-il faire ses Courses dans des Petits Magasins ou dans des Supermarchés ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le supermarché est très pratique ; on y trouve une grande variété de produits, tous à portée de main. Vous pouvez garer votre voiture dans le parking et faire le tour des rayons pour acheter tout ce dont vous avez besoin : fruits, légumes, fromages, viandes, boissons… De plus, les supermarchés offrent plusieurs marques pour un même produit, tout en proposant régulièrement des promotions et des remises."
+                },
+                {
+                  "numero": 2,
+                  "texte": "ASSOCIATION POUR LA SAUVEGARDE DES PETITS COMMERCES. Le défi « Février sans supermarché » a été créé pour limiter la superpuissance des supermarchés et, par conséquent, permettre aux petits commerces de survivre et de réaliser des chiffres d'affaires plus conséquents. Ce défi consiste à boycotter les supermarchés pendant une durée d'un mois, en faisant toutes ses courses dans les épiceries de quartier. Le client aura tout à gagner : il bénéficiera non seulement de produits frais de meilleure qualité, mais aura également l'opportunité de papoter avec les voisins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Je cherche un vélo en bon état et bon marché. Contactez-moi par courriel : mathieu@gmail.com. » Vous avez un vélo à vendre. Vous écrivez un courriel pour décrire votre vélo et proposer un prix. Vous lui donnez un rendez-vous pour essayer le vélo.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé une journée à la campagne avec vos amis. À votre retour, vous écrivez un message sur votre forum pour raconter à vos amis comment cette journée s'est passée. Vous expliquez ce que vous avez aimé (activités, lieu, animaux, etc…).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Sévérité des Parents envers les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je vais bientôt avoir 22 ans et j'habite toujours chez mes parents. Mon père et ma mère restent autoritaires avec moi, même si je suis majeure. Quand j'étais mineure, je n'avais pas le droit de dormir dehors, ni même de dépasser 21h lorsque je sortais avec des amies. Maintenant, peu de choses ont changé ; certes, j'ai le droit de veiller plus tard la nuit, mais ma mère ne cesse de m'appeler sur mon téléphone portable jusqu'à ce que je sois de retour."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les parents ont parfois peur d'être trop sévères avec leurs enfants. Ils craignent, qu'à cause d'un excès d'autorité, leurs enfants ne s'épanouissent pas et manquent plus tard de personnalité. Même si les parents acceptent, par amour, tout ce dont leurs enfants demandent, cela pourrait avoir des effets négatifs lorsqu'ils passent à l'âge adulte. En effet, pour vivre en communauté, il y a certaines règles à respecter."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Répondre au courriel de votre ami Lucas pour lui donner les informations sur les nouveaux locaux de votre entreprise (lieu, disposition des pièces, équipements…).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à un événement intitulé \"une semaine sans voiture\". Racontez dans un blog l'expérience que vous avez vécue et donnez votre impression sur cette initiative.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Vêtements de Marque: Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les vêtements de marques sont très importants pour les enfants et les adolescents. C'est un moyen de s'exprimer et de se rattacher à un groupe social. Cette attirance pour les marques est très présente chez les adolescents qui se cherchent et montrent leurs personnalités. Les enfants aiment également porter des vêtements de marques avec des images des dessins animés qu'ils regardent ou des logos qu'ils apprécient."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les enfants grandissent très vite et les vêtements sont portés pendant une courte période. Ainsi, les vêtements deviennent rapidement trop petits. Mais il y a aussi le fait que les enfants usent assez rapidement les vêtements en jouant à l'extérieur avec les copains, en s'amusant dans l'herbe ou à l'air de jeux. Les habits sont très vite sales ou troués."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un courriel à vos amis pour les inviter à un anniversaire surprise pour votre meilleure ami(e), et proposez de lui offrir un cadeau commun (lieu, cadeau, activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Votre direction est à la recherche d'une salle pour la fête de fin d'année, capable d'accueillir 100 invités. Rédigez un message à la direction pour leur dire que vous avez trouvé un local idéal. (Lieu, tarifs et services etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Sévérité des Parents envers leurs Enfants : Approches Divergentes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Une étude menée par le Centre de recherche sur la parentalité de l'Université de Toronto en juin dernier a révélé que la majorité des parents adoptent des approches plus bienveillantes envers leurs enfants qu'auparavant. Cette étude a examiné un échantillon représentatif de mille familles dans différentes régions du pays et a montré que les parents encouragent une communication ouverte avec leurs enfants et adoptent des approches moins autoritaires."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Un article d'opinion paru dans un magazine populaire en mars 2023 présente des témoignages de parents qui ont recours à des méthodes de discipline plus strictes, telles que des privations de liberté, des punitions corporelles et des critiques constantes. Certains parents estiment que ces approches sont nécessaires pour aider leurs enfants à développer leur responsabilité et leur discipline dans un monde de plus en plus compétitif. Cependant, de nombreux experts en éducation considèrent ces méthodes comme inappropriées et préconisent des approches plus positives et coopératives pour guider les enfants vers un comportement approprié."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez organiser une visite culturelle dans votre ville. Vous envoyez un message pour inviter vos amis. Vous leur donnez toutes les informations nécessaires (activités, date, lieu, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une soirée écologique pour protéger la planète qui avait lieu dans votre université. Racontez-la dans votre blog et expliquez pourquoi vous l'avez aimée.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Devoirs à la Maison",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Selon des associations des parents d'élèves, les devoirs à la maison sont utiles, car ils permettent aux élèves d'apprendre à organiser leur temps de manière autonome. Pour les parents, les devoirs sont un lien quotidien avec l'école. Même s'il est parfois difficile de suivre les devoirs après une journée de travail fatigant, ils apprécient ce moment partagé avec leurs enfants parce que ceux-ci sont contents que leurs parents s'intéressent à eux. C'est valorisant !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Nous protestons depuis longtemps contre les devoirs à la maison pour plusieurs raisons. Personne n'a jamais prouvé leur utilité pour améliorer les résultats des élèves. Beaucoup de parents ont peu de temps pour encadrer les devoirs de leurs enfants et certains parents ne savent pas le faire. Quant aux élèves, ceux qui ont réussi les exercices en classe perdent leur temps à les refaire à la maison. Ceux qui ne sont pas aidés à la maison ne réussissent toujours pas, ils sont défavorisés. C'est pourquoi nous pensons qu'il faut supprimer les devoirs à la maison."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un email pour répondre à votre ami(e) qui va passer le week-end dans votre ville. Il faut décrire les moyens de transports.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une fête entre voisins dans votre quartier. Dans votre blog, décrivez cet évènement et racontez pourquoi vous l'avez aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Distributeurs de Boissons dans les Lycées: Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Opinion 1 : Kevin, « Je suis en faveur des distributeurs de boissons dans les lycées. Premièrement, ils offrent une commodité supplémentaire pour les élèves, notamment pour ceux qui n'ont pas le temps de passer à la cafétéria pendant les pauses. Deuxièmement, s'ils sont bien gérés, ces distributeurs peuvent offrir une gamme de boissons saines, comme de l'eau, du jus de fruits pur et des boissons aux fruits sans sucre ajouté. Ces distributeurs peuvent être une source de revenus supplémentaire pour l'école, qui peut être réinvestie dans l'amélioration des infrastructures ou des programmes scolaires. »"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Opinion 2 : Karim, « Je suis contre l'installation de distributeurs de boissons dans les lycées. Ma principale préoccupation est liée à la santé des élèves. Malheureusement, beaucoup de ces distributeurs sont remplis de boissons sucrées et de sodas qui contribuent à l'obésité infantile et à d'autres problèmes de santé comme le diabète. Même les jus de fruits, qui peuvent sembler sains, contiennent souvent beaucoup de sucre. Les écoles devraient être des lieux qui encouragent des habitudes alimentaires saines et je crains que la présence de ces distributeurs n'encourage une consommation excessive de boissons sucrées. »"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Le journal \"Bienvenue\" compte publier un article qui parle des habitants de notre ville. Écrivez nous un message qui sera diffusé dans ce numéro. Vous êtes récemment installé dans cette ville, et il vous est demandé de vous présenter et décrire ensuite tous vos lieux préférés au sein de cette ville.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez d'assister au concert de votre artiste favori. Vous écrivez un article sur votre blog personnel, pour partager cette expérience et inciter vos amis et les autres à assister à son prochain concert.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo : Pour ou contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les enfants, jusqu'à l'âge de l'adolescence, jouent d'une manière régulière aux jeux vidéo et à force, ils peuvent développer des pensées négatives et des comportements agressifs. En effet, une étude récente, menée sur des enfants âgés de 9 à 18 ans jouant fréquemment aux jeux vidéo, a révélé que le fait de jouer à des jeux de violence augmente considérablement un comportement agressif. Et selon Diego Gentil, ce phénomène est inévitable quelque soit le degré de vigilance des parents !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "On parle tout le temps des effets négatifs des jeux vidéo, mais ces derniers peuvent également avoir quelques avantages pour le fonctionnement du cerveau et pour la santé d'une manière générale. Si on prend, par exemple, leur rapport pour le cerveau, les jeux vidéo permettent d'améliorer plusieurs fonctions cognitives telles que l'amélioration de la concentration, de la création et de la capacité d'analyse. Ceci peut paraître évident, dans la mesure où lorsqu'on y joue, on doit toujours trouver des solutions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez lu une annonce sur un site internet qui propose l'aide aux personnes qui souhaitent apprendre le français et les aider à trouver des personnes avec lesquelles elles peuvent pratiquer le français et qui leur permettront d'améliorer leur niveau. Envoyez un courriel pour répondre à cette annonce tout en vous présentant et en expliquant pourquoi vouloir pratiquer cette langue.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez été invité(e) à une fête en famille. Vous envoyez un message à vos amis pour raconter cette fête. Vous expliquez ce que vous avez le plus aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Interdiction des Voitures dans les Centres-Villes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Avec des taux de pollution alarmants constatés dans plusieurs endroits dans le monde, plusieurs villes ont réussi leur pari d'interdire la circulation de voitures en zones urbaines. La capitale de la Norvège, Oslo, a récemment opté pour cette solution et s'en félicite estimant que c'est une décision bénéfique pour tout le monde. Après un certain temps, les accidents diminueront, la dépendance au pétrole baissera et la qualité de l'air sera meilleure."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Beaucoup de villes se lancent dans des projets d'interdiction de voitures en zone urbaine sans mettre en place les outils et les infrastructures nécessaires pour réussir cette transition. Certes, en diminuant les voitures, on aura moins d'embouteillages, de stress et surtout un air beaucoup moins pollué, mais en contrepartie, il faut prévoir entre autres de gigantesques parkings pour garer les voitures, opter davantage pour le transport en commun (métros et bus) et prévoir des autorisations de circulation pour certains corps de métiers (comme la police, les urgentistes, les livreurs…)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Je cherche un vélo en bon état et bon marché. Contactez-moi par courriel : mathieu@gmail.com. Vous avez un vélo à vendre. Vous écrivez un courriel pour décrire votre vélo et proposer un prix. Vous lui donnez un rendez-vous pour essayer le vélo.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez un message à vos amis pour leur partager votre expérience de travail temporaire effectué durant les vacances d'été.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Gratuité des Transports en Commun : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les transports en commun gratuits, c'est une très bonne idée. Cela permet de diminuer le nombre de voitures en ville et d'éviter les bouchons. C'est aussi une bonne mesure pour réduire la pollution et donc les risques de maladies respiratoires. Dans ma ville, il y a des transports en commun gratuits. On observe que les gens utilisent plus souvent les transports publics depuis que la gratuité est en place. Cette mesure a aussi profité aux commerçants : les gens reviennent faire leurs achats dans le centre-ville et vont moins dans les hypermarchés."
+                },
+                {
+                  "numero": 2,
+                  "texte": "L'idée n'est pas bonne. D'une part, cela coûterait cher aux villes. Or, il me semble que la ville de Toulouse a d'autres problèmes à régler en priorité. Par exemple, il faudrait d'abord réaménager les espaces verts, cela profiterait à tout le monde. D'autre part, il vaudrait mieux réorganiser les transports publics au lieu de les rendre gratuits. Aujourd'hui, les gens préfèrent prendre leur voiture parce que la ville manque de transports publics dans certains quartiers éloignés. Enfin, selon moi, il faut garder les transports publics payants. Les gens respecteront davantage les équipements s'ils participent à leur financement en payant un titre de transport."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
