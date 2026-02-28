@@ -1,0 +1,318 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez assister à un festival de cinéma dans votre ville. Vous écrivez un message à votre ami(e) pour lui proposer de venir avec vous. Vous lui donnez toutes les informations nécessaires sur l'événement (films, dates et horaires, tarifs, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez accueilli un(e) étudiant(e) étranger(e) pendant une semaine chez vous. Sur votre blog, vous écrivez un article pour raconter cette semaine. Vous expliquez pourquoi vous avez aimé cette expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Restauration Rapide",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les restaurants rapides se distinguent par leur engagement à proposer une variété de plats équilibrés, respectant strictement les normes d'hygiène. En laissant aux clients la liberté de composer leur propre menu, ces établissements les responsabilisent dans leurs choix alimentaires, tout en satisfaisant leurs préférences gustatives."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les spécialistes affirment que manger régulièrement dans des restaurants de fast-food, qui proposent de la restauration rapide, est dangereux pour la santé. La nourriture servie est souvent la même : frites, hamburgers et boissons sucrées. Ces aliments contiennent une grande quantité de calories, bien trop pour un seul repas. De plus, la plupart des produits dans ces restaurants sont emballés dans du plastique. Par conséquent, manger dans un fast-food augmente la production de déchets plastiques, ce qui est nuisible pour l'environnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez faire du sport et vous voulez que votre ami vous accompagne. Écrivez lui un message pour lui proposer de pratiquer ensemble.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez déjà étudié dans une université à l'étranger. Écrivez un article sur votre Blog pour raconter cette expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'uniforme Scolaire : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le port de l'uniforme étouffe et écrase la personnalité des garçons. Ils ne peuvent s'habiller comme ils veulent, en aucune circonstance. De l'autre côté de l'échelle, il y a des gens qui préféreraient pour eux-mêmes et leurs enfants avoir la possibilité de s'exprimer à travers l'habillement, en décidant eux-mêmes ce qu'ils porteront chaque jour. Ainsi, avec un uniforme, les jeunes qui aiment s'exprimer à travers la mode, se démarquer de la foule grâce à un accessoire ou un vêtement particulier, se retrouveront déçus et emprisonnés dans l'uniforme."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le port de l'uniforme développe un sentiment d'appartenance à son établissement et à la communauté des élèves. Il nourrit chez le jeune le sens du collectif et engendre souvent la fierté d'appartenir à son établissement. De plus, il réduit la discrimination basée sur le style ou sur la classe sociale de l'élève. En effet, l'uniforme permet aux parents d'économiser beaucoup d'argent, ce ne sont pas tous les parents qui peuvent payer à leurs enfants de beaux vêtements griffés ou de marques populaires. La mise en place d'un code vestimentaire réduit donc les différences entre les classes sociales."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut ! Je sais que tu fais du sport depuis le mois dernier. Ça m'intéresse beaucoup et j'aimerais bien venir avec toi. Tu peux m'en dire plus ? A bientôt ! Camille ». Vous répondez à votre ami Camille. Dans votre message, vous décrivez votre activité sportive et vous donnez des informations utiles (lieu, durée, prix, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "« Tout quitter pour changer de vie ? Il y a deux ans, nous avons décidé de changer de vie. Paul a quitté son poste de banquier à Paris et nous avons ouvert une boulangerie à Calgary ! Que pensez-vous de cette décision ? Avez-vous déjà vécu un grand changement, professionnel ou personnel ? Paul et Naïma ». Vous avez lu ce message sur un forum internet. Vous répondez à Paul et Naïma. Dans votre message, vous donnez votre opinion sur le choix de Paul et de Naïma et vous racontez comment vous feriez si vous étiez à leur place.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Bien-être au Travail",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Nous avons installé, dans notre entreprise, des bureaux réglables qui montent et descendent, ceci pour permettre aux employés de choisir la position qui leur convient le mieux pour travailler. Les employés sont satisfaits et disent qu'ils sont plus productifs et plus efficaces lors des négociations au téléphone par exemple. Même le climat social est plus convivial et la communication verbale entre collègues s'est renforcée. Lorie, responsable."
+                },
+                {
+                  "numero": 2,
+                  "texte": "De nos jours, les entreprises veulent toujours plus de productivité et d'efficacité, et les employés passent plus de temps sur les lieux de travail. Les entreprises cherchent toujours des moyens ou astuces pour convaincre leurs employés de travailler plus et qu'elles pensent à leur santé. Moi, ce qui m'importe c'est de faire mon job sur mon temps de travail réel sans être obligé de faire des rallonges en heures supplémentaires. Florian, ingénieur."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un courriel à vos amis pour les inviter à un anniversaire surprise de votre meilleur ami. (Lieu, date, horaire, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à une brocante (achat / vente de produits d'occasion) dans votre ville. Sur votre blog personnel, racontez pourquoi vous avez aimé cette activité.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Vols A Bas Prix : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je fais souvent mes voyages avec des compagnies aériennes à bas prix. Les compagnies Low-cost mettent à disposition des prix inférieurs à ceux proposés par les compagnies aériennes régulières. Cela me coûte parfois moins cher que de voyager en voiture ou en train. Avec ces tarifs-là, vous vous doutez qu'il y a un hic, en effet, vous n'aurez le droit à aucun service à bord (ni aliments, ni boissons). Je dirais donc que le low-cost n'est surtout pas fait pour les vols long-courriers."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Récemment, j'ai pris la décision de ne plus voyager avec les compagnies aériennes à bas prix. En effet, j'ai longuement réfléchi afin de prendre ma décision, mais ce choix était évident : des sièges inconfortables, des conditions de travail pénibles et surtout des avions vétustes qui remettent en cause la sécurité ! Dès lors, pour certains voyages, je vais opter pour la voiture ou même le train, ce dernier permet même de découvrir de jolis paysages. Quant aux longs trajets, mieux vaut prendre un vol en compagnie régulière."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez lu une annonce sur un site internet qui propose l'aide aux personnes qui souhaitent apprendre le français et les aider à trouver des personnes avec lesquelles elles peuvent pratiquer le français et qui leur permettront d'améliorer leur niveau. Envoyez un email pour répondre à cette annonce tout en vous présentant et en expliquant pourquoi vouloir pratiquer cette langue.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez été invité(e) à une fête en famille. Vous envoyez un message à vos amis pour raconter cette fête. Vous expliquez ce que vous avez le plus aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'Interdiction des Voitures dans les Centres-Villes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Avec des taux de pollution alarmants constatés dans plusieurs endroits dans le monde, plusieurs villes ont réussi leur pari d'interdire la circulation de voitures en zones urbaines. La capitale de la Norvège, Oslo, a récemment opté pour cette solution et s'en félicite estimant que c'est une décision bénéfique pour tout le monde. Après un certain temps, les accidents diminueront, la dépendance au pétrole baissera et la qualité de l'air sera meilleure."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Beaucoup de villes se lancent dans des projets d'interdiction de voitures en zone urbaine sans mettre en place les outils et les infrastructures nécessaires pour réussir cette transition. Certes, en diminuant les voitures, on aura moins d'embouteillages, de stress et surtout un air beaucoup moins pollué, mais en contrepartie, il faut prévoir entre autres de gigantesques parkings pour garer les voitures, opter davantage pour le transport en commun (métros et bus) et prévoir des autorisations de circulation pour certains corps de métiers (comme la police, les urgentistes, les livreurs…)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez fêter votre anniversaire. Vos amis vous demandent ce que vous souhaitez comme cadeaux. Vous voulez des vêtements, vous leur écrivez un message pour leur décrire les vêtements que vous aimeriez recevoir.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "www.manger-international.com. Ce mois-ci, nous nous intéressons aux habitudes alimentaires dans le monde. Racontez-nous comment mangent les habitants de votre pays ! Les 10 premiers témoignages seront publiés sur notre site ! Vous avez lu cette annonce, vous écrivez un article pour les lecteurs du site \"www.manger-international.com\". Vous expliquez comment mangent les habitants de votre pays et vous indiquez quelles habitudes vous plaisent ou vous déplaisent, et pourquoi.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo ont-ils un Impact sur notre Comportement ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Beaucoup de gens pensent encore que les jeux vidéo nous rendent bêtes. Pourtant de nombreuses études prouvent le contraire. Ainsi, selon une de ces études, les utilisateurs de jeux de course développeraient leur sens de l'orientation, leur mémoire et la précision de leurs mouvements. D'autres études montrent clairement une amélioration de la rapidité et de la concentration de tous les joueurs. Et c'est sans parler des jeux d'entraînement destinés aux personnes âgées pour consolider la mémoire et la vivacité d'esprit… Bref, c'est scientifique, le jeu vidéo rend plus intelligent !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les jeux vidéo, sur console ou sur ordinateur, chez soi ou en salle, seul, avec des amis ou en ligne avec des inconnus, peuvent provoquer une dépendance chez certaines personnes. On parle d'addiction quand le jeu vidéo devient le principal (ou l'unique) centre d'intérêt, à la place d'autres activités (relationnelle, professionnelle, scolaire, loisirs, sport…). Cette dépendance est particulièrement préoccupante lors de l'adolescence, période importante où les jeux vidéo peuvent avoir un impact négatif sur les résultats scolaires."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous venez de vous installer dans une nouvelle ville. Vous écrivez un message à un(e) ami(e) pour décrire votre nouvel environnement (quartier, voisins, magasins, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à une action pour la « Journée mondiale du nettoyage de notre planète ». Vous avez ramassé des déchets dans un lieu public (plage, forêt, rue, etc.) avec d'autres personnes. Vous racontez cette expérience à vos amis, vous expliquez pourquoi il est important de participer à ce type d'action.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Publicités, Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Certaines personnes trouvent la publicité ennuyeuse, mais, à mon avis, elle est indispensable pour le commerce et les entreprises. Grâce à la publicité, on fait connaître un produit ou un service. Et puis, parfois, elles sont drôles ! J'aime bien les écouter quand je suis en voiture. Cela me permet aussi d'être informé des nouveautés et des promotions. Personnellement, j'adore comparer les articles : je peux ainsi faire beaucoup d'économies sur mes achats. Enfin, beaucoup de personnes jouent à des jeux gratuits sur leur téléphone : sans publicité, ces jeux seraient tous payants. Quentin, 28 ans."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La publicité est présente partout dans notre vie de tous les jours : journaux, radios, télévision, téléphone, Internet… Par exemple, sur certaines chaînes de télévision, les émissions sont coupées par la publicité et c'est agaçant. Puis, recevoir des dizaines de kilos de papier de publicité par an dans la boîte aux lettres, ce n'est pas très respectueux de l'environnement ! Je pense qu'il est nécessaire de faire voter une loi pour réduire les publicités par courrier et à la télévision. Si la publicité était plus discrète, elle serait plus appréciée. Estelle, 35 ans."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez déménagé dans une nouvelle ville il y a un mois. Rédigez un courriel à votre ami Léo pour lui donner de vos nouvelles. Dans votre message, décrivez votre appartement, le quartier, la ville, ainsi que les activités que vous avez découvertes.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une fête traditionnelle, dans votre pays ou à l'étranger. Rédigez un article pour votre blog dans lequel vous décrirez cette fête. Expliquez également pourquoi vous avez apprécié cet événement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Parcs Zoologiques : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les zoos présentent de nombreux avantages, y compris pour les espèces en voie de disparition. Les animaux y sont bien soignés. Les études démontrent que les taux de reproduction ont augmenté grâce aux programmes menés dans les zoos, contribuant ainsi à la sauvegarde de certaines espèces."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les animaux sauvages ne devraient pas être confinés dans des zoos, car cela ne correspond pas à leur habitat naturel. Il décrit les zoos comme des prisons pour les animaux, citant l'exemple d'ours polaires maintenus dans des environnements où la température atteint 15 degrés. Enfin, les animaux nécessitent un environnement naturel et la liberté."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez partir en week-end avec vos amis le mois prochain. Vous leur écrivez un message pour décrire votre projet (lieu, transport, activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "COURRIER DES LECTEURS. Tout quitter pour partir en voyage pendant un an : bonne ou mauvaise idée ? Répondez sur notre site Internet : \"voyage.internaute.fr\". Vous écrivez un message sur ce site internet, vous répondez à la question posée en prenant des exemples de votre vie personnelle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail : Favorable ou Défavorable ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le travail est au centre de notre vie. Dès l'enfance, on entend souvent la question : « Qu'est-ce que tu veux faire quand tu seras grand ? ». Le travail devrait être synonyme de réussite et de satisfaction, mais il est trop souvent synonyme de fatigue et d'emprisonnement. Aujourd'hui, beaucoup pensent que l'on ne passe pas assez de temps avec sa famille, ses amis. Il est urgent de revoir la place occupée par le travail dans notre société. Certains pensent que travailler moins permettrait d'avoir plus de temps libre pour mieux vivre."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certaines personnes ont décidé d'arrêter de travailler pour changer de mode de vie. Pourtant, aujourd'hui, travailler, c'est exister. La question : « Qu'est-ce que tu fais dans la vie ? » revient souvent lors d'une première rencontre. Elle prouve que l'emploi fait partie de notre identité. D'après le spécialiste Jean-Daniel Remond, la vie en entreprise est très importante. Les contacts quotidiens, les réseaux, les amitiés, l'impression d'être utile, mais aussi les difficultés, tout cela contribue à construire notre personnalité et notre identité."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Un évènement sportif aura lieu dans votre ville bientôt. Faites parvenir un message à vos amis pour les inviter (date, lieu, inscription, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé un cours de cuisine. Rédigez un article de blog pour décrire ce souvenir en indiquant les détails.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Achats en Ligne",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les achats en ligne ont des avantages comme gagner du temps, faire des économies, trouver facilement les produits, disponibilité 24h/24, produits provenant de tout le monde, etc."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les magasins nous donnent la possibilité d'avoir un contact humain et une relation avec les vendeurs, ainsi que la possibilité de voir et de toucher ce qu'on veut acheter. Les consommateurs favorisent l'achat traditionnel. Visiter des magasins leur permet d'échanger des achats insatisfaisants et de communiquer avec les vendeurs."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
