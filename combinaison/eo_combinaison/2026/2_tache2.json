@@ -1,0 +1,1049 @@
+{
+  "numero": 13,
+  "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
+  "duree": 330,
+  "reponse": {
+    "sujets": [
+      {
+        "theme": "Invitation à un concert",
+        "sujet": "Je suis votre ami(e). Je vous invite à venir avec moi à un concert. Vous êtes intéressé(e). Vous me posez des questions sur cet événement (genre musical, lieu, date, etc.).",
+        "questions_possibles": [
+          "Quel style de musique sera joué pendant ce concert ?",
+          "Où exactement aura lieu l'événement ?",
+          "À quelle date et à quelle heure ça commence ?",
+          "Est-ce qu'il faut acheter les billets à l'avance ?",
+          "Combien coûte l'entrée ?",
+          "Est-ce que le concert est en plein air ou en salle ?",
+          "Tu connais déjà les artistes qui vont jouer ?",
+          "Combien de temps dure le concert environ ?",
+          "Est-ce qu'il y aura beaucoup de monde ?",
+          "Tu y es déjà allé auparavant ?"
+        ]
+      },
+      {
+        "theme": "Atelier de cuisine",
+        "sujet": "Je suis votre ami(e). J'ai récemment suivi un atelier de cuisine. Vous souhaitez y participer. Vous me posez des questions à propos de cette formation (coût, horaires, contenu, etc.).",
+        "questions_possibles": [
+          "Quel était le thème principal de l'atelier ?",
+          "Combien coûte la formation ?",
+          "Combien de temps dure chaque séance ?",
+          "Est-ce que c'est pour les débutants ou il faut déjà savoir cuisiner ?",
+          "Où se trouve l'atelier exactement ?",
+          "Combien de personnes participaient ?",
+          "Quelles recettes avez-vous apprises ?",
+          "Est-ce que les ingrédients sont fournis ?",
+          "Est-ce que c'est plutôt pratique ou théorique ?",
+          "Tu comptes y retourner une autre fois ?"
+        ]
+      },
+      {
+        "theme": "Restaurant pour anniversaire",
+        "sujet": "Je suis votre collègue de travail. Vous venez de vous installer à Toronto. Vous cherchez un bon endroit pour fêter votre anniversaire. Vous me posez des questions sur les restaurants en ville (cuisine proposée, tarifs, ambiance, etc.).",
+        "questions_possibles": [
+          "Tu connais un restaurant sympa pour organiser une soirée ?",
+          "Quel genre de cuisine on y trouve ?",
+          "Est-ce que l'endroit est adapté pour les groupes ?",
+          "Les prix sont raisonnables ou plutôt élevés ?",
+          "Est-ce qu'il faut réserver à l'avance ?",
+          "Tu sais s'il y a de la musique ou une ambiance spéciale ?",
+          "L'endroit est bien situé, facile d'accès ?",
+          "Est-ce qu'il y a des options pour les végétariens ?",
+          "Est-ce que tu y es déjà allé ?",
+          "Tu penses que c'est une bonne idée pour un anniversaire ?"
+        ]
+      },
+      {
+        "theme": "Écoles à Edmonton",
+        "sujet": "Je suis votre voisin(e). Vous venez tout juste d'arriver à Edmonton. Vous souhaitez inscrire vos enfants à l'école. Vous me posez des questions sur les établissements scolaires du secteur (adresses, professeurs, activités proposées, etc.).",
+        "questions_possibles": [
+          "Quelles sont les écoles proches de notre quartier ?",
+          "Est-ce qu'elles ont une bonne réputation ?",
+          "Quels niveaux scolaires sont proposés ?",
+          "Y a-t-il des activités extrascolaires ?",
+          "Est-ce qu'il y a un service de transport scolaire ?",
+          "Comment se passe l'inscription ?",
+          "Les enseignants sont-ils faciles à contacter ?",
+          "Est-ce que les écoles proposent des cours de langue ?",
+          "Les bâtiments sont récents ou plutôt anciens ?",
+          "Y a-t-il des écoles privées dans le secteur ?"
+        ]
+      },
+      {
+        "theme": "Transports en commun",
+        "sujet": "Je travaille dans le service des transports en commun de la ville. Vous êtes nouveau/nouvelle ici. Vous me posez des questions pour vous renseigner (moyens de transport, prix, horaires, etc.).",
+        "questions_possibles": [
+          "Quels types de transports sont disponibles dans la ville ?",
+          "Combien coûte un ticket ou un abonnement mensuel ?",
+          "Les bus et les métros circulent-ils souvent ?",
+          "Est-ce que les horaires sont respectés ?",
+          "Y a-t-il une application pour suivre les trajets ?",
+          "Les transports fonctionnent-ils aussi le week-end ?",
+          "Comment peut-on acheter un ticket ?",
+          "Les enfants ou les étudiants ont-ils des réductions ?",
+          "Est-ce que les transports sont bien adaptés aux personnes âgées ?",
+          "Est-ce que c'est facile de se déplacer sans voiture ici ?"
+        ]
+      },
+      {
+        "theme": "Mariage au Québec",
+        "sujet": "Je suis votre ami(e) québécois(e). Vous vivez au Québec depuis quelques mois. Vous êtes invité(e) à un mariage et vous me posez des questions pour comprendre comment se déroule un mariage au Québec (cérémonie, invités, cadeaux, etc.).",
+        "questions_possibles": [
+          "Comment se déroule généralement la cérémonie de mariage au Québec ?",
+          "Est-ce que la cérémonie est plutôt religieuse ou civile ?",
+          "Combien d'invités sont habituellement présents ?",
+          "Les invités doivent-ils confirmer leur présence à l'avance ?",
+          "Existe-t-il des traditions particulières pendant la réception ?",
+          "Quel type de tenue est recommandé pour assister à un mariage ?",
+          "Les mariés ouvrent-ils les cadeaux pendant la fête ?",
+          "Est-il courant d'offrir de l'argent plutôt qu'un objet ?",
+          "La fête dure-t-elle toute la nuit ?",
+          "Y a-t-il des différences importantes avec les mariages dans d'autres pays ?"
+        ]
+      },
+      {
+        "theme": "Garde d'animal",
+        "sujet": "Je suis votre ami(e). Je pars en vacances. Vous avez accepté de garder mon chien pendant mon absence. Vous me posez des questions pour savoir comment bien vous en occuper (alimentation, soins, promenades, etc.).",
+        "questions_possibles": [
+          "À quelles heures dois-je lui donner à manger ?",
+          "Quelle quantité de nourriture dois-je prévoir chaque jour ?",
+          "A-t-il des allergies ou des besoins particuliers ?",
+          "Combien de fois par jour faut-il le promener ?",
+          "Est-il habitué à rester seul à la maison ?",
+          "A-t-il des jouets ou des activités préférées ?",
+          "Dois-je lui donner un médicament pendant ton absence ?",
+          "Que dois-je faire en cas d'urgence vétérinaire ?",
+          "Comment puis-je te contacter si nécessaire ?",
+          "À quelle date exactement reviendras-tu ?"
+        ]
+      },
+      {
+        "theme": "Formation professionnelle",
+        "sujet": "Je suis votre directeur/directrice. Vous allez suivre une formation de deux semaines au Québec dans le cadre de votre travail. Vous me posez des questions sur ce stage (hébergement, transports, horaires, etc.).",
+        "questions_possibles": [
+          "Où se déroulera la formation exactement ?",
+          "L'entreprise prend-elle en charge le logement ?",
+          "Quel type d'hébergement est prévu pendant ces deux semaines ?",
+          "Comment vais-je me déplacer entre le logement et le lieu de formation ?",
+          "Quels seront les horaires quotidiens ?",
+          "Y aura-t-il des évaluations à la fin du stage ?",
+          "Dois-je préparer des documents avant mon départ ?",
+          "L'entreprise couvre-t-elle les frais de repas ?",
+          "Y aura-t-il d'autres participants de notre société ?",
+          "Quelles sont les attentes principales à l'issue de cette formation ?"
+        ]
+      },
+      {
+        "theme": "Sorties nocturnes",
+        "sujet": "Je suis votre voisin(e). Vous venez d'arriver dans le quartier. Vous souhaitez savoir où sortir le soir. Vous me posez des questions sur les différentes possibilités (lieux, activités, tarifs, etc.).",
+        "questions_possibles": [
+          "Quels sont les lieux les plus animés le soir dans le quartier ?",
+          "Y a-t-il des restaurants recommandés à proximité ?",
+          "Existe-t-il des bars ou cafés populaires ?",
+          "Les prix sont-ils accessibles pour une sortie régulière ?",
+          "Y a-t-il des activités culturelles le soir ?",
+          "Le quartier est-il sûr la nuit ?",
+          "Les transports sont-ils disponibles tard le soir ?",
+          "Existe-t-il des événements spéciaux le week-end ?",
+          "Quel endroit me conseillerais-tu pour une première sortie ?",
+          "Y a-t-il des lieux calmes pour passer une soirée tranquille ?"
+        ]
+      },
+      {
+        "theme": "Location d'appartement",
+        "sujet": "Vous êtes propriétaire d'un appartement et vous recherchez un locataire. Mon logement vous intéresse et vous souhaitez le louer. Vous me posez des questions pour décider si vous acceptez ma candidature (profession, garanties, situation familiale, etc.).",
+        "questions_possibles": [
+          "Quelle est votre profession actuelle ?",
+          "Depuis combien de temps travaillez-vous dans votre entreprise ?",
+          "Avez-vous un contrat de travail stable ?",
+          "Combien de personnes vivront dans l'appartement ?",
+          "Avez-vous déjà loué un logement auparavant ?",
+          "Pouvez-vous fournir des références de votre ancien propriétaire ?",
+          "Disposez-vous d'une garantie ou d'un dépôt de sécurité ?",
+          "Avez-vous des animaux domestiques ?",
+          "À quelle date souhaitez-vous emménager ?",
+          "Êtes-vous prêt(e) à respecter le règlement de l'immeuble ?"
+        ]
+      },
+      {
+        "theme": "Garde d'animal",
+        "sujet": "Je suis votre ami(e). Je dois faire garder mon animal pendant mes vacances. Vous me posez des questions pour connaître les dates, les habitudes de l'animal, les soins à prévoir, etc.",
+        "questions_possibles": [
+          "À quelles dates partez-vous en vacances exactement ?",
+          "Combien de jours faudra-t-il garder votre animal ?",
+          "Quel type d'animal avez-vous et quel est son âge ?",
+          "A-t-il des besoins particuliers ou un traitement médical ?",
+          "À quelle fréquence doit-il être nourri chaque jour ?",
+          "Faut-il le promener régulièrement ?",
+          "Est-il habitué à rester seul ou préfère-t-il la compagnie ?",
+          "Y a-t-il des consignes spécifiques à respecter à la maison ?",
+          "Comment puis-je vous contacter en cas de problème ?",
+          "Proposez-vous une rémunération pour la garde ?"
+        ]
+      },
+      {
+        "theme": "Baby-sitter",
+        "sujet": "Je suis votre ami(e). J'ai recours à un(e) baby-sitter chaque semaine. Vous cherchez quelqu'un pour garder votre enfant et vous me posez des questions sur cette personne (disponibilité, tarifs, expérience, activités proposées, etc.).",
+        "questions_possibles": [
+          "Depuis combien de temps votre baby-sitter travaille-t-elle pour vous ?",
+          "Est-elle disponible plusieurs jours par semaine ?",
+          "Quels sont ses tarifs horaires ?",
+          "A-t-elle de l'expérience avec des enfants en bas âge ?",
+          "Quelles activités propose-t-elle aux enfants ?",
+          "Est-elle flexible en cas d'imprévu ?",
+          "Peut-elle aider pour les devoirs ?",
+          "A-t-elle une formation en premiers secours ?",
+          "Les enfants s'entendent-ils bien avec elle ?",
+          "Me recommandez-vous cette personne en toute confiance ?"
+        ]
+      },
+      {
+        "theme": "Randonnées en forêt",
+        "sujet": "Je suis votre voisin(e). Je travaille dans une agence qui organise des randonnées en forêt près de Toronto. Vous êtes intéressé(e) et vous me posez des questions sur les parcours, les prix, le niveau requis, les participants, etc.",
+        "questions_possibles": [
+          "Quels types de circuits propose votre agence ?",
+          "Quelle est la durée moyenne d'une randonnée ?",
+          "Les parcours sont-ils adaptés aux débutants ?",
+          "Combien de participants y a-t-il par groupe ?",
+          "Quel est le tarif pour une sortie d'une journée ?",
+          "Le matériel est-il fourni ou faut-il l'apporter ?",
+          "Les randonnées ont-elles lieu toute l'année ?",
+          "Y a-t-il un guide professionnel pendant l'activité ?",
+          "Faut-il réserver longtemps à l'avance ?",
+          "Cette activité est-elle adaptée aux familles ?"
+        ]
+      },
+      {
+        "theme": "Vie d'immeuble",
+        "sujet": "Je suis votre voisin(e). Vous venez d'emménager dans l'immeuble et vous me posez des questions sur son fonctionnement (habitants, règlement, équipements communs, ambiance, etc.).",
+        "questions_possibles": [
+          "Depuis combien de temps habitez-vous dans cet immeuble ?",
+          "L'ambiance entre voisins est-elle conviviale ?",
+          "Y a-t-il des règles particulières concernant le bruit ?",
+          "Les équipements communs sont-ils bien entretenus ?",
+          "Existe-t-il une salle commune pour les habitants ?",
+          "Le quartier est-il calme et sécurisé ?",
+          "Y a-t-il un système de sécurité à l'entrée ?",
+          "Comment sont réparties les charges communes ?",
+          "Les habitants organisent-ils parfois des rencontres ?",
+          "Recommandez-vous cet immeuble à de nouveaux arrivants ?"
+        ]
+      },
+      {
+        "theme": "Vie au Canada",
+        "sujet": "Je travaille dans une association franco-canadienne. Vous envisagez de vous installer au Canada et vous me posez des questions sur la vie quotidienne des Canadiens (travail, loisirs, logement, habitudes, etc.).",
+        "questions_possibles": [
+          "Quelles sont les principales qualités de vie au Canada ?",
+          "Les conditions de travail sont-elles favorables aux employés ?",
+          "Est-il facile de louer un appartement dans une grande ville ?",
+          "Les loisirs sont-ils accessibles à tous les budgets ?",
+          "Comment se passe la vie sociale pour les nouveaux arrivants ?",
+          "Les Canadiens respectent-ils un bon équilibre entre travail et repos ?",
+          "Le système éducatif est-il de qualité ?",
+          "Les démarches administratives sont-elles compliquées ?",
+          "Le climat influence-t-il le mode de vie ?",
+          "Quels conseils donneriez-vous à quelqu'un qui souhaite commencer une nouvelle vie ici ?"
+        ]
+      },
+      {
+        "theme": "Location de vélos",
+        "sujet": "Je suis employé(e) dans une agence de location de vélos. Vous voulez en louer un. Vous me posez des questions pour trouver le modèle de vélo qui conviendra le mieux à vos besoins. (modèles, tarifs, fonctionnement, etc.).",
+        "questions_possibles": [
+          "Quels modèles de vélos vous proposez actuellement ?",
+          "Est-ce qu'il y a une différence entre les vélos de ville et les vélos tout-terrain ?",
+          "Quel est le tarif pour une location à la journée ?",
+          "Proposez-vous des tarifs réduits pour plusieurs jours ?",
+          "Est-ce que le casque est inclus dans la location ?",
+          "Les vélos électriques sont-ils disponibles ?",
+          "Combien de temps dure l'autonomie d'un vélo électrique ?",
+          "Est-ce qu'il faut réserver le vélo à l'avance ?",
+          "Le fonctionnement des vitesses est-il simple pour un débutant ?",
+          "Que dois-je faire en cas de panne pendant la balade ?"
+        ]
+      },
+      {
+        "theme": "Transports en commun",
+        "sujet": "Je suis un(e) ami(e) canadien(ne). Vous venez d'arriver dans ma ville, vous logez chez moi. Vous avez l'intention de vous balader en ville et vous sollicitez mes conseils pour utiliser les transports en commun (type, destination, horaire, tarifs, etc.).",
+        "questions_possibles": [
+          "Quels types de transports en commun il y a dans ta ville ?",
+          "Est-ce que le réseau est facile à comprendre pour un nouvel arrivant ?",
+          "Où puis-je acheter les tickets ou la carte de transport ?",
+          "Quel est le prix d'un trajet simple ?",
+          "Y a-t-il des abonnements intéressants pour plusieurs jours ?",
+          "Les bus passent souvent en journée ?",
+          "Est-ce que le métro dessert les principaux quartiers ?",
+          "Où dois-je descendre pour aller au centre-ville ?",
+          "Les transports fonctionnent tard le soir ?",
+          "Y a-t-il une application pour suivre les horaires en temps réel ?"
+        ]
+      },
+      {
+        "theme": "Ville pour article culturel",
+        "sujet": "Je suis un(e) ami(e) francophone. Il vous est demandé d'écrire un article sur une ville pour un magazine culturel. Vous cherchez des idées. Vous m'interrogez sur les villes que j'aime (activités, architecture, transports, etc.).",
+        "questions_possibles": [
+          "Quelle est la ville que tu aimes le plus visiter ?",
+          "Qu'est-ce qui rend cette ville intéressante pour un article culturel ?",
+          "Y a-t-il des monuments ou une architecture particulière ?",
+          "Quelles activités peut-on faire dans cette ville ?",
+          "Le centre-ville est-il agréable pour se promener ?",
+          "Est-ce que la ville est bien desservie par les transports ?",
+          "Quels quartiers sont les plus animés ?",
+          "La ville organise-t-elle des événements culturels ?",
+          "Quels sont les lieux à ne pas manquer selon toi ?",
+          "Tu as une anecdote ou un souvenir spécial lié à cette ville ?"
+        ]
+      },
+      {
+        "theme": "Festival de musique",
+        "sujet": "Je suis un(e) ami(e). J'organise un festival de musique dans votre ville. Vous souhaitez y participer. Vous me questionnez afin d'obtenir des informations sur l'événement. (dates, horaires, concerts, prix, etc.).",
+        "questions_possibles": [
+          "À quelles dates le festival aura-t-il lieu exactement ?",
+          "Quels sont les horaires des concerts ?",
+          "Quels types de musique seront proposés ?",
+          "Est-ce qu'il y aura plusieurs scènes ou une seule ?",
+          "Quel est le prix d'entrée pour une journée ?",
+          "Proposez-vous un pass pour tout le festival ?",
+          "Est-ce qu'il y aura de la restauration sur place ?",
+          "Combien de groupes vont participer ?",
+          "Faut-il réserver ses billets à l'avance ?",
+          "L'événement se déroule en intérieur ou en plein air ?"
+        ]
+      },
+      {
+        "theme": "Nouvel An au Canada",
+        "sujet": "Je suis votre professeur(e) de français. Vous allez passer le prochain Nouvel an au Canada. Vous vous demandez comment les Canadiens célèbrent cette fête. Vous me posez des questions pour vous faire une idée (lieux, activités, etc.).",
+        "questions_possibles": [
+          "Comment les Canadiens célèbrent-ils le Nouvel An en général ?",
+          "Quels sont les lieux les plus populaires pour fêter cette soirée ?",
+          "Est-ce courant de regarder les feux d'artifice à minuit ?",
+          "Est-ce que les Canadiens célèbrent plutôt en famille ou entre amis ?",
+          "Quelles activités sont typiques ce soir-là ?",
+          "Y a-t-il des traditions particulières pour le passage à la nouvelle année ?",
+          "Les restaurants sont-ils ouverts le 31 décembre ?",
+          "Est-ce que les transports fonctionnent normalement cette nuit-là ?",
+          "Faut-il réserver un endroit pour sortir le soir du Nouvel An ?",
+          "Comment se déroule le 1er janvier au Canada ? Est-ce un jour calme ou festif ?"
+        ]
+      },
+      {
+        "theme": "Nouveau quartier",
+        "sujet": "Je suis votre voisin(e). Vous venez d'emménager dans l'immeuble et nous nous rencontrons dans l'ascenseur. Vous me posez des questions sur le quartier (voisins, commerces, activités, ambiance, etc.).",
+        "questions_possibles": [
+          "Depuis combien de temps habitez-vous dans cet immeuble et comment trouvez-vous l'ambiance entre voisins ?",
+          "Est-ce que les habitants sont plutôt discrets ou organisent-ils parfois des rencontres entre voisins ?",
+          "Quels commerces pratiques se trouvent à proximité, comme une épicerie ou une pharmacie ?",
+          "Y a-t-il un marché local ou des petits commerces intéressants dans le quartier ?",
+          "Le quartier est-il plutôt calme le soir ou animé avec des restaurants et cafés ?",
+          "Existe-t-il des parcs ou des espaces verts accessibles à pied ?",
+          "Les transports en commun sont-ils faciles d'accès depuis l'immeuble ?",
+          "Le quartier est-il considéré comme sûr, notamment la nuit ?",
+          "Y a-t-il des activités culturelles ou sportives organisées dans les environs ?",
+          "Recommanderiez-vous ce quartier à une famille avec enfants ?"
+        ]
+      },
+      {
+        "theme": "Location de chalet",
+        "sujet": "Je suis agent immobilier. Vous souhaitez louer un chalet au bord de la mer pour les vacances. Vous me posez des questions pour obtenir des informations (prix, équipements, disponibilité, conditions, etc.).",
+        "questions_possibles": [
+          "Quel est le prix exact de la location pour une semaine en haute saison ?",
+          "Le chalet est-il disponible aux dates que nous avons choisies ?",
+          "Combien de personnes peuvent y séjourner confortablement ?",
+          "Le chalet est-il situé directement au bord de la mer ou faut-il marcher ?",
+          "Quels équipements sont inclus, comme la cuisine équipée ou la connexion internet ?",
+          "Les draps et serviettes sont-ils fournis dans la location ?",
+          "Y a-t-il des commerces ou restaurants à proximité du chalet ?",
+          "Quelles sont les conditions d'annulation en cas d'imprévu ?",
+          "Faut-il verser un dépôt de garantie et est-il remboursable ?",
+          "Y a-t-il des activités nautiques accessibles près du logement ?"
+        ]
+      },
+      {
+        "theme": "École pour enfants",
+        "sujet": "Je suis votre voisin(e). Vous venez d'arriver au Canada et vous recherchez une école pour vos enfants. Vous me posez des questions pour vous renseigner (niveau, programmes, horaires, frais, etc.).",
+        "questions_possibles": [
+          "Quelle est la réputation des écoles du quartier ?",
+          "Les établissements proposent-ils des programmes adaptés aux nouveaux arrivants ?",
+          "Les cours sont-ils donnés en français, en anglais ou dans les deux langues ?",
+          "Quels sont les horaires habituels de la journée scolaire ?",
+          "Y a-t-il des activités parascolaires proposées après les cours ?",
+          "Les frais de scolarité sont-ils élevés pour les résidents ?",
+          "Comment se déroule l'inscription pour les enfants venant de l'étranger ?",
+          "Les écoles sont-elles facilement accessibles en transport ?",
+          "Le niveau académique est-il satisfaisant selon les parents du quartier ?",
+          "Recommanderiez-vous une école en particulier pour une famille qui vient d'arriver ?"
+        ]
+      },
+      {
+        "theme": "Colocation",
+        "sujet": "Je suis votre collègue. Je vous propose une chambre en colocation et vous êtes intéressé(e). Vous me posez des questions sur le logement (loyer, pièces, colocataires, règles, etc.).",
+        "questions_possibles": [
+          "Quel est le montant exact du loyer mensuel et que comprend-il ?",
+          "Les charges comme l'électricité et internet sont-elles incluses dans le prix ?",
+          "Combien de personnes vivent actuellement dans l'appartement ?",
+          "Quelle est la taille de la chambre proposée et est-elle meublée ?",
+          "Les espaces communs comme la cuisine et le salon sont-ils spacieux ?",
+          "Y a-t-il des règles particulières concernant le bruit ou les invités ?",
+          "L'appartement est-il situé près des transports en commun ?",
+          "Quelle est la durée minimale du bail ?",
+          "L'ambiance entre colocataires est-elle plutôt calme ou conviviale ?",
+          "À partir de quelle date la chambre sera-t-elle disponible ?"
+        ]
+      },
+      {
+        "theme": "École de danse",
+        "sujet": "Je travaille à l'accueil d'une école de danse. Vous souhaitez prendre des cours. Vous me posez des questions pour obtenir des informations (types de danse, horaires, tarifs, niveaux, etc.).",
+        "questions_possibles": [
+          "Quels styles de danse propose votre école pour les adultes débutants ?",
+          "Les cours sont-ils organisés en petits groupes ou en grandes classes ?",
+          "Quels sont les horaires disponibles en soirée ou le week-end ?",
+          "Les professeurs ont-ils une formation professionnelle reconnue ?",
+          "Quels sont les tarifs pour une session complète de cours ?",
+          "Existe-t-il des formules d'abonnement à l'année ?",
+          "Proposez-vous un cours d'essai avant l'inscription définitive ?",
+          "Y a-t-il des spectacles ou événements organisés pendant l'année ?",
+          "Le niveau des cours est-il adapté aux personnes sans expérience ?",
+          "Comment se déroule la procédure d'inscription ?"
+        ]
+      },
+      {
+        "theme": "Vacances à la mer",
+        "sujet": "Je suis votre ami(e). Je suis parti(e) en vacances à la mer l'année dernière. Vous êtes intéressé(e) et vous me posez des questions pour organiser votre voyage (activités, budget, hébergement, etc.).",
+        "questions_possibles": [
+          "Où es-tu parti(e) en vacances à la mer l'année dernière ?",
+          "À quelle période de l'année as-tu fait ce voyage ?",
+          "Combien de temps a duré ton séjour sur place ?",
+          "Quel type d'hébergement as-tu choisi pour ces vacances ?",
+          "Est-ce que le logement était proche de la plage ?",
+          "Quelles activités as-tu faites pendant ton séjour à la mer ?",
+          "Est-ce une destination plutôt calme ou animée ?",
+          "Quel budget faut-il prévoir pour ce type de vacances ?",
+          "Les transports étaient-ils faciles pour se déplacer sur place ?",
+          "Recommanderais-tu cette destination pour des vacances et pourquoi ?"
+        ]
+      },
+      {
+        "theme": "Cours de danse",
+        "sujet": "Je suis votre collègue. Je prends des cours de danse dans une association. Vous êtes intéressé(e) et vous me posez des questions sur ces cours (type de danse, lieu, horaires, etc.).",
+        "questions_possibles": [
+          "Quel type de danse pratiques-tu dans cette association ?",
+          "Les cours sont-ils adaptés aux débutants ?",
+          "Où ont lieu les cours de danse exactement ?",
+          "Quels sont les jours et les horaires des cours ?",
+          "Combien de temps dure chaque séance ?",
+          "Les cours se font-ils en groupe ou individuellement ?",
+          "Faut-il un équipement particulier pour participer ?",
+          "Quel est le tarif pour s'inscrire à ces cours de danse ?",
+          "L'ambiance dans l'association est-elle conviviale ?",
+          "Penses-tu que ces cours pourraient me convenir ?"
+        ]
+      },
+      {
+        "theme": "Fête de nomination",
+        "sujet": "Je suis votre collègue. J'organise une fête pour célébrer ma nomination à un poste de responsable. Vous me posez des questions pour avoir des informations (date, lieu, invités, horaires, etc.).",
+        "questions_possibles": [
+          "À quelle date est prévue la fête pour ta nomination ?",
+          "À quelle heure commencera l'événement ?",
+          "Où aura lieu la fête, dans un lieu privé ou public ?",
+          "Combien de personnes seront invitées à cette célébration ?",
+          "Les collègues de différents services seront-ils invités ?",
+          "Est-ce une fête formelle ou plutôt conviviale ?",
+          "Y aura-t-il un repas ou seulement des boissons ?",
+          "Un discours ou un moment officiel est-il prévu ?",
+          "Jusqu'à quelle heure la fête est-elle censée durer ?",
+          "As-tu besoin d'aide pour l'organisation de cet événement ?"
+        ]
+      },
+      {
+        "theme": "Garde d'enfant",
+        "sujet": "Je suis votre voisin(e). Vous avez accepté de garder mon enfant pendant une journée. Vous me posez des questions pour mieux vous organiser (habitudes, repas, activités préférées, etc.).",
+        "questions_possibles": [
+          "Quel âge a ton enfant que je vais garder ?",
+          "Quelles sont ses activités préférées pendant la journée ?",
+          "A-t-il l'habitude de faire une sieste et à quelle heure ?",
+          "Quels sont ses horaires habituels pour les repas ?",
+          "Y a-t-il des aliments à éviter ou des allergies ?",
+          "Aime-t-il jouer plutôt à l'intérieur ou à l'extérieur ?",
+          "Puis-je l'emmener au parc ou à d'autres activités ?",
+          "Y a-t-il des règles particulières à respecter avec lui ?",
+          "Comment puis-je te contacter en cas de besoin ?",
+          "À quelle heure dois-je terminer la garde de ton enfant ?"
+        ]
+      },
+      {
+        "theme": "Visite touristique",
+        "sujet": "Je travaille à l'accueil de l'office de tourisme. Vous souhaitez visiter la ville avec des amis. Vous me posez des questions pour préparer votre visite (activités proposées, tarifs, horaires, etc.).",
+        "questions_possibles": [
+          "Quelles sont les activités incontournables à faire dans la ville ?",
+          "Quels monuments ou lieux culturels recommandez-vous ?",
+          "Quels sont les horaires d'ouverture des sites touristiques ?",
+          "Quels sont les tarifs pour les principales attractions ?",
+          "Existe-t-il des visites guidées pour les groupes d'amis ?",
+          "Y a-t-il des activités gratuites à faire en ville ?",
+          "Combien de temps faut-il prévoir pour visiter la ville ?",
+          "Les transports sont-ils pratiques pour se déplacer entre les sites ?",
+          "Où peut-on bien manger près des lieux touristiques ?",
+          "Quels conseils donneriez-vous pour profiter au mieux de la visite ?"
+        ]
+      },
+      {
+        "theme": "Week-end au Canada",
+        "sujet": "Je suis votre ami(e) canadien(ne). Vous faites une enquête sur mes activités du week-end au canada. Vous me posez des questions (ce que je fais, où je vais, quand, avec qui, etc.).",
+        "questions_possibles": [
+          "Que fais-tu en général le week-end au Canada ?",
+          "Est-ce que tu sors plutôt le samedi ou le dimanche ?",
+          "Où vas-tu le plus souvent pendant ton temps libre ?",
+          "À quelle heure commences-tu généralement tes activités le week-end ?",
+          "Est-ce que tu passes ton week-end plutôt à la maison ou à l'extérieur ?",
+          "Avec qui fais-tu ces activités, en famille ou avec des amis ?",
+          "Est-ce que tu pratiques un sport pendant le week-end ?",
+          "Tes activités changent-elles selon la saison ou la météo ?",
+          "Le week-end est-il pour toi un moment de repos ou d'activités ?",
+          "Quelle activité préfères-tu faire le week-end et pourquoi ?"
+        ]
+      },
+      {
+        "theme": "Mariage au Canada",
+        "sujet": "Je suis votre ami(e). Je me suis marié(e) récemment au Canada. Vous me posez des questions pour comparer le mariage dans votre pays et au Canada (traditions, organisation, invités, etc.).",
+        "questions_possibles": [
+          "Où s'est déroulé ton mariage au Canada ?",
+          "Combien de personnes étaient invitées à ton mariage ?",
+          "La cérémonie était-elle civile, religieuse ou les deux ?",
+          "Quelles traditions canadiennes étaient présentes pendant le mariage ?",
+          "Le mariage a-t-il duré une seule journée ou plusieurs jours ?",
+          "Les invités ont-ils offert des cadeaux ou de l'argent ?",
+          "Comment s'est organisée la réception après la cérémonie ?",
+          "Trouves-tu que l'organisation est différente par rapport à mon pays ?",
+          "Le rôle de la famille est-il important dans les mariages au Canada ?",
+          "Quel aspect du mariage canadien as-tu le plus apprécié ?"
+        ]
+      },
+      {
+        "theme": "Concours sportif",
+        "sujet": "Je suis votre ami(e) francophone. J'ai participé à un concours sportif. Vous êtes intéressé(e) et vous me posez des questions sur cette expérience et sur ma préparation pour un prochain concours.",
+        "questions_possibles": [
+          "À quel concours sportif as-tu participé récemment ?",
+          "Où s'est déroulée la compétition ?",
+          "Combien de participants y avait-il environ ?",
+          "Comment t'es-tu préparé(e) avant ce concours ?",
+          "Combien de temps a duré ta préparation ?",
+          "Est-ce que la préparation était difficile à gérer avec ton quotidien ?",
+          "Comment s'est passée la compétition le jour du concours ?",
+          "Es-tu satisfait(e) de ton résultat final ?",
+          "Prépares-tu déjà un prochain concours sportif ?",
+          "Qu'est-ce que tu comptes améliorer pour la prochaine compétition ?"
+        ]
+      },
+      {
+        "theme": "Soirées au Canada",
+        "sujet": "Je suis votre collègue. Vous êtes en séjour professionnel au Canada. Vous me posez des questions pour savoir comment les Canadiens passent leurs soirées (lieux, activités, habitudes, etc.).",
+        "questions_possibles": [
+          "Que font les Canadiens après leur journée de travail en semaine ?",
+          "Est-ce qu'ils sortent souvent le soir ou préfèrent-ils rester chez eux ?",
+          "Quels lieux sont les plus fréquentés le soir au Canada ?",
+          "Les Canadiens se retrouvent-ils souvent entre collègues après le travail ?",
+          "Les soirées sont-elles différentes en semaine et le week-end ?",
+          "Est-ce que les habitudes changent selon la saison ?",
+          "Les restaurants et cafés sont-ils populaires le soir ?",
+          "À quelle heure les Canadiens rentrent-ils généralement chez eux ?",
+          "Est-ce facile de rencontrer des gens le soir au Canada ?",
+          "Qu'est-ce qui t'a le plus surpris dans leurs habitudes du soir ?"
+        ]
+      },
+      {
+        "theme": "Séjour en famille",
+        "sujet": "Je suis votre ami(e). J'ai passé un séjour en famille dans une ville francophone. Vous êtes intéressé(e) et vous me posez des questions sur le séjour (activités, budget, organisation, préparatifs, etc.).",
+        "questions_possibles": [
+          "Quelle ville francophone as-tu visitée avec ta famille ?",
+          "Combien de temps a duré votre séjour ?",
+          "Quelles activités avez-vous faites en famille ?",
+          "Est-ce une ville adaptée aux enfants ?",
+          "Quel budget faut-il prévoir pour ce type de séjour ?",
+          "Quel type de logement avez-vous choisi ?",
+          "Les transports étaient-ils pratiques pour se déplacer en famille ?",
+          "Avez-vous préparé le séjour longtemps à l'avance ?",
+          "Quelle a été l'activité préférée de ta famille ?",
+          "Recommanderais-tu ce séjour à d'autres familles et pourquoi ?"
+        ]
+      },
+      {
+        "theme": "Colocation au Canada",
+        "sujet": "Je suis ton ami(e). Tu viens d'arriver au Canada et tu cherches un logement. Je te propose une chambre en colocation dans mon appartement. Tu me poses des questions pour te renseigner.",
+        "questions_possibles": [
+          "Peux-tu me décrire la chambre que tu proposes et me dire si elle est meublée ?",
+          "Quelle est la taille de la chambre et est-elle bien éclairée ?",
+          "Quelles sont les pièces communes de l'appartement et comment sont-elles partagées ?",
+          "Quel est le montant du loyer mensuel pour la chambre ?",
+          "Les charges comme l'électricité, l'eau et internet sont-elles incluses ?",
+          "Combien de personnes vivent actuellement dans l'appartement ?",
+          "Quel est le rythme de vie des colocataires, plutôt calme ou animé ?",
+          "L'appartement est-il bien situé par rapport aux transports en commun ?",
+          "Y a-t-il des règles particulières à respecter dans la colocation ?",
+          "À partir de quand la chambre est-elle disponible et pour quelle durée minimale ?"
+        ]
+      },
+      {
+        "theme": "Nouvel emploi",
+        "sujet": "Je suis ton ami(e) et je viens de commencer un nouvel emploi. Tu me poses des questions sur cette nouvelle expérience professionnelle.",
+        "questions_possibles": [
+          "Quel est ton nouveau poste et dans quel domaine travailles-tu ?",
+          "Depuis quand as-tu commencé ce nouvel emploi ?",
+          "Quelles sont tes principales missions au quotidien ?",
+          "Comment se passe l'ambiance avec tes collègues ?",
+          "Les horaires de travail sont-ils fixes ou flexibles ?",
+          "As-tu reçu une formation ou un accompagnement au début ?",
+          "Le rythme de travail est-il plutôt intense ou raisonnable ?",
+          "Est-ce que ce poste correspond à ce que tu attendais ?",
+          "Qu'est-ce que tu apprécies le plus dans ce nouvel emploi ?",
+          "Penses-tu rester longtemps dans cette entreprise ?"
+        ]
+      },
+      {
+        "theme": "Remplacement médical",
+        "sujet": "Je suis l'assistante de ton médecin de famille. Il est actuellement en congé et remplacé par un autre médecin. Tu appelles pour obtenir des informations. Tu me poses des questions.",
+        "questions_possibles": [
+          "Quel est le nom du médecin qui remplace mon médecin habituel ?",
+          "Depuis quand assure-t-il ce remplacement ?",
+          "Est-il présent tous les jours ou seulement certains jours ?",
+          "Quels sont ses horaires de consultation ?",
+          "Faut-il prendre rendez-vous à l'avance pour le consulter ?",
+          "A-t-il accès à mon dossier médical ?",
+          "Peut-il renouveler une ordonnance si nécessaire ?",
+          "Les consultations ont-elles lieu au même cabinet médical ?",
+          "Que dois-je faire en cas d'urgence pendant l'absence de mon médecin ?",
+          "Quand mon médecin de famille sera-t-il de retour ?"
+        ]
+      },
+      {
+        "theme": "Blog de voyage",
+        "sujet": "Je suis ton ami(e) et j'ai un blog. Tu souhaites voyager et tu me demandes des conseils pour créer ton propre blog. Tu me poses des questions.",
+        "questions_possibles": [
+          "Depuis combien de temps tiens-tu ton blog ?",
+          "Pourquoi as-tu décidé de créer un blog de voyage ?",
+          "Est-ce difficile de créer un blog quand on débute ?",
+          "Quel type de contenu attire le plus les lecteurs ?",
+          "À quelle fréquence conseilles-tu de publier des articles ?",
+          "Faut-il des compétences techniques pour gérer un blog ?",
+          "Quels outils utilises-tu pour écrire et publier tes articles ?",
+          "Comment faire connaître son blog et attirer des lecteurs ?",
+          "Est-ce que tenir un blog demande beaucoup de temps ?",
+          "Me conseillerais-tu de me lancer dans ce projet et pourquoi ?"
+        ]
+      },
+      {
+        "theme": "Anniversaire au Canada",
+        "sujet": "Je suis ton/ta voisin(e). Tu viens de t'installer au Canada et tu veux organiser l'anniversaire de ton/ta conjoint(e). Tu me poses des questions pour préparer cet événement.",
+        "questions_possibles": [
+          "Quelle date te semble la plus adaptée pour organiser l'anniversaire ?",
+          "Où pourrais-je organiser la fête, à la maison ou à l'extérieur ?",
+          "Combien de personnes devrais-je inviter selon toi ?",
+          "Est-il préférable de prévoir un repas ou un buffet ?",
+          "As-tu des idées de plats ou de menu à proposer ?",
+          "Est-ce une bonne idée de choisir un thème pour la fête ?",
+          "Quelles animations ou activités pourrais-je organiser ?",
+          "Quel budget faudrait-il prévoir pour cet événement ?",
+          "Connais-tu des services ou des lieux intéressants dans le quartier ?",
+          "Penses-tu qu'une surprise particulière ferait plaisir à mon conjoint ?"
+        ]
+      },
+      {
+        "theme": "Chef à domicile",
+        "sujet": "Je suis chef(fe) cuisinier(ère) à domicile. Vous souhaitez organiser un repas en famille. Vous me posez des questions sur les prestations proposées (menus, matériel, tarifs, etc.).",
+        "questions_possibles": [
+          "Quels types de menus proposez-vous pour un repas en famille ?",
+          "Est-il possible d'adapter le menu selon nos goûts ou nos habitudes alimentaires ?",
+          "Prenez-vous en compte les allergies ou les régimes particuliers ?",
+          "Combien de personnes pouvez-vous servir lors d'un même repas ?",
+          "Apportez-vous tout le matériel nécessaire pour la préparation des plats ?",
+          "Combien de temps dure en général la prestation à domicile ?",
+          "Le service à table est-il inclus dans vos prestations ?",
+          "Quels sont vos tarifs selon le nombre de personnes ?",
+          "Faut-il réserver longtemps à l'avance pour ce type de service ?",
+          "Proposez-vous aussi les desserts et les boissons ?"
+        ]
+      },
+      {
+        "theme": "Covoiturage",
+        "sujet": "Je suis votre voisin(e). Je propose du covoiturage avec ma voiture pour des trajets réguliers. Vous êtes intéressé(e) et vous me posez des questions sur le fonctionnement de ce service (horaires, prix, organisation, etc.).",
+        "questions_possibles": [
+          "Quels trajets réguliers proposez-vous en covoiturage ?",
+          "À quels horaires ont lieu les départs et les retours ?",
+          "Les horaires sont-ils fixes ou peuvent-ils être ajustés ?",
+          "Combien de personnes peuvent partager le trajet avec vous ?",
+          "Quel est le prix demandé pour chaque trajet ?",
+          "Le paiement se fait-il par semaine ou par mois ?",
+          "Que se passe-t-il en cas de retard ou d'imprévu ?",
+          "Proposez-vous ce service tous les jours de la semaine ?",
+          "Comment s'organise la communication entre les passagers et vous ?",
+          "Est-il possible de faire un essai avant de s'engager régulièrement ?"
+        ]
+      },
+      {
+        "theme": "École de musique",
+        "sujet": "Je travaille à l'accueil d'une école de musique. Vous souhaitez vous inscrire à un cours. Vous me posez des questions sur les cours proposés (disciplines, horaires, tarifs, etc.).",
+        "questions_possibles": [
+          "Quelles disciplines musicales sont proposées dans votre école ?",
+          "Les cours sont-ils destinés aux débutants ou aussi aux niveaux avancés ?",
+          "Les cours sont-ils individuels ou en groupe ?",
+          "À partir de quel âge peut-on s'inscrire ?",
+          "Quels sont les jours et horaires possibles pour les cours ?",
+          "Combien de temps dure une séance en général ?",
+          "Les professeurs sont-ils diplômés et expérimentés ?",
+          "Quels sont les tarifs pour les différents cours ?",
+          "Existe-t-il des réductions pour les familles ou les étudiants ?",
+          "Peut-on assister à un cours d'essai avant de s'inscrire ?"
+        ]
+      },
+      {
+        "theme": "Club sportif",
+        "sujet": "Je travaille à l'accueil d'un club sportif. Vous êtes intéressé(e) par une inscription. Vous me posez des questions pour obtenir des renseignements (sports disponibles, horaires, tarifs, etc.).",
+        "questions_possibles": [
+          "Quels sports peut-on pratiquer dans votre club ?",
+          "Les activités sont-elles adaptées aux débutants ?",
+          "Quels sont les horaires d'ouverture du club ?",
+          "Proposez-vous des cours encadrés par des entraîneurs ?",
+          "Les horaires des cours sont-ils flexibles ?",
+          "Quels sont les tarifs pour une inscription annuelle ?",
+          "Est-il possible de payer l'abonnement en plusieurs fois ?",
+          "Le matériel sportif est-il fourni ou faut-il l'apporter ?",
+          "Y a-t-il des vestiaires et des douches sur place ?",
+          "Peut-on faire une séance d'essai avant de s'inscrire ?"
+        ]
+      },
+      {
+        "theme": "Réservation d'hôtel",
+        "sujet": "Je travaille à la réception d'un hôtel. Vous souhaitez réserver une chambre. Vous me posez des questions et je vous fournis des informations (tarifs, types de chambres, petit-déjeuner, etc.).",
+        "questions_possibles": [
+          "Quels types de chambres proposez-vous dans votre hôtel ?",
+          "Quels sont les tarifs selon le type de chambre choisi ?",
+          "Le petit-déjeuner est-il inclus dans le prix ?",
+          "À quelles heures peut-on arriver et quitter la chambre ?",
+          "L'hôtel dispose-t-il d'un parking pour les clients ?",
+          "Y a-t-il une connexion internet gratuite dans les chambres ?",
+          "Proposez-vous des chambres adaptées aux familles ?",
+          "Est-il possible d'annuler ou de modifier la réservation ?",
+          "L'hôtel est-il proche des transports en commun ?",
+          "Comment puis-je effectuer la réservation, en ligne ou par téléphone ?"
+        ]
+      },
+      {
+        "theme": "Cinéma",
+        "sujet": "Vous êtes en vacances au Canada et souhaitez aller au cinéma. Votre ami(e), qui y travaille, peut vous informer sur les films, les horaires et les tarifs. Vous lui posez des questions pour choisir une séance.",
+        "questions_possibles": [
+          "Quels films sont actuellement à l'affiche au cinéma ?",
+          "Est-ce qu'il y a des films en français ou sous-titrés ?",
+          "Quels sont les horaires pour les séances d'aujourd'hui ?",
+          "Y a-t-il des séances en fin de soirée ?",
+          "Quel est le prix d'un billet adulte ?",
+          "Proposez-vous un tarif réduit pour les étudiants ou les touristes ?",
+          "Les salles sont-elles grandes et confortables ?",
+          "Faut-il réserver en ligne ou on peut acheter sur place ?",
+          "Y a-t-il des films que tu me recommandes en particulier ?",
+          "Combien de temps avant la séance faut-il arriver ?"
+        ]
+      },
+      {
+        "theme": "Vacances à la mer",
+        "sujet": "Votre ami(e) revient d'un séjour au bord de la mer. Vous voulez organiser des vacances similaires et vous lui posez des questions sur la destination, les activités et le budget à prévoir.",
+        "questions_possibles": [
+          "Où es-tu allé exactement pour ton séjour à la mer ?",
+          "Est-ce que la destination était facile d'accès ?",
+          "Quelles activités peut-on faire là-bas ?",
+          "Les plages sont-elles propres et agréables ?",
+          "Quel type d'hébergement tu avais choisi ?",
+          "Est-ce que le budget total était raisonnable ?",
+          "Combien de jours tu conseilles pour bien profiter ?",
+          "Quelle est la meilleure période pour y aller ?",
+          "Y avait-il beaucoup de monde pendant ton séjour ?",
+          "Tu recommanderais cette destination pour des vacances en famille ?"
+        ]
+      },
+      {
+        "theme": "Article littéraire",
+        "sujet": "Vous devez écrire un article sur un livre pour la revue de votre association littéraire. Pour trouver des idées, vous discutez avec un(e) ami(e) francophone de ses lectures récentes.",
+        "questions_possibles": [
+          "Quel est le dernier livre que tu as beaucoup aimé ?",
+          "De quel genre littéraire il s'agit ?",
+          "Qu'est-ce qui t'a plu dans l'histoire ?",
+          "Les personnages sont-ils intéressants ?",
+          "Le livre est-il facile à lire ?",
+          "L'auteur aborde-t-il un thème particulier ?",
+          "Est-ce que tu penses que ce livre pourrait plaire aux membres de mon association ?",
+          "Le style d'écriture est-il plutôt simple ou plus littéraire ?",
+          "Ce livre a-t-il reçu un prix ou une bonne critique ?",
+          "Tu aurais un autre titre à me suggérer pour mon article ?"
+        ]
+      },
+      {
+        "theme": "Jeu télévisé",
+        "sujet": "Votre ami(e) a participé à un jeu télévisé. Comme vous pensez y participer aussi, vous lui posez des questions sur l'inscription, le déroulement et l'intérêt de cette expérience.",
+        "questions_possibles": [
+          "Comment as-tu fait pour t'inscrire à ce jeu télévisé ?",
+          "L'inscription est-elle simple ou compliquée ?",
+          "Combien de temps dure le tournage d'une émission ?",
+          "Est-ce que l'ambiance sur le plateau était agréable ?",
+          "Les épreuves sont-elles difficiles ?",
+          "Il y a-t-il un entraînement ou une préparation avant ?",
+          "Peut-on inviter quelqu'un dans le public ?",
+          "Quels sont les gains ou récompenses possibles ?",
+          "Est-ce une expérience stressante ou plutôt amusante ?",
+          "Tu me conseilles d'y participer aussi ?"
+        ]
+      },
+      {
+        "theme": "Transports en commun",
+        "sujet": "Vous découvrez une nouvelle ville et souhaitez comprendre les transports en commun. Vous demandez à un(e) employé(e) des renseignements sur les moyens de transport, les horaires et les tarifs.",
+        "questions_possibles": [
+          "Quels sont les moyens de transport disponibles dans cette ville ?",
+          "Où puis-je acheter les tickets ou les cartes de transport ?",
+          "Quels sont les horaires des bus ou du métro ?",
+          "Les transports sont-ils fréquents en journée ?",
+          "Existe-t-il un abonnement pour plusieurs jours ?",
+          "Les lignes desservent-elles les principaux quartiers touristiques ?",
+          "Y a-t-il une application pour suivre les horaires en temps réel ?",
+          "Les tarifs sont-ils les mêmes pour tous les transports ?",
+          "Comment valider mon ticket dans le bus ou le métro ?",
+          "Les transports fonctionnent-ils tard le soir ?"
+        ]
+      },
+      {
+        "theme": "Fête des voisins",
+        "sujet": "Je suis votre voisin(e). J'organise la fête des voisins le week-end prochain. Vous souhaitez y participer et vous me posez des questions sur l'organisation (lieu, horaires, plats à prévoir, etc.).",
+        "questions_possibles": [
+          "Où aura lieu exactement la fête des voisins le week-end prochain ?",
+          "À quelle heure la fête commencera-t-elle et jusqu'à quelle heure est-elle prévue ?",
+          "Est-ce que la fête se déroulera à l'intérieur ou à l'extérieur ?",
+          "Combien de voisins sont invités à participer à cet événement ?",
+          "Faut-il s'inscrire à l'avance pour participer à la fête ?",
+          "Est-ce que chacun doit apporter un plat ou une boisson ?",
+          "Y a-t-il un thème particulier prévu pour la fête ?",
+          "Est-ce que des activités ou des jeux sont organisés pendant la soirée ?",
+          "Les enfants sont-ils les bienvenus à la fête des voisins ?",
+          "Que puis-je faire pour aider à l'organisation de cet événement ?"
+        ]
+      },
+      {
+        "theme": "Sports d'hiver",
+        "sujet": "Je suis votre ami(e). Je pars régulièrement en vacances dans une station de sports d'hiver au Canada. Ce type de séjour vous intrigue et vous me posez des questions pour savoir si cela pourrait vous plaire (destination, logement, activités, etc.).",
+        "questions_possibles": [
+          "Dans quelle station de sports d'hiver pars-tu habituellement en vacances ?",
+          "À quelle période de l'année préfères-tu partir dans cette destination ?",
+          "Quel type de logement choisis-tu pour ce séjour ?",
+          "Est-ce que le logement est proche des pistes de ski ?",
+          "Quelles activités sont proposées en dehors du ski ?",
+          "Ce type de vacances est-il adapté aux débutants ?",
+          "Quel budget faut-il prévoir pour ce genre de séjour ?",
+          "Est-ce que la station est facilement accessible en transport ?",
+          "Y a-t-il des activités possibles en famille ou entre amis ?",
+          "Penses-tu que ce type de vacances pourrait me convenir et pourquoi ?"
+        ]
+      },
+      {
+        "theme": "Déplacements à vélo",
+        "sujet": "Je suis votre voisin(e). Je me rends au travail à vélo tous les jours. Vous envisagez d'utiliser le vélo pour vos déplacements en ville et vous me posez des questions pour savoir si c'est adapté (avantages, budget, sécurité, etc.).",
+        "questions_possibles": [
+          "Depuis combien de temps te rends-tu au travail à vélo chaque jour ?",
+          "Quels sont, selon toi, les principaux avantages du vélo en ville ?",
+          "Est-ce que cela permet réellement de gagner du temps sur les trajets ?",
+          "Quel budget faut-il prévoir pour acheter et entretenir un vélo ?",
+          "Utilises-tu un vélo classique ou un vélo électrique ?",
+          "La circulation en ville est-elle dangereuse pour les cyclistes ?",
+          "Existe-t-il des pistes cyclables suffisantes dans le quartier ?",
+          "Comment fais-tu lorsqu'il pleut ou qu'il fait très froid ?",
+          "Faut-il un équipement particulier pour rouler en sécurité ?",
+          "Conseillerais-tu le vélo comme moyen de transport quotidien en ville ?"
+        ]
+      },
+      {
+        "theme": "Musées de Vancouver",
+        "sujet": "Je travaille à l'office de tourisme de Vancouver. Vous souhaitez visiter un musée et vous me posez des questions sur les musées de la ville (types, tarifs, horaires, etc.).",
+        "questions_possibles": [
+          "Quels types de musées peut-on visiter à Vancouver ?",
+          "Quels sont les musées les plus populaires de la ville ?",
+          "Quels sont les horaires d'ouverture des musées en général ?",
+          "Les musées sont-ils ouverts tous les jours de la semaine ?",
+          "Quels sont les tarifs pour les adultes et pour les enfants ?",
+          "Existe-t-il des musées gratuits ou des journées gratuites ?",
+          "Combien de temps faut-il prévoir pour visiter un musée ?",
+          "Les musées proposent-ils des visites guidées ?",
+          "Sont-ils facilement accessibles en transports en commun ?",
+          "Quel musée me recommandez-vous en priorité et pourquoi ?"
+        ]
+      },
+      {
+        "theme": "Télétravail",
+        "sujet": "Je suis votre collègue. Je télétravaille plusieurs jours par semaine. Cela vous intéresse et vous me posez des questions sur mes conditions de travail à distance (horaires, matériel, organisation, etc.).",
+        "questions_possibles": [
+          "Combien de jours par semaine travailles-tu à distance ?",
+          "Quels sont tes horaires lorsque tu télétravailles ?",
+          "Quel type de matériel utilises-tu pour travailler depuis chez toi ?",
+          "Est-ce que l'entreprise fournit le matériel nécessaire ?",
+          "Comment organises-tu ton temps de travail à la maison ?",
+          "Est-ce difficile de rester concentré en télétravail ?",
+          "Comment communiques-tu avec ton équipe à distance ?",
+          "Le télétravail permet-il un meilleur équilibre entre vie professionnelle et personnelle ?",
+          "Y a-t-il aussi des inconvénients au télétravail selon toi ?",
+          "Penses-tu que le télétravail pourrait me convenir dans mon poste actuel ?"
+        ]
+      },
+      {
+        "theme": "Produits bio",
+        "sujet": "Je suis producteur de fruits et légumes bio. Je propose mes produits directement aux particuliers. Vous êtes intéressé(e). Vous me posez des questions pour avoir des informations (prix, produits, livraison, etc.).",
+        "questions_possibles": [
+          "Quels types de fruits et légumes vendez-vous en ce moment ?",
+          "Est-ce que vos produits changent selon la saison ?",
+          "Peut-on passer commande en ligne ou seulement sur place ?",
+          "Quel est le prix moyen d'un panier de produits ?",
+          "Est-ce que vous proposez des paniers tout prêts ou on peut choisir ?",
+          "Comment se passe la livraison ? Est-elle gratuite ?",
+          "Peut-on acheter directement à votre ferme ?",
+          "Est-ce que vous utilisez des engrais ou produits chimiques ?",
+          "Faut-il commander plusieurs jours à l'avance ?",
+          "Avez-vous une page internet ou un contact pour commander ?"
+        ]
+      },
+      {
+        "theme": "Bénévolat",
+        "sujet": "Je suis votre ami(e). Je fais du bénévolat dans une association qui soutient les personnes âgées. Vous êtes intéressé(e). Vous me posez des questions (activités, public, inscription, etc.).",
+        "questions_possibles": [
+          "Quelles sont les principales activités proposées par l'association ?",
+          "Est-ce qu'il faut s'occuper directement des personnes âgées ?",
+          "À quels moments de la semaine peut-on participer ?",
+          "Est-ce qu'on peut choisir l'activité qu'on veut faire ?",
+          "Faut-il suivre une formation avant de commencer ?",
+          "Est-ce que tout le monde peut s'inscrire, même sans expérience ?",
+          "Combien de personnes participent actuellement ?",
+          "Où se déroulent les activités exactement ?",
+          "Est-ce que l'association propose aussi des sorties ou des événements ?",
+          "Est-ce que je peux faire un essai avant de m'engager ?"
+        ]
+      },
+      {
+        "theme": "Immigration à Ottawa",
+        "sujet": "Je suis votre collègue. J'ai vécu dix ans au Canada. Vous envisagez d'immigrer à Ottawa. Vous me posez des questions sur mon intégration (logement, emploi, culture, etc.).",
+        "questions_possibles": [
+          "Dans quel quartier as-tu vécu à Ottawa ?",
+          "Est-ce que c'était facile de trouver un logement là-bas ?",
+          "Comment as-tu trouvé ton premier travail ?",
+          "As-tu rencontré des difficultés administratives ?",
+          "Est-ce que la vie est plus chère au Canada ?",
+          "Comment sont les relations avec les collègues là-bas ?",
+          "Est-ce que tu as trouvé des services pour t'aider à t'intégrer ?",
+          "Qu'est-ce qui t'a le plus surpris en arrivant ?",
+          "Tu as eu du mal à t'adapter au climat ?",
+          "Est-ce que tu recommanderais Ottawa pour commencer une nouvelle vie ?"
+        ]
+      },
+      {
+        "theme": "Visite au zoo",
+        "sujet": "Je suis votre voisin(e). Je suis allé(e) au zoo le week-end dernier. Vous voulez y emmener votre famille. Vous me posez des questions pour organiser la visite (date, animaux, tarifs, etc.).",
+        "questions_possibles": [
+          "Où se trouve exactement le zoo que vous avez visité ?",
+          "Quels sont les animaux les plus intéressants à voir ?",
+          "Est-ce qu'il y a des espaces pour les enfants ?",
+          "Combien coûte l'entrée pour un adulte et pour un enfant ?",
+          "Peut-on acheter les billets à l'avance en ligne ?",
+          "Est-ce qu'il y a des spectacles ou animations dans le zoo ?",
+          "Y a-t-il de quoi manger sur place ?",
+          "Combien de temps faut-il prévoir pour tout visiter ?",
+          "Est-ce que le zoo est bien adapté aux familles avec enfants ?",
+          "Est-ce qu'il y a un parking gratuit à proximité ?"
+        ]
+      },
+      {
+        "theme": "Sports d'hiver au Canada",
+        "sujet": "Je travaille dans une agence de voyages. Vous souhaitez partir aux sports d'hiver au Canada. Vous me posez des questions pour avoir des informations (activités, logements, prix, etc.).",
+        "questions_possibles": [
+          "Quelles régions du Canada sont les plus connues pour le ski ?",
+          "Est-ce qu'il y a des stations adaptées aux débutants ?",
+          "Quels types d'hébergement proposez-vous ?",
+          "Les repas sont-ils inclus dans les formules ?",
+          "Est-ce qu'on peut louer le matériel sur place ?",
+          "En dehors du ski, quelles autres activités sont possibles ?",
+          "Quel est le prix moyen pour une semaine ?",
+          "Est-ce que vous organisez aussi le transport ?",
+          "Peut-on réserver plusieurs mois à l'avance ?",
+          "Y a-t-il des réductions pour les familles ?"
+        ]
+      },
+      {
+        "theme": "Voyage au Canada",
+        "sujet": "Je suis votre collègue et j'ai passé quelques jours dans une région du Canada. Vous me posez des questions sur mon séjour (endroits visités, logement, activités, etc.).",
+        "questions_possibles": [
+          "Dans quelle région du Canada es-tu allé exactement pendant ton séjour ?",
+          "Combien de jours es-tu resté sur place au total ?",
+          "Quels sont les endroits ou les villes que tu as visités pendant ce voyage ?",
+          "Quel type de logement as-tu choisi pour ton séjour (hôtel, location, chez l'habitant) ?",
+          "Est-ce que le logement était bien situé par rapport aux transports et aux activités ?",
+          "Quelles activités as-tu faites sur place (visites, nature, loisirs, culture) ?",
+          "Est-ce que tu as voyagé seul ou avec d'autres personnes ?",
+          "Comment as-tu trouvé les transports dans cette région ?",
+          "Quel a été le moment le plus marquant ou le plus agréable de ton séjour ?",
+          "Est-ce que tu recommanderais cette région à d'autres personnes et pourquoi ?"
+        ]
+      },
+      {
+        "theme": "Système de santé canadien",
+        "sujet": "Je suis votre collègue. Vous venez de vous installer au Canada et vous me posez des questions sur le système de santé (médecins, hôpitaux, congés maladie, médicaments, etc.).",
+        "questions_possibles": [
+          "Comment fonctionne le système de santé au Canada en général ?",
+          "Est-ce qu'il est facile de trouver un médecin de famille quand on arrive ?",
+          "Comment fait-on pour consulter un médecin ou un spécialiste ?",
+          "Les consultations médicales sont-elles gratuites pour tous ?",
+          "Comment se passe une visite à l'hôpital en cas d'urgence ?",
+          "Est-ce que les délais d'attente sont longs pour voir un médecin ?",
+          "Les médicaments sont-ils remboursés par le système de santé ?",
+          "Faut-il une assurance complémentaire pour certains soins ?",
+          "Comment fonctionnent les congés maladie au travail ?",
+          "Selon toi, quels sont les points forts et les difficultés du système de santé canadien ?"
+        ]
+      },
+      {
+        "theme": "Parc à thème",
+        "sujet": "Je travaille dans un office de tourisme. Vous souhaitez visiter un parc à thème (aquarium, zoo, réserve naturelle). Vous me posez des questions pour vous informer (horaires, prix, restauration, etc.).",
+        "questions_possibles": [
+          "Quels types de parcs à thème proposez-vous (aquarium, zoo, réserve naturelle) ?",
+          "Quels sont les horaires d'ouverture du parc selon les saisons ?",
+          "Quel est le prix des billets pour les adultes et pour les enfants ?",
+          "Existe-t-il des tarifs réduits ou des forfaits familiaux ?",
+          "Combien de temps faut-il prévoir pour bien visiter le parc ?",
+          "Quelles sont les principales attractions ou activités proposées ?",
+          "Y a-t-il des espaces de restauration à l'intérieur du parc ?",
+          "Peut-on apporter son propre repas ou pique-niquer sur place ?",
+          "Le parc est-il accessible en transports en commun ou en voiture ?",
+          "À quelle période de l'année conseillez-vous de venir visiter ce parc ?"
+        ]
+      },
+      {
+        "theme": "Croisière au Canada",
+        "sujet": "Je travaille dans une agence touristique au Canada. Vous envisagez de faire une croisière et vous me posez des questions (tarifs, durée, activités proposées, etc.).",
+        "questions_possibles": [
+          "Quelles destinations sont proposées pour les croisières au Canada ?",
+          "Quelle est la durée moyenne d'une croisière ?",
+          "Quels sont les tarifs selon le type de cabine choisi ?",
+          "Qu'est-ce qui est inclus dans le prix de la croisière ?",
+          "Quelles activités sont proposées à bord du bateau ?",
+          "Y a-t-il des animations ou des spectacles pendant la croisière ?",
+          "Les repas sont-ils compris et y a-t-il plusieurs choix de restauration ?",
+          "Est-ce que des excursions sont organisées lors des escales ?",
+          "À quel public s'adresse cette croisière (familles, couples, seniors) ?",
+          "Quelle est la meilleure période de l'année pour faire une croisière ?"
+        ]
+      },
+      {
+        "theme": "Visite d'appartement",
+        "sujet": "Vous visitez un appartement à louer. Je suis l'ancien(ne) locataire. Vous me posez des questions sur l'immeuble, le voisinage, le gardien et le quartier.",
+        "questions_possibles": [
+          "Depuis combien de temps as-tu vécu dans cet appartement ?",
+          "Comment est l'immeuble en général (calme, propre, bien entretenu) ?",
+          "Y a-t-il un gardien ou un service de sécurité dans l'immeuble ?",
+          "Comment sont les voisins dans l'immeuble ?",
+          "Le quartier est-il plutôt calme ou animé ?",
+          "Y a-t-il des commerces et des services à proximité ?",
+          "Est-ce que le quartier est bien desservi par les transports en commun ?",
+          "As-tu rencontré des problèmes particuliers pendant ton séjour ici ?",
+          "Comment est la gestion de l'immeuble en cas de problème ?",
+          "Recommanderais-tu cet appartement à quelqu'un qui cherche à louer ?"
+        ]
+      }
+    ]
+  }
+}
