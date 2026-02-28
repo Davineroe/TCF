@@ -1,0 +1,628 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message à votre ami(e) pour lui faire part de votre programme de déménagement vers votre nouveau logement, en demandant son aide (date, lieu, programme…).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours pour gagner un séjour de deux semaines dans votre ville préférée. Le thème de ce concours est \"Mon artiste préféré\". Écrivez un article de blog pour parler de votre artiste préféré.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Objets Connectés",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les objets connectés facilitent notre vie quotidienne. Ce sont des objets ou des équipements pilotés à distance à l'aide d'un téléphone portable ou par Internet, comme le système de chauffage ou la fermeture des portes. De plus, avec une montre ou un bracelet connecté, toutes nos activités peuvent être analysées. Un logiciel va mesurer le nombre de nos pas pour nous inciter à faire davantage d'exercice. Un domaine où l'on comprend mieux leur utilité est celui de la surveillance de la santé. Certains objets agissent comme un carnet de santé, toujours prêts à vous rappeler un rendez-vous chez le médecin ou des médicaments à prendre."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Il y aurait 50 milliards d'objets connectés dans le monde : l'alarme, le téléviseur, la caméra de surveillance, les volets, le détecteur de fumée, etc. Face à cette évolution, la question de la sécurité se pose. En effet, un pirate informatique peut prendre le contrôle d'un objet connecté en quelques minutes. Ou encore, un cambrioleur pourrait vérifier grâce aux caméras de surveillance connectées d'une habitation que les occupants sont absents. Il est aussi possible d'entrer dans le système connecté d'une voiture, et d'en prendre les commandes à distance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez organiser une visite culturelle dans votre ville. Vous envoyez un message pour inviter vos amis. Vous leur donnez toutes les informations nécessaires (activités, date, lieu, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une soirée écologique pour protéger la planète qui avait lieu dans votre université. Racontez-la dans votre blog et expliquez pourquoi vous l'avez aimée.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Devoirs À La Maison",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Selon des associations des parents d'élèves, les devoirs à la maison sont utiles, car ils permettent aux élèves d'apprendre à organiser leur temps de manière autonome. Pour les parents, les devoirs sont un lien quotidien avec l'école. Même s'il est parfois difficile de suivre les devoirs après une journée de travail fatigant, ils apprécient ce moment partagé avec leurs enfants parce que ceux-ci sont contents que leurs parents s'intéressent à eux. C'est valorisant !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Nous protestons depuis longtemps contre les devoirs à la maison pour plusieurs raisons. Personne n'a jamais prouvé leur utilité pour améliorer les résultats des élèves. Beaucoup de parents ont peu de temps pour encadrer les devoirs de leurs enfants et certains parents ne savent pas le faire. Quant aux élèves, ceux qui ont réussi les exercices en classe perdent leur temps à les refaire à la maison. Ceux qui ne sont pas aidés à la maison ne réussissent toujours pas, ils sont défavorisés. C'est pourquoi nous pensons qu'il faut supprimer les devoirs à la maison."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous faites du sport dans un club. Vous venez de remporter une compétition. Vous écrivez un courriel à vos amis pour leur raconter cet évènement sportif et annoncer votre réussite sportive.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Le site «colocation.com» recherche des témoignages sur vos expériences de colocation. Écrivez-nous ! Vous avez déjà habité en colocation avec des amis. Vous racontez votre expérience aux membres du site internet. Vous donnez votre opinion sur ce mode de logement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Grossissement des Villes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De nos jours, les villes grossissent toujours plus. Malheureusement, ce phénomène a un impact fort sur l'environnement. Car plus une ville grossit, plus elle a des effets négatifs sur la nature et donc, ensuite, sur l'homme. L'effet négatif le plus visible est la déforestation, qui réduit les végétaux qui retiennent le carbone. Donc, quand on les supprime pour construire des bâtiments ou des rues, on supprime des espaces verts capables de retenir des millions de tonnes de carbone."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Plus de la moitié de l'humanité vit en ville (huit habitants sur dix dans les pays riches). La vie urbaine est donc le principal enjeu écologique. On entend souvent dire que l'organisation actuelle des villes n'est pas écologique, et que le grossissement des villes ne fait qu'augmenter le problème. Pourtant, il faut se méfier des apparences : les villes ne sont pas toujours aussi antiécologiques qu'on l'imagine. Par exemple, la consommation d'énergie d'un citadin est moins importante que celle d'un habitant de la campagne."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez mis en ligne une annonce pour la location de votre appartement. Écrivez un courriel à une personne intéressée pour lui donner les informations sur l'appartement et le quartier.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez de commencer les cours à l'université à Montréal, écrivez un message à votre ami pour lui raconter votre première semaine à l'université.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Animaux de Compagnie pour les Enfants, Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Offrir un animal de compagnie à un enfant présente de nombreux avantages, comme le soulignent beaucoup de psychologues. Pour des enfants qui n'ont pas de frères et/ou de sœurs, l'animal est un compagnon qui leur évitera la solitude. Grâce à lui, un enfant prendra confiance en lui et il apprendra vite qu'un animal est un être vivant qui a besoin d'attention et de respect. En sa présence, l'enfant se sentira en sécurité et pourra agir de manière autonome, sans l'aide de ses parents."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Beaucoup d'enfants demandent, un jour ou l'autre, un animal à leurs parents, le plus souvent un chien ou un chat. Mais même si vous avez envie de faire plaisir à votre enfant, il vaut mieux réfléchir sérieusement avant d'acheter un animal domestique. L'animal devient un nouveau membre de la famille et représente un engagement sur de nombreuses années. Or, avoir un animal coûte souvent très cher, et c'est une grande responsabilité. On ne peut pas le traiter comme un jouet que l'on met à la poubelle quand l'enfant s'en désintéresse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message à votre ami pour lui décrire le programme de vos prochaines vacances.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez un article de blog sur un événement auquel vous avez assisté dernièrement (fête, festival, …).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Vélo en Ville, Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Quand on parle de vélo, on pense systématiquement à deux choses : sport et loisir. On oublie souvent que c'est avant tout un mode de déplacement personnel et professionnel. En ville, c'est un moyen de transport rapide et déstressant puisqu'il permet d'éviter les interminables embouteillages aux heures de pointe. Se rendre au travail tout en faisant du sport, histoire de joindre l'utile à l'agréable."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Avec tous les accidents de la route observés annuellement, sortir son vélo pour se déplacer en ville peut être très dangereux. En effet, avec la densité importante de véhicules, le non-respect du Code de la route et le manque de pistes cyclables, pratiquer du vélo en zone urbaine présente de vrais risques d'accident. De plus, faire du vélo de nos jours, c'est s'exposer à des gaz d'échappement toxiques et nocifs pour la santé humaine (notamment le monoxyde de carbone…)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message à votre ami pour lui raconter votre entretien d'embauche.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "« Gagnez deux billets pour la destination de votre choix avec la compagnie Air Tropiques. Racontez votre plus beau voyage sur notre forum ». Écrivez un message sur le forum de la compagnie Air Tropiques. Vous racontez votre plus beau voyage (destination, activités, …) et vous dites pourquoi…",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L'École à Domicile, Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les raisons qui poussent les parents à opter pour la scolarisation à domicile sont nombreuses. Elle donne la possibilité d'adopter une pédagogie plus individualisée. On peut passer plus de temps sur les points sur lesquels l'enfant bute ou lui proposer, à l'occasion, des jeux éducatifs. L'enfant gère son apprentissage à son rythme, il creuse les sujets qui le passionnent et ne subit pas la pression des autres élèves qui peuvent avancer plus ou moins vite que lui. Autre avantage de l'instruction en famille, une évaluation différente. Avec l'école à la maison, pas de notes qui peuvent parfois être décourageantes, mais un contrôle continu des connaissances, pas de stress dû aux évaluations et aux devoirs."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le choix de la scolarisation à domicile représente un véritable défi et donc, quelques inconvénients à prendre en compte avant de se lancer. La scolarisation à domicile nécessite beaucoup de temps, une bonne organisation et elle a aussi un coût. Tout le matériel, les livres, les manuels, et les sorties sont à la charge des familles, et l'un des deux parents est souvent amené à mettre entre parenthèses son emploi. Au total, l'école à domicile coûte généralement plus cher qu'une scolarisation dans le public. De plus, l'enfant ne côtoie pas de camarades au quotidien, car l'école à domicile ne permet pas à l'enfant d'entrer en interaction avec d'autres enfants comme il le ferait dans un cadre scolaire classique."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Parc de loisirs : « J'ai hâte de passer la journée avec toi demain. S'il te plaît, dis-moi, quelle activité nous pourrons faire ? ». Répondez à votre ami pour lui décrire la sortie (horaires, transport, billet, activités).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez un message à vos amis pour leur raconter votre expérience lors d'un salon du livre (conférence, expositions et rencontre avec les auteurs…).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Faire ses Courses Alimentaires chez les Producteurs Locaux ou au Supermarché ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Jean qui vit à la campagne favorise l'achat des produits alimentaires directement à la ferme pour la bonne qualité quitte à payer un peu plus cher."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Camille qui vit en ville préfère faire ses courses au supermarché pour la variété qu'il propose et pour les prix abordables."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut à tous, L'été est arrivé ! Je vous propose de faire un pique-nique samedi prochain. Connaissez-vous un endroit sympa pour les enfants et les adultes où nous pouvons tous nous retrouver ? Bisous, à bientôt. Léa » Vous acceptez l'invitation de Léa et vous lui proposez un endroit pour organiser le pique-nique. Vous décrivez le lieu et expliquez quelles sont les activités possibles.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "« Salut, tu vas bien ? Nous avons deux semaines de vacances en janvier. Nous allons venir visiter ton pays. Nous cherchons à visiter des sites historiques et à découvrir des plats nouveaux. Qu'est-ce que tu nous conseilles ? Aaron & Perla » Vous répondez à Aaron et Perla pour leur faire des propositions et justifiez votre choix en racontant vos dernières vacances.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Manger à l'Extérieur ou Chez Soi ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Aïcha, jeune célibataire française de 28 ans, refuse de prendre ses repas seule chez elle. « Me retrouver avec un plateau repas devant la télé, non merci ! Vivre à Lyon me donne la possibilité de dîner à l'extérieur, où je veux et à n'importe quelle heure. Pourquoi m'en priver ? Je trouve aussi génial de pouvoir partager des moments de convivialité avec tous mes amis, ce qui est impossible dans mon petit appartement. Et puis, c'est vrai, peu de gens de ma génération ont la patience et le talent de préparer des petits plats maison. »"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Laura, mère de famille de 45 ans, déclare : « Dîner au restaurant est un luxe que je peux rarement m'offrir avec mon salaire de vendeuse. Bien sûr, j'aimerais parfois éviter de faire la cuisine et pouvoir sortir au restaurant, mais pour une famille de cinq personnes, la dépense est énorme ! Et puis je trouve que la qualité des plats servis dans les restaurants est très moyenne. Le rapport qualité-prix n'est pas toujours au rendez-vous. Au moins, en mangeant à la maison, je sais ce qu'il y a dans mon assiette. »"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Invitez vos amis à célébrer votre anniversaire tout en sollicitant leur soutien pour organiser la fête.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours de cuisine, vous allez décrire vos souvenirs dans votre blog en indiquant les détails.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le travail des Étudiants pendant les Vacances : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Opinion 1 : Alexandre, un conseiller d'orientation. « Je suis fermement pour le travail des jeunes pendant les vacances. C'est une excellente occasion d'acquérir des compétences pratiques, d'apprendre à travailler en équipe et de découvrir différentes industries. Les jeunes peuvent gagner de l'argent qu'ils peuvent économiser pour l'avenir ou utiliser pour financer des activités ou des loisirs. De plus, le fait d'avoir une expérience de travail sur leur CV peut leur donner un avantage lorsqu'ils postulent pour des emplois ou des stages à l'avenir. Les vacances d'été sont longues et il y a amplement de temps pour se reposer et travailler. »"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Opinion 2 : Élise, une psychologue pour adolescents. « Je suis contre l'idée que les jeunes doivent travailler pendant leurs vacances. Les adolescents sont déjà sous une énorme pression pendant l'année scolaire avec les études, les examens et les activités parascolaires. Les vacances doivent être une période pour eux de se détendre, de se décompresser et de poursuivre des intérêts personnels. Les forcer à travailler pourrait contribuer au stress et à l'épuisement. Il est également important pour les jeunes de disposer de temps non structuré pour explorer leur créativité, passer du temps avec leurs amis et leur famille, et tout simplement être des enfants. Le travail peut attendre. »"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez partir en week-end avec vos amis le mois prochain. Vous leur écrivez un message pour décrire votre projet (lieu, transport, activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "COURRIER DES LECTEURS. Tout quitter pour partir en voyage pendant un an : bonne ou mauvaise idée ? Répondez sur notre site Internet : \"voyage.internaute.fr\". Vous écrivez un message sur ce site internet, vous répondez à la question posée en prenant des exemples de votre vie personnelle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail : Favorable ou Défavorable ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le travail est au centre de notre vie. Dès l'enfance, on entend souvent la question : « Qu'est-ce que tu veux faire quand tu seras grand ? ». Le travail devrait être synonyme de réussite et de satisfaction, mais il est trop souvent synonyme de fatigue et d'emprisonnement. Aujourd'hui, beaucoup pensent que l'on ne passe pas assez de temps avec sa famille, ses amis. Il est urgent de revoir la place occupée par le travail dans notre société. Certains pensent que travailler moins permettrait d'avoir plus de temps libre pour mieux vivre."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certaines personnes ont décidé d'arrêter de travailler pour changer de mode de vie. Pourtant, aujourd'hui, travailler, c'est exister. La question : « Qu'est-ce que tu fais dans la vie ? » revient souvent lors d'une première rencontre. Elle prouve que l'emploi fait partie de notre identité. D'après le spécialiste Jean-Daniel Remond, la vie en entreprise est très importante. Les contacts quotidiens, les réseaux, les amitiés, l'impression d'être utile, mais aussi les difficultés, tout cela contribue à construire notre personnalité et notre identité."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut, Je suis vraiment intéressé à l'idée de voyager et de découvrir un autre pays. Peux-tu me parler un peu de ton pays et de sa culture ? Marc. » Écrivez un message à votre ami Marc, qui veut voyager et découvrir un autre pays, pour lui parler de votre pays et de sa culture (lieux, sites touristiques, monuments, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez d'avoir un nouveau travail. Envoyez un courriel à vos amis pour leur raconter comment vous avez passé votre première semaine de travail (entreprise, poste, tâches, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Égalité Homme/Femme en Milieu de Travail",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Certains postes sont majoritairement occupés par des hommes. Au Québec, l'égalité entre les femmes et les hommes est respectée, les femmes peuvent exercer les métiers réservés aux hommes tels que les postes de direction."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Malgré les efforts pour imposer la parité à tous les postes dans les entreprises et les collectivités, il y a, dans les faits, des métiers où les femmes sont largement majoritaires tels que les sage-femmes. De plus, certaines personnes pensent que les femmes ne doivent pas faire les métiers d'hommes, car elles doivent prendre soin de leurs enfants."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message à vos amis pour leur dire que vous avez trouvé un hôtel pour aller en vacances.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Écrivez un message à vos amis pour leur parler de votre expérience professionnelle à l'étranger.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Deux Avis sur les Jeux Vidéos",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les enfants, jusqu'à l'âge de l'adolescence, jouent d'une manière régulière aux jeux vidéo et à force, ils peuvent développer des pensées négatives et des comportements agressifs. En effet, une étude récente, menée sur des enfants âgés de 9 à 18 ans jouant fréquemment aux jeux vidéo, a révélé que le fait de jouer à des jeux de violence augmente considérablement un comportement agressif. Et selon Diégo Gentil, ce phénomène est inévitable, quel que soit le degré de vigilance des parents !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "On parle tout le temps des effets négatifs des jeux vidéo, mais ces derniers peuvent également avoir quelques avantages pour le fonctionnement du cerveau et pour la santé d'une manière générale. Si on prend, par exemple, leur apport pour le cerveau, les jeux vidéo permettent d'améliorer plusieurs fonctions cognitives telles que l'amélioration de la concentration, de la réaction et de la capacité d'analyse. Ceci peut paraître évident, dans la mesure où lorsqu'on y joue, on doit toujours trouver des solutions à des situations plus ou moins complexes (surtout pour les jeux de stratégie)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 13,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message à votre ami pour l'inviter à pratiquer un sport avec vous.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un échange scolaire dans une école à l'étranger. Racontez à vos amis ce que vous avez aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Deux Avis sur L'Uniforme Scolaire",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le port de l'uniforme étouffe et écrase la personnalité des garçons. Ils ne peuvent s'habiller comme ils veulent, en aucune circonstance. De l'autre côté de l'échelle, il y a des gens qui préféreraient pour eux-mêmes et leurs enfants avoir la possibilité de s'exprimer à travers l'habillement, en décidant eux-mêmes ce qu'ils porteront chaque jour. Ainsi, avec un uniforme, les jeunes qui aiment s'exprimer à travers la mode, se démarquer de la foule grâce à un accessoire ou un vêtement particulier, se retrouveront déçus et emprisonnés dans l'uniforme."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le port de l'uniforme développe un sentiment d'appartenance à son établissement et à la communauté des élèves. Il nourrit chez le jeune le sens du collectif et engendre souvent la fierté d'appartenir à son établissement. De plus, il réduit la discrimination basée sur le style ou sur la classe sociale de l'élève. En effet, l'uniforme permet aux parents d'économiser beaucoup d'argent, ce ne sont pas tous les parents qui peuvent payer à leurs enfants de beaux vêtements griffés ou de marques populaires. La mise en place d'un code vestimentaire réduit donc les différences entre les classes sociales."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message à votre ami qui a accepté de s'occuper de votre maison et de votre jardin pendant votre absence pour lui dire ce qu'il doit faire.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Envoyez une réclamation par courrier à une agence de voyage pour exprimer votre mécontentement suite à un voyage mal organisé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Restauration Rapide, Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les restaurants rapides se distinguent par leur engagement à proposer une variété de plats équilibrés, respectant strictement les normes d'hygiène. En laissant aux clients la liberté de composer leur propre menu, ces établissements les responsabilisent dans leurs choix alimentaires, tout en satisfaisant leurs préférences gustatives."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les spécialistes affirment que manger régulièrement dans des restaurants de fast-food, qui proposent de la restauration rapide, est dangereux pour la santé. La nourriture servie est souvent la même : frites, hamburgers et boissons sucrées. Ces aliments contiennent une grande quantité de calories, bien trop pour un seul repas. De plus, la plupart des produits dans ces restaurants sont emballés dans du plastique. Par conséquent, manger dans un fast-food augmente la production de déchets plastiques, ce qui est nuisible pour l'environnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Répondez à une annonce concernant l'échange linguistique, pour pratiquer la langue française (présentation, centres d'intérêt, …).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Racontez dans un message à vos amis une fête de famille. Expliquez ce qui vous a plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Limitation des Voitures dans les Centres-Villes, Pour ou Contre",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Avec des taux de pollution alarmants constatés dans plusieurs endroits dans le monde, plusieurs villes ont réussi leur pari d'interdire la circulation de voitures en zones urbaines. La capitale de la Norvège, Oslo, a récemment opté pour cette solution et s'en félicite estimant que c'est une décision bénéfique pour tout le monde. Après un certain temps, les accidents diminueront, la dépendance au pétrole baissera et la qualité de l'air sera meilleure."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Beaucoup de villes se lancent dans des projets d'interdiction de voitures en zone urbaine sans mettre en place les outils et les infrastructures nécessaires pour réussir cette transition. Certes, en diminuant les voitures, on aura moins d'embouteillages, de stress et surtout un air beaucoup moins pollué, mais en contrepartie, il faut prévoir entre autres de gigantesques parkings pour garer les voitures, opter davantage pour le transport en commun (métros et bus) et prévoir des autorisations de circulation pour certains corps de métiers (comme la police, les urgentistes, les livreurs…)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 16,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous organisez une fête, écrivez à vos amis pour vous aider à l'organiser.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à une compétition sportive, écrivez un article (blog, magazines, etc.) (lieux, date, organisation).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Deux Opinions sur les Menus Sans Viande aux Cantines Scolaires",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De plus en plus d'écoles décident de mettre en place un menu sans viande dans les cantines, au moins deux fois par semaine. Certaines études ont montré que les enfants consomment trop de protéines animales. C'est donc une question de santé : les écoles ont choisi de remplacer la viande par d'autres produits (soja, céréales, légumes), moins gras et utiles à la croissance des enfants. Ces menus sans viande à la cantine reviennent moins cher aux familles. Cette idée plaît beaucoup aux parents comme aux enfants."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La décision de supprimer la viande dans les cantines ne plaît pas à tout le monde. En effet, c'est un produit cher : la cantine est le seul endroit où les enfants de familles en difficulté peuvent manger. Les producteurs locaux de viande sont également mécontents : une partie de leur production est réservée aux cantines, il s'agit donc d'une perte financière. Enfin, beaucoup d'enfants interrogés déclarent tout de même préférer les steaks de bœuf aux steaks de soja qui, selon eux, ont peu de goût."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 17,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Invitez vos amis à un anniversaire surprise d'une autre personne.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Blog : Journée dans une brocante/vide greniers.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Vols à Bas Prix",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je fais souvent mes voyages avec des compagnies aériennes à bas prix. Les compagnies Low-cost mettent à disposition des prix inférieurs à ceux proposés par les compagnies aériennes régulières. Cela me coûte parfois moins cher que de voyager en voiture ou en train. Avec ces tarifs-là, vous vous doutez qu'il y a un hic : en effet, vous n'aurez le droit à aucun service à bord (ni aliments, ni boissons). Je dirais donc que le low-cost n'est surtout pas fait pour les vols long-courriers."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Récemment, j'ai pris la décision de ne plus voyager avec les compagnies aériennes à bas prix. En effet, j'ai longuement réfléchi afin de prendre ma décision, mais ce choix était évident : des sièges inconfortables, des conditions de travail pénibles et surtout des avions vétustes qui remettent en cause la sécurité ! Dès lors, pour certains voyages, je vais opter pour la voiture ou même le train, ce dernier permet même de découvrir de jolis paysages. Quant aux longs trajets, mieux vaut prendre un vol en compagnie régulière."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous voulez partir en week-end avec vos amis le mois prochain. Vous leur écrivez un message pour décrire votre projet (lieu, transport, activités, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "COURRIER DES LECTEURS. Tout quitter pour partir en voyage pendant un an : bonne ou mauvaise idée ? Répondez sur notre site Internet : \"voyage.internaute.fr\". Vous écrivez un message sur ce site internet, vous répondez à la question posée en prenant des exemples de votre vie personnelle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail : Favorable ou Défavorable ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le travail est au centre de notre vie. Dès l'enfance, on entend souvent la question : « Qu'est-ce que tu veux faire quand tu seras grand ? ». Le travail devrait être synonyme de réussite et de satisfaction, mais il est trop souvent synonyme de fatigue et d'emprisonnement. Aujourd'hui, beaucoup pensent que l'on ne passe pas assez de temps avec sa famille, ses amis. Il est urgent de revoir la place occupée par le travail dans notre société. Certains pensent que travailler moins permettrait d'avoir plus de temps libre pour mieux vivre."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certaines personnes ont décidé d'arrêter de travailler pour changer de mode de vie. Pourtant, aujourd'hui, travailler, c'est exister. La question : « Qu'est-ce que tu fais dans la vie ? » revient souvent lors d'une première rencontre. Elle prouve que l'emploi fait partie de notre identité. D'après le spécialiste Jean-Daniel Remond, la vie en entreprise est très importante. Les contacts quotidiens, les réseaux, les amitiés, l'impression d'être utile, mais aussi les difficultés, tout cela contribue à construire notre personnalité et notre identité."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 19,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez fêter votre anniversaire. Vos amis vous demandent ce que vous souhaitez comme cadeaux. Vous voulez des vêtements. Vous leur écrivez un message pour leur décrire les vêtements que vous aimeriez recevoir.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "www.manger-international.com. Ce mois-ci, nous nous intéressons aux habitudes alimentaires dans le monde. Racontez-nous comment mangent les habitants de votre pays ! Les 10 premiers témoignages seront publiés sur notre site ! Vous avez lu cette annonce. Vous écrivez un article pour les lecteurs du site www.manger-international.com. Vous expliquez comment mangent les habitants de votre pays et vous indiquez quelles habitudes vous plaisent ou vous déplaisent, et pourquoi.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Beaucoup de gens pensent encore que les jeux vidéo nous rendent bêtes. Pourtant de nombreuses études prouvent le contraire. Ainsi, selon une de ces études, les utilisateurs de jeux de course développeraient leur sens de l'orientation, leur mémoire et la précision de leurs mouvements. D'autres études montrent clairement une amélioration de la rapidité et de la concentration de tous les joueurs. Et c'est sans parler des jeux d'entraînement destinés aux personnes âgées pour consolider la mémoire et la vivacité d'esprit… Bref, c'est scientifique, le jeu vidéo rend plus intelligent !"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les jeux vidéo, sur console ou sur ordinateur, chez soi ou en salle, seul, avec des amis ou en ligne avec des inconnus, peuvent provoquer une dépendance chez certaines personnes. On parle d'addiction quand le jeu vidéo devient le principal (ou l'unique) centre d'intérêt, à la place d'autres activités (relationnelles, professionnelles, scolaires, loisirs, sport…). Cette dépendance est particulièrement préoccupante lors de l'adolescence, période importante où les jeux vidéo peuvent avoir un impact négatif sur les résultats scolaires."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez déménagé dans une nouvelle ville depuis un mois. Vous écrivez un courriel à votre ami Léo pour lui donner de vos nouvelles ! Vous devez lui décrire : (l'appartement, le quartier, la ville, les activités…).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une fête traditionnelle dans votre pays ou à l'étranger. Racontez-la dans votre blog et dites pourquoi vous l'avez aimée.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Parcs Zoologiques : Pour ou contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le texte affirme que les zoos ont beaucoup d'avantages, même pour les animaux en voie de disparition. Les animaux sont bien soignés dans les zoos. Les études montrent que le nombre de reproductions a augmenté grâce aux zoos et ils peuvent sauver la vie des animaux."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Le texte montre qu'il ne faut pas mettre les animaux sauvages dans les zoos parce que ce n'est pas leur environnement. C'est une prison pour eux. On trouve des ours polaires dans des zoos dont la température est de 15 degrés. Les animaux ont besoin de la nature et de la liberté."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
