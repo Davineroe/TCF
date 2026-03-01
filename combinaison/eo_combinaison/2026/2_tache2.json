@@ -2,12 +2,12 @@
   "parties": [
     {
       "numero": 1,
-      "consigne": "Je suis votre collègue et j'ai passé quelques jours dans une région du Canada. Vous me posez des questions sur mon séjour (endroits visités, logement, activités, etc.).",
+      "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
       "duree": 330,
       "reponse": {
         "sujets": [
           {
-            "sujet": "Séjour au Canada",
+            "sujet": "Je suis votre collègue et j'ai passé quelques jours dans une région du Canada. Vous me posez des questions sur mon séjour (endroits visités, logement, activités, etc.).",
             "questions_possibles": [
               "Dans quelle région du Canada es-tu allé exactement pendant ton séjour ?",
               "Combien de jours es-tu resté sur place au total ?",
@@ -22,7 +22,7 @@
             ]
           },
           {
-            "sujet": "Système de santé canadien",
+            "sujet": "Je suis votre collègue. Vous venez de vous installer au Canada et vous me posez des questions sur le système de santé (médecins, hôpitaux, congés maladie, médicaments, etc.).",
             "questions_possibles": [
               "Comment fonctionne le système de santé au Canada en général ?",
               "Est-ce qu'il est facile de trouver un médecin de famille quand on arrive ?",
@@ -37,7 +37,7 @@
             ]
           },
           {
-            "sujet": "Visite d'un parc à thème",
+            "sujet": "Je travaille dans un office de tourisme. Vous souhaitez visiter un parc à thème (aquarium, zoo, réserve naturelle). Vous me posez des questions pour vous informer (horaires, prix, restauration, etc.).",
             "questions_possibles": [
               "Quels types de parcs à thème proposez-vous (aquarium, zoo, réserve naturelle) ?",
               "Quels sont les horaires d'ouverture du parc selon les saisons ?",
@@ -52,7 +52,7 @@
             ]
           },
           {
-            "sujet": "Croisière au Canada",
+            "sujet": "Je travaille dans une agence touristique au Canada. Vous envisagez de faire une croisière et vous me posez des questions (tarifs, durée, activités proposées, etc.).",
             "questions_possibles": [
               "Quelles destinations sont proposées pour les croisières au Canada ?",
               "Quelle est la durée moyenne d'une croisière ?",
@@ -67,7 +67,7 @@
             ]
           },
           {
-            "sujet": "Visite d'un appartement à louer",
+            "sujet": "Vous visitez un appartement à louer. Je suis l'ancien(ne) locataire. Vous me posez des questions sur l'immeuble, le voisinage, le gardien et le quartier.",
             "questions_possibles": [
               "Depuis combien de temps as-tu vécu dans cet appartement ?",
               "Comment est l'immeuble en général (calme, propre, bien entretenu) ?",
@@ -90,7 +90,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Produits bio",
+            "sujet": "Je suis producteur de fruits et légumes bio. Je propose mes produits directement aux particuliers. Vous êtes intéressé(e). Vous me posez des questions pour avoir des informations (prix, produits, livraison, etc.).",
             "questions_possibles": [
               "Quels types de fruits et légumes vendez-vous en ce moment ?",
               "Est-ce que vos produits changent selon la saison ?",
@@ -105,7 +105,7 @@
             ]
           },
           {
-            "sujet": "Bénévolat dans une association",
+            "sujet": "Je suis votre ami(e). Je fais du bénévolat dans une association qui soutient les personnes âgées. Vous êtes intéressé(e). Vous me posez des questions (activités, public, inscription, etc.).",
             "questions_possibles": [
               "Quelles sont les principales activités proposées par l'association ?",
               "Est-ce qu'il faut s'occuper directement des personnes âgées ?",
@@ -120,7 +120,7 @@
             ]
           },
           {
-            "sujet": "Immigration à Ottawa",
+            "sujet": "Je suis votre collègue. J'ai vécu dix ans au Canada. Vous envisagez d'immigrer à Ottawa. Vous me posez des questions sur mon intégration (logement, emploi, culture, etc.).",
             "questions_possibles": [
               "Dans quel quartier as-tu vécu à Ottawa ?",
               "Est-ce que c'était facile de trouver un logement là-bas ?",
@@ -135,7 +135,7 @@
             ]
           },
           {
-            "sujet": "Visite du zoo",
+            "sujet": "Je suis votre voisin(e). Je suis allé(e) au zoo le week-end dernier. Vous voulez y emmener votre famille. Vous me posez des questions pour organiser la visite (date, animaux, tarifs, etc.).",
             "questions_possibles": [
               "Où se trouve exactement le zoo que vous avez visité ?",
               "Quels sont les animaux les plus intéressants à voir ?",
@@ -150,7 +150,7 @@
             ]
           },
           {
-            "sujet": "Sports d'hiver au Canada",
+            "sujet": "Je travaille dans une agence de voyages. Vous souhaitez partir aux sports d'hiver au Canada. Vous me posez des questions pour avoir des informations (activités, logements, prix, etc.).",
             "questions_possibles": [
               "Quelles régions du Canada sont les plus connues pour le ski ?",
               "Est-ce qu'il y a des stations adaptées aux débutants ?",
@@ -173,7 +173,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Fête des voisins",
+            "sujet": "Je suis votre voisin(e). J'organise la fête des voisins le week-end prochain. Vous souhaitez y participer et vous me posez des questions sur l'organisation (lieu, horaires, plats à prévoir, etc.).",
             "questions_possibles": [
               "Où aura lieu exactement la fête des voisins le week-end prochain ?",
               "À quelle heure la fête commencera-t-elle et jusqu'à quelle heure est-elle prévue ?",
@@ -188,7 +188,7 @@
             ]
           },
           {
-            "sujet": "Vacances dans une station de sports d'hiver",
+            "sujet": "Je suis votre ami(e). Je pars régulièrement en vacances dans une station de sports d'hiver au Canada. Ce type de séjour vous intrigue et vous me posez des questions pour savoir si cela pourrait vous plaire (destination, logement, activités, etc.).",
             "questions_possibles": [
               "Dans quelle station de sports d'hiver pars-tu habituellement en vacances ?",
               "À quelle période de l'année préfères-tu partir dans cette destination ?",
@@ -203,7 +203,7 @@
             ]
           },
           {
-            "sujet": "Déplacements à vélo en ville",
+            "sujet": "Je suis votre voisin(e). Je me rends au travail à vélo tous les jours. Vous envisagez d'utiliser le vélo pour vos déplacements en ville et vous me posez des questions pour savoir si c'est adapté (avantages, budget, sécurité, etc.).",
             "questions_possibles": [
               "Depuis combien de temps te rends-tu au travail à vélo chaque jour ?",
               "Quels sont, selon toi, les principaux avantages du vélo en ville ?",
@@ -218,7 +218,7 @@
             ]
           },
           {
-            "sujet": "Musées à Vancouver",
+            "sujet": "Je travaille à l'office de tourisme de Vancouver. Vous souhaitez visiter un musée et vous me posez des questions sur les musées de la ville (types, tarifs, horaires, etc.).",
             "questions_possibles": [
               "Quels types de musées peut-on visiter à Vancouver ?",
               "Quels sont les musées les plus populaires de la ville ?",
@@ -233,7 +233,7 @@
             ]
           },
           {
-            "sujet": "Télétravail",
+            "sujet": "Je suis votre collègue. Je télétravaille plusieurs jours par semaine. Cela vous intéresse et vous me posez des questions sur mes conditions de travail à distance (horaires, matériel, organisation, etc.).",
             "questions_possibles": [
               "Combien de jours par semaine travailles-tu à distance ?",
               "Quels sont tes horaires lorsque tu télétravailles ?",
@@ -256,7 +256,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Cinéma",
+            "sujet": "Vous êtes en vacances au Canada et souhaitez aller au cinéma. Votre ami(e), qui y travaille, peut vous informer sur les films, les horaires et les tarifs. Vous lui posez des questions pour choisir une séance.",
             "questions_possibles": [
               "Quels films sont actuellement à l'affiche au cinéma ?",
               "Est-ce qu'il y a des films en français ou sous-titrés ?",
@@ -271,7 +271,7 @@
             ]
           },
           {
-            "sujet": "Séjour à la mer",
+            "sujet": "Votre ami(e) revient d'un séjour au bord de la mer. Vous voulez organiser des vacances similaires et vous lui posez des questions sur la destination, les activités et le budget à prévoir.",
             "questions_possibles": [
               "Où es-tu allé exactement pour ton séjour à la mer ?",
               "Est-ce que la destination était facile d'accès ?",
@@ -286,7 +286,7 @@
             ]
           },
           {
-            "sujet": "Lecture récente",
+            "sujet": "Vous devez écrire un article sur un livre pour la revue de votre association littéraire. Pour trouver des idées, vous discutez avec un(e) ami(e) francophone de ses lectures récentes.",
             "questions_possibles": [
               "Quel est le dernier livre que tu as beaucoup aimé ?",
               "De quel genre littéraire il s'agit ?",
@@ -301,7 +301,7 @@
             ]
           },
           {
-            "sujet": "Participation à un jeu télévisé",
+            "sujet": "Votre ami(e) a participé à un jeu télévisé. Comme vous pensez y participer aussi, vous lui posez des questions sur l'inscription, le déroulement et l'intérêt de cette expérience.",
             "questions_possibles": [
               "Comment as-tu fait pour t'inscrire à ce jeu télévisé ?",
               "L'inscription est-elle simple ou compliquée ?",
@@ -316,7 +316,7 @@
             ]
           },
           {
-            "sujet": "Transports en commun dans une nouvelle ville",
+            "sujet": "Vous découvrez une nouvelle ville et souhaitez comprendre les transports en commun. Vous demandez à un(e) employé(e) des renseignements sur les moyens de transport, les horaires et les tarifs.",
             "questions_possibles": [
               "Quels sont les moyens de transport disponibles dans cette ville ?",
               "Où puis-je acheter les tickets ou les cartes de transport ?",
@@ -339,7 +339,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Repas en famille",
+            "sujet": "Je suis chef(fe) cuisinier(ère) à domicile. Vous souhaitez organiser un repas en famille. Vous me posez des questions sur les prestations proposées (menus, matériel, tarifs, etc.).",
             "questions_possibles": [
               "Quels types de menus proposez-vous pour un repas en famille ?",
               "Est-il possible d'adapter le menu selon nos goûts ou nos habitudes alimentaires ?",
@@ -354,7 +354,7 @@
             ]
           },
           {
-            "sujet": "Covoiturage",
+            "sujet": "Je suis votre voisin(e). Je propose du covoiturage avec ma voiture pour des trajets réguliers. Vous êtes intéressé(e) et vous me posez des questions sur le fonctionnement de ce service (horaires, prix, organisation, etc.).",
             "questions_possibles": [
               "Quels trajets réguliers proposez-vous en covoiturage ?",
               "À quels horaires ont lieu les départs et les retours ?",
@@ -369,7 +369,7 @@
             ]
           },
           {
-            "sujet": "Cours de musique",
+            "sujet": "Je travaille à l'accueil d'une école de musique. Vous souhaitez vous inscrire à un cours. Vous me posez des questions sur les cours proposés (disciplines, horaires, tarifs, etc.).",
             "questions_possibles": [
               "Quelles disciplines musicales sont proposées dans votre école ?",
               "Les cours sont-ils destinés aux débutants ou aussi aux niveaux avancés ?",
@@ -384,7 +384,7 @@
             ]
           },
           {
-            "sujet": "Club sportif",
+            "sujet": "Je travaille à l'accueil d'un club sportif. Vous êtes intéressé(e) par une inscription. Vous me posez des questions pour obtenir des renseignements (sports disponibles, horaires, tarifs, etc.).",
             "questions_possibles": [
               "Quels sports peut-on pratiquer dans votre club ?",
               "Les activités sont-elles adaptées aux débutants ?",
@@ -399,7 +399,7 @@
             ]
           },
           {
-            "sujet": "Réservation d'hôtel",
+            "sujet": "Je travaille à la réception d'un hôtel. Vous souhaitez réserver une chambre. Vous me posez des questions et je vous fournis des informations (tarifs, types de chambres, petit-déjeuner, etc.).",
             "questions_possibles": [
               "Quels types de chambres proposez-vous dans votre hôtel ?",
               "Quels sont les tarifs selon le type de chambre choisi ?",
@@ -422,7 +422,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Chambre en colocation",
+            "sujet": "Je suis ton ami(e). Tu viens d'arriver au Canada et tu cherches un logement. Je te propose une chambre en colocation dans mon appartement. Tu me poses des questions pour te renseigner.",
             "questions_possibles": [
               "Peux-tu me décrire la chambre que tu proposes et me dire si elle est meublée ?",
               "Quelle est la taille de la chambre et est-elle bien éclairée ?",
@@ -437,7 +437,7 @@
             ]
           },
           {
-            "sujet": "Nouvel emploi",
+            "sujet": "Je suis ton ami(e) et je viens de commencer un nouvel emploi. Tu me poses des questions sur cette nouvelle expérience professionnelle.",
             "questions_possibles": [
               "Quel est ton nouveau poste et dans quel domaine travailles-tu ?",
               "Depuis quand as-tu commencé ce nouvel emploi ?",
@@ -452,7 +452,7 @@
             ]
           },
           {
-            "sujet": "Remplacement du médecin",
+            "sujet": "Je suis l'assistante de ton médecin de famille. Il est actuellement en congé et remplacé par un autre médecin. Tu appelles pour obtenir des informations. Tu me poses des questions.",
             "questions_possibles": [
               "Quel est le nom du médecin qui remplace mon médecin habituel ?",
               "Depuis quand assure-t-il ce remplacement ?",
@@ -467,7 +467,7 @@
             ]
           },
           {
-            "sujet": "Création d'un blog de voyage",
+            "sujet": "Je suis ton ami(e) et j'ai un blog. Tu souhaites voyager et tu me demandes des conseils pour créer ton propre blog. Tu me poses des questions.",
             "questions_possibles": [
               "Depuis combien de temps tiens-tu ton blog ?",
               "Pourquoi as-tu décidé de créer un blog de voyage ?",
@@ -482,7 +482,7 @@
             ]
           },
           {
-            "sujet": "Organisation d'un anniversaire",
+            "sujet": "Je suis ton/ta voisin(e). Tu viens de t'installer au Canada et tu veux organiser l'anniversaire de ton/ta conjoint(e). Tu me poses des questions pour préparer cet événement.",
             "questions_possibles": [
               "Quelle date te semble la plus adaptée pour organiser l'anniversaire ?",
               "Où pourrais-je organiser la fête, à la maison ou à l'extérieur ?",
@@ -505,7 +505,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Activités du week-end au Canada",
+            "sujet": "Je suis votre ami(e) canadien(ne). Vous faites une enquête sur mes activités du week-end au canada. Vous me posez des questions (ce que je fais, où je vais, quand, avec qui, etc.).",
             "questions_possibles": [
               "Que fais-tu en général le week-end au Canada ?",
               "Est-ce que tu sors plutôt le samedi ou le dimanche ?",
@@ -520,7 +520,7 @@
             ]
           },
           {
-            "sujet": "Mariage au Canada",
+            "sujet": "Je suis votre ami(e). Je me suis marié(e) récemment au Canada. Vous me posez des questions pour comparer le mariage dans votre pays et au Canada (traditions, organisation, invités, etc.).",
             "questions_possibles": [
               "Où s'est déroulé ton mariage au Canada ?",
               "Combien de personnes étaient invitées à ton mariage ?",
@@ -535,7 +535,7 @@
             ]
           },
           {
-            "sujet": "Concours sportif",
+            "sujet": "Je suis votre ami(e) francophone. J'ai participé à un concours sportif. Vous êtes intéressé(e) et vous me posez des questions sur cette expérience et sur ma préparation pour un prochain concours.",
             "questions_possibles": [
               "À quel concours sportif as-tu participé récemment ?",
               "Où s'est déroulée la compétition ?",
@@ -550,7 +550,7 @@
             ]
           },
           {
-            "sujet": "Soirées des Canadiens",
+            "sujet": "Je suis votre collègue. Vous êtes en séjour professionnel au Canada. Vous me posez des questions pour savoir comment les Canadiens passent leurs soirées (lieux, activités, habitudes, etc.).",
             "questions_possibles": [
               "Que font les Canadiens après leur journée de travail en semaine ?",
               "Est-ce qu'ils sortent souvent le soir ou préfèrent-ils rester chez eux ?",
@@ -565,7 +565,7 @@
             ]
           },
           {
-            "sujet": "Séjour en famille dans une ville francophone",
+            "sujet": "Je suis votre ami(e). J'ai passé un séjour en famille dans une ville francophone. Vous êtes intéressé(e) et vous me posez des questions sur le séjour (activités, budget, organisation, préparatifs, etc.).",
             "questions_possibles": [
               "Quelle ville francophone as-tu visitée avec ta famille ?",
               "Combien de temps a duré votre séjour ?",
@@ -588,7 +588,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Vacances à la mer",
+            "sujet": "Je suis votre ami(e). Je suis parti(e) en vacances à la mer l'année dernière. Vous êtes intéressé(e) et vous me posez des questions pour organiser votre voyage (activités, budget, hébergement, etc.).",
             "questions_possibles": [
               "Où es-tu parti(e) en vacances à la mer l'année dernière ?",
               "À quelle période de l'année as-tu fait ce voyage ?",
@@ -603,7 +603,7 @@
             ]
           },
           {
-            "sujet": "Cours de danse",
+            "sujet": "Je suis votre collègue. Je prends des cours de danse dans une association. Vous êtes intéressé(e) et vous me posez des questions sur ces cours (type de danse, lieu, horaires, etc.).",
             "questions_possibles": [
               "Quel type de danse pratiques-tu dans cette association ?",
               "Les cours sont-ils adaptés aux débutants ?",
@@ -618,7 +618,7 @@
             ]
           },
           {
-            "sujet": "Fête pour une nomination",
+            "sujet": "Je suis votre collègue. J'organise une fête pour célébrer ma nomination à un poste de responsable. Vous me posez des questions pour avoir des informations (date, lieu, invités, horaires, etc.).",
             "questions_possibles": [
               "À quelle date est prévue la fête pour ta nomination ?",
               "À quelle heure commencera l'événement ?",
@@ -633,7 +633,7 @@
             ]
           },
           {
-            "sujet": "Garde d'enfant",
+            "sujet": "Je suis votre voisin(e). Vous avez accepté de garder mon enfant pendant une journée. Vous me posez des questions pour mieux vous organiser (habitudes, repas, activités préférées, etc.).",
             "questions_possibles": [
               "Quel âge a ton enfant que je vais garder ?",
               "Quelles sont ses activités préférées pendant la journée ?",
@@ -648,7 +648,7 @@
             ]
           },
           {
-            "sujet": "Visite de ville avec des amis",
+            "sujet": "Je travaille à l'accueil de l'office de tourisme. Vous souhaitez visiter la ville avec des amis. Vous me posez des questions pour préparer votre visite (activités proposées, tarifs, horaires, etc.).",
             "questions_possibles": [
               "Quelles sont les activités incontournables à faire dans la ville ?",
               "Quels monuments ou lieux culturels recommandez-vous ?",
@@ -671,7 +671,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Quartier et voisinage",
+            "sujet": "Je suis votre voisin(e). Vous venez d'emménager dans l'immeuble et nous nous rencontrons dans l'ascenseur. Vous me posez des questions sur le quartier (voisins, commerces, activités, ambiance, etc.).",
             "questions_possibles": [
               "Depuis combien de temps habitez-vous dans cet immeuble et comment trouvez-vous l'ambiance entre voisins ?",
               "Est-ce que les habitants sont plutôt discrets ou organisent-ils parfois des rencontres entre voisins ?",
@@ -686,7 +686,7 @@
             ]
           },
           {
-            "sujet": "Location d'un chalet",
+            "sujet": "Je suis agent immobilier. Vous souhaitez louer un chalet au bord de la mer pour les vacances. Vous me posez des questions pour obtenir des informations (prix, équipements, disponibilité, conditions, etc.).",
             "questions_possibles": [
               "Quel est le prix exact de la location pour une semaine en haute saison ?",
               "Le chalet est-il disponible aux dates que nous avons choisies ?",
@@ -701,7 +701,7 @@
             ]
           },
           {
-            "sujet": "École pour enfants",
+            "sujet": "Je suis votre voisin(e). Vous venez d'arriver au Canada et vous recherchez une école pour vos enfants. Vous me posez des questions pour vous renseigner (niveau, programmes, horaires, frais, etc.).",
             "questions_possibles": [
               "Quelle est la réputation des écoles du quartier ?",
               "Les établissements proposent-ils des programmes adaptés aux nouveaux arrivants ?",
@@ -716,7 +716,7 @@
             ]
           },
           {
-            "sujet": "Chambre en colocation",
+            "sujet": "Je suis votre collègue. Je vous propose une chambre en colocation et vous êtes intéressé(e). Vous me posez des questions sur le logement (loyer, pièces, colocataires, règles, etc.).",
             "questions_possibles": [
               "Quel est le montant exact du loyer mensuel et que comprend-il ?",
               "Les charges comme l'électricité et internet sont-elles incluses dans le prix ?",
@@ -731,7 +731,7 @@
             ]
           },
           {
-            "sujet": "Cours de danse",
+            "sujet": "Je travaille à l'accueil d'une école de danse. Vous souhaitez prendre des cours. Vous me posez des questions pour obtenir des informations (types de danse, horaires, tarifs, niveaux, etc.).",
             "questions_possibles": [
               "Quels styles de danse propose votre école pour les adultes débutants ?",
               "Les cours sont-ils organisés en petits groupes ou en grandes classes ?",
@@ -754,7 +754,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Location de vélos",
+            "sujet": "Je suis employé(e) dans une agence de location de vélos. Vous voulez en louer un. Vous me posez des questions pour trouver le modèle de vélo qui conviendra le mieux à vos besoins. (modèles, tarifs, fonctionnement, etc.).",
             "questions_possibles": [
               "Quels modèles de vélos vous proposez actuellement ?",
               "Est-ce qu'il y a une différence entre les vélos de ville et les vélos tout-terrain ?",
@@ -769,7 +769,7 @@
             ]
           },
           {
-            "sujet": "Transports en commun",
+            "sujet": "Je suis un(e) ami(e) canadien(ne). Vous venez d'arriver dans ma ville, vous logez chez moi. Vous avez l'intention de vous balader en ville et vous sollicitez mes conseils pour utiliser les transports en commun (type, destination, horaire, tarifs, etc.).",
             "questions_possibles": [
               "Quels types de transports en commun il y a dans ta ville ?",
               "Est-ce que le réseau est facile à comprendre pour un nouvel arrivant ?",
@@ -784,7 +784,7 @@
             ]
           },
           {
-            "sujet": "Article sur une ville",
+            "sujet": "Je suis un(e) ami(e) francophone. Il vous est demandé d'écrire un article sur une ville pour un magazine culturel. Vous cherchez des idées. Vous m'interrogez sur les villes que j'aime (activités, architecture, transports, etc.).",
             "questions_possibles": [
               "Quelle est la ville que tu aimes le plus visiter ?",
               "Qu'est-ce qui rend cette ville intéressante pour un article culturel ?",
@@ -799,7 +799,7 @@
             ]
           },
           {
-            "sujet": "Festival de musique",
+            "sujet": "Je suis un(e) ami(e). J'organise un festival de musique dans votre ville. Vous souhaitez y participer. Vous me questionnez afin d'obtenir des informations sur l'événement. (dates, horaires, concerts, prix, etc.).",
             "questions_possibles": [
               "À quelles dates le festival aura-t-il lieu exactement ?",
               "Quels sont les horaires des concerts ?",
@@ -814,7 +814,7 @@
             ]
           },
           {
-            "sujet": "Nouvel An au Canada",
+            "sujet": "Je suis votre professeur(e) de français. Vous allez passer le prochain Nouvel an au Canada. Vous vous demandez comment les Canadiens célèbrent cette fête. Vous me posez des questions pour vous faire une idée (lieux, activités, etc.).",
             "questions_possibles": [
               "Comment les Canadiens célèbrent-ils le Nouvel An en général ?",
               "Quels sont les lieux les plus populaires pour fêter cette soirée ?",
@@ -837,7 +837,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Garde d'animal",
+            "sujet": "Je suis votre ami(e). Je dois faire garder mon animal pendant mes vacances. Vous me posez des questions pour connaître les dates, les habitudes de l'animal, les soins à prévoir, etc.",
             "questions_possibles": [
               "À quelles dates partez-vous en vacances exactement ?",
               "Combien de jours faudra-t-il garder votre animal ?",
@@ -852,7 +852,7 @@
             ]
           },
           {
-            "sujet": "Baby-sitter",
+            "sujet": "Je suis votre ami(e). J'ai recours à un(e) baby-sitter chaque semaine. Vous cherchez quelqu'un pour garder votre enfant et vous me posez des questions sur cette personne (disponibilité, tarifs, expérience, activités proposées, etc.).",
             "questions_possibles": [
               "Depuis combien de temps votre baby-sitter travaille-t-elle pour vous ?",
               "Est-elle disponible plusieurs jours par semaine ?",
@@ -867,7 +867,7 @@
             ]
           },
           {
-            "sujet": "Randonnées en forêt",
+            "sujet": "Je suis votre voisin(e). Je travaille dans une agence qui organise des randonnées en forêt près de Toronto. Vous êtes intéressé(e) et vous me posez des questions sur les parcours, les prix, le niveau requis, les participants, etc.",
             "questions_possibles": [
               "Quels types de circuits propose votre agence ?",
               "Quelle est la durée moyenne d'une randonnée ?",
@@ -882,7 +882,7 @@
             ]
           },
           {
-            "sujet": "Vie dans l'immeuble",
+            "sujet": "Je suis votre voisin(e). Vous venez d'emménager dans l'immeuble et vous me posez des questions sur son fonctionnement (habitants, règlement, équipements communs, ambiance, etc.).",
             "questions_possibles": [
               "Depuis combien de temps habitez-vous dans cet immeuble ?",
               "L'ambiance entre voisins est-elle conviviale ?",
@@ -897,7 +897,7 @@
             ]
           },
           {
-            "sujet": "Vie quotidienne au Canada",
+            "sujet": "Je travaille dans une association franco-canadienne. Vous envisagez de vous installer au Canada et vous me posez des questions sur la vie quotidienne des Canadiens (travail, loisirs, logement, habitudes, etc.).",
             "questions_possibles": [
               "Quelles sont les principales qualités de vie au Canada ?",
               "Les conditions de travail sont-elles favorables aux employés ?",
@@ -920,7 +920,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Mariage au Québec",
+            "sujet": "Je suis votre ami(e) québécois(e). Vous vivez au Québec depuis quelques mois. Vous êtes invité(e) à un mariage et vous me posez des questions pour comprendre comment se déroule un mariage au Québec (cérémonie, invités, cadeaux, etc.).",
             "questions_possibles": [
               "Comment se déroule généralement la cérémonie de mariage au Québec ?",
               "Est-ce que la cérémonie est plutôt religieuse ou civile ?",
@@ -935,7 +935,7 @@
             ]
           },
           {
-            "sujet": "Garde de chien",
+            "sujet": "Je suis votre ami(e). Je pars en vacances. Vous avez accepté de garder mon chien pendant mon absence. Vous me posez des questions pour savoir comment bien vous en occuper (alimentation, soins, promenades, etc.).²",
             "questions_possibles": [
               "À quelles heures dois-je lui donner à manger ?",
               "Quelle quantité de nourriture dois-je prévoir chaque jour ?",
@@ -950,7 +950,7 @@
             ]
           },
           {
-            "sujet": "Formation au Québec",
+            "sujet": "Je suis votre directeur/directrice. Vous allez suivre une formation de deux semaines au Québec dans le cadre de votre travail. Vous me posez des questions sur ce stage (hébergement, transports, horaires, etc.).",
             "questions_possibles": [
               "Où se déroulera la formation exactement ?",
               "L'entreprise prend-elle en charge le logement ?",
@@ -965,7 +965,7 @@
             ]
           },
           {
-            "sujet": "Sorties le soir",
+            "sujet": "Je suis votre voisin(e). Vous venez d'arriver dans le quartier. Vous souhaitez savoir où sortir le soir. Vous me posez des questions sur les différentes possibilités (lieux, activités, tarifs, etc.).",
             "questions_possibles": [
               "Quels sont les lieux les plus animés le soir dans le quartier ?",
               "Y a-t-il des restaurants recommandés à proximité ?",
@@ -980,7 +980,7 @@
             ]
           },
           {
-            "sujet": "Location d'appartement",
+            "sujet": "Vous êtes propriétaire d'un appartement et vous recherchez un locataire. Mon logement vous intéresse et vous souhaitez le louer. Vous me posez des questions pour décider si vous acceptez ma candidature (profession, garanties, situation familiale, etc.).",
             "questions_possibles": [
               "Quelle est votre profession actuelle ?",
               "Depuis combien de temps travaillez-vous dans votre entreprise ?",
@@ -1003,7 +1003,7 @@
       "reponse": {
         "sujets": [
           {
-            "sujet": "Concert",
+            "sujet": "Je suis votre ami(e). Je vous invite à venir avec moi à un concert. Vous êtes intéressé(e). Vous me posez des questions sur cet événement (genre musical, lieu, date, etc.).",
             "questions_possibles": [
               "Quel style de musique sera joué pendant ce concert ?",
               "Où exactement aura lieu l'événement ?",
@@ -1018,7 +1018,7 @@
             ]
           },
           {
-            "sujet": "Atelier de cuisine",
+            "sujet": "Je suis votre ami(e). J'ai récemment suivi un atelier de cuisine. Vous souhaitez y participer. Vous me posez des questions à propos de cette formation (coût, horaires, contenu, etc.).",
             "questions_possibles": [
               "Quel était le thème principal de l'atelier ?",
               "Combien coûte la formation ?",
@@ -1033,7 +1033,7 @@
             ]
           },
           {
-            "sujet": "Restaurant pour anniversaire",
+            "sujet": "Je suis votre collègue de travail. Vous venez de vous installer à Toronto. Vous cherchez un bon endroit pour fêter votre anniversaire. Vous me posez des questions sur les restaurants en ville (cuisine proposée, tarifs, ambiance, etc.).",
             "questions_possibles": [
               "Tu connais un restaurant sympa pour organiser une soirée ?",
               "Quel genre de cuisine on y trouve ?",
@@ -1048,7 +1048,7 @@
             ]
           },
           {
-            "sujet": "Écoles à Edmonton",
+            "sujet": "Je suis votre voisin(e). Vous venez tout juste d'arriver à Edmonton. Vous souhaitez inscrire vos enfants à l'école. Vous me posez des questions sur les établissements scolaires du secteur (adresses, professeurs, activités proposées, etc.).",
             "questions_possibles": [
               "Quelles sont les écoles proches de notre quartier ?",
               "Est-ce qu'elles ont une bonne réputation ?",
@@ -1063,7 +1063,7 @@
             ]
           },
           {
-            "sujet": "Transports en commun",
+            "sujet": "Je travaille dans le service des transports en commun de la ville. Vous êtes nouveau/nouvelle ici. Vous me posez des questions pour vous renseigner (moyens de transport, prix, horaires, etc.).",
             "questions_possibles": [
               "Quels types de transports sont disponibles dans la ville ?",
               "Combien coûte un ticket ou un abonnement mensuel ?",
