@@ -85,7 +85,7 @@
   "numero": 2,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis producteur de fruits et légumes bio. Je propose mes produits directement aux particuliers. Vous êtes intéressé(e). Vous me posez des questions pour avoir des informations (prix, produits, livraison, etc.).",
@@ -167,7 +167,7 @@
   "numero": 3,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis votre voisin(e). J’organise la fête des voisins le week-end prochain. Vous souhaitez y participer et vous me posez des questions sur l’organisation (lieu, horaires, plats à prévoir, etc.).",
@@ -249,7 +249,7 @@
   "numero": 4,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Vous êtes en vacances au Canada et souhaitez aller au cinéma. Votre ami(e), qui y travaille, peut vous informer sur les films, les horaires et les tarifs. Vous lui posez des questions pour choisir une séance.",
@@ -331,7 +331,7 @@
   "numero": 5,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis chef(fe) cuisinier(ère) à domicile. Vous souhaitez organiser un repas en famille. Vous me posez des questions sur les prestations proposées (menus, matériel, tarifs, etc.).",
@@ -413,7 +413,7 @@
   "numero": 6,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis ton ami(e). Tu viens d’arriver au Canada et tu cherches un logement. Je te propose une chambre en colocation dans mon appartement. Tu me poses des questions pour te renseigner.",
@@ -495,7 +495,7 @@
   "numero": 7,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis votre ami(e) canadien(ne). Vous faites une enquête sur mes activités du week-end au canada. Vous me posez des questions (ce que je fais, où je vais, quand, avec qui, etc.).",
@@ -577,7 +577,7 @@
   "numero": 8,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis votre ami(e). Je suis parti(e) en vacances à la mer l’année dernière. Vous êtes intéressé(e) et vous me posez des questions pour organiser votre voyage (activités, budget, hébergement, etc.).",
@@ -659,7 +659,7 @@
   "numero": 9,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis votre voisin(e). Vous venez d’emménager dans l’immeuble et nous nous rencontrons dans l’ascenseur. Vous me posez des questions sur le quartier (voisins, commerces, activités, ambiance, etc.).",
@@ -741,7 +741,7 @@
   "numero": 10,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis employé(e) dans une agence de location de vélos. Vous voulez en louer un. Vous me posez des questions pour trouver le modèle de vélo qui conviendra le mieux à vos besoins. (modèles, tarifs, fonctionnement, etc.).",
@@ -823,7 +823,7 @@
   "numero": 11,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis votre ami(e). Je dois faire garder mon animal pendant mes vacances. Vous me posez des questions pour connaître les dates, les habitudes de l’animal, les soins à prévoir, etc.",
@@ -905,7 +905,7 @@
   "numero": 12,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis votre ami(e) québécois(e). Vous vivez au Québec depuis quelques mois. Vous êtes invité(e) à un mariage et vous me posez des questions pour comprendre comment se déroule un mariage au Québec (cérémonie, invités, cadeaux, etc.).",
@@ -987,7 +987,7 @@
   "numero": 13,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis votre ami(e). Je vous invite à venir avec moi à un concert. Vous êtes intéressé(e). Vous me posez des questions sur cet événement (genre musical, lieu, date, etc.).",
