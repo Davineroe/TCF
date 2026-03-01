@@ -1,0 +1,274 @@
+{
+  "parties": [
+    {
+      "numero": 5,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Technologie et éducation",
+            "sujet": "Pensez-vous qu’il est nécessaire aujourd’hui que les enfants et les adolescents aient leur propre téléphone portable ?",
+            "introduction": "Le téléphone portable est devenu un objet du quotidien, même pour les plus jeunes. Mais son attribution doit-elle être systématique, ou réfléchie ?",
+            "avantages": "Le téléphone permet de rester en contact avec les parents à tout moment. Il peut être utilisé comme outil d’apprentissage (dictionnaires, vidéos éducatives). Il rassure les familles en cas d’urgence. Les adolescents peuvent l’utiliser pour organiser leurs activités scolaires ou personnelles. C’est un outil indispensable dans une société de plus en plus connectée.",
+            "inconvenients": "L’utilisation excessive peut entraîner une dépendance aux écrans. L’accès non contrôlé à Internet peut exposer les jeunes à des contenus inadaptés. Cela peut nuire à la concentration et aux résultats scolaires. Les téléphones favorisent parfois l’isolement social. Les enfants risquent de subir du harcèlement en ligne.",
+            "conseils": "Le téléphone portable peut être utile aux enfants et adolescents, à condition qu’il soit bien encadré. Il ne doit pas remplacer les interactions sociales ou les activités physiques, mais être un outil complémentaire, utilisé avec modération.",
+            "conclusion": "En conclusion, le téléphone n'est pas un dû, mais un outil à donner avec un cadre et à un âge approprié."
+          },
+          {
+            "theme": "Technologie et société",
+            "sujet": "On dit souvent qu’Internet a transformé le monde en un petit village. Êtes-vous d’accord avec cette idée ?",
+            "introduction": "L'expression 'village global' est souvent utilisée pour décrire un monde interconnecté par Internet. Si les distances sont abolies, les différences culturelles persistent.",
+            "avantages": "La communication est devenue instantanée et mondiale. On peut facilement accéder à des informations de tous les pays. Les réseaux sociaux permettent de créer des liens à distance. Les achats, l’enseignement et même le travail se font en ligne. Les cultures se rencontrent et s’influencent mutuellement.",
+            "inconvenients": "L’accès à Internet reste inégal dans certaines régions du monde. Le monde numérique peut donner une illusion de proximité sans lien réel. La surinformation rend parfois difficile la vérification des faits. Certains contenus peuvent accentuer les différences et les conflits. L’utilisation abusive d’Internet peut isoler dans la réalité.",
+            "conseils": "Internet a effectivement rapproché les gens sur le plan technique et culturel, mais cela ne remplace pas la richesse des contacts humains. Il faut savoir utiliser cet outil pour connecter et non pour séparer.",
+            "conclusion": "En conclusion, Internet nous connecte, mais le lien humain réel reste irremplaçable."
+          },
+          {
+            "theme": "Choix de vie",
+            "sujet": "De nos jours, certaines personnes choisissent de ne pas avoir d’enfants. Que pensez-vous de ce choix ?",
+            "introduction": "La parentalité est souvent présentée comme une étape naturelle de la vie. Pourtant, de plus en plus de personnes assument le choix de ne pas avoir d'enfants.",
+            "avantages": "C’est une décision personnelle qu’il faut respecter. Ne pas avoir d’enfants permet de se consacrer à soi, à sa carrière ou à d’autres projets. Certaines personnes ne se sentent pas prêtes à assumer cette responsabilité. Cela peut être un choix écologique ou économique. Il vaut mieux ne pas avoir d’enfant que de le faire sans conviction.",
+            "inconvenients": "Cela peut être mal vu dans certaines cultures ou familles. Certaines personnes regrettent ce choix plus tard. La société a besoin de nouvelles générations pour se renouveler. Les enfants apportent beaucoup de joie et de sens à la vie. Il peut y avoir une pression sociale à expliquer ce choix.",
+            "conseils": "Le choix de ne pas avoir d’enfants est totalement légitime et dépend des valeurs et des projets de chacun. Il est important de défendre la liberté de chacun tout en respectant les choix différents.",
+            "conclusion": "En conclusion, c'est une décision personnelle qui doit être respectée, sans jugement."
+          },
+          {
+            "theme": "Travail et formation",
+            "sujet": "Selon vous, est-il possible de changer de métier à n’importe quel âge ? Qu’en pensez-vous ?",
+            "introduction": "Le concept de carrière linéaire est révolu. De plus en plus de personnes se reconvertissent, à 30, 40 ou 50 ans. Est-ce vraiment possible pour tous ?",
+            "avantages": "Changer de métier peut redonner du sens à la vie professionnelle. Les formations en ligne permettent aujourd’hui de se reconvertir plus facilement. Avec l’expérience, on peut mieux cibler ses envies et ses capacités. Cela permet d’évoluer selon ses besoins ou sa santé. Il n’est jamais trop tard pour apprendre et évoluer.",
+            "inconvenients": "Certaines professions demandent des conditions physiques difficiles à atteindre à un certain âge. La reconversion peut être coûteuse en temps et en argent. Il est parfois difficile de convaincre un employeur quand on n’a pas d’expérience dans un nouveau domaine. Changer de métier peut être stressant, surtout après de nombreuses années dans le même domaine. Les responsabilités familiales peuvent limiter cette possibilité.",
+            "conseils": "Il est tout à fait possible de changer de métier à tout âge, à condition d’avoir une réelle motivation, un projet réfléchi et un minimum de soutien. La reconversion professionnelle est une richesse, pas une faiblesse.",
+            "conclusion": "En conclusion, avec de la motivation et de la formation, changer de métier est possible à tout âge."
+          },
+          {
+            "theme": "Médias",
+            "sujet": "Êtes-vous d’accord pour dire que les journaux télévisés devraient éviter de montrer des images violentes ?",
+            "introduction": "Les images violentes aux journaux télévisés choquent, mais elles informent aussi. Faut-il les censurer pour protéger le public, ou les montrer pour témoigner de la réalité ?",
+            "avantages": "Ces images peuvent choquer, surtout les enfants. La violence répétée crée une forme d’insensibilité. Cela peut avoir des conséquences psychologiques sur les téléspectateurs. La diffusion de telles images n’est pas toujours utile à la compréhension de l’information. Le respect des victimes et des familles doit être prioritaire.",
+            "inconvenients": "Montrer la réalité permet de sensibiliser à certaines situations graves. Les images ont un fort pouvoir d’information et d’impact. Les adultes peuvent faire la part des choses. Il existe des avertissements pour prévenir les téléspectateurs. Éviter ces images peut minimiser certains événements.",
+            "conseils": "La diffusion d’images violentes dans les journaux télévisés doit être réfléchie. Il est essentiel d’informer le public sans tomber dans le sensationnalisme. La priorité doit être donnée à l’éthique et à la protection du public.",
+            "conclusion": "En conclusion, il faut trouver un équilibre entre le droit à l'information et la protection du public, surtout des plus jeunes."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 4,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Éducation et programmes",
+            "sujet": "Quelles matières devraient être enseignées à l’école pour capter davantage l’intérêt des élèves ? Pourquoi ?",
+            "introduction": "Les programmes scolaires évoluent avec la société. Certaines matières gagneraient à être renforcées ou introduites pour mieux préparer les élèves à la vie active et citoyenne.",
+            "avantages": "Des matières pratiques comme la cuisine, le jardinage ou le bricolage permettent d’apprendre des compétences utiles. Les cours sur la gestion financière préparent les élèves à la vie adulte. Des matières en lien avec les nouvelles technologies captivent davantage les jeunes. L’éducation artistique et musicale développe la créativité et l’expression. Les cours sur l’écologie et le développement durable sensibilisent à l’environnement.",
+            "inconvenients": "Trop de matières peuvent surcharger le programme scolaire. Certaines disciplines risquent d’être considérées comme moins importantes que les matières classiques. Les écoles manquent parfois de budget et de moyens pour proposer de nouvelles matières. Les enseignants doivent être formés pour ces nouvelles disciplines. Tous les élèves n’ont pas les mêmes centres d’intérêt.",
+            "conseils": "Introduire des matières variées et pratiques à l’école permettrait de mieux motiver les élèves, à condition d’adapter les contenus aux besoins réels et de ne pas négliger les savoirs fondamentaux.",
+            "conclusion": "En conclusion, moderniser les programmes avec des matières actuelles est essentiel pour préparer les élèves au monde de demain."
+          },
+          {
+            "theme": "Relations humaines",
+            "sujet": "Selon vous, est-il préférable d’avoir une grande famille ou des amis proches ? Qu’en pensez-vous ?",
+            "introduction": "Dans la vie, les relations humaines sont essentielles. Certaines personnes privilégient les liens familiaux, d’autres laissent une grande place à leurs amis.",
+            "avantages": "La famille est un soutien stable et durable. Elle favorise un fort sentiment d’appartenance. Les liens familiaux traversent les générations. Plus de membres signifient plus d’entraide. Les grandes familles créent des souvenirs collectifs riches. Les amis sont choisis librement, ce qui renforce la qualité des liens. Ils offrent un soutien affectif différent et complémentaire. On peut se confier plus facilement à ses amis. Les amis partagent souvent les mêmes centres d’intérêt. L’amitié peut parfois être plus solide que les relations familiales.",
+            "inconvenients": "Les conflits familiaux peuvent être douloureux. Les amis peuvent parfois s’éloigner avec le temps.",
+            "conseils": "L’idéal serait de pouvoir compter à la fois sur une famille soudée et sur des amis proches. Cela dit, chacun trouve son équilibre selon son histoire et ses besoins affectifs.",
+            "conclusion": "En conclusion, famille et amis jouent des rôles complémentaires. L’idéal est de pouvoir compter sur les deux."
+          },
+          {
+            "theme": "Travail et intégration",
+            "sujet": "Pensez-vous que les entreprises doivent accompagner les nouveaux employés pour faciliter leur intégration ? Êtes-vous d’accord ?",
+            "introduction": "Lorsqu’un nouvel employé arrive dans une entreprise, il est souvent stressé et perdu. C’est pourquoi les entreprises ont un rôle important à jouer pour faciliter son intégration.",
+            "avantages": "Un bon accueil favorise l’adaptation rapide. Cela réduit le stress et les erreurs au début. La motivation augmente si l’on se sent soutenu. Une bonne intégration renforce la cohésion d’équipe. Cela limite le risque de départ précoce du salarié.",
+            "inconvenients": "Cela demande du temps et des moyens à l’entreprise. Certains employés préfèrent apprendre par eux-mêmes. L’accompagnement peut être mal perçu s’il est trop intrusif. Toutes les entreprises n’ont pas la même culture d’intégration. L’efficacité dépend aussi de la personnalité du nouvel employé.",
+            "conseils": "L’accompagnement des nouveaux employés est essentiel pour favoriser leur réussite. Un équilibre entre autonomie et soutien permet une intégration plus efficace.",
+            "conclusion": "En conclusion, les entreprises doivent mettre en place des actions simples mais efficaces pour que les nouveaux employés se sentent accueillis et intégrés."
+          },
+          {
+            "theme": "Éducation et souvenirs",
+            "sujet": "Quel était votre cours favori à l’école ? Expliquez pourquoi vous l’aimiez.",
+            "introduction": "À l’école, nous avons tous des matières que nous préférons. Cela dépend souvent du professeur, de notre intérêt pour le sujet ou de notre facilité.",
+            "avantages": "Par exemple : le cours de français pour la richesse des textes littéraires. Le professeur était passionné et rendait les leçons vivantes. La matière permettait de développer l’esprit critique. Les exercices pratiques étaient variés et intéressants. Ce cours m’a aidé à améliorer ma communication écrite et orale.",
+            "inconvenients": "Aimer une matière ne veut pas dire qu’on réussit toujours dedans. Les goûts changent avec le temps. D’autres matières moins aimées restent nécessaires dans la vie.",
+            "conseils": "Un cours favori reflète souvent la qualité de l’enseignement et l’intérêt personnel pour la matière. Aimer une discipline facilite l’apprentissage et motive à progresser.",
+            "conclusion": "En conclusion, les matières préférées à l’école peuvent influencer notre parcours, mais il est important de garder un équilibre et de rester curieux."
+          },
+          {
+            "theme": "Carrière et expatriation",
+            "sujet": "À votre avis, vivre à l’étranger garantit-il une réussite professionnelle ? Pourquoi ou pourquoi pas ?",
+            "introduction": "Vivre à l'étranger est souvent vu comme une expérience valorisée. Mais est-ce une garantie de succès professionnel, ou simplement un atout parmi d'autres ?",
+            "avantages": "Cela permet d’acquérir une expérience internationale valorisée. La maîtrise de nouvelles langues est un atout professionnel. Travailler à l’étranger développe l’adaptabilité. Les opportunités peuvent être meilleures dans certains pays. Cela enrichit le réseau professionnel.",
+            "inconvenients": "La réussite dépend aussi des compétences et du secteur d’activité. L’intégration professionnelle peut être difficile à cause des barrières culturelles. Les diplômes étrangers ne sont pas toujours reconnus. La compétition peut être rude sur le marché local. La réussite professionnelle n’est pas garantie par la simple expatriation.",
+            "conseils": "Vivre à l’étranger est une expérience enrichissante mais ne garantit pas automatiquement le succès professionnel. Cela reste un atout si l’on sait s’adapter et valoriser ses compétences.",
+            "conclusion": "En conclusion, vivre à l’étranger peut être un avantage important, mais ce n’est pas une garantie. La réussite dépend surtout du travail personnel et des opportunités saisies."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 3,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Relations humaines",
+            "sujet": "La gentillesse aide-t-elle toujours à se faire écouter et respecter ? Êtes-vous d’accord avec cette idée ?",
+            "introduction": "La gentillesse est souvent perçue comme une qualité. Mais est-elle toujours efficace pour se faire écouter et respecter ? C'est une question intéressante.",
+            "avantages": "La gentillesse favorise les relations harmonieuses et la confiance. Être gentil permet d’éviter les conflits inutiles. Les personnes aimables sont souvent mieux perçues et plus soutenues. La gentillesse inspire le respect par l’exemple. Elle facilite la communication et l’écoute des autres.",
+            "inconvenients": "Certaines personnes peuvent profiter de la gentillesse et en abuser. Être trop gentil peut donner une image de faiblesse. Dans certains contextes, la fermeté est plus efficace pour se faire respecter. La gentillesse seule ne garantit pas l’écoute si on ne s’impose pas. Cela peut nuire à l’affirmation de soi face à des personnalités dominantes.",
+            "conseils": "La gentillesse est un atout précieux pour établir des relations positives, mais elle doit s’accompagner d’assurance et de limites claires pour être respectée. Tout dépend du contexte et de la manière dont elle est exprimée.",
+            "conclusion": "En conclusion, la gentillesse est importante, mais elle doit être équilibrée par de la fermeté pour être pleinement respectée."
+          },
+          {
+            "theme": "Vie affective",
+            "sujet": "Pensez-vous qu’on puisse être heureux même en restant célibataire ? Quelle est votre opinion ?",
+            "introduction": "Le célibat est souvent vu comme une situation temporaire, mais il peut aussi être un choix de vie. Peut-on y trouver le bonheur ?",
+            "avantages": "Le célibat permet une grande liberté et autonomie. On peut se consacrer pleinement à ses projets personnels. Il est possible d’avoir une vie sociale riche sans être en couple. Moins de compromis et de contraintes dans la vie quotidienne. Être seul n’empêche pas d’aimer et d’être entouré.",
+            "inconvenients": "Le célibat peut entraîner un sentiment de solitude ou d’isolement. Certaines personnes ressentent un manque d’affection ou de soutien émotionnel. La pression sociale valorise souvent la vie de couple. Il peut être plus difficile de construire une famille ou d’avoir des enfants seul(e). Certaines activités sont plus agréables à partager à deux.",
+            "conseils": "Être célibataire n’empêche pas d’être heureux si l’on a une vie épanouissante et des relations sociales solides. Le bonheur dépend avant tout de l’équilibre personnel et des choix de chacun.",
+            "conclusion": "En conclusion, le célibat peut être une source de bonheur si on sait s'entourer et s'épanouir dans ses passions."
+          },
+          {
+            "theme": "Société et égalité",
+            "sujet": "Selon vous, est-il important de dédier une journée aux droits des femmes ? Pourquoi ?",
+            "introduction": "La journée internationale des droits des femmes est un événement annuel. Certains la jugent essentielle, d'autres pensent qu'elle est symbolique. Quel est son véritable intérêt ?",
+            "avantages": "Cela permet de sensibiliser le public aux inégalités persistantes. C’est l’occasion de rendre hommage aux luttes passées et actuelles. La journée attire l’attention des médias et des institutions. Elle encourage les actions concrètes pour l’égalité. Elle donne la parole aux femmes sur des sujets essentiels.",
+            "inconvenients": "Une seule journée peut sembler insuffisante face à l’ampleur des enjeux. Certains pensent qu’il vaudrait mieux agir toute l’année plutôt qu’un jour symbolique. Cela peut être perçu comme un geste symbolique sans réel impact. Le risque de banaliser ou de commercialiser cette journée. Tous les pays ne la célèbrent pas avec la même implication.",
+            "conseils": "Une journée dédiée aux droits des femmes reste un moment important de sensibilisation et de réflexion, mais elle doit s’accompagner d’engagements concrets et quotidiens pour être réellement efficace.",
+            "conclusion": "En conclusion, c’est un symbole fort, mais le combat pour l’égalité est quotidien."
+          },
+          {
+            "theme": "Médias et apprentissage",
+            "sujet": "Regarder la télévision, est-ce un bon moyen pour apprendre de nouvelles choses ? Qu’en pensez-vous ?",
+            "introduction": "La télévision est souvent pointée du doigt pour son aspect abrutissant. Pourtant, elle propose aussi des chaînes culturelles et des documentaires. Peut-on réellement apprendre en regardant la télé ?",
+            "avantages": "De nombreuses émissions documentaires et culturelles sont enrichissantes. La télévision permet d’accéder facilement à l’information mondiale. Certains programmes éducatifs sont adaptés à tous les âges. Les images et reportages aident à mieux comprendre certains sujets. La télévision permet de découvrir d’autres cultures et points de vue.",
+            "inconvenients": "Beaucoup d’émissions sont de faible qualité ou peu informatives. La télévision peut favoriser la passivité et le manque d’esprit critique. L’excès de divertissement peut détourner de l’apprentissage. Certaines informations peuvent être biaisées ou inexactes. Le temps passé devant la télé peut réduire d’autres activités d’apprentissage.",
+            "conseils": "La télévision peut être un outil d’apprentissage efficace si l’on choisit des programmes de qualité et si elle est utilisée de manière équilibrée. Elle doit compléter d’autres formes d’éducation.",
+            "conclusion": "En conclusion, la télévision est un outil comme un autre : tout dépend de l’usage qu’on en fait."
+          },
+          {
+            "theme": "Travail et passion",
+            "sujet": "À votre avis, est-ce indispensable d’aimer son travail pour réussir sa carrière professionnelle ? Pourquoi ?",
+            "introduction": "La question de l’épanouissement au travail est centrale dans nos sociétés. Faut-il absolument aimer ce que l’on fait pour réussir, ou la réussite peut-elle passer par d’autres voies ?",
+            "avantages": "La passion motive à s’investir pleinement. Aimer son travail rend les efforts plus agréables. Cela favorise la créativité et l’innovation. Le plaisir au travail améliore la productivité. L’enthousiasme facilite les relations professionnelles.",
+            "inconvenients": "On peut réussir par discipline ou ambition même sans aimer son travail. Certains emplois bien rémunérés ne correspondent pas forcément à une passion. Il est possible d’aimer ses loisirs en dehors du travail. Changer de poste peut être une solution sans remettre en cause toute une carrière. La stabilité financière ou les opportunités priment parfois sur l’intérêt personnel.",
+            "conseils": "Aimer son travail est un avantage pour réussir, mais ce n’est pas indispensable. La réussite professionnelle dépend aussi de la persévérance, des compétences et des opportunités rencontrées.",
+            "conclusion": "En conclusion, c’est un atout, mais la discipline et le travail peuvent aussi mener à la réussite."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 2,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Technologie et bien-être",
+            "sujet": "Avec Internet, on vit mieux. Qu’en pensez-vous ?",
+            "introduction": "Internet a transformé nos vies. S'il est une source de progrès, son impact sur notre bonheur et notre qualité de vie est-il réellement positif ?",
+            "avantages": "Internet permet d’accéder facilement à l’information et à l’éducation. Il facilite la communication avec les proches, même à distance. De nombreux services sont disponibles en ligne : démarches administratives, achats, banque. Internet offre des opportunités professionnelles et favorise le télétravail. C’est aussi une source de divertissement accessible à tout moment.",
+            "inconvenients": "Une utilisation excessive peut entraîner de l’isolement et des problèmes de santé. Les fausses informations et les arnaques sont fréquentes en ligne. Certains utilisateurs deviennent dépendants des réseaux sociaux. La vie privée est souvent menacée par la collecte de données. Il est parfois difficile de vérifier la fiabilité des sources.",
+            "conseils": "Internet a transformé notre mode de vie en rendant l’information et les services plus accessibles. Mais il est nécessaire d’en faire un usage modéré et réfléchi pour éviter les risques liés à la dépendance, à l’isolement et à la désinformation.",
+            "conclusion": "En conclusion, Internet est un outil puissant, mais il doit être utilisé avec sagesse pour vraiment améliorer notre vie."
+          },
+          {
+            "theme": "Carrière et mobilité",
+            "sujet": "À votre avis, est-ce une bonne chose d’exercer plusieurs métiers dans une même carrière ?",
+            "introduction": "Le concept de carrière unique et linéaire est de moins en moins la norme. Changer de métier plusieurs fois dans sa vie est-il un atout ou un inconvénient ?",
+            "avantages": "Changer de métier permet d’acquérir de nouvelles compétences. Cela évite la routine et favorise l’adaptation aux évolutions du marché. Plusieurs expériences enrichissent le CV et augmentent les chances d’emploi. Cela permet de découvrir ce que l’on aime vraiment. Certains métiers deviennent obsolètes : il faut savoir se reconvertir.",
+            "inconvenients": "Il peut être difficile de se former à plusieurs métiers différents. Les changements fréquents peuvent donner une image d’instabilité professionnelle. Cela peut ralentir la progression dans une seule spécialité. Changer de secteur implique parfois de recommencer à un poste inférieur. Les entreprises recherchent parfois des profils spécialisés.",
+            "conseils": "Exercer plusieurs métiers au cours de sa carrière peut être une excellente opportunité d’adaptation et d’épanouissement professionnel. Cependant, cela demande de la flexibilité et de la motivation pour se former et s’adapter à chaque nouveau domaine.",
+            "conclusion": "En conclusion, c'est une chance d'évoluer, mais cela demande une grande capacité d'adaptation."
+          },
+          {
+            "theme": "Technologie et éducation",
+            "sujet": "Faut-il interdire aux enfants l’utilisation du téléphone portable ? Qu’en pensez-vous ?",
+            "introduction": "Le téléphone portable est omniprésent. Face aux risques, certains préconisent une interdiction pour les enfants. Est-ce la solution ou faut-il privilégier l'éducation à son usage ?",
+            "avantages": "L’utilisation du portable peut nuire à la concentration scolaire. Cela expose les enfants aux dangers d’Internet et aux réseaux sociaux. Les enfants risquent de devenir dépendants des écrans. Certains contenus ne sont pas adaptés à leur âge. Cela peut limiter leurs interactions sociales réelles.",
+            "inconvenients": "Le portable permet de rester en contact avec les parents en cas d’urgence. Il existe des contrôles parentaux pour sécuriser l’usage. Le téléphone est utile pour des recherches éducatives. Les enfants apprennent à maîtriser les outils numériques. Cela les prépare à vivre dans une société connectée.",
+            "conseils": "Le téléphone portable peut être un outil utile s’il est encadré et utilisé de façon limitée. Une interdiction totale n’est pas toujours nécessaire, mais il est essentiel de fixer des règles adaptées à l’âge de l’enfant.",
+            "conclusion": "En conclusion, mieux vaut éduquer à un usage responsable que d'interdire totalement."
+          },
+          {
+            "theme": "Travail et productivité",
+            "sujet": "Pensez-vous qu’il faut aimer son métier pour être plus productif ?",
+            "introduction": "On associe souvent productivité et passion. Mais peut-on être productif sans aimer ce que l'on fait, ou la motivation est-elle la clé de l'efficacité ?",
+            "avantages": "Aimer son travail donne de la motivation et de l’énergie. Cela augmente la satisfaction et réduit l’absentéisme. On est plus impliqué et créatif dans ce que l’on aime. On progresse plus facilement dans un domaine qui passionne. Un bon état d’esprit améliore les relations avec les collègues.",
+            "inconvenients": "On peut être compétent sans forcément aimer son travail. Certaines personnes préfèrent séparer vie privée et travail. Ce n’est pas toujours possible de choisir un métier qu’on aime. Les conditions de travail comptent aussi pour la productivité. La motivation peut venir d’autres facteurs (salaire, horaires, stabilité).",
+            "conseils": "Aimer son métier est un atout important pour rester motivé et performant. Cependant, ce n’est pas la seule condition pour être productif : l’environnement de travail, les relations professionnelles et les objectifs jouent aussi un rôle essentiel.",
+            "conclusion": "En conclusion, c'est un plus, mais la productivité peut aussi venir de la discipline et d'un bon environnement de travail."
+          },
+          {
+            "theme": "Expatriation",
+            "sujet": "Vivre dans un pays étranger est difficile. Êtes-vous d’accord avec cette idée ?",
+            "introduction": "Partir vivre dans un autre pays est souvent vu comme une aventure excitante. Mais derrière ce rêve, la réalité du quotidien peut être semée d'embûches. Est-ce vraiment si difficile ?",
+            "avantages": "Il faut s’adapter à une nouvelle culture et à une autre langue. On peut ressentir la solitude et l’éloignement de sa famille. Les démarches administratives sont parfois compliquées. Il est difficile de se faire de nouveaux amis au début. Le choc culturel peut être éprouvant.",
+            "inconvenients": "Cela permet de découvrir de nouvelles opportunités. On apprend à être plus autonome et ouvert d’esprit. Les nouvelles technologies facilitent le contact avec ses proches. Vivre à l’étranger enrichit personnellement et professionnellement. On peut rencontrer des gens d’horizons différents et créer de nouvelles amitiés.",
+            "conseils": "Vivre à l’étranger présente des défis, mais aussi de nombreux avantages. L’adaptation peut être difficile au départ, mais l’expérience apporte une grande ouverture culturelle, de nouvelles compétences et un enrichissement personnel.",
+            "conclusion": "En conclusion, c’est un défi difficile mais extrêmement gratifiant."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 1,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Communication",
+            "sujet": "Aujourd’hui, on s’envoie très peu de lettres ou de cartes. Trouvez-vous cela dommage ?",
+            "introduction": "Les lettres et les cartes postales, autrefois courantes, ont presque disparu au profit des messages instantanés. Est-ce une perte ou une simple évolution ?",
+            "avantages": "Les lettres et cartes sont des témoignages personnels et durables. Elles permettent d’exprimer des sentiments avec plus de sincérité et d’attention. Recevoir une lettre ou une carte fait toujours plaisir. Cela favorise la patience et la réflexion dans la communication. Elles ont une valeur sentimentale que les messages numériques n’ont pas.",
+            "inconvenients": "Les moyens numériques sont plus rapides, pratiques et économiques. La majorité des échanges quotidiens se fait par téléphone ou en ligne. Peu de gens prennent encore le temps d’écrire à la main. Les lettres peuvent se perdre, être endommagées ou arriver en retard. Le papier et les timbres ont un coût, et cela n’est plus écologique.",
+            "conseils": "Même si les lettres et les cartes sont de moins en moins utilisées, elles conservent une valeur affective forte. Leur disparition progressive est regrettable pour ceux qui apprécient les gestes authentiques, mais elle reflète une évolution vers plus de rapidité et de praticité.",
+            "conclusion": "En conclusion, c'est dommage de perdre cette tradition, mais il est possible de garder ce geste pour des occasions spéciales."
+          },
+          {
+            "theme": "Transport et mode de vie",
+            "sujet": "Pensez-vous qu’il est possible de vivre sans voiture aujourd’hui ? Pourquoi ?",
+            "introduction": "La voiture est reine dans nos sociétés. Mais avec les préoccupations écologiques et le développement des alternatives, peut-on désormais s'en passer ?",
+            "avantages": "Les transports en commun sont souvent suffisants, surtout en ville. Vivre sans voiture réduit l’empreinte carbone. Cela permet d’économiser sur les frais d’essence, d’assurance et d’entretien. La marche et le vélo sont bons pour la santé. De plus en plus d’alternatives existent : covoiturage, location à court terme, autopartage.",
+            "inconvenients": "En zone rurale, les transports publics sont rares ou inexistants. Certaines personnes ont des horaires de travail qui ne correspondent pas aux transports collectifs. Pour les familles ou les personnes âgées, la voiture reste plus pratique. En cas d’urgence, avoir une voiture peut être indispensable. Le confort et la liberté de déplacement sont inégalés.",
+            "conseils": "Vivre sans voiture est possible, notamment en ville ou pour les personnes bien desservies par les transports publics. Cependant, cela dépend beaucoup du contexte de vie, du lieu d’habitation et des besoins individuels.",
+            "conclusion": "En conclusion, on peut vivre sans voiture, surtout dans les grandes villes, mais il faut des alternatives efficaces pour que ce soit possible pour tous."
+          },
+          {
+            "theme": "Vie sociale",
+            "sujet": "Selon vous, est-il plus facile de vivre seul qu’en famille ?",
+            "introduction": "Vivre seul ou en famille sont deux expériences de vie très différentes. Chacune a ses avantages et ses inconvénients, et la réponse dépend de la personnalité de chacun.",
+            "avantages": "Vivre seul permet une grande liberté dans les décisions et le mode de vie. Il n’y a pas de conflits ou de compromis à faire. Cela favorise l’autonomie et la connaissance de soi. On peut organiser son temps comme on veut. Moins de responsabilités vis-à-vis des autres.",
+            "inconvenients": "La solitude peut peser au quotidien. En cas de problème, on n’a personne à qui demander de l’aide rapidement. La vie en famille apporte un soutien affectif important. Partager les tâches et les dépenses est plus facile à plusieurs. Les relations humaines enrichissent la vie.",
+            "conseils": "Vivre seul offre plus d’indépendance, mais cela peut aussi entraîner de l’isolement. La vie en famille demande des efforts de cohabitation, mais elle apporte aussi du soutien et de la chaleur humaine. Le choix dépend des préférences et des besoins de chacun.",
+            "conclusion": "En conclusion, vivre seul est parfois plus simple, mais la vie en famille apporte chaleur et soutien. Le bonheur dépend surtout de la qualité des relations humaines."
+          },
+          {
+            "theme": "Travail et retraite",
+            "sujet": "Est-ce acceptable, selon vous, de faire travailler les gens jusqu’à 70 ans ?",
+            "introduction": "Avec le vieillissement de la population, l'âge de la retraite est un sujet brûlant. Travailler jusqu'à 70 ans serait-il une mesure acceptable ou une contrainte trop lourde ?",
+            "avantages": "Certaines personnes souhaitent continuer à travailler pour rester actives. Cela peut améliorer leur niveau de vie à la retraite. L’expérience des seniors est précieuse pour les entreprises. L’espérance de vie augmente, donc les carrières aussi. Cela peut réduire les problèmes de financement des retraites.",
+            "inconvenients": "Travailler jusqu’à 70 ans peut nuire à la santé physique et mentale. Certaines professions sont trop fatigantes pour être exercées à cet âge. Cela limite l’accès à l’emploi pour les plus jeunes. Les gens devraient profiter de leur retraite pour se reposer et voyager. Le corps et l’esprit ne sont plus aussi performants qu’avant.",
+            "conseils": "Travailler jusqu’à 70 ans peut être une option pour ceux qui le souhaitent, mais cela ne devrait pas être une obligation. Il est important de tenir compte de la santé, du type de métier et des préférences personnelles.",
+            "conclusion": "En conclusion, travailler jusqu’à 70 ans peut convenir à certains, mais ce ne doit pas devenir une obligation. Il faut garder la liberté de choisir selon ses capacités."
+          },
+          {
+            "theme": "Expérience de vie",
+            "sujet": "Êtes-vous d’accord pour dire qu’une expérience à l’étranger est toujours positive ? Pourquoi ?",
+            "introduction": "Partir à l'étranger est souvent présenté comme une expérience inoubliable et formatrice. Mais est-ce toujours une réussite, ou peut-elle aussi être source de difficultés ?",
+            "avantages": "Cela permet de découvrir une nouvelle culture et d’apprendre une langue. On développe de nouvelles compétences personnelles et professionnelles. C’est une opportunité de sortir de sa zone de confort. Cela peut enrichir un CV et ouvrir de nouvelles perspectives. On apprend à s’adapter à des environnements variés.",
+            "inconvenients": "Le choc culturel peut être difficile à vivre. On peut se sentir seul ou isolé. Les démarches administratives sont parfois complexes. L’éloignement de la famille et des amis est un inconvénient. Ce n’est pas toujours facile de s’intégrer ou de trouver un emploi.",
+            "conseils": "Une expérience à l’étranger est souvent enrichissante, mais elle peut aussi comporter des défis importants. Tout dépend de la préparation, du contexte et de la capacité d’adaptation de chacun.",
+            "conclusion": "En conclusion, vivre à l’étranger est une expérience très positive si l’on s’y prépare bien et si l’on accepte les différences. C’est une aventure humaine qui fait grandir."
+          }
+        ]
+      }
+    }
+  ]
+}
