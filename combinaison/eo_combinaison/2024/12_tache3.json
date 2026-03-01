@@ -1,0 +1,436 @@
+{
+  "parties": [
+    {
+      "numero": 8,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Travail et rémunération",
+            "sujet": "Dans une entreprise, tout le monde devrait avoir le même salaire. Que pensez-vous de cette affirmation ?",
+            "introduction": "L'idée d'un salaire unique dans une entreprise soulève un débat important entre égalité et mérite.",
+            "avantages": "Cela garantirait une entreprise 100 % égalitaire, réduirait les jalousies et simplifierait la gestion des rémunérations en supprimant les négociations salariales.",
+            "inconvenients": "Un salaire unique risquerait de décourager l'initiative et la prise de responsabilités, et serait perçu comme injuste par les employés plus qualifiés ou expérimentés.",
+            "conseils": "Il serait préférable de trouver un équilibre avec des politiques de rémunération transparentes et équitables, reconnaissant les compétences sans créer d'inégalités excessives.",
+            "conclusion": "À mon avis, l'égalité salariale est un idéal, mais la reconnaissance du mérite et des responsabilités est un levier de motivation trop important pour l'ignorer."
+          },
+          {
+            "theme": "Santé publique",
+            "sujet": "Est-ce que vous pensez que l’État devrait interdire la vente de tabac et d’alcool ? Pourquoi ?",
+            "introduction": "L'interdiction du tabac et de l'alcool est une question complexe qui touche à la santé publique et aux libertés individuelles.",
+            "avantages": "Une interdiction protégerait la santé publique en réduisant les maladies et les dépenses de santé, et diminuerait les problèmes sociaux liés à l'addiction.",
+            "inconvenients": "L'histoire de la prohibition montre qu'une interdiction totale peut favoriser le marché noir et la criminalité, tout en ignorant les aspects culturels et économiques importants.",
+            "conseils": "Au lieu d'une interdiction pure, l'État devrait miser sur des politiques de prévention, une taxation élevée et un encadrement strict de la vente aux mineurs.",
+            "conclusion": "Je pense qu'une interdiction totale serait contre-productive, et qu'il est plus réaliste de trouver un équilibre entre protection de la santé et liberté de choix."
+          },
+          {
+            "theme": "Relations sociales",
+            "sujet": "Il n’est pas nécessaire d’avoir des ami(e)s pour être heureux(se). Qu’en pensez-vous ?",
+            "introduction": "L'affirmation selon laquelle on peut être heureux sans amis remet en question la place centrale des liens sociaux dans notre vie.",
+            "avantages": "Certaines personnes très autonomes trouvent leur épanouissement dans la solitude, leurs passions ou leur vie de famille, évitant ainsi les conflits ou les déceptions potentielles de l'amitié.",
+            "inconvenients": "L'être humain est un animal social ; les amis apportent un soutien affectif précieux dans les moments difficiles et participent grandement au bien-être mental et à l'épanouissement.",
+            "conseils": "Il est important de respecter les différents modes de vie. Le bonheur est subjectif : pour certains, il passe par la solitude choisie, pour d'autres, par des relations sociales riches.",
+            "conclusion": "Je crois que si l'on peut survivre sans amis, il est difficile de nier qu'ils enrichissent considérablement la vie et contribuent au bonheur de la majorité d'entre nous."
+          },
+          {
+            "theme": "Science et technologie",
+            "sujet": "Les voyages dans l’espace coûtent trop cher et sont inutiles. Qu’en pensez-vous ?",
+            "introduction": "Les programmes spatiaux, avec leurs budgets colossaux, suscitent souvent des interrogations sur leur utilité face aux problèmes terrestres.",
+            "avantages": "Ils sont un puissant moteur de progrès scientifique et technologique, avec des retombées concrètes dans notre quotidien (GPS, météo, télécommunications, recherche médicale).",
+            "inconvenients": "Leur coût astronomique peut sembler disproportionné par rapport à des besoins urgents sur Terre, et l'impact environnemental des lancements est une préoccupation légitime.",
+            "conseils": "Il faut encourager une coopération internationale pour partager les coûts et les découvertes, tout en s'assurant que ces investissements profitent à l'humanité.",
+            "conclusion": "À mon sens, qualifier l'exploration spatiale d'inutile serait une erreur. Elle répond à notre curiosité et stimule l'innovation, mais une gestion plus éthique et collaborative de ses coûts est nécessaire."
+          },
+          {
+            "theme": "Éducation et numérique",
+            "sujet": "À votre avis, l’usage des téléphones portables devrait-il être interdit aux enfants ? Pourquoi ?",
+            "introduction": "Face à la place grandissante des écrans, la question de l'interdiction du téléphone portable pour les enfants est un sujet de préoccupation majeur pour les parents.",
+            "avantages": "Une interdiction protégerait les enfants des risques de dépendance, des contenus inadaptés et du cyberharcèlement, préservant ainsi leur santé mentale et leur développement.",
+            "inconvenients": "Le portable est aussi un outil de communication qui rassure les parents et permet d'initier les enfants au monde numérique, une compétence essentielle aujourd'hui.",
+            "conseils": "Plutôt qu'une interdiction totale, un encadrement strict et évolutif est préférable : contrôle parental, limitation du temps d'écran et éducation aux bons usages du numérique.",
+            "conclusion": "Selon moi, interdire n'est pas la solution. L'accompagnement et l'éducation sont les clés pour que les enfants apprennent à utiliser cet outil de manière responsable et sécurisée."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 7,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Immigration",
+            "sujet": "Quelles sont les principales motivations qui incitent les gens à immigrer vers d'autres pays ? Pourquoi ?",
+            "introduction": "L'immigration est un phénomène complexe, motivé par une combinaison de facteurs qui poussent les individus à quitter leur pays d'origine.",
+            "avantages": "L'immigration peut être motivée par la recherche d'une vie meilleure : opportunités économiques, sécurité face aux conflits, ou encore le désir de rejoindre sa famille déjà installée à l'étranger.",
+            "inconvenients": "Les difficultés rencontrées sont souvent l'inverse de ces motivations : chômage, insécurité, ou un cadre de vie dégradé qui ne permet pas de s'épanouir ou d'offrir un avenir à ses enfants.",
+            "conseils": "Il est essentiel de distinguer les différentes formes de migration (économique, forcée, familiale) pour comprendre les besoins spécifiques des personnes et adapter les politiques d'accueil.",
+            "conclusion": "À mon avis, derrière chaque parcours migratoire se trouve le même désir universel : celui de vivre en sécurité et de pouvoir construire un avenir, pour soi et sa famille."
+          },
+          {
+            "theme": "Loisirs et société",
+            "sujet": "Les jeux du hasard, qu’en pensez-vous ?",
+            "introduction": "Les jeux de hasard, des loteries aux casinos, sont une activité populaire mais qui soulève des questions éthiques et sociales importantes.",
+            "avantages": "Pour beaucoup, ils restent un divertissement occasionnel et un jeu social. De plus, ils représentent une source de revenus non négligeable pour l'État et certaines associations.",
+            "inconvenients": "Le principal danger est l'addiction, qui peut entraîner de graves conséquences financières, familiales et psychologiques pour les joueurs et leur entourage.",
+            "conseils": "Il est crucial de promouvoir un jeu responsable et d'encadrer strictement cette activité par la loi (interdiction aux mineurs, limitation des mises) et par des campagnes de prévention.",
+            "conclusion": "Je pense que les jeux de hasard sont acceptables comme un loisir, à condition d'être pratiqués avec modération et dans un cadre légal qui protège les personnes vulnérables."
+          },
+          {
+            "theme": "Vieillesse et bien-être",
+            "sujet": "Les animaux de compagnie sont-ils essentiels pour le bien-être des personnes âgées ? Qu’en pensez-vous ?",
+            "introduction": "On entend souvent dire qu'un animal de compagnie est un excellent compagnon pour les seniors, mais est-il pour autant essentiel à leur bien-être ?",
+            "avantages": "Un animal apporte une présence réconfortante, lutte contre l'isolement et la solitude, et peut même encourager l'activité physique, notamment pour les propriétaires de chiens.",
+            "inconvenients": "Cependant, posséder un animal implique des contraintes (soins quotidiens, coûts vétérinaires) qui peuvent devenir difficiles à gérer pour une personne en perte d'autonomie.",
+            "conseils": "Il est important de choisir un animal adapté à la condition physique et au mode de vie de la personne. Des solutions comme la zoothérapie peuvent aussi apporter des bienfaits sans les contraintes de la possession.",
+            "conclusion": "À mon avis, sans être essentiels, les animaux de compagnie sont d'excellents alliés pour le bien-être des seniors, à condition que leur adoption soit un choix réfléchi et adapté."
+          },
+          {
+            "theme": "Vie professionnelle",
+            "sujet": "Le téléphone portable personnel devrait être interdit au travail. Qu’en pensez-vous ?",
+            "introduction": "La question de l'usage du téléphone portable personnel sur le lieu de travail est un sujet de tension récurrent entre salariés et employeurs.",
+            "avantages": "L'interdiction peut se justifier par la nécessité de limiter les distractions, de préserver la concentration et, dans certains secteurs sensibles, de garantir la confidentialité des données.",
+            "inconvenients": "Le téléphone est aussi un outil pratique pour gérer des urgences personnelles et, pour beaucoup, une liberté individuelle à laquelle ils sont attachés, même au travail.",
+            "conseils": "Un juste milieu semble plus approprié qu'une interdiction totale : on peut définir une charte qui autorise un usage raisonnable et limité, par exemple pendant les pauses.",
+            "conclusion": "Je pense qu'une interdiction totale est excessive. Il est préférable de responsabiliser les employés et de trouver un accord sur un usage raisonnable qui respecte à la fois la vie privée et les impératifs professionnels."
+          },
+          {
+            "theme": "Éducation et genre",
+            "sujet": "Les parents doivent-ils éduquer leurs filles et leurs garçons de la même manière ? Qu’en pensez-vous ?",
+            "introduction": "L'éducation des enfants a beaucoup évolué, et la question de l'égalité entre filles et garçons est au cœur des préoccupations des parents modernes.",
+            "avantages": "Éduquer ses enfants de la même manière, c'est leur offrir les mêmes chances et les mêmes libertés de choix, en les encourageant à développer leurs talents sans se limiter aux stéréotypes de genre.",
+            "inconvenients": "Il est important de reconnaître que chaque enfant est unique et peut avoir des besoins ou des centres d'intérêt différents, sans que cela soit lié à son genre.",
+            "conseils": "L'objectif n'est pas d'appliquer une éducation strictement uniforme, mais de s'assurer qu'aucune opportunité ne soit fermée à un enfant à cause de son sexe, et de lutter contre les préjugés.",
+            "conclusion": "À mon sens, il est essentiel d'offrir la même base de valeurs, de responsabilités et de possibilités à tous ses enfants, filles comme garçons, pour une société plus juste."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 6,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Médias et information",
+            "sujet": "Certaines personnes refusent de regarder les actualités diffusées à la télévision. Qu’en pensez-vous ?",
+            "introduction": "De plus en plus de personnes choisissent de se détourner des journaux télévisés, un phénomène qui mérite qu'on s'y attarde.",
+            "avantages": "Ce refus peut être une manière de se protéger de la surcharge d'informations négatives et du stress qu'elles engendrent, ou une critique d'un traitement jugé trop sensationnaliste.",
+            "inconvenients": "Cependant, cela peut aussi mener à une forme de désinformation ou de déconnexion des enjeux majeurs de la société, si l'on ne cherche pas d'autres sources fiables.",
+            "conseils": "Il est possible de s'informer autrement, via la presse écrite, la radio ou des sites d'information en ligne, afin de rester informé tout en contrôlant son exposition médiatique.",
+            "conclusion": "À mon avis, ce choix est compréhensible, mais il ne doit pas signifier un désintérêt total pour l'actualité. L'important est de trouver un équilibre pour rester informé sans se laisser submerger."
+          },
+          {
+            "theme": "Famille et autonomie",
+            "sujet": "De jeunes adultes canadiens préfèrent rester vivre chez leurs parents parce qu’ils s’y sentent bien. Quel regard portez-vous sur cette situation ?",
+            "introduction": "Le phénomène des jeunes adultes qui prolongent leur vie chez leurs parents est de plus en plus courant, et pas seulement au Canada.",
+            "avantages": "Cela permet souvent aux jeunes de faire des économies substantielles pour leurs études ou un futur projet immobilier, tout en bénéficiant d'un cadre de vie confortable et sécurisant.",
+            "inconvenients": "À l'inverse, cette situation peut retarder l'apprentissage de l'autonomie et la prise de responsabilités, et parfois créer une certaine dépendance vis-à-vis du cadre familial.",
+            "conseils": "L'idéal est que cette cohabitation soit choisie et vécue comme une transition positive, avec des règles claires et un projet personnel pour l'avenir.",
+            "conclusion": "Je pense que c'est une adaptation pragmatique au contexte économique actuel. Ce qui importe, c'est que ce choix soit bénéfique pour toutes les parties et s'inscrive dans un projet de vie."
+          },
+          {
+            "theme": "Technologie et liens sociaux",
+            "sujet": "L’Internet rend les gens solitaires. Que pensez-vous de cette affirmation ?",
+            "introduction": "L'idée qu'Internet, censé connecter les gens, puisse au contraire les isoler est un paradoxe frappant de notre époque.",
+            "avantages": "Internet permet de maintenir le contact avec des proches éloignés et de créer des communautés d'intérêt qui n'existeraient pas sans lui, luttant ainsi contre l'isolement géographique.",
+            "inconvenients": "Une utilisation excessive peut remplacer les interactions physiques et créer une forme de solitude, où l'on est 'seul ensemble', derrière son écran.",
+            "conseils": "Tout est une question d'équilibre. Internet est un outil : il peut favoriser le lien social si on l'utilise pour organiser des rencontres, ou au contraire nous en couper si on s'y enferme.",
+            "conclusion": "À mon avis, ce n'est pas Internet qui rend solitaire, mais l'usage que l'on en fait. C'est à nous de trouver la bonne mesure entre vie connectée et interactions réelles."
+          },
+          {
+            "theme": "Société et priorités mondiales",
+            "sujet": "Selon vous, quelle est la cause (sociale, humanitaire ou culturelle) la plus prioritaire dans le monde actuel ? Pourquoi ?",
+            "introduction": "Face à la multitude de crises qui touchent le monde, il est difficile d'établir une seule priorité, mais certaines semblent plus urgentes que d'autres.",
+            "avantages": "De nombreuses causes sont cruciales, comme la lutte contre la pauvreté, la défense des droits humains ou l'accès à l'éducation pour tous.",
+            "inconvenients": "Cependant, le réchauffement climatique est souvent cité comme la priorité absolue, car il menace les fondements mêmes de nos sociétés et aggrave toutes les autres crises.",
+            "conseils": "Il est essentiel de comprendre que ces causes sont interdépendantes. Lutter contre le changement climatique, c'est aussi lutter contre les migrations forcées et l'insécurité alimentaire.",
+            "conclusion": "Selon moi, la préservation de notre environnement est la cause la plus prioritaire, car sans une planète viable, aucune autre lutte sociale ou humanitaire n'a de sens à long terme."
+          },
+          {
+            "theme": "Immigration et préparation",
+            "sujet": "Selon vous, quelles sont les trois questions importantes à se poser avant de commencer des démarches d’immigration au Québec ? Pourquoi ces trois là ?",
+            "introduction": "Un projet d'immigration est une étape de vie majeure. Se poser les bonnes questions en amont est crucial pour sa réussite.",
+            "avantages": "Premièrement, 'Quel est mon niveau de français ?' car c'est la clé de l'intégration sociale et professionnelle au Québec. Deuxièmement, 'Quelles sont les réalités du marché du travail dans mon domaine ?' pour évaluer ses chances.",
+            "inconvenients": "Il faut aussi se demander 'Suis-je préparé au climat et à la culture québécoise ?' pour éviter un choc culturel trop brutal et faciliter son adaptation au quotidien.",
+            "conseils": "Se renseigner sur le coût de la vie et les démarches administratives spécifiques est également primordial pour une installation sereine.",
+            "conclusion": "En résumé, bien préparer son immigration, c'est anticiper les aspects linguistiques, professionnels et culturels pour mettre toutes les chances de son côté."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 5,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Médias et consommation",
+            "sujet": "Certaines personnes choisissent de ne jamais regarder la télévision. Qu’en pensez-vous ?",
+            "introduction": "Dans un monde où la télévision a longtemps été le média roi, le choix de ne pas la regarder est une forme de consommation alternative des médias.",
+            "avantages": "Cela peut être un moyen de lutter contre la passivité devant l'écran, de se libérer de la publicité et du sensationnalisme, et de se tourner vers des activités plus enrichissantes comme la lecture.",
+            "inconvenients": "Ce choix peut mener à une certaine forme d'exclusion culturelle ou sociale, si l'on ne trouve pas d'autres moyens de se tenir informé et de participer aux conversations communes.",
+            "conseils": "Ne pas regarder la télévision est tout à fait possible aujourd'hui, à condition de diversifier ses sources d'information (radio, presse en ligne, podcasts) pour rester connecté au monde.",
+            "conclusion": "Je trouve que c'est une décision personnelle respectable. L'essentiel est de rester informé et de ne pas substituer un écran à un autre sans y réfléchir."
+          },
+          {
+            "theme": "Sport et argent",
+            "sujet": "Certaines personnes pensent que les sportifs gagnent trop d’argent. Êtes-vous d’accord ?",
+            "introduction": "Les salaires mirobolants de certains sportifs professionnels suscitent régulièrement l'indignation et le débat dans l'opinion publique.",
+            "avantages": "Ces rémunérations sont le reflet d'un marché mondialisé et très lucratif. Les sportifs génèrent des revenus colossaux grâce aux droits TV, aux sponsors et au marketing.",
+            "inconvenients": "Il est vrai que ces sommes peuvent sembler disproportionnées par rapport à des professions essentielles à la société, comme les enseignants ou les infirmiers, ce qui interroge notre système de valeurs.",
+            "conseils": "Il faut remettre ces salaires dans leur contexte : les carrières sont courtes, risquées, et le nombre de sportifs atteignant ce niveau de rémunération est infime.",
+            "conclusion": "À mon avis, ce n'est pas tant le salaire des sportifs qui pose problème, mais plutôt les inégalités de revenus dans leur ensemble et la faible rémunération de métiers pourtant fondamentaux."
+          },
+          {
+            "theme": "Enfance et écrans",
+            "sujet": "Pensez-vous que les enfants passent trop de temps devant les écrans (ordinateurs, tablettes, téléphones, télévisions,etc.) ? Pourquoi ?",
+            "introduction": "C'est une préoccupation quasi-unanime chez les parents et les éducateurs : nos enfants passent-ils trop de temps devant les écrans ?",
+            "avantages": "Les écrans sont omniprésents et peuvent avoir des aspects positifs, comme l'accès à des contenus éducatifs ou le développement de compétences numériques essentielles.",
+            "inconvenients": "Le problème est l'excès. Un temps d'écran trop important peut nuire à la santé (sommeil, vue), au développement physique et aux interactions sociales réelles.",
+            "conseils": "L'important est d'encadrer et de limiter ce temps, de privilégier des contenus de qualité et d'encourager des activités alternatives comme le sport ou les jeux en plein air.",
+            "conclusion": "Oui, je pense que globalement, les enfants y passent trop de temps. Le défi pour les parents est de trouver le juste équilibre pour que les écrans restent un outil et non une fin en soi."
+          },
+          {
+            "theme": "Intégration culturelle",
+            "sujet": "Quand on s’installe dans un nouveau pays, est-ce qu’il faut changer ses habitudes de vie (alimentation, vacances, vêtements, etc.) ?",
+            "introduction": "L'installation dans un nouveau pays pose inévitablement la question de l'adaptation de ses habitudes face à une nouvelle culture.",
+            "avantages": "Changer certaines habitudes, comme s'habiller en fonction du climat ou s'adapter aux horaires locaux, est un signe d'ouverture et facilite l'intégration au quotidien.",
+            "inconvenients": "Renoncer complètement à ses propres traditions et à sa culture d'origine peut être source de mal-être et de perte d'identité.",
+            "conseils": "L'idéal est de trouver un équilibre : adopter les coutumes locales qui facilitent la vie en société, tout en préservant et en partageant les siennes, créant ainsi un enrichissement mutuel.",
+            "conclusion": "À mon sens, il ne faut pas tout changer, mais plutôt adapter certaines habitudes pour créer un mode de vie nouveau, un métissage culturel entre son héritage et sa culture d'accueil."
+          },
+          {
+            "theme": "Immigration et emploi",
+            "sujet": "Si vous allez vivre au Canada, pensez-vous que vous trouverez facilement du travail ? Pourquoi ?",
+            "introduction": "La perspective de trouver un emploi est souvent la première question que l'on se pose quand on envisage d'immigrer au Canada.",
+            "avantages": "Le Canada a une politique d'immigration active et recherche des travailleurs qualifiés dans de nombreux secteurs comme les technologies, la santé ou l'ingénierie, ce qui est encourageant.",
+            "inconvenients": "Cependant, la réalité peut être plus complexe. La reconnaissance des diplômes étrangers peut être un obstacle, et le marché du travail local est concurrentiel.",
+            "conseils": "La facilité à trouver un emploi dépend de plusieurs facteurs : la maîtrise du français ou de l'anglais, son domaine d'expertise, et la province où l'on souhaite s'installer.",
+            "conclusion": "Je pense que ce n'est pas automatiquement facile, mais qu'avec une bonne préparation, un réseau professionnel et une adaptation aux exigences locales, les opportunités sont bien réelles."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 4,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Enfance et technologie",
+            "sujet": "Aujourd’hui, les enfants et les adolescents doivent avoir leur propre téléphone portable. Qu’en pensez-vous ?",
+            "introduction": "Le téléphone portable est devenu un objet du quotidien, et la question de son acquisition pour les enfants se pose de plus en plus tôt.",
+            "avantages": "Il offre un moyen de communication rassurant pour les parents et permet aux enfants de développer des compétences numériques devenues indispensables dans notre société.",
+            "inconvenients": "Les risques sont nombreux : exposition à des contenus inappropriés, cyberharcèlement, et surtout le danger de la dépendance et de l'hyper-connexion précoce.",
+            "conseils": "Il ne s'agit pas d'un 'droit' mais d'une décision parentale qui doit être mûrie et accompagnée de règles claires sur l'utilisation et le temps d'écran.",
+            "conclusion": "Je ne pense pas que ce soit une 'obligation'. L'âge idéal varie selon la maturité de l'enfant et l'usage qui sera fait de l'appareil, mais l'encadrement est plus important que le portable lui-même."
+          },
+          {
+            "theme": "Mondialisation",
+            "sujet": "Avec Internet le monde est devenu un village. Êtes-vous d’accord ?",
+            "introduction": "L'expression 'village global' est souvent utilisée pour décrire un monde interconnecté par Internet, mais cette métaphore est-elle vraiment juste ?",
+            "avantages": "Il est vrai qu'Internet a aboli les distances : on peut communiquer instantanément avec n'importe qui, s'informer sur toutes les cultures et accéder à un savoir mondialisé.",
+            "inconvenients": "Cependant, tout le monde n'a pas un accès égal à Internet, créant une nouvelle fracture numérique. De plus, la proximité virtuelle ne remplace pas les liens physiques et peut même créer des communautés fermées.",
+            "conseils": "Cette métaphore du 'village' est donc à nuancer. Le monde est plus connecté, mais pas forcément plus uni. Il reste marqué par des inégalités et des incompréhensions culturelles.",
+            "conclusion": "Je suis partiellement d'accord. Internet a créé un espace d'échange planétaire, mais l'idée d'un village, avec sa convivialité et sa proximité, est une vision idéalisée de la réalité."
+          },
+          {
+            "theme": "Choix de vie",
+            "sujet": "Certaines personnes choisissent de ne pas avoir d’enfant. Qu’en pensez-vous ?",
+            "introduction": "Longtemps considéré comme une évidence, le fait d'avoir des enfants est aujourd'hui un choix de vie qui peut être remis en question.",
+            "avantages": "Ne pas avoir d'enfant peut être motivé par des raisons personnelles (désir de liberté, de carrière), économiques (coût de la vie) ou écologiques (surpopulation, empreinte carbone).",
+            "inconvenients": "Ce choix peut encore être mal perçu socialement, et certains peuvent le regretter plus tard. Mais cela reste une décision intime.",
+            "conseils": "L'important est de respecter ce choix, qui est de plus en plus courant et assumé. Le bonheur et l'épanouissement peuvent passer par d'autres voies que la parentalité.",
+            "conclusion": "À mon avis, c'est une décision personnelle tout à fait légitime. La parentalité ne devrait pas être une norme imposée, mais un projet de vie choisi en conscience."
+          },
+          {
+            "theme": "Vie professionnelle",
+            "sujet": "Changer de métier est possible à tout âge. Qu’en pensez-vous ?",
+            "introduction": "L'idée d'une carrière linéaire, dans le même métier jusqu'à la retraite, est de moins en moins d'actualité.",
+            "avantages": "Aujourd'hui, les dispositifs de formation continue et la valorisation de l'expérience rendent la reconversion accessible à tous les âges, pour s'adapter au marché ou trouver plus de sens à son travail.",
+            "inconvenients": "Cependant, se reconvertir demande du courage, du temps et des ressources financières. Il peut aussi y avoir des réticences de la part de certains employeurs.",
+            "conseils": "Il est essentiel de bien préparer son projet, de se former et de ne pas hésiter à valoriser ses compétences transversales acquises lors de sa première carrière.",
+            "conclusion": "Je suis tout à fait d'accord. Avec la volonté et les bons outils, il n'y a pas d'âge pour se réinventer professionnellement et s'épanouir dans une nouvelle voie."
+          },
+          {
+            "theme": "Médias et éthique",
+            "sujet": "Les journaux télévisés ne devraient pas diffuser d’images violentes. Êtes-vous d’accord ?",
+            "introduction": "La diffusion d'images violentes aux informations soulève un dilemme éthique entre le devoir d'informer et la protection du public.",
+            "avantages": "Ne pas diffuser ces images protégerait les spectateurs, en particulier les plus jeunes, du choc et du traumatisme, et éviterait une forme de banalisation de la violence.",
+            "inconvenients": "Cependant, cacher la réalité peut être une forme de censure. Parfois, la violence des images est nécessaire pour prendre conscience de la gravité d'une situation (guerre, famine).",
+            "conseils": "Le traitement de l'information est clé. Il faut trouver un équilibre : montrer la réalité sans sombrer dans le sensationnalisme, et prévenir les téléspectateurs avant la diffusion.",
+            "conclusion": "Je pense qu'il ne faut pas les interdire, mais les utiliser avec une grande responsabilité éditoriale, en les justifiant et en les contextualisant, et en respectant l'heure de diffusion."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 3,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Urbanisme et environnement",
+            "sujet": "Les transports en commun devraient être gratuits en ville. Est-ce une bonne idée selon vous ?",
+            "introduction": "L'idée de rendre les transports en commun gratuits dans les villes séduit de plus en plus d'élus et de citoyens.",
+            "avantages": "Cela inciterait fortement à délaisser la voiture, réduisant ainsi les embouteillages et la pollution, tout en améliorant la mobilité des personnes à faibles revenus.",
+            "inconvenients": "Le coût pour la collectivité serait énorme. Il faudrait compenser la perte des titres de transport par les impôts, et la gratuité pourrait aussi attirer des incivilités ou dégrader la qualité du service.",
+            "conseils": "Des solutions intermédiaires existent, comme la gratuité pour certaines catégories (étudiants, chômeurs) ou des tarifs très réduits, afin de concilier objectifs sociaux et budgétaires.",
+            "conclusion": "À mon avis, c'est une idée séduisante mais difficile à appliquer en l'état. Un financement public massif est nécessaire, mais il faut s'assurer que cela n'entrave pas la qualité et le développement du service."
+          },
+          {
+            "theme": "Éducation et autorité parentale",
+            "sujet": "Les parents doivent contrôler les fréquentations de leurs enfants. Qu’en pensez-vous ?",
+            "introduction": "Le rôle des parents est-il de surveiller de près le cercle d'amis de leurs enfants, ou faut-il leur faire confiance ?",
+            "avantages": "Un certain contrôle permet aux parents de veiller à la sécurité de leur enfant et de le protéger de mauvaises influences, surtout pendant l'adolescence.",
+            "inconvenients": "Un contrôle trop strict et intrusif peut être vécu comme un manque de confiance, nuire à la relation parent-enfant et empêcher ce dernier de développer son autonomie et son jugement.",
+            "conseils": "L'équilibre réside dans le dialogue et la confiance. Il est préférable d'éduquer l'enfant à avoir un esprit critique sur ses relations plutôt que de les contrôler de manière autoritaire.",
+            "conclusion": "Je pense que le rôle des parents est plus d'accompagner et de conseiller que de contrôler. L'objectif est d'aider l'enfant à faire ses propres choix, en toute connaissance de cause."
+          },
+          {
+            "theme": "Tourisme et environnement",
+            "sujet": "Le développement du tourisme est contraire à la protection de l’environnement. Qu’en pensez-vous ?",
+            "introduction": "Le tourisme est une industrie majeure, mais son impact sur l'environnement est souvent pointé du doigt. Est-il forcément incompatible avec la protection de la planète ?",
+            "avantages": "Le tourisme de masse est effectivement une source de pollution, de bétonisation des côtes et de pression sur les ressources naturelles et la biodiversité.",
+            "inconvenients": "À l'inverse, un tourisme durable et responsable, ou écotourisme, peut financer la protection des espaces naturels et sensibiliser les voyageurs à leur préservation.",
+            "conseils": "L'enjeu est de repenser le modèle touristique. Il faut favoriser des pratiques respectueuses, limiter les flux dans les zones fragiles et impliquer les communautés locales.",
+            "conclusion": "À mon sens, ce n'est pas le tourisme en soi qui est nuisible, mais sa forme non maîtrisée. Un tourisme repensé et durable peut et doit être un allié de la protection environnementale."
+          },
+          {
+            "theme": "Intégration linguistique",
+            "sujet": "Il est possible de vivre dans un pays sans en parler la langue. Qu’en pensez-vous ?",
+            "introduction": "Vivre à l'étranger est une aventure humaine, mais peut-on vraiment s'intégrer sans maîtriser la langue du pays d'accueil ?",
+            "avantages": "Dans les grandes métropoles cosmopolites, il est possible de survivre avec l'anglais ou en restant dans sa communauté linguistique, pour les besoins basiques du quotidien.",
+            "inconvenients": "Cependant, cette situation limite fortement les interactions sociales, l'accès à la culture locale, les opportunités professionnelles et l'autonomie dans les démarches administratives.",
+            "conseils": "On peut survivre sans la langue, mais on ne peut pas vraiment 'vivre' et s'intégrer pleinement. L'apprentissage de la langue est la clé pour comprendre une culture et créer des liens sincères.",
+            "conclusion": "Je pense que c'est possible, mais très limitant. Pour une réelle intégration et un épanouissement dans le pays d'accueil, apprendre la langue est indispensable."
+          },
+          {
+            "theme": "Vie professionnelle",
+            "sujet": "De nos jours, il est possible de changer de métier à tout âge. Qu’en pensez-vous ?",
+            "introduction": "L'époque des carrières uniques et linéaires semble révolue. La possibilité de se réinventer professionnellement à tout âge est devenue une réalité.",
+            "avantages": "Les formations continues, la validation des acquis de l'expérience et l'évolution du marché du travail offrent des opportunités de reconversion à ceux qui souhaitent donner un nouveau sens à leur vie professionnelle.",
+            "inconvenients": "Cependant, un tel projet demande une préparation solide, du temps, et un investissement financier et personnel important. Les obstacles (familiaux, financiers, psychologiques) sont réels.",
+            "conseils": "Il faut bien peser les avantages et les inconvénients de son projet, se former sérieusement et ne pas hésiter à solliciter des conseils auprès de professionnels de l'orientation.",
+            "conclusion": "Oui, c'est une réalité de plus en plus accessible. Le plus important est de faire de ce changement un projet mûri, et non une fuite, pour qu'il soit une réussite."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 2,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Technologie et mode de vie",
+            "sujet": "Certaines personnes préfèrent vivre sans technologie (Internet, ordinateur, téléphone). Qu’en pensez-vous ?",
+            "introduction": "Dans une société hyperconnectée, le choix de vivre sans technologie peut paraître extrême, mais il correspond à une quête de sens pour certains.",
+            "avantages": "Ce mode de vie permet de se déconnecter du flux constant d'informations, de réduire son stress et de se recentrer sur l'essentiel : la nature, les relations humaines directes et les activités manuelles.",
+            "inconvenients": "En contrepartie, cela peut mener à un isolement social, compliquer l'accès à l'information et à de nombreux services (administrations, banques), et rendre difficile la vie professionnelle moderne.",
+            "conseils": "Il s'agit d'un choix radical qui nécessite une vie en communauté ou une grande autonomie. La plupart des gens préfèrent une 'déconnexion' partielle, en limitant leur usage sans le supprimer.",
+            "conclusion": "Je respecte ce choix qui est une forme de résistance à l'hyper-consommation numérique, mais je pense qu'il est difficile à tenir seul. La sobriété numérique me semble une alternative plus accessible."
+          },
+          {
+            "theme": "Société et apparence",
+            "sujet": "De plus en plus de personnes font appel à la chirurgie esthétique pour rester jeune. Qu’en pensez-vous ?",
+            "introduction": "La quête de la jeunesse éternelle pousse de plus en plus de personnes à se tourner vers la chirurgie esthétique.",
+            "avantages": "Pour certains, ces interventions peuvent aider à corriger un complexe profond et à retrouver confiance en soi, améliorant ainsi leur bien-être psychologique.",
+            "inconvenients": "Cependant, cette tendance est le reflet d'une pression sociale forte qui valorise la jeunesse et peut mener à une insatisfaction chronique et à une dépendance à ces opérations.",
+            "conseils": "Il est important de bien réfléchir à ses motivations avant de se lancer, et de considérer que le vieillissement est un processus naturel qu'il est peut-être plus sain d'apprendre à accepter.",
+            "conclusion": "À mon avis, si la chirurgie esthétique peut aider dans certains cas précis, elle ne doit pas devenir une course effrénée contre le temps. L'acceptation de soi est un chemin plus durable."
+          },
+          {
+            "theme": "Emploi des jeunes",
+            "sujet": "Il est plus difficile de trouver du travail quand on est jeune. Êtes-vous d’accord ? Pourquoi ?",
+            "introduction": "L'entrée sur le marché du travail est souvent perçue comme un parcours du combattant pour les jeunes. Est-ce une réalité ou un cliché ?",
+            "avantages": "Le manque d'expérience professionnelle est le principal frein pour les jeunes diplômés, confrontés à des offres d'emploi qui en exigent toujours plus.",
+            "inconvenients": "En revanche, les jeunes sont souvent plus flexibles, mobiles et à l'aise avec les nouvelles technologies, des atouts dans des secteurs en pointe comme le numérique.",
+            "conseils": "La difficulté varie selon le secteur et la conjoncture économique. Pour un jeune, valoriser ses stages et ses compétences transversales est essentiel pour compenser le manque d'expérience.",
+            "conclusion": "Je suis d'accord, l'entrée dans la vie active est généralement plus compliquée pour les jeunes. C'est un paradoxe cruel : on demande de l'expérience... à ceux qui n'ont pas eu la chance d'en acquérir."
+          },
+          {
+            "theme": "Éducation et santé",
+            "sujet": "Il faut obliger les enfants à faire du sport. Êtes-vous d’accord ? Pourquoi ?",
+            "introduction": "Face à la sédentarité croissante, l'idée de rendre le sport obligatoire pour les enfants refait surface. Est-ce une bonne solution ?",
+            "avantages": "L'activité physique est essentielle à la santé et au développement de l'enfant. L'obliger à faire du sport, c'est lui inculquer de bonnes habitudes et lutter contre l'obésité.",
+            "inconvenients": "L'obligation peut avoir l'effet inverse et créer un rejet durable de toute activité sportive, perçue comme une contrainte désagréable.",
+            "conseils": "Il est préférable d'encourager et de proposer une large palette d'activités pour que chaque enfant puisse trouver celle qui lui plaît, et ainsi avoir envie de la pratiquer de lui-même.",
+            "conclusion": "Je pense qu'il faut plutôt 'encourager' que 'contraindre'. L'objectif est de donner aux enfants le goût du sport, pas de les en dégoûter par une obligation rigide."
+          },
+          {
+            "theme": "Tourisme et patrimoine",
+            "sujet": "Le tourisme détruit certaines régions. Qu’en pensez-vous ?",
+            "introduction": "On parle souvent des bienfaits économiques du tourisme, mais son impact négatif sur certaines régions est de plus en plus visible.",
+            "avantages": "Le tourisme de masse peut en effet dégrader les sites naturels, saturer les infrastructures et transformer l'identité culturelle des lieux en simple produit de consommation.",
+            "inconvenients": "Cependant, bien géré, le tourisme peut être une source de revenus qui permet justement de restaurer et de préserver le patrimoine local.",
+            "conseils": "La solution réside dans un tourisme durable et maîtrisé : réguler les flux de visiteurs, promouvoir un tourisme hors saison et sensibiliser les voyageurs au respect des lieux.",
+            "conclusion": "À mon avis, ce n'est pas le tourisme en lui-même qui est destructeur, mais son développement non contrôlé. Il est urgent de passer d'un tourisme de masse à un tourisme raisonné."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 1,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Médias et information",
+            "sujet": "Certaines personnes refusent de regarder les actualités diffusées à la télévision. Qu’en pensez-vous ?",
+            "introduction": "Le choix de ne pas regarder les journaux télévisés est un phénomène qui interroge notre rapport à l'information.",
+            "avantages": "C'est souvent une réaction à un sentiment de saturation face à des actualités anxiogènes, ou une marque de défiance envers un média jugé trop influençable ou partial.",
+            "inconvenients": "Le risque est de se couper des événements majeurs du monde, à moins de se tourner vers d'autres sources tout aussi fiables pour s'informer.",
+            "conseils": "Il est essentiel de diversifier ses sources d'information. Ne pas regarder la télévision peut être un choix sain si l'on s'informe activement par ailleurs (presse, radio, médias en ligne).",
+            "conclusion": "Je trouve ce choix compréhensible. Il reflète une évolution des modes de consommation de l'information, mais ne doit pas rimer avec désinformation."
+          },
+          {
+            "theme": "Famille et autonomie",
+            "sujet": "De jeunes adultes canadiens préfèrent rester vivre chez leurs parents parce qu’ils s’y sentent bien. Quel regard portez-vous sur cette situation ?",
+            "introduction": "Le phénomène des 'enfants qui ne quittent pas le nid' est devenu courant, et il est important de l'analyser sans préjugés.",
+            "avantages": "Cela permet souvent aux jeunes de se lancer dans la vie sans la pression financière écrasante du loyer, et de créer une relation adulte avec leurs parents, basée sur l'entraide.",
+            "inconvenients": "Cependant, cela peut parfois retarder l'acquisition de l'autonomie complète et la prise de responsabilités inhérentes à la vie en solo.",
+            "conseils": "L'important est que cette cohabitation soit un choix positif et temporaire, et non un confort qui empêche de se projeter dans un projet de vie autonome.",
+            "conclusion": "À mon sens, c'est une adaptation intelligente à la réalité économique. Le jugement négatif sur cette situation est dépassé."
+          },
+          {
+            "theme": "Technologie et société",
+            "sujet": "L’Internet rend les gens solitaires. Que pensez-vous de cette affirmation ?",
+            "introduction": "C'est un paradoxe moderne : l'outil de connexion par excellence est accusé de nous isoler.",
+            "avantages": "À l'inverse, Internet nous permet de maintenir des liens avec des proches éloignés et de rencontrer des personnes partageant les mêmes passions, luttant contre l'isolement géographique ou social.",
+            "inconvenients": "Il est vrai qu'une utilisation excessive peut remplacer les interactions physiques et créer une solitude numérique, où l'on est en ligne mais déconnecté du monde réel.",
+            "conseils": "Le problème n'est pas l'outil, mais l'usage qu'on en fait. Il faut apprendre à s'en servir pour enrichir sa vie sociale, pas pour s'y substituer.",
+            "conclusion": "Je ne suis pas d'accord. Internet est un outil neutre. C'est la façon dont on l'utilise qui peut nous rendre solitaires ou, au contraire, plus connectés que jamais."
+          },
+          {
+            "theme": "Priorités mondiales",
+            "sujet": "Selon vous, quelle est la cause (sociale, humanitaire ou culturelle) la plus prioritaire dans le monde actuel ? Pourquoi ?",
+            "introduction": "Face à la multitude de défis, il est difficile de hiérarchiser les urgences, mais certaines sont vitales.",
+            "avantages": "La lutte contre le réchauffement climatique est souvent citée, car elle conditionne la survie de l'humanité et impacte toutes les autres causes (migrations, famine, paix).",
+            "inconvenients": "D'autres causes, comme la réduction des inégalités ou l'accès à l'éducation, sont tout aussi fondamentales pour bâtir des sociétés justes et stables.",
+            "conseils": "Il ne faut pas les opposer. Ces causes sont liées : on ne peut pas résoudre la crise climatique sans s'attaquer aux inégalités sociales.",
+            "conclusion": "Pour moi, la priorité est la lutte contre le dérèglement climatique, car sans une planète habitable, tous les autres combats deviennent vains."
+          },
+          {
+            "theme": "Immigration au Québec",
+            "sujet": "Selon vous, quelles sont les trois questions importantes à se poser avant de commencer des démarches d’immigration au Québec ? Pourquoi ces trois là ?",
+            "introduction": "Un projet d'immigration est une aventure qui se prépare. Voici trois questions fondamentales à se poser avant de se lancer.",
+            "avantages": "1. 'Quel est mon niveau de français ?' Car c'est la clé pour s'intégrer et trouver un emploi. 2. 'Mon diplôme est-il reconnu ?' Pour éviter les déconvenues professionnelles. 3. 'Ai-je les ressources financières pour les premiers mois ?' Pour parer à toute éventualité.",
+            "inconvenients": "Ne pas se poser ces questions expose à des difficultés majeures : chômage, déclassement professionnel, ou difficultés financières.",
+            "conseils": "Se renseigner en amont sur le marché du travail et le coût de la vie dans la région visée est tout aussi crucial.",
+            "conclusion": "Ces trois questions sont les piliers d'une installation réussie : la langue, la reconnaissance des compétences et la sécurité financière sont les bases sur lesquelles construire son nouveau projet de vie."
+          }
+        ]
+      }
+    }
+  ]
+}
