@@ -1,0 +1,382 @@
+{
+  "parties": [
+    {
+      "numero": 7,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Médias et information",
+            "sujet": "Certaines personnes choisissent de ne plus suivre les informations diffusées à la télévision. Quelle est votre opinion à ce sujet ?",
+            "introduction": "Avec la multiplication des sources d’information, certains décident de se couper des journaux télévisés. Ce choix peut sembler radical, mais il répond souvent à un malaise face au traitement de l'actualité.",
+            "avantages": "Les informations à la télévision sont souvent négatives ou anxiogènes. Les chaînes d’information peuvent manipuler ou orienter les opinions. On peut s’informer autrement, via Internet ou la presse écrite, selon ses préférences.",
+            "inconvenients": "Ne plus suivre les informations peut entraîner une déconnexion du monde réel. La télévision reste une source accessible et structurée d’actualités pour de nombreuses personnes. Cela limite la capacité à participer aux débats publics ou à comprendre les enjeux de société.",
+            "conseils": "Choisir de ne plus regarder les informations à la télévision peut être une façon de se protéger, mais il est important de rester informé par d’autres moyens fiables. L’essentiel est de garder un esprit critique, quelle que soit la source.",
+            "conclusion": "En conclusion, il est essentiel de s'informer, mais chacun doit trouver le moyen qui lui convient le mieux, sans se sentir submergé."
+          },
+          {
+            "theme": "Société et logement",
+            "sujet": "De nombreux jeunes adultes au Canada décident de continuer à vivre chez leurs parents car ils s’y sentent à l’aise. Que pensez-vous de cette situation ?",
+            "introduction": "Le phénomène des jeunes adultes vivant chez leurs parents est de plus en plus courant. Si cela peut sembler confortable, cela soulève des questions sur l’indépendance et l’évolution des modes de vie.",
+            "avantages": "Cela permet d’économiser de l’argent dans un contexte où le coût du logement est élevé. La vie familiale peut apporter du soutien moral et logistique. Cela offre plus de temps pour préparer l’avenir (études, emploi, achat immobilier).",
+            "inconvenients": "Cela peut freiner l’indépendance et l’autonomie personnelle. Certains jeunes peuvent avoir du mal à fixer des limites dans leur vie privée. Cela peut retarder l’expérience de la vraie vie d’adulte.",
+            "conseils": "Continuer à vivre chez ses parents peut être une solution temporaire intelligente dans un contexte économique difficile, à condition de préserver son autonomie et de fixer des objectifs clairs à moyen terme.",
+            "conclusion": "En conclusion, c'est une solution pratique à court terme, mais il est important de garder un objectif d'indépendance."
+          },
+          {
+            "theme": "Technologie et liens sociaux",
+            "sujet": "Pensez-vous que l’utilisation d’Internet favorise l’isolement des individus ? Donnez votre avis sur cette idée.",
+            "introduction": "Internet a révolutionné nos façons de communiquer. Pourtant, certains craignent qu’il nous enferme dans des bulles et nous éloigne des contacts réels. Cette question mérite d'être analysée.",
+            "avantages": "Certaines personnes passent trop de temps en ligne et négligent les relations sociales réelles. Les réseaux sociaux peuvent créer une illusion de lien sans véritable échange humain. L’usage excessif d’Internet peut entraîner un repli sur soi.",
+            "inconvenients": "Internet permet de rester en contact avec des proches, même à distance. Il facilite les échanges entre personnes partageant les mêmes centres d’intérêt. De nombreuses activités en ligne favorisent la collaboration et la communication.",
+            "conseils": "Internet peut renforcer ou affaiblir les liens sociaux selon l’usage qu’on en fait. Il est important de trouver un équilibre entre vie en ligne et vie réelle pour ne pas s’isoler.",
+            "conclusion": "En conclusion, Internet est un outil ; s’il isole ou connecte, cela dépend de nous."
+          },
+          {
+            "theme": "Engagement citoyen",
+            "sujet": "À votre avis, parmi les grandes causes actuelles (sociale, humanitaire ou culturelle), laquelle devrait être prioritaire dans le monde d’aujourd’hui ? Expliquez pourquoi.",
+            "introduction": "Notre monde fait face à de nombreux défis. Il est difficile de hiérarchiser les priorités, mais certains choix s’imposent face à l’urgence de la situation. Il est important de réfléchir à la cause la plus fondamentale.",
+            "avantages": "La pauvreté et les inégalités sociales touchent des millions de personnes. L’accès au logement, à l’éducation et à l’emploi reste un défi dans de nombreux pays. La cohésion sociale est essentielle pour la stabilité des sociétés. Les conflits, les catastrophes naturelles et les migrations massives nécessitent une aide immédiate. Des populations entières vivent sans accès à l’eau, à la nourriture ou aux soins. C’est une question de survie pour des millions de personnes. La culture permet de préserver les identités et de favoriser le dialogue entre les peuples. Elle lutte contre l’intolérance, la haine et la radicalisation. Elle contribue à l’éducation et à l’ouverture d’esprit.",
+            "inconvenients": "Chaque cause est importante, mais la cause humanitaire devrait être prioritaire, car elle concerne des besoins vitaux et urgents. Sans aide humanitaire, la survie même de nombreuses personnes est menacée.",
+            "conseils": "Chaque cause est importante, mais la cause humanitaire devrait être prioritaire, car elle concerne des besoins vitaux et urgents. Sans aide humanitaire, la survie même de nombreuses personnes est menacée.",
+            "conclusion": "En conclusion, toutes les causes sont liées, mais agir sur l'humanitaire, c'est répondre à l'urgence vitale."
+          },
+          {
+            "theme": "Projet d'immigration",
+            "sujet": "Selon vous, quelles sont les trois questions essentielles à se poser avant de commencer une démarche d’immigration au Québec ? Justifiez votre choix.",
+            "introduction": "L’immigration est un projet de vie majeur. Pour maximiser ses chances de réussite, il est crucial de se préparer en se posant les bonnes questions. En voici trois qui me semblent fondamentales.",
+            "avantages": "Suis-je prêt à m’adapter à une nouvelle culture ? L’intégration demande de la souplesse, de la curiosité et parfois des sacrifices. Ai-je un projet professionnel clair ? Trouver un emploi ou faire reconnaître ses diplômes est souvent un défi. Ai-je les ressources financières suffisantes pour débuter ? Le début d’une immigration peut être coûteux, surtout sans revenu immédiat.",
+            "inconvenients": "Penser que l’immigration sera simple ou immédiate peut créer des déceptions. Partir sans se renseigner suffisamment peut mener à de mauvaises décisions. Se baser uniquement sur l’avis d’autres personnes sans analyser sa propre situation est risqué.",
+            "conseils": "Avant d’immigrer, il est essentiel de réfléchir à son adaptation, à son projet professionnel et à ses moyens financiers. Une bonne préparation augmente les chances de réussite et réduit le stress lié à ce grand changement.",
+            "conclusion": "En conclusion, une bonne préparation en amont est la clé pour vivre une expérience d’immigration épanouissante."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 6,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Travail et relations",
+            "sujet": "Pensez-vous qu’il est préférable d’éviter de travailler avec des amis ou des membres de sa famille ? Expliquez votre point de vue.",
+            "introduction": "Mélanger vie professionnelle et relations personnelles peut sembler attrayant, mais cela comporte des risques. L'équilibre est parfois difficile à trouver.",
+            "avantages": "Travailler avec des proches peut créer des tensions si des conflits professionnels apparaissent. Il est parfois difficile de séparer la vie personnelle de la vie professionnelle. En cas de problème, cela peut nuire à la relation personnelle à long terme.",
+            "inconvenients": "Travailler avec quelqu’un qu’on connaît peut renforcer la confiance et la communication. Cela peut créer un environnement de travail plus agréable et moins stressant. Les proches peuvent être plus motivés à réussir ensemble.",
+            "conseils": "Travailler avec des amis ou de la famille peut présenter des avantages en termes de confiance, mais cela comporte aussi des risques pour la relation. Il est important d’établir des limites claires dès le départ.",
+            "conclusion": "En conclusion, cela peut fonctionner, mais à condition de fixer des règles claires dès le début."
+          },
+          {
+            "theme": "Technologie et travail",
+            "sujet": "À votre avis, de quelle manière Internet a-t-il modifié les habitudes dans le monde professionnel ?",
+            "introduction": "Internet a profondément transformé notre façon de travailler. S'il a apporté une flexibilité inédite, il a aussi créé de nouvelles contraintes.",
+            "avantages": "Le télétravail est devenu possible grâce aux outils numériques. Les échanges sont plus rapides grâce aux emails, messageries et visioconférences. Le recrutement et la recherche d’emploi passent désormais beaucoup par les plateformes en ligne.",
+            "inconvenients": "L’hyperconnectivité peut générer du stress ou un sentiment de surveillance constante. La frontière entre vie personnelle et professionnelle devient floue. Certaines personnes ont des difficultés à s’adapter aux outils numériques.",
+            "conseils": "Internet a profondément transformé le monde du travail, en rendant les échanges plus efficaces. Mais il a aussi modifié notre rapport au temps et à l’équilibre entre vie privée et vie professionnelle.",
+            "conclusion": "En conclusion, Internet est un outil puissant, mais il faut apprendre à l'utiliser avec sagesse pour préserver son équilibre."
+          },
+          {
+            "theme": "Géopolitique",
+            "sujet": "Croyez-vous qu’un monde sans frontières, sans passeport ni visa, pourrait réellement exister ? Justifiez votre réponse.",
+            "introduction": "L'idée d'un monde sans frontières est un idéal pour certains, un cauchemar pour d'autres. Elle touche à des questions de sécurité, d'identité et de souveraineté.",
+            "avantages": "Cela favoriserait la liberté de circulation et les échanges entre les peuples. Un monde sans frontières pourrait réduire les conflits liés à l’immigration. Cela permettrait une plus grande égalité d’accès aux opportunités économiques.",
+            "inconvenients": "Les pays ont besoin de contrôler leur territoire pour des raisons de sécurité et d’organisation. Les différences économiques entre les régions rendent difficile une ouverture totale. Cela pourrait entraîner des mouvements migratoires massifs et déséquilibrés.",
+            "conseils": "Un monde sans frontières est une idée utopique qui défend la liberté et la paix, mais qui reste difficile à mettre en pratique. Une coopération internationale plus ouverte serait déjà une avancée importante.",
+            "conclusion": "En conclusion, c'est un idéal vers lequel tendre, mais difficilement réalisable dans un avenir proche."
+          },
+          {
+            "theme": "Immigration et intégration",
+            "sujet": "Êtes-vous d’accord avec l’idée que s’intégrer dans un nouveau pays est toujours une étape difficile ? Expliquez pourquoi.",
+            "introduction": "S’intégrer dans un pays étranger demande du temps et des efforts. Beaucoup pensent que c'est une étape difficile, mais est-ce toujours le cas ?",
+            "avantages": "L’adaptation à une nouvelle culture peut être longue et parfois frustrante. La barrière de la langue est souvent un obstacle. On peut ressentir de la solitude, surtout si l’on ne connaît personne sur place.",
+            "inconvenients": "Certaines personnes sont très ouvertes et s’intègrent rapidement. Les structures d’accueil ou les associations peuvent aider à faciliter l’intégration. Les technologies permettent de rester en contact avec ses proches, ce qui réduit le choc du changement.",
+            "conseils": "S’intégrer dans un nouveau pays peut être difficile au début, mais avec de la volonté, du soutien et une bonne préparation, cette étape devient plus accessible. Chaque expérience est unique.",
+            "conclusion": "En conclusion, s’intégrer n’est pas simple, mais avec de la patience et de l’ouverture, on peut construire une nouvelle vie et se sentir à sa place."
+          },
+          {
+            "theme": "Société et célébrités",
+            "sujet": "Pourquoi, selon vous, la vie privée des célébrités attire-t-elle autant l’attention du public ?",
+            "introduction": "La fascination pour les célébrités est un phénomène de société. Derrière cet intérêt se cachent des motivations psychologiques et sociales.",
+            "avantages": "Les gens sont curieux et aiment rêver à travers la vie des autres. Les médias mettent en avant la vie privée des célébrités pour attirer l’audience. La société actuelle valorise l’image et les réseaux sociaux.",
+            "inconvenients": "Cette curiosité peut devenir une intrusion nuisible pour la célébrité. Cela banalise les atteintes à la vie privée. L’intérêt pour ces sujets détourne l’attention des problèmes plus importants.",
+            "conseils": "L’attention portée à la vie des célébrités reflète un mélange de curiosité, d’admiration et de besoin d’évasion. Toutefois, il est essentiel de respecter leur vie privée comme celle de tout individu.",
+            "conclusion": "En conclusion, c’est un divertissement, mais il ne faut pas en faire une obsession."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 5,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Études et salaire",
+            "sujet": "Il faut faire de longues études pour gagner beaucoup d’argent. Qu’en pensez-vous ?",
+            "introduction": "Longtemps, le diplôme a été considéré comme le sésame de la réussite financière. Aujourd’hui, des parcours atypiques montrent que d’autres voies existent.",
+            "avantages": "De nombreuses professions bien rémunérées (médecin, avocat, ingénieur) exigent de longues études. Les diplômes permettent souvent d’accéder à des postes à responsabilité avec un meilleur salaire. Le niveau d’études influence le statut social et professionnel.",
+            "inconvenients": "Certains réussissent sans diplôme, notamment dans l’entrepreneuriat, les arts ou le commerce. L’expérience et les compétences pratiques peuvent être plus importantes que le diplôme. De longues études n’offrent aucune garantie de succès financier.",
+            "conseils": "Faire de longues études peut augmenter les chances de gagner beaucoup d’argent, mais ce n’est pas une règle absolue. La réussite dépend aussi du secteur d’activité, des opportunités et des qualités personnelles.",
+            "conclusion": "En conclusion, les longues études peuvent aider à avoir un bon salaire, mais ce n’est pas la seule voie. La motivation, le travail et les compétences personnelles jouent un rôle essentiel."
+          },
+          {
+            "theme": "Culture et accès",
+            "sujet": "Les lieux culturels (musées, théâtres, etc.) devraient être gratuits. Qu’en pensez-vous ?",
+            "introduction": "La culture est souvent considérée comme un bien commun. L'idée de la rendre gratuite pour tous est séduisante, mais elle se heurte à des réalités économiques et organisationnelles.",
+            "avantages": "Cela favoriserait l’accès à la culture pour tous, quels que soient les revenus. La gratuité peut encourager les jeunes à s’intéresser à l’art, à l’histoire ou au patrimoine. La culture est un bien commun qui devrait être accessible sans condition.",
+            "inconvenients": "Le coût de fonctionnement des lieux culturels est élevé et nécessite un financement. La gratuité peut diminuer la qualité des services ou la programmation. Certaines personnes accordent moins de valeur à ce qui est gratuit.",
+            "conseils": "La gratuité des lieux culturels est une belle idée sur le plan social, mais elle nécessite un financement public important. Une solution intermédiaire pourrait être des tarifs réduits pour les étudiants, les familles ou certains jours.",
+            "conclusion": "En conclusion, un accès facilité et ciblé est un bon compromis entre idéal et réalité."
+          },
+          {
+            "theme": "Santé publique",
+            "sujet": "L’accès aux soins médicaux doit être gratuit pour tous. Qu’en pensez-vous ?",
+            "introduction": "La santé est un besoin fondamental. La question de son financement par l’État est au cœur des débats politiques et sociaux. Jusqu’où doit aller la solidarité nationale ?",
+            "avantages": "La santé est un droit fondamental et doit être accessible à tous sans condition. La gratuité permettrait de réduire les inégalités sociales. Cela peut encourager la prévention et diminuer les coûts à long terme.",
+            "inconvenients": "Un système totalement gratuit peut coûter très cher à l’État. Certains abus du système peuvent en augmenter les dépenses. La gratuité n’exclut pas les problèmes d’accès (délais, manque de personnel).",
+            "conseils": "Rendre les soins médicaux gratuits pour tous est une mesure juste et humaine, mais elle suppose une bonne organisation et un financement solide. La gratuité partielle ou progressive peut être une solution plus réaliste.",
+            "conclusion": "En conclusion, les soins doivent être accessibles à tous, mais un équilibre est nécessaire pour que le système reste juste et durable."
+          },
+          {
+            "theme": "Environnement et transport",
+            "sujet": "Pour protéger l’environnement, les États doivent limiter les voyages en avion de chaque citoyen. Qu’en pensez-vous ?",
+            "introduction": "Face à l’urgence climatique, le transport aérien est pointé du doigt. Limiter les vols semble une solution, mais elle pose des questions de liberté individuelle.",
+            "avantages": "L’avion est un moyen de transport très polluant. Réduire les vols peut avoir un impact positif sur l’environnement. Cela pousse à utiliser des alternatives plus écologiques comme le train.",
+            "inconvenients": "Voyager est un droit et une source d’enrichissement personnel. Cette mesure pénaliserait les classes moyennes ou modestes plus que les riches. Le secteur aérien fait déjà des efforts pour limiter son impact (biocarburants, compensation carbone).",
+            "conseils": "Limiter les voyages en avion peut aider à protéger l’environnement, mais une telle mesure doit être équitable et accompagnée d’alternatives accessibles. L’idéal serait de réduire les vols inutiles plutôt que d’imposer une interdiction générale.",
+            "conclusion": "En conclusion, il faut agir sur les voyages en avion, mais avec des mesures intelligentes, qui protègent l’environnement sans bloquer complètement la mobilité des personnes."
+          },
+          {
+            "theme": "Société et apparence",
+            "sujet": "Selon vous, quelle est la place du vêtement dans nos sociétés modernes ?",
+            "introduction": "Dans notre société, les vêtements ne servent pas seulement à se protéger du froid. Ils ont aussi une dimension sociale et symbolique.",
+            "avantages": "Le vêtement permet d’exprimer sa personnalité, son identité ou ses convictions. Il joue un rôle social et professionnel important (uniformes, tenue de travail, etc.). La mode est aussi un secteur économique et culturel influent.",
+            "inconvenients": "L’importance accordée au vêtement peut favoriser le jugement superficiel. La pression sociale pousse certaines personnes à suivre des tendances au détriment de leur confort ou de leur budget. L’industrie textile a un impact négatif sur l’environnement (pollution, surconsommation).",
+            "conseils": "Le vêtement est à la fois un outil de communication, un marqueur social et un choix personnel. Il occupe une place importante dans nos sociétés, mais il est essentiel de le considérer avec un certain recul, notamment face à la mode excessive.",
+            "conclusion": "En conclusion, les vêtements ont une importance sociale, mais ils ne doivent pas définir la valeur d’une personne."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 4,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Communication",
+            "sujet": "De nos jours, les gens ne s’envoient presque plus de courrier (cartes de vœux, lettres d’amour, etc.). Est-ce regrettable ?",
+            "introduction": "Avec les nouvelles technologies, les lettres et les cartes postales ont presque disparu. Aujourd’hui, tout passe par les messages, les mails ou les réseaux sociaux.",
+            "avantages": "Les lettres et les cartes ont une valeur sentimentale forte. Écrire demande du temps et de la réflexion, ce qui rend le message plus personnel. Recevoir une lettre est un moment unique, qui crée de l’émotion.",
+            "inconvenients": "Les moyens de communication modernes (SMS, e-mail, réseaux sociaux) sont plus rapides et pratiques. Le courrier peut prendre du temps à arriver, voire se perdre. La majorité des gens préfèrent les échanges instantanés aujourd’hui.",
+            "conseils": "Même si le courrier traditionnel a presque disparu, il garde une dimension affective précieuse. Cependant, le monde évolue, et les nouvelles technologies répondent à des besoins de rapidité et de simplicité. Ce n’est pas totalement regrettable, mais il est dommage que ce lien personnel disparaisse peu à peu.",
+            "conclusion": "En conclusion, c’est dommage que le courrier disparaisse, car il transmet des émotions vraies. On devrait essayer de préserver cette belle habitude, même à l’ère du numérique."
+          },
+          {
+            "theme": "Transport et mode de vie",
+            "sujet": "Est-ce que vous pensez qu’aujourd’hui on peut vivre sans voiture ?",
+            "introduction": "La voiture est devenue un moyen de transport presque indispensable dans la vie moderne. Pourtant, de plus en plus de gens essayent de s’en passer pour des raisons écologiques ou économiques.",
+            "avantages": "Dans les grandes villes, les transports en commun sont bien développés. Vivre sans voiture réduit la pollution et les dépenses. De nombreuses alternatives existent : vélo, covoiturage, trottinette électrique, etc.",
+            "inconvenients": "Dans les zones rurales ou peu desservies, la voiture est souvent indispensable. Certaines personnes ont besoin d’un véhicule pour travailler ou transporter leur famille. Les horaires des transports publics ne sont pas toujours pratiques.",
+            "conseils": "Vivre sans voiture est tout à fait possible en milieu urbain, mais plus compliqué ailleurs. Cela dépend du contexte de vie, de l’organisation personnelle et de l’infrastructure locale. L’idéal serait de réduire l’usage de la voiture tout en améliorant les alternatives.",
+            "conclusion": "En conclusion, on peut vivre sans voiture, surtout dans les grandes villes, mais il faut des alternatives efficaces pour que ce soit possible pour tous."
+          },
+          {
+            "theme": "Vie sociale",
+            "sujet": "Il est plus facile de vivre seul(e) qu’en famille. Qu’en pensez-vous ?",
+            "introduction": "Aujourd’hui, de plus en plus de gens choisissent de vivre seuls. Certains pensent que c’est plus simple, d’autres préfèrent la vie en famille.",
+            "avantages": "Vivre seul permet une grande liberté et autonomie. Moins de conflits ou de compromis à faire au quotidien. On peut organiser son temps comme on le souhaite.",
+            "inconvenients": "La solitude peut peser à long terme. Partager sa vie avec d’autres apporte du soutien émotionnel. Les responsabilités peuvent être plus lourdes seul(e).",
+            "conseils": "Vivre seul peut offrir un confort personnel, mais la vie en famille apporte de la chaleur humaine et du partage. Le choix dépend des priorités de chacun. L’équilibre entre indépendance et relations sociales est essentiel.",
+            "conclusion": "En conclusion, vivre seul est parfois plus simple, mais la vie en famille apporte chaleur et soutien. Le bonheur dépend surtout de la qualité des relations humaines."
+          },
+          {
+            "theme": "Travail et retraite",
+            "sujet": "Pensez-vous que faire travailler les gens jusqu’à 70 ans est une mesure acceptable ?",
+            "introduction": "Avec le vieillissement de la population, certains pays envisagent de repousser l’âge de la retraite. Travailler jusqu’à 70 ans divise les opinions.",
+            "avantages": "Les gens vivent plus longtemps et en meilleure santé. Cela permet de maintenir le système de retraite. Travailler plus longtemps peut aider certains à rester actifs et utiles.",
+            "inconvenients": "À partir d’un certain âge, la fatigue se fait sentir. Certaines professions sont physiques et difficiles à exercer longtemps. Beaucoup de personnes aimeraient profiter de leur retraite.",
+            "conseils": "Travailler jusqu’à 70 ans peut être acceptable pour certains, mais pas pour tous. Il faudrait adapter cette mesure selon la profession et la santé de chacun. Une certaine flexibilité semble plus juste.",
+            "conclusion": "En conclusion, travailler jusqu’à 70 ans peut convenir à certains, mais ce ne doit pas devenir une obligation. Il faut garder la liberté de choisir selon ses capacités."
+          },
+          {
+            "theme": "Expérience de vie",
+            "sujet": "Une expérience de vie à l’étranger est toujours positive. Êtes-vous d’accord avec cette affirmation ?",
+            "introduction": "De nos jours, beaucoup de gens partent vivre à l’étranger pour étudier, travailler ou découvrir une nouvelle culture. C’est souvent vu comme une expérience enrichissante.",
+            "avantages": "Cela permet de découvrir une nouvelle culture et de s’ouvrir au monde. Vivre à l’étranger peut améliorer les compétences linguistiques. C’est souvent une expérience enrichissante sur le plan personnel et professionnel.",
+            "inconvenients": "L’adaptation peut être difficile (langue, culture, isolement). On peut rencontrer des problèmes administratifs ou financiers. La distance avec la famille et les amis peut peser.",
+            "conseils": "Vivre à l’étranger est souvent une expérience enrichissante, mais elle peut comporter des défis. Elle n’est pas toujours facile, ni positive pour tout le monde. Il faut être bien préparé pour en tirer le meilleur.",
+            "conclusion": "En conclusion, vivre à l’étranger est une expérience très positive si l’on s’y prépare bien et si l’on accepte les différences. C’est une aventure humaine qui fait grandir."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 3,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Éducation et langues",
+            "sujet": "Apprendre une langue étrangère est difficile. Êtes-vous d’accord avec cette affirmation ?",
+            "introduction": "Apprendre une langue étrangère peut sembler difficile pour beaucoup de personnes. À mon avis, c’est vrai que cela demande des efforts, mais ce n’est pas impossible.",
+            "avantages": "Complexité grammaticale et phonétique : Certaines langues présentent des structures ou des sons éloignés de la langue maternelle, ce qui peut compliquer l’apprentissage. Manque de pratique : Sans immersion ou interactions régulières avec des locuteurs natifs, la progression peut être lente. Découragement : Certains abandonnent rapidement s’ils n’obtiennent pas des résultats visibles à court terme.",
+            "inconvenients": "Méthodes et ressources : Les applications, cours en ligne, échanges linguistiques, séjours à l’étranger peuvent faciliter l’apprentissage. Motivation personnelle : Avec un objectif clair (voyage, travail, passion), on progresse plus facilement. Plasticité du cerveau : Les enfants et même les adultes motivés peuvent apprendre plusieurs langues à tout âge, à condition d’y consacrer du temps et de l’énergie.",
+            "conseils": "Apprendre une langue peut être « difficile » si l’on manque de méthodes, de temps ou de motivation. Toutefois, il existe de nombreuses approches ludiques et interactives qui rendent l’apprentissage plus accessible. L’effort reste indispensable, mais la récompense est souvent grande (ouverture culturelle, nouvelles opportunités professionnelles, etc.).",
+            "conclusion": "En conclusion, apprendre une langue est exigeant, mais avec de la motivation et de la pratique, c’est tout à fait possible."
+          },
+          {
+            "theme": "Éducation et carrière",
+            "sujet": "Faire des études aide à réussir sa vie professionnelle. Qu’en pensez-vous ?",
+            "introduction": "Dans notre société, les études sont souvent vues comme la clé de la réussite. Selon moi, elles aident, mais ne garantissent pas le succès.",
+            "avantages": "Compétences et connaissances : Des études supérieures ou spécialisées préparent à des métiers qualifiés et mieux rémunérés. Réseau et opportunités : Les universités, grandes écoles ou instituts permettent de rencontrer des professionnels, de se constituer un réseau. Crédibilité sur le CV : Un diplôme reconnu peut faciliter l’insertion professionnelle, particulièrement dans certains secteurs.",
+            "inconvenients": "Pas de garantie absolue : Certains réussissent professionnellement sans avoir fait de longues études (entrepreneuriat, talents artistiques, parcours atypiques). Formation continue : Réussir implique parfois de se former tout au long de la vie, pas uniquement d’avoir fait de longues études initiales. Importance de la personnalité et de l’expérience : Des compétences transversales (soft skills) et l’expérience sur le terrain comptent autant que les diplômes.",
+            "conseils": "Faire des études peut ouvrir plus de portes et donner un bagage solide, mais ce n’est pas un passeport automatique vers la réussite. La persévérance, l’adaptabilité, la créativité et le réseau sont également déterminants. Les études restent néanmoins un atout pour prétendre à certains postes ou développer une expertise.",
+            "conclusion": "En conclusion, les études sont utiles, mais elles ne sont pas la seule voie vers la réussite."
+          },
+          {
+            "theme": "Environnement et urbanisme",
+            "sujet": "Il est nécessaire de limiter la circulation des voitures en ville. Êtes-vous d’accord avec cette affirmation ?",
+            "introduction": "La circulation automobile pose de nombreux problèmes en ville. Personnellement, je pense qu’il est nécessaire de la réduire.",
+            "avantages": "Réduction de la pollution : Moins de voitures signifie moins d’émissions de CO₂, meilleure qualité de l’air et réduction des nuisances sonores. Mobilité douce : Cela incite les habitants à utiliser les transports en commun, le vélo, la marche, améliorant la santé publique. Cadre de vie : Des villes moins encombrées de voitures sont souvent plus conviviales, plus agréables pour tous.",
+            "inconvenients": "Infrastructure insuffisante : Les transports en commun ne sont pas toujours fiables ou accessibles à tous. Contrainte pour certains : Les banlieusards, les personnes handicapées, ou ceux qui habitent des zones mal desservies peuvent avoir besoin de leur voiture. Économie : De nombreuses activités dépendent du transport routier (livraisons, commerces). Une limitation trop drastique peut avoir un impact sur certains secteurs.",
+            "conseils": "Une réduction de la circulation automobile en ville est souvent bénéfique pour la santé et l’environnement. Néanmoins, il faut un plan global : développer les transports collectifs, créer des pistes cyclables, proposer des parkings de dissuasion, etc. L’objectif est d’améliorer la qualité de vie sans pénaliser les usagers qui ont réellement besoin de leur véhicule.",
+            "conclusion": "En conclusion, réduire la circulation est nécessaire, mais cela doit se faire progressivement et intelligemment."
+          },
+          {
+            "theme": "Médias et information",
+            "sujet": "On est mieux informé grâce à Internet. Qu’en pensez-vous ?",
+            "introduction": "Internet a complètement changé notre accès à l’information. Selon moi, il permet d’être mieux informé, mais avec des limites.",
+            "avantages": "Abondance d’informations : Accès immédiat à une multitude de sources (presse en ligne, blogs, vidéos, etc.). Diversité des points de vue : Possibilité de consulter des médias internationaux, des articles spécialisés, des témoignages directs. Interaction et réactivité : Forums, réseaux sociaux, espaces de commentaires qui permettent de débattre et d’obtenir des compléments d’information.",
+            "inconvenients": "Risque de désinformation : Fausses informations, théories du complot, manipulations possibles. Infobésité : Trop de sources et de notifications peut mener à la confusion ou à la fatigue mentale. Bulle de filtre : Les algorithmes de recommandation peuvent enfermer l’utilisateur dans un cercle d’opinions semblables, limitant la confrontation des points de vue.",
+            "conseils": "Internet offre une capacité d’information sans précédent, mais la qualité de l’information dépend de l’esprit critique de l’utilisateur. Il est crucial d’apprendre à recouper ses sources, à identifier les médias fiables et à exercer un tri rigoureux. Oui, on peut être mieux informé, à condition de savoir faire face aux risques de manipulation et d’infobésité.",
+            "conclusion": "En conclusion, Internet est un outil puissant, mais il doit être utilisé avec prudence."
+          },
+          {
+            "theme": "Alimentation et santé",
+            "sujet": "Pour être en bonne santé, il faut arrêter de manger de la viande. Que pensez-vous de cette affirmation ?",
+            "introduction": "La question de la consommation de viande est très débattue aujourd’hui. À mon avis, il n’est pas nécessaire d’arrêter complètement.",
+            "avantages": "Bienfaits potentiels : Un régime végétarien ou végétalien peut réduire certains risques de maladies cardiovasculaires, d’hypertension, etc. Surconsommation de viande : Dans de nombreux pays, l’excès de viande rouge est associé à divers problèmes de santé. Aspect éthique ou environnemental : Au-delà de la santé, limiter la viande réduit l’empreinte carbone et le gaspillage de ressources.",
+            "inconvenients": "Régime équilibré : Manger de la viande de façon modérée, surtout si elle est de bonne qualité, peut faire partie d’une alimentation saine. Carences nutritionnelles : Un régime strictement végétalien mal planifié peut conduire à des carences (fer, vitamine B12) si on ne compense pas correctement. Individualisation : Les besoins varient selon les personnes (âge, activité sportive, métabolisme).",
+            "conseils": "Réduire sa consommation de viande peut être bénéfique à la fois pour la santé et pour l’environnement, surtout si l’on privilégie des sources de protéines végétales et de la viande de qualité. Cependant, il n’est pas indispensable d’arrêter totalement la viande pour être en bonne santé, à condition de l’intégrer dans une alimentation équilibrée. L’essentiel est de trouver un régime adapté à ses besoins et de privilégier la qualité plutôt que la quantité.",
+            "conclusion": "En conclusion, l’équilibre alimentaire est plus important que l’interdiction totale."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 2,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Études et salaire",
+            "sujet": "Pour gagner beaucoup d’argent, il est indispensable d’avoir fait des études. Êtes-vous d’accord avec cette affirmation ?",
+            "introduction": "Aujourd’hui, beaucoup de gens pensent que pour bien gagner sa vie, il faut faire de longues études. C’est vrai que les diplômes sont importants, mais à mon avis, ils ne sont pas la seule condition pour avoir un bon salaire.",
+            "avantages": "Les études offrent de meilleures opportunités professionnelles. Les diplômés sont souvent privilégiés lors du recrutement. Les études permettent d’acquérir des connaissances et une méthodologie utile dans la vie professionnelle.",
+            "inconvenients": "Des entrepreneurs ou artistes ont réussi sans avoir suivi un parcours scolaire traditionnel. Le savoir-faire, la créativité ou l’expérience peuvent être plus importants que le diplôme. Dans certains domaines comme la restauration, l’artisanat ou le commerce, les études ne sont pas indispensables pour réussir.",
+            "conseils": "Les études augmentent les chances de gagner beaucoup d’argent, mais elles ne garantissent pas le succès. La motivation, les talents personnels et l’expérience peuvent compenser l’absence de diplôme.",
+            "conclusion": "En conclusion, les longues études peuvent aider à avoir un bon salaire, mais ce n’est pas la seule voie. La motivation, le travail et les compétences personnelles jouent un rôle essentiel."
+          },
+          {
+            "theme": "Technologie et éducation",
+            "sujet": "À la maison, les parents devraient interdire à leurs enfants l’utilisation d’Internet. Êtes-vous d’accord avec cette affirmation ?",
+            "introduction": "Internet est devenu un outil incontournable. L'interdire totalement aux enfants semble une mesure radicale qui mérite d'être discutée.",
+            "avantages": "Internet expose les enfants à des contenus violents, inappropriés ou mensongers. Certains enfants passent trop de temps en ligne, au détriment de leur santé et de leurs études. Sans Internet, les enfants lisent, jouent dehors et développent d’autres compétences.",
+            "inconvenients": "De nombreuses ressources éducatives sont accessibles sur Internet. Savoir utiliser Internet est essentiel dans le monde actuel. Une utilisation contrôlée et accompagnée par les parents est plus efficace qu’une interdiction.",
+            "conseils": "Interdire Internet à la maison n’est pas une solution durable. Les parents devraient plutôt encadrer et accompagner l’utilisation d’Internet afin d’en tirer les avantages tout en évitant les risques.",
+            "conclusion": "En conclusion, mieux vaut éduquer à un usage responsable que d'interdire totalement."
+          },
+          {
+            "theme": "Immigration et langue",
+            "sujet": "Il est possible de vivre dans un pays sans parler sa langue. Qu’en pensez-vous ?",
+            "introduction": "La langue est souvent considérée comme la clé de l'intégration. Se demander s'il est possible de vivre sans la connaître est une question centrale pour tout projet d'expatriation.",
+            "avantages": "Dans certains pays, il est possible de vivre au sein d’une communauté qui parle sa langue d’origine. Dans certains contextes, comme les grandes villes ou les milieux professionnels internationaux, l’anglais peut suffire. Les outils numériques permettent de comprendre et de se faire comprendre sans forcément maîtriser la langue.",
+            "inconvenients": "Faire ses courses, aller chez le médecin ou comprendre l’administration devient compliqué. Il est difficile de créer des liens avec les habitants sans parler leur langue. Ne pas parler la langue du pays peut limiter l’accès à certains emplois.",
+            "conseils": "Il est possible de vivre dans un pays sans en parler la langue, mais cela entraîne de nombreuses limites. Apprendre la langue locale est une étape essentielle pour s’intégrer et vivre pleinement dans un nouveau pays.",
+            "conclusion": "En conclusion, bien que possible sur place, connaître la langue avant de partir est un atout majeur pour une intégration réussie."
+          },
+          {
+            "theme": "Immigration",
+            "sujet": "Prendre la décision de quitter son pays est facile. Qu’en pensez-vous ?",
+            "introduction": "L'image de l'immigrant est souvent celle d'une personne contrainte de fuir. Si cela est vrai dans de nombreux cas, l'émigration peut aussi être un choix délibéré, mais rarement facile.",
+            "avantages": "Les gens sont parfois motivés par l’urgence de changer leur situation. Étudier, travailler ou vivre dans de meilleures conditions peut justifier ce choix rapidement. Le soutien de la famille ou d’amis déjà sur place peut faciliter la prise de décision.",
+            "inconvenients": "Quitter sa famille, ses amis, sa culture est souvent un déchirement. On ne connaît pas les conditions de vie dans le pays d’accueil, ce qui crée du stress. Les démarches d’immigration sont parfois longues et complexes.",
+            "conseils": "Prendre la décision de quitter son pays n’est pas facile. Cela implique un changement profond dans la vie de la personne. C’est un choix réfléchi, souvent motivé par la nécessité plus que par l’envie.",
+            "conclusion": "En conclusion, c’est un défi difficile mais extrêmement gratifiant pour ceux qui le vivent."
+          },
+          {
+            "theme": "Technologie et emploi",
+            "sujet": "Certains économistes pensent que les nouvelles technologies vont détruire les emplois. Qu’en pensez-vous ?",
+            "introduction": "Avec l'avancée rapide de l'intelligence artificielle et de la robotique, la question du remplacement de l'humain par la machine se pose avec acuité.",
+            "avantages": "Des robots ou des logiciels remplacent des emplois dans l’industrie ou les services. Certaines entreprises préfèrent investir dans la technologie plutôt que d’embaucher du personnel. Les personnes peu qualifiées sont les premières touchées par cette transformation.",
+            "inconvenients": "L’intelligence artificielle, le numérique ou la cybersécurité sont des secteurs en pleine croissance. La technologie permet de travailler plus efficacement. Comme lors de la révolution industrielle, certains métiers disparaissent, d’autres apparaissent.",
+            "conseils": "Les nouvelles technologies ne détruisent pas l’emploi, elles le transforment. Les métiers évoluent, et il est important d’adapter les formations pour préparer les travailleurs aux compétences de demain.",
+            "conclusion": "En conclusion, la technologie va transformer le travail, mais elle ne le fera pas disparaître. L’important est d’adapter nos compétences pour suivre cette évolution."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 1,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Technologie et bien-être",
+            "sujet": "Avec Internet, on vit mieux. Qu’en pensez-vous ?",
+            "introduction": "Internet a transformé nos vies. S'il est une source de progrès, son impact sur notre bonheur et notre qualité de vie est-il réellement positif ?",
+            "avantages": "Accès rapide à l’information : Internet permet d’apprendre, de s’informer et de se former facilement. Facilitation de la communication : Rester en contact avec ses proches partout dans le monde est devenu simple. Services pratiques : Achats en ligne, démarches administratives, télétravail, télémédecine, etc. Opportunités professionnelles : Internet offre des emplois et permet le travail à distance. Divertissement illimité : Musique, films, jeux, cours en ligne, tout est accessible à tout moment.",
+            "inconvenients": "Dépendance et isolement : Beaucoup de personnes passent trop de temps sur Internet, ce qui peut réduire les interactions sociales réelles. Fake news et manipulation : Tout le monde peut publier des informations, ce qui pose des problèmes de fiabilité. Risques pour la vie privée : Les données personnelles sont souvent collectées et utilisées sans consentement clair. Surcharge d’informations : Il est parfois difficile de distinguer l’utile du superflu.",
+            "conseils": "Internet a révolutionné la société en facilitant la communication, l’accès aux ressources et en créant de nouvelles opportunités. Toutefois, il est essentiel de l’utiliser avec modération pour éviter les effets négatifs sur la santé mentale et la vie sociale.",
+            "conclusion": "En conclusion, Internet est un outil puissant, mais il doit être utilisé avec sagesse pour vraiment améliorer notre vie."
+          },
+          {
+            "theme": "Voyage",
+            "sujet": "Est-ce que vous pensez que les voyages sont utiles ? Pourquoi ?",
+            "introduction": "Voyager est une activité souvent associée aux loisirs, mais elle est aussi considérée comme une expérience formatrice. Son utilité est-elle réelle pour tous ?",
+            "avantages": "Ouverture d’esprit : Découverte de nouvelles cultures, traditions et modes de vie. Apprentissage des langues : Vivre dans un pays étranger est une des meilleures façons d’améliorer ses compétences linguistiques. Expérience personnelle et enrichissement : Rencontres, découvertes, souvenirs uniques. Développement professionnel : Les voyages peuvent apporter des opportunités de carrière (expatriation, réseaux internationaux).",
+            "inconvenients": "Coût élevé : Voyager régulièrement peut être cher et inaccessible pour certains. Impact environnemental : L’aviation et le tourisme de masse ont des conséquences négatives sur l’écologie. Risque de superficialité : Certains voyages courts ne permettent pas une véritable immersion dans la culture locale.",
+            "conseils": "Voyager est un excellent moyen de s’enrichir personnellement et professionnellement, mais il faut le faire de manière responsable pour minimiser son impact sur l’environnement. L’important est de privilégier la qualité des expériences plutôt que la quantité des destinations.",
+            "conclusion": "En conclusion, les voyages sont très utiles, mais il faut les faire de manière consciente pour en tirer le meilleur sans nuire à la planète."
+          },
+          {
+            "theme": "Carrière",
+            "sujet": "Est-il bon de faire plusieurs métiers dans sa carrière ? Qu’en pensez-vous ?",
+            "introduction": "Le concept de carrière unique et linéaire est de moins en moins la norme. Changer de métier plusieurs fois dans sa vie est-il un atout ou un inconvénient ?",
+            "avantages": "Adaptation au marché du travail : Les évolutions technologiques rendent certains métiers obsolètes, il faut donc être flexible. Développement des compétences : Changer de métier permet d’acquérir de nouvelles compétences et d’enrichir son expérience. Épanouissement personnel : Découvrir différents secteurs permet d’éviter la routine et de trouver un travail qui correspond mieux à ses aspirations. Sécurité financière : Avoir plusieurs compétences ou expériences professionnelles permet de mieux rebondir en cas de crise économique.",
+            "inconvenients": "Manque de stabilité : Changer souvent de métier peut nuire à la progression de carrière. Investissement en temps et en formation : Se reconvertir nécessite parfois de reprendre des études ou de suivre des formations coûteuses. Difficulté à obtenir de l’expérience reconnue : Certains employeurs préfèrent des candidats ayant une carrière plus linéaire.",
+            "conseils": "Dans un monde du travail en constante évolution, la polyvalence est un atout. L’essentiel est de bien choisir ses transitions pour qu’elles soient cohérentes et bénéfiques.",
+            "conclusion": "En conclusion, c'est une chance d'évoluer, mais cela demande une grande capacité d'adaptation."
+          },
+          {
+            "theme": "Immigration",
+            "sujet": "Les immigrés sont une richesse pour un pays. Qu’en pensez-vous ?",
+            "introduction": "L'immigration est un sujet clivant. Au-delà des débats politiques, quel est l'apport réel des immigrés à la société qui les accueille ?",
+            "avantages": "Main-d’œuvre et dynamisme économique : De nombreux secteurs dépendent de l’apport des immigrés (construction, santé, services). Diversité culturelle : L’immigration favorise les échanges et enrichit la culture du pays d’accueil. Innovation et entrepreneuriat : Beaucoup d’immigrés créent des entreprises et participent à l’économie. Solidarité et renforcement des liens internationaux : L’immigration favorise une ouverture vers d’autres pays et cultures.",
+            "inconvenients": "Difficulté d’intégration : Barrière de la langue, différences culturelles, discriminations. Charge économique perçue : Certains estiment que l’immigration peut peser sur les aides sociales et les infrastructures publiques. Tensions sociales : Dans certains cas, une immigration mal gérée peut créer des incompréhensions et des conflits.",
+            "conseils": "L’immigration est bénéfique lorsqu’elle est bien accompagnée (accès à l’éducation, à l’emploi, programmes d’intégration). Chaque pays doit trouver un équilibre entre accueil et capacité d’intégration.",
+            "conclusion": "En conclusion, l'immigration est une source d'enrichissement culturel et économique lorsqu'elle est bien intégrée."
+          },
+          {
+            "theme": "Travail et retraite",
+            "sujet": "Un jour, on travaillera jusqu’à 70 ans. Qu’en pensez-vous ?",
+            "introduction": "Avec le vieillissement de la population, l'âge de la retraite est un sujet brûlant. Travailler jusqu'à 70 ans serait-il une mesure acceptable ou une contrainte trop lourde ?",
+            "avantages": "Espérance de vie plus longue : Les gens vivent plus longtemps et restent en bonne santé plus tard. Équilibre des systèmes de retraite : Avec le vieillissement de la population, repousser l’âge de départ permet d’éviter un déficit financier. Expérience et transmission : Les seniors apportent une expertise précieuse et peuvent encadrer les plus jeunes.",
+            "inconvenients": "Fatigue et usure physique : Certains métiers sont éprouvants et difficiles à exercer jusqu’à un âge avancé. Diminution des opportunités pour les jeunes : Retarder la retraite pourrait limiter l’accès des jeunes au marché du travail. Inégalités : Tous les emplois ne permettent pas de travailler tard (travaux physiques, santé, artisanat).",
+            "conseils": "Il est probable que l’âge de départ à la retraite continue d’augmenter dans certains pays. Une solution serait d’adapter les conditions de travail en fonction des métiers pour préserver la santé des travailleurs âgés.",
+            "conclusion": "En conclusion, travailler jusqu’à 70 ans peut convenir à certains, mais ce ne doit pas devenir une obligation. Il faut garder la liberté de choisir selon ses capacités."
+          }
+        ]
+      }
+    }
+  ]
+}
