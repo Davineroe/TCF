@@ -1,0 +1,220 @@
+{
+  "parties": [
+    {
+      "numero": 4,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Relations humaines",
+            "sujet": "La gentillesse aide-t-elle toujours à se faire écouter et respecter ? Êtes-vous d’accord avec cette idée ?",
+            "introduction": "La gentillesse est souvent perçue comme une qualité. Mais est-elle toujours efficace pour se faire écouter et respecter ? C'est une question intéressante.",
+            "avantages": "La gentillesse favorise les relations harmonieuses et la confiance. Être gentil permet d’éviter les conflits inutiles. Les personnes aimables sont souvent mieux perçues et plus soutenues. La gentillesse inspire le respect par l’exemple. Elle facilite la communication et l’écoute des autres.",
+            "inconvenients": "Certaines personnes peuvent profiter de la gentillesse et en abuser. Être trop gentil peut donner une image de faiblesse. Dans certains contextes, la fermeté est plus efficace pour se faire respecter. La gentillesse seule ne garantit pas l’écoute si on ne s’impose pas. Cela peut nuire à l’affirmation de soi face à des personnalités dominantes.",
+            "conseils": "La gentillesse est un atout précieux pour établir des relations positives, mais elle doit s’accompagner d’assurance et de limites claires pour être respectée. Tout dépend du contexte et de la manière dont elle est exprimée.",
+            "conclusion": "En conclusion, la gentillesse est importante, mais elle doit être équilibrée par de la fermeté pour être pleinement respectée."
+          },
+          {
+            "theme": "Vie affective",
+            "sujet": "Pensez-vous qu’on puisse être heureux même en restant célibataire ? Quelle est votre opinion ?",
+            "introduction": "Le célibat est souvent vu comme une situation temporaire, mais il peut aussi être un choix de vie. Peut-on y trouver le bonheur ?",
+            "avantages": "Le célibat permet une grande liberté et autonomie. On peut se consacrer pleinement à ses projets personnels. Il est possible d’avoir une vie sociale riche sans être en couple. Moins de compromis et de contraintes dans la vie quotidienne. Être seul n’empêche pas d’aimer et d’être entouré.",
+            "inconvenients": "Le célibat peut entraîner un sentiment de solitude ou d’isolement. Certaines personnes ressentent un manque d’affection ou de soutien émotionnel. La pression sociale valorise souvent la vie de couple. Il peut être plus difficile de construire une famille ou d’avoir des enfants seul(e). Certaines activités sont plus agréables à partager à deux.",
+            "conseils": "Être célibataire n’empêche pas d’être heureux si l’on a une vie épanouissante et des relations sociales solides. Le bonheur dépend avant tout de l’équilibre personnel et des choix de chacun.",
+            "conclusion": "En conclusion, le célibat peut être une source de bonheur si on sait s'entourer et s'épanouir dans ses passions."
+          },
+          {
+            "theme": "Société et égalité",
+            "sujet": "Selon vous, est-il important de dédier une journée aux droits des femmes ? Pourquoi ?",
+            "introduction": "La journée internationale des droits des femmes est un événement annuel. Certains la jugent essentielle, d'autres pensent qu'elle est symbolique. Quel est son véritable intérêt ?",
+            "avantages": "Cela permet de sensibiliser le public aux inégalités persistantes. C’est l’occasion de rendre hommage aux luttes passées et actuelles. La journée attire l’attention des médias et des institutions. Elle encourage les actions concrètes pour l’égalité. Elle donne la parole aux femmes sur des sujets essentiels.",
+            "inconvenients": "Une seule journée peut sembler insuffisante face à l’ampleur des enjeux. Certains pensent qu’il vaudrait mieux agir toute l’année plutôt qu’un jour symbolique. Cela peut être perçu comme un geste symbolique sans réel impact. Le risque de banaliser ou de commercialiser cette journée. Tous les pays ne la célèbrent pas avec la même implication.",
+            "conseils": "Une journée dédiée aux droits des femmes reste un moment important de sensibilisation et de réflexion, mais elle doit s’accompagner d’engagements concrets et quotidiens pour être réellement efficace.",
+            "conclusion": "En conclusion, c’est un symbole fort, mais le combat pour l’égalité est quotidien."
+          },
+          {
+            "theme": "Médias et apprentissage",
+            "sujet": "Regarder la télévision, est-ce un bon moyen pour apprendre de nouvelles choses ? Qu’en pensez-vous ?",
+            "introduction": "La télévision est souvent pointée du doigt pour son aspect abrutissant. Pourtant, elle propose aussi des chaînes culturelles et des documentaires. Peut-on réellement apprendre en regardant la télé ?",
+            "avantages": "De nombreuses émissions documentaires et culturelles sont enrichissantes. La télévision permet d’accéder facilement à l’information mondiale. Certains programmes éducatifs sont adaptés à tous les âges. Les images et reportages aident à mieux comprendre certains sujets. La télévision permet de découvrir d’autres cultures et points de vue.",
+            "inconvenients": "Beaucoup d’émissions sont de faible qualité ou peu informatives. La télévision peut favoriser la passivité et le manque d’esprit critique. L’excès de divertissement peut détourner de l’apprentissage. Certaines informations peuvent être biaisées ou inexactes. Le temps passé devant la télé peut réduire d’autres activités d’apprentissage.",
+            "conseils": "La télévision peut être un outil d’apprentissage efficace si l’on choisit des programmes de qualité et si elle est utilisée de manière équilibrée. Elle doit compléter d’autres formes d’éducation.",
+            "conclusion": "En conclusion, la télévision est un outil comme un autre : tout dépend de l’usage qu’on en fait."
+          },
+          {
+            "theme": "Travail et passion",
+            "sujet": "À votre avis, est-ce indispensable d’aimer son travail pour réussir sa carrière professionnelle ? Pourquoi ?",
+            "introduction": "La question de l’épanouissement au travail est centrale dans nos sociétés. Faut-il absolument aimer ce que l’on fait pour réussir, ou la réussite peut-elle passer par d’autres voies ?",
+            "avantages": "La passion motive à s’investir pleinement. Aimer son travail rend les efforts plus agréables. Cela favorise la créativité et l’innovation. Le plaisir au travail améliore la productivité. L’enthousiasme facilite les relations professionnelles.",
+            "inconvenients": "On peut réussir par discipline ou ambition même sans aimer son travail. Certains emplois bien rémunérés ne correspondent pas forcément à une passion. Il est possible d’aimer ses loisirs en dehors du travail. Changer de poste peut être une solution sans remettre en cause toute une carrière. La stabilité financière ou les opportunités priment parfois sur l’intérêt personnel.",
+            "conseils": "Aimer son travail est un avantage pour réussir, mais ce n’est pas indispensable. La réussite professionnelle dépend aussi de la persévérance, des compétences et des opportunités rencontrées.",
+            "conclusion": "En conclusion, c’est un atout, mais la discipline et le travail peuvent aussi mener à la réussite."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 3,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Éducation et programmes",
+            "sujet": "Quelles matières devraient être enseignées à l’école pour capter davantage l’intérêt des élèves ? Pourquoi ?",
+            "introduction": "Les programmes scolaires évoluent avec la société. Certaines matières gagneraient à être renforcées ou introduites pour mieux préparer les élèves à la vie active et citoyenne.",
+            "avantages": "Des matières pratiques comme la cuisine, le jardinage ou le bricolage permettent d’apprendre des compétences utiles. Les cours sur la gestion financière préparent les élèves à la vie adulte. Des matières en lien avec les nouvelles technologies captivent davantage les jeunes. L’éducation artistique et musicale développe la créativité et l’expression. Les cours sur l’écologie et le développement durable sensibilisent à l’environnement.",
+            "inconvenients": "Trop de matières peuvent surcharger le programme scolaire. Certaines disciplines risquent d’être considérées comme moins importantes que les matières classiques. Les écoles manquent parfois de budget et de moyens pour proposer de nouvelles matières. Les enseignants doivent être formés pour ces nouvelles disciplines. Tous les élèves n’ont pas les mêmes centres d’intérêt.",
+            "conseils": "Introduire des matières variées et pratiques à l’école permettrait de mieux motiver les élèves, à condition d’adapter les contenus aux besoins réels et de ne pas négliger les savoirs fondamentaux.",
+            "conclusion": "En conclusion, moderniser les programmes avec des matières actuelles est essentiel pour préparer les élèves au monde de demain."
+          },
+          {
+            "theme": "Relations humaines",
+            "sujet": "Selon vous, est-il préférable d’avoir une grande famille ou des amis proches ? Qu’en pensez-vous ?",
+            "introduction": "Dans la vie, les relations humaines sont essentielles. Certaines personnes privilégient les liens familiaux, d’autres laissent une grande place à leurs amis.",
+            "avantages": "La famille est un soutien stable et durable. Elle favorise un fort sentiment d’appartenance. Les liens familiaux traversent les générations. Plus de membres signifient plus d’entraide. Les grandes familles créent des souvenirs collectifs riches. Les amis sont choisis librement, ce qui renforce la qualité des liens. Ils offrent un soutien affectif différent et complémentaire. On peut se confier plus facilement à ses amis. Les amis partagent souvent les mêmes centres d’intérêt. L’amitié peut parfois être plus solide que les relations familiales.",
+            "inconvenients": "Les conflits familiaux peuvent être douloureux. Les amis peuvent parfois s’éloigner avec le temps.",
+            "conseils": "L’idéal serait de pouvoir compter à la fois sur une famille soudée et sur des amis proches. Cela dit, chacun trouve son équilibre selon son histoire et ses besoins affectifs.",
+            "conclusion": "En conclusion, famille et amis jouent des rôles complémentaires. L’idéal est de pouvoir compter sur les deux."
+          },
+          {
+            "theme": "Travail et intégration",
+            "sujet": "Pensez-vous que les entreprises doivent accompagner les nouveaux employés pour faciliter leur intégration ? Êtes-vous d’accord ?",
+            "introduction": "Lorsqu’un nouvel employé arrive dans une entreprise, il est souvent stressé et perdu. C’est pourquoi les entreprises ont un rôle important à jouer pour faciliter son intégration.",
+            "avantages": "Un bon accueil favorise l’adaptation rapide. Cela réduit le stress et les erreurs au début. La motivation augmente si l’on se sent soutenu. Une bonne intégration renforce la cohésion d’équipe. Cela limite le risque de départ précoce du salarié.",
+            "inconvenients": "Cela demande du temps et des moyens à l’entreprise. Certains employés préfèrent apprendre par eux-mêmes. L’accompagnement peut être mal perçu s’il est trop intrusif. Toutes les entreprises n’ont pas la même culture d’intégration. L’efficacité dépend aussi de la personnalité du nouvel employé.",
+            "conseils": "L’accompagnement des nouveaux employés est essentiel pour favoriser leur réussite. Un équilibre entre autonomie et soutien permet une intégration plus efficace.",
+            "conclusion": "En conclusion, les entreprises doivent mettre en place des actions simples mais efficaces pour que les nouveaux employés se sentent accueillis et intégrés."
+          },
+          {
+            "theme": "Éducation et souvenirs",
+            "sujet": "Quel était votre cours favori à l’école ? Expliquez pourquoi vous l’aimiez.",
+            "introduction": "À l’école, nous avons tous des matières que nous préférons. Cela dépend souvent du professeur, de notre intérêt pour le sujet ou de notre facilité.",
+            "avantages": "Par exemple : le cours de français pour la richesse des textes littéraires. Le professeur était passionné et rendait les leçons vivantes. La matière permettait de développer l’esprit critique. Les exercices pratiques étaient variés et intéressants. Ce cours m’a aidé à améliorer ma communication écrite et orale.",
+            "inconvenients": "Aimer une matière ne veut pas dire qu’on réussit toujours dedans. Les goûts changent avec le temps. D’autres matières moins aimées restent nécessaires dans la vie.",
+            "conseils": "Un cours favori reflète souvent la qualité de l’enseignement et l’intérêt personnel pour la matière. Aimer une discipline facilite l’apprentissage et motive à progresser.",
+            "conclusion": "En conclusion, les matières préférées à l’école peuvent influencer notre parcours, mais il est important de garder un équilibre et de rester curieux."
+          },
+          {
+            "theme": "Carrière et expatriation",
+            "sujet": "À votre avis, vivre à l’étranger garantit-il une réussite professionnelle ? Pourquoi ou pourquoi pas ?",
+            "introduction": "Vivre à l'étranger est souvent vu comme une expérience valorisée. Mais est-ce une garantie de succès professionnel, ou simplement un atout parmi d'autres ?",
+            "avantages": "Cela permet d’acquérir une expérience internationale valorisée. La maîtrise de nouvelles langues est un atout professionnel. Travailler à l’étranger développe l’adaptabilité. Les opportunités peuvent être meilleures dans certains pays. Cela enrichit le réseau professionnel.",
+            "inconvenients": "La réussite dépend aussi des compétences et du secteur d’activité. L’intégration professionnelle peut être difficile à cause des barrières culturelles. Les diplômes étrangers ne sont pas toujours reconnus. La compétition peut être rude sur le marché local. La réussite professionnelle n’est pas garantie par la simple expatriation.",
+            "conseils": "Vivre à l’étranger est une expérience enrichissante mais ne garantit pas automatiquement le succès professionnel. Cela reste un atout si l’on sait s’adapter et valoriser ses compétences.",
+            "conclusion": "En conclusion, vivre à l’étranger peut être un avantage important, mais ce n’est pas une garantie. La réussite dépend surtout du travail personnel et des opportunités saisies."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 2,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Travail et intégration",
+            "sujet": "Comment les entreprises peuvent-elles aider les nouveaux employés à bien s’intégrer ?",
+            "introduction": "L’intégration est une étape clé pour qu’un nouvel employé se sente à l’aise et devienne rapidement efficace. Les entreprises ont plusieurs moyens pour faciliter ce processus.",
+            "avantages": "Mettre en place un programme de formation aide les nouveaux à comprendre leur rôle. Proposer un parrain ou un collègue référent facilite l’adaptation. Organiser des activités de groupe permet de créer des liens rapidement. Donner des explications claires sur l’organisation évite le stress.",
+            "inconvenients": "Certaines entreprises n’ont pas assez de moyens pour mettre en place ces programmes. Trop d’accompagnement peut rendre les employés dépendants. Les intégrations collectives ne tiennent pas toujours compte des besoins personnels.",
+            "conseils": "Je pense que l’intégration est essentielle pour qu’un employé se sente bien et reste motivé. Par exemple, dans mon ancien travail, j’ai eu un collègue qui m’a guidé les premiers jours. Grâce à lui, je me suis adapté rapidement à l’ambiance et aux tâches.",
+            "conclusion": "En conclusion, les entreprises doivent mettre en place des actions simples mais efficaces pour que les nouveaux employés se sentent accueillis et intégrés."
+          },
+          {
+            "theme": "Carrière et mobilité",
+            "sujet": "Selon vous, vivre dans plusieurs pays offre-t-il un meilleur avenir professionnel ?",
+            "introduction": "Vivre dans plusieurs pays est une expérience de plus en plus courante. Beaucoup pensent que cela peut être un atout pour la carrière.",
+            "avantages": "Cela permet d’apprendre plusieurs langues. On découvre différentes façons de travailler. Les employeurs apprécient les expériences internationales. On développe des compétences d’adaptation.",
+            "inconvenients": "Changer souvent de pays peut rendre la vie instable. La reconnaissance des diplômes ou des expériences n’est pas toujours automatique. On peut avoir du mal à garder un réseau professionnel solide.",
+            "conseils": "Je pense que vivre dans plusieurs pays est une chance, car on gagne en ouverture d’esprit et en compétences. Par exemple, un ami qui a travaillé en Espagne et au Canada a trouvé facilement un poste de manager, car son parcours intéressait beaucoup d’employeurs.",
+            "conclusion": "En conclusion, cette mobilité est un atout certain, mais il faut bien la préparer et la valoriser sur le marché du travail."
+          },
+          {
+            "theme": "Éducation et souvenirs",
+            "sujet": "Quelle matière aimiez-vous le plus à l’école ? Pourquoi ?",
+            "introduction": "À l’école, nous avons tous des matières que nous préférons. Cela dépend souvent du professeur, de notre intérêt pour le sujet ou de notre facilité.",
+            "avantages": "On choisit souvent une matière où l’on se sent à l’aise. Aimer une matière motive à mieux travailler. Cela peut orienter les choix d’études ou de carrière.",
+            "inconvenients": "Aimer une matière ne veut pas dire qu’on réussit toujours dedans. Les goûts changent avec le temps. D’autres matières moins aimées restent nécessaires dans la vie.",
+            "conseils": "Personnellement, j’aimais beaucoup l’histoire. J’aimais apprendre comment les sociétés ont évolué et comprendre les événements passés. Cela m’a aidé plus tard dans mes études, car j’avais déjà une bonne culture générale.",
+            "conclusion": "En conclusion, les matières préférées à l’école peuvent influencer notre parcours, mais il est important de garder un équilibre et de rester curieux."
+          },
+          {
+            "theme": "Éducation et programmes",
+            "sujet": "Quelles matières devraient être davantage enseignées à l’école ? Pourquoi ?",
+            "introduction": "Les programmes scolaires évoluent avec la société. Certaines matières gagneraient à être renforcées ou introduites pour mieux préparer les élèves à la vie active et citoyenne.",
+            "avantages": "Les cours de langues étrangères ouvrent plus d’opportunités professionnelles. Les matières liées à l’écologie sensibilisent à la protection de la planète. L’informatique est indispensable aujourd’hui dans tous les métiers. L’éducation financière aide à mieux gérer son argent.",
+            "inconvenients": "Ajouter de nouvelles matières peut surcharger les élèves. Toutes les écoles n’ont pas les moyens d’offrir plus de cours spécialisés. Les matières de base comme le français et les mathématiques restent prioritaires.",
+            "conseils": "Je pense que l’informatique et l’écologie devraient être renforcées à l’école. Par exemple, savoir utiliser les outils numériques est devenu indispensable dans presque tous les métiers, et comprendre les enjeux environnementaux prépare les jeunes à agir pour l’avenir.",
+            "conclusion": "En conclusion, moderniser les programmes avec des matières actuelles est essentiel pour préparer les élèves au monde de demain."
+          },
+          {
+            "theme": "Relations humaines",
+            "sujet": "Pensez-vous qu’il vaut mieux avoir une grande famille ou de bons amis ? Pourquoi ?",
+            "introduction": "Dans la vie, les relations humaines sont essentielles. Certaines personnes privilégient les liens familiaux, d’autres laissent une grande place à leurs amis.",
+            "avantages": "La famille est présente dans les moments importants. Elle offre un soutien moral et matériel. Les liens familiaux durent souvent toute la vie. On choisit ses amis selon ses affinités. Les amis peuvent comprendre des choses que la famille ne comprend pas toujours. Ils partagent souvent les mêmes centres d’intérêt.",
+            "inconvenients": "Les conflits familiaux peuvent être douloureux. Les amis peuvent parfois s’éloigner avec le temps.",
+            "conseils": "Je pense que les deux sont importants, mais de bons amis sont essentiels pour le quotidien. Par exemple, quand j’ai eu une période difficile loin de ma famille, ce sont mes amis proches qui m’ont soutenu et aidé à avancer.",
+            "conclusion": "En conclusion, famille et amis jouent des rôles complémentaires. L’idéal est de pouvoir compter sur les deux."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 1,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Relations humaines",
+            "sujet": "Êtes-vous d’accord que la gentillesse permet toujours d’être écouté et respecté ?",
+            "introduction": "On dit souvent qu’on attire plus de mouches avec du miel qu’avec du vinaigre. Mais dans un monde parfois rude, la gentillesse est-elle toujours une stratégie gagnante pour se faire respecter ?",
+            "avantages": "Être gentil aide à créer une bonne relation avec les autres. Les gens écoutent plus facilement une personne polie et respectueuse. La gentillesse favorise la coopération et la confiance.",
+            "inconvenients": "Certaines personnes profitent de la gentillesse des autres. Être trop gentil peut donner l’impression de manquer d’autorité. Parfois, il faut être ferme pour se faire respecter.",
+            "conseils": "Je pense que la gentillesse est importante, mais elle ne suffit pas toujours. Il faut aussi savoir poser des limites pour ne pas être exploité. Par exemple, un collègue de travail qui accepte toujours d’aider sans rien dire peut finir par être surchargé, alors qu’un collègue gentil mais ferme garde le respect des autres.",
+            "conclusion": "En conclusion, une gentillesse intelligente, alliée à la fermeté, est la clé du respect."
+          },
+          {
+            "theme": "Vie affective",
+            "sujet": "Peut-on, selon vous, être heureux en restant célibataire ?",
+            "introduction": "La société valorise souvent la vie en couple. Pourtant, de plus en plus de personnes choisissent le célibat. Est-ce un frein au bonheur, ou une autre façon de s’épanouir ?",
+            "avantages": "Être célibataire permet d’avoir plus de liberté et d’indépendance. On peut se concentrer sur ses passions et ses projets personnels. Certaines personnes se sentent épanouies sans couple.",
+            "inconvenients": "La solitude peut peser au fil du temps. Partager sa vie avec quelqu’un apporte du soutien et de l’affection. Dans certaines cultures, rester célibataire peut être mal vu.",
+            "conseils": "Je pense qu’il est possible d’être heureux en étant célibataire, surtout si on a une vie sociale active et des projets personnels. Par exemple, une amie célibataire voyage beaucoup et s’investit dans son travail, et elle se dit très épanouie. Mais il faut aussi avoir des amis ou une famille pour ne pas se sentir isolé.",
+            "conclusion": "En conclusion, le célibat peut être une source de bonheur si on sait l’apprécier."
+          },
+          {
+            "theme": "Société et égalité",
+            "sujet": "Est-il important de consacrer une journée spéciale aux droits des femmes ? Pourquoi ?",
+            "introduction": "La journée internationale des droits des femmes est un événement annuel. Certains la jugent essentielle, d'autres pensent qu'elle est symbolique. Quel est son véritable intérêt ?",
+            "avantages": "Cela permet de rappeler les inégalités qui existent encore. C’est l’occasion de valoriser les réussites des femmes. Cette journée sensibilise les jeunes générations.",
+            "inconvenients": "Certains estiment qu’une seule journée n’est pas suffisante. Cela peut donner l’impression que les droits des femmes sont un sujet secondaire. Dans certains cas, cette journée est plus symbolique que réellement utile.",
+            "conseils": "Je pense que cette journée est importante car elle permet d’ouvrir des débats et de sensibiliser la société. Par exemple, dans certaines écoles, des ateliers sont organisés ce jour-là pour parler d’égalité, ce qui aide les jeunes à comprendre que les droits des femmes concernent tout le monde.",
+            "conclusion": "En conclusion, c’est un symbole fort, mais le combat pour l’égalité est quotidien."
+          },
+          {
+            "theme": "Médias et apprentissage",
+            "sujet": "La télévision peut-elle être un moyen de s’instruire ? Qu’en pensez-vous ?",
+            "introduction": "La télévision est souvent pointée du doigt pour son aspect abrutissant. Pourtant, elle propose aussi des chaînes culturelles et des documentaires. Peut-on réellement apprendre en regardant la télé ?",
+            "avantages": "Il existe des documentaires éducatifs de qualité. On peut découvrir l’histoire, la science ou la culture grâce à certains programmes. La télévision permet de s’informer rapidement sur l’actualité.",
+            "inconvenients": "Beaucoup d’émissions sont faites surtout pour divertir, pas pour instruire. Certaines informations peuvent être superficielles ou biaisées. Les jeunes préfèrent parfois les réseaux sociaux ou Internet pour apprendre.",
+            "conseils": "Je pense que la télévision peut être un bon moyen de s’instruire si on choisit les bons programmes. Par exemple, j’ai appris beaucoup de choses sur les animaux grâce à une série documentaire. Mais il faut compléter avec des lectures ou Internet pour avoir plus de détails.",
+            "conclusion": "En conclusion, la télévision est un outil comme un autre : tout dépend de l’usage qu’on en fait."
+          },
+          {
+            "theme": "Travail et passion",
+            "sujet": "D’après vous, aimer son métier est-il essentiel pour réussir sa carrière professionnelle ? Pourquoi ?",
+            "introduction": "La question de l’épanouissement au travail est centrale dans nos sociétés. Faut-il absolument aimer ce que l’on fait pour réussir, ou la réussite peut-elle passer par d’autres voies ?",
+            "avantages": "Quand on aime son travail, on est plus motivé et productif. On investit plus d’énergie et de temps dans son métier. Cela rend la vie professionnelle plus agréable et moins stressante.",
+            "inconvenients": "Certaines personnes réussissent même sans passion, juste par nécessité. Le salaire et la stabilité comptent aussi beaucoup. On peut aimer son travail mais ne pas avoir de reconnaissance.",
+            "conseils": "Je pense qu’aimer son métier est un atout important, mais ce n’est pas la seule condition de réussite. Par exemple, quelqu’un peut aimer enseigner mais avoir du mal à avancer dans sa carrière à cause du manque de postes. En revanche, la passion permet de garder la motivation malgré les difficultés.",
+            "conclusion": "En conclusion, c’est un atout, mais la discipline et le travail peuvent aussi mener à la réussite."
+          }
+        ]
+      }
+    }
+  ]
+}
