@@ -1,8 +1,9 @@
 {
-  "partie": 1,
+"parties": [
+  "numero": 1,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
-  "variantes": {
+  "reponse": {
     "sujets": [
       {
         "sujet": "Je suis votre collègue et j’ai passé quelques jours dans une région du Canada. Vous me posez des questions sur mon séjour (endroits visités, logement, activités, etc.).",
@@ -81,7 +82,7 @@
       }
     ]
   },
-  "partie": 2,
+  "numero": 2,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -163,7 +164,7 @@
       }
     ]
   },
-  "partie": 3,
+  "numero": 3,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -245,7 +246,7 @@
       }
     ]
   },
-  "partie": 4,
+  "numero": 4,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -327,7 +328,7 @@
       }
     ]
   },
-  "partie": 5,
+  "numero": 5,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -409,7 +410,7 @@
       }
     ]
   },
-  "partie": 6,
+  "numero": 6,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -469,7 +470,7 @@
           "Comment fais-tu pour trouver des idées d'articles ?",
           "Quels conseils donnerais-tu pour attirer des lecteurs ?",
           "Utilises-tu les réseaux sociaux pour promouvoir ton blog ?",
-          "Comment gères-tu la partie technique et la mise en page ?",
+          "Comment gères-tu la numero technique et la mise en page ?",
           "Est-ce que tu gagnes de l'argent avec ton blog ?",
           "Combien de temps consacres-tu à ton blog chaque semaine ?"
         ]
@@ -491,7 +492,7 @@
       }
     ]
   },
-  "partie": 7,
+  "numero": 7,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -573,7 +574,7 @@
       }
     ]
   },
-  "partie": 8,
+  "numero": 8,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -655,7 +656,7 @@
       }
     ]
   },
-  "partie": 9,
+  "numero": 9,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -737,7 +738,7 @@
       }
     ]
   },
-  "partie": 10,
+  "numero": 10,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -819,7 +820,7 @@
       }
     ]
   },
-  "partie": 11,
+  "numero": 11,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -901,7 +902,7 @@
       }
     ]
   },
-  "partie": 12,
+  "numero": 12,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -983,7 +984,7 @@
       }
     ]
   },
-  "partie": 13,
+  "numero": 13,
   "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
   "duree": 330,
   "variantes": {
@@ -1065,4 +1066,5 @@
       }
     ]
   }
+ ]
 }
