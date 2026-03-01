@@ -1,0 +1,436 @@
+{
+  "parties": [
+    {
+      "numero": 8,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Alimentation",
+            "sujet": "Que pensez-vous de la qualité de l’alimentation dans votre pays ? Pourquoi ?",
+            "introduction": "La qualité de l’alimentation est un sujet important. Dans mon pays, il y a à la fois des aspects positifs et négatifs concernant ce que nous mangeons.",
+            "avantages": "Les produits locaux sont souvent frais et variés. La cuisine traditionnelle est équilibrée. Les marchés offrent beaucoup de choix. Les habitudes culinaires valorisent les repas en famille.",
+            "inconvenients": "La consommation de produits industriels augmente. Le fast-food attire de plus en plus de jeunes. Les prix des produits sains sont parfois élevés. Les modes de vie rapides réduisent le temps pour cuisiner.",
+            "conseils": "À mon avis, la qualité de l’alimentation reste correcte mais elle se dégrade avec l’influence de la restauration rapide. Par exemple, dans mon quartier, les jeunes mangent plus souvent des sandwichs que des plats faits maison.",
+            "conclusion": "En conclusion, il faut encourager une alimentation plus saine et équilibrée, surtout chez les jeunes."
+          },
+          {
+            "theme": "Environnement",
+            "sujet": "Comment évaluez-vous les mesures prises pour réduire la pollution dans votre ville ?",
+            "introduction": "La pollution est un problème majeur dans beaucoup de villes. Différentes mesures sont mises en place pour y faire face, mais leur efficacité est variable.",
+            "avantages": "Des campagnes de sensibilisation existent. Certaines zones sont devenues piétonnes. Le tri sélectif se développe progressivement. Les transports en commun s’améliorent.",
+            "inconvenients": "Les voitures restent trop nombreuses. Les contrôles ne sont pas toujours efficaces. Les usines continuent de polluer beaucoup. Les habitants ne respectent pas toujours les règles.",
+            "conseils": "Je pense que les mesures sont utiles mais encore insuffisantes. Par exemple, ma ville a créé des pistes cyclables, mais peu de gens les utilisent vraiment car la circulation reste dangereuse.",
+            "conclusion": "En conclusion, des efforts supplémentaires sont nécessaires, tant de la part des autorités que des citoyens."
+          },
+          {
+            "theme": "Société et apparence",
+            "sujet": "Aujourd’hui, chacun souhaite rester jeune. Qu’en pensez-vous ?",
+            "introduction": "La quête de jeunesse est omniprésente dans notre société, que ce soit à travers les soins, le sport ou la chirurgie. Ce phénomène mérite réflexion.",
+            "avantages": "Les progrès de la médecine aident à garder une bonne santé. Le sport et l’alimentation permettent de rester actif. Les gens veulent profiter plus longtemps de la vie. La jeunesse est valorisée dans la société moderne.",
+            "inconvenients": "Vieillir est un processus naturel inévitable. La pression sociale pousse à refuser l’âge réel. Certains dépensent trop en soins ou en chirurgie. La peur de vieillir empêche d’accepter son évolution.",
+            "conseils": "À mon avis, il est normal de vouloir rester jeune, mais il faut surtout bien vieillir. Par exemple, ma grand-mère marche tous les jours et garde une bonne énergie sans chercher à paraître plus jeune que son âge.",
+            "conclusion": "En conclusion, il est plus important de vieillir en bonne santé que de chercher à tout prix à paraître jeune."
+          },
+          {
+            "theme": "Animaux de compagnie",
+            "sujet": "Pour quelles raisons désire-t-on avoir un animal de compagnie chez soi ?",
+            "introduction": "Avoir un animal de compagnie est une expérience très répandue. Les motivations pour adopter un animal sont multiples et souvent personnelles.",
+            "avantages": "Les animaux apportent de la compagnie. Ils aident à réduire le stress. Ils peuvent favoriser les rencontres sociales. Ils apprennent aux enfants le sens des responsabilités.",
+            "inconvenients": "Un animal demande du temps et de l’attention. Les frais de nourriture et de soins sont élevés. Les voyages deviennent plus compliqués. Certains voisins peuvent être dérangés.",
+            "conseils": "Je pense qu’avoir un animal de compagnie est une belle expérience si on est prêt à assumer les responsabilités. Mon cousin a adopté un chien et cela lui a apporté beaucoup de bonheur mais aussi des contraintes.",
+            "conclusion": "En conclusion, il faut bien réfléchir avant d’adopter un animal, car c’est un engagement important."
+          },
+          {
+            "theme": "Médias et éducation",
+            "sujet": "D’après vous, quel est le rôle de la télévision dans l’éducation des enfants ?",
+            "introduction": "La télévision est un média omniprésent dans les foyers. Son rôle éducatif est souvent débattu, entre potentiel instructif et risques de passivité.",
+            "avantages": "Les programmes éducatifs aident à apprendre. La télévision développe la curiosité. Certains documentaires expliquent bien la science ou l’histoire. Elle peut compléter l’enseignement scolaire.",
+            "inconvenients": "Beaucoup de programmes ne sont pas adaptés aux enfants. La publicité influence négativement leurs comportements. Trop de temps devant la télévision nuit à la santé. Les parents ne contrôlent pas toujours le contenu regardé.",
+            "conseils": "Je pense que la télévision peut avoir un rôle éducatif si elle est bien encadrée. Par exemple, mon petit frère regarde des documentaires animaliers qui lui apprennent beaucoup, mais mes parents limitent la durée pour éviter les excès.",
+            "conclusion": "En conclusion, la télévision est un outil qui, bien utilisé, peut être bénéfique pour l’éducation des enfants."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 7,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Éducation et diversité",
+            "sujet": "La mixité sociale à l’école (enfants issus de milieux et de cultures différents) aide-t-elle à développer la tolérance ? Pourquoi ?",
+            "introduction": "L’école est un lieu de vie où se côtoient des enfants de différentes origines. Cette diversité peut être une force pour apprendre le respect et l’ouverture.",
+            "avantages": "Les enfants apprennent à respecter les différences. Cela favorise l’ouverture d’esprit dès le plus jeune âge. Les élèves découvrent d’autres cultures et modes de vie. La diversité prépare mieux à la vie en société.",
+            "inconvenients": "Les différences peuvent parfois créer des tensions. Certains enfants risquent de se sentir exclus. Les enseignants doivent gérer des situations plus complexes. La mixité ne garantit pas automatiquement la tolérance.",
+            "conseils": "À mon avis, la mixité sociale à l’école est bénéfique car elle aide les enfants à mieux comprendre les autres. Dans ma classe, il y avait des élèves de plusieurs pays et cela a enrichi nos échanges et renforcé le respect mutuel.",
+            "conclusion": "En conclusion, la mixité est une richesse qui, bien accompagnée, développe la tolérance."
+          },
+          {
+            "theme": "Expatriation",
+            "sujet": "S’expatrier en famille est plus simple que de partir seul(e). Êtes-vous d’accord avec cette idée ?",
+            "introduction": "Partir vivre à l’étranger est une décision importante, que l’on soit seul ou accompagné. Chaque situation a ses propres défis et avantages.",
+            "avantages": "La famille offre un soutien moral important. On partage les difficultés ensemble. La transition est moins brutale avec ses proches. Les enfants s’intègrent souvent rapidement à l’école.",
+            "inconvenients": "Les démarches sont plus lourdes pour plusieurs personnes. Le coût de la vie est plus élevé avec une famille. On a moins de liberté personnelle. Les responsabilités augmentent à l’étranger.",
+            "conseils": "Je pense qu’il est plus simple de partir seul au début, car on peut s’adapter plus vite. Un ami est parti seul au Canada et il a préparé le terrain avant de faire venir sa famille, ce qui a facilité leur installation.",
+            "conclusion": "En conclusion, partir seul permet plus de flexibilité, mais partir en famille apporte un soutien précieux."
+          },
+          {
+            "theme": "Travail et formation",
+            "sujet": "Les employeurs doivent donner la possibilité de suivre des formations tout au long de la vie. Est-ce utile pour chacun ? Qu’en pensez-vous ?",
+            "introduction": "La formation continue est un sujet clé dans le monde du travail. Elle permet aux employés de s’adapter aux évolutions et de progresser dans leur carrière.",
+            "avantages": "Cela permet de rester compétitif sur le marché du travail. Les salariés s’adaptent aux nouvelles technologies. Cela offre des chances de promotion. Les formations stimulent la motivation et la confiance.",
+            "inconvenients": "Toutes les entreprises n’ont pas les moyens de financer des formations. Certains employés ne sont pas intéressés. Les formations prennent du temps sur le travail. Les compétences acquises ne sont pas toujours utilisées.",
+            "conseils": "À mon avis, les formations continues sont très utiles. Dans mon entreprise, plusieurs collègues ont suivi des cours de langue et cela leur a permis d’évoluer vers de nouveaux postes.",
+            "conclusion": "En conclusion, la formation continue est un investissement rentable pour l’entreprise et l’employé."
+          },
+          {
+            "theme": "Travail et compétences",
+            "sujet": "Pour évoluer dans son entreprise, il faut avant tout être compétent dans son travail. Partagez-vous cette opinion ?",
+            "introduction": "La compétence est souvent perçue comme la clé de l’évolution professionnelle. Cependant, d’autres facteurs peuvent entrer en jeu.",
+            "avantages": "Un bon niveau de compétence est la base de la progression. Les employeurs valorisent la qualité du travail. La compétence inspire le respect des collègues. Les résultats concrets ouvrent des opportunités.",
+            "inconvenients": "Les relations et le réseau jouent aussi un rôle. La communication et le charisme sont importants. Certains avancent grâce à leurs contacts plus que par leurs compétences. L’évolution dépend parfois des opportunités disponibles.",
+            "conseils": "Je pense que la compétence est essentielle mais pas suffisante. Par exemple, un collègue très compétent n’a pas eu de promotion car il manquait de visibilité, tandis qu’un autre plus communicatif a progressé plus vite.",
+            "conclusion": "En conclusion, la compétence est nécessaire, mais elle doit être accompagnée d’autres qualités comme la communication."
+          },
+          {
+            "theme": "Alimentation et habitudes",
+            "sujet": "Selon vous, peut-on vraiment modifier ses habitudes alimentaires une fois adulte ? Pourquoi ?",
+            "introduction": "Nos habitudes alimentaires se forgent souvent dans l’enfance. Les changer à l’âge adulte peut sembler difficile, mais c’est possible avec de la motivation.",
+            "avantages": "On peut changer pour des raisons de santé. Les campagnes de sensibilisation influencent les choix. Les adultes peuvent découvrir de nouveaux goûts. La volonté personnelle permet d’adopter de meilleures pratiques.",
+            "inconvenients": "Les habitudes acquises depuis longtemps sont difficiles à changer. Le manque de temps pousse à garder les mêmes repas. Les traditions familiales influencent fortement l’alimentation. Beaucoup abandonnent rapidement les nouveaux régimes.",
+            "conseils": "Je pense qu’il est possible de changer ses habitudes alimentaires mais cela demande beaucoup d’efforts. Par exemple, mon oncle a arrêté de manger trop de sucre après un problème de santé, et aujourd’hui il suit une alimentation plus équilibrée.",
+            "conclusion": "En conclusion, c’est un défi, mais avec de la persévérance, il est tout à fait possible de changer."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 6,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Médias et mode de vie",
+            "sujet": "Certaines personnes décident de ne jamais regarder la télévision. Qu’en pensez-vous ?",
+            "introduction": "Dans un monde où les écrans sont omniprésents, certains font le choix radical de ne pas regarder la télévision. Ce mode de vie a ses avantages et ses inconvénients.",
+            "avantages": "On gagne du temps pour d’autres activités. On évite les programmes de mauvaise qualité. Cela réduit la dépendance aux écrans. On peut s’informer par d’autres moyens plus rapides.",
+            "inconvenients": "La télévision reste une source d’information importante. Certains programmes sont éducatifs et culturels. C’est un moyen de divertissement accessible à tous. Cela permet de partager des moments en famille.",
+            "conseils": "À mon avis, il est utile de limiter la télévision mais pas de l’abandonner totalement. Par exemple, je regarde seulement les documentaires, ce qui me permet de m’informer sans perdre trop de temps.",
+            "conclusion": "En conclusion, ne pas regarder la télévision est un choix personnel, mais une utilisation modérée peut être bénéfique."
+          },
+          {
+            "theme": "Sport et argent",
+            "sujet": "Pour certains, les sportifs professionnels gagnent beaucoup trop d’argent. Êtes-vous d’accord ?",
+            "introduction": "Les salaires des sportifs de haut niveau font souvent débat. Sont-ils justifiés par leurs performances et l’audience, ou sont-ils excessifs par rapport à d’autres métiers ?",
+            "avantages": "Leurs revenus sont disproportionnés par rapport à d’autres métiers. Cela crée des inégalités sociales choquantes. Les clubs dépensent des sommes énormes pour peu de personnes. Beaucoup de jeunes rêvent seulement d’argent plutôt que d’efforts.",
+            "inconvenients": "Ils attirent des millions de spectateurs et de sponsors. Leur carrière est courte et exigeante. Les revenus financent aussi des équipes et du personnel. Les salaires suivent la loi de l’offre et de la demande.",
+            "conseils": "Je pense que les sportifs gagnent trop par rapport à d’autres professions utiles, comme les médecins ou les enseignants. Par exemple, un joueur de football gagne en un mois ce qu’un professeur ne gagne pas en toute une vie.",
+            "conclusion": "En conclusion, il y a un déséquilibre qui mériterait d’être corrigé pour plus de justice sociale."
+          },
+          {
+            "theme": "Enfants et écrans",
+            "sujet": "Selon vous, les enfants passent-ils trop de temps devant les écrans (télévisions, ordinateurs, téléphones, tablettes, etc.) ? Pourquoi ?",
+            "introduction": "Les écrans font partie du quotidien des enfants. Si certains usages sont éducatifs, le temps passé devant ceux-ci est souvent source d’inquiétude.",
+            "avantages": "Les enfants passent souvent plusieurs heures par jour devant les écrans. Cela peut nuire à leur santé physique. Le temps d’écran réduit les activités en plein air. Les résultats scolaires peuvent en souffrir.",
+            "inconvenients": "Certains programmes ou jeux sont éducatifs. Les écrans aident à apprendre des langues ou des compétences. Ils permettent de rester en contact avec les proches. Utilisés avec modération, ils ne posent pas de problème.",
+            "conseils": "À mon avis, les enfants passent trop de temps devant les écrans. Dans ma famille, mon petit frère joue beaucoup aux jeux vidéo, et ses devoirs en souffrent. Un équilibre est nécessaire pour éviter les excès.",
+            "conclusion": "En conclusion, il est essentiel d’encadrer le temps d’écran des enfants."
+          },
+          {
+            "theme": "Intégration et culture",
+            "sujet": "Lorsqu’on s’installe dans un nouveau pays, faut-il modifier ses habitudes de vie (vêtements, alimentation, vacances, etc.) ?",
+            "introduction": "S’installer dans un nouveau pays implique de s’adapter à une nouvelle culture. La question est de savoir jusqu’où doit aller cette adaptation.",
+            "avantages": "Cela aide à mieux s’intégrer. On comprend plus facilement la culture locale. On évite les malentendus sociaux. Cela montre du respect envers la société d’accueil.",
+            "inconvenients": "On risque de perdre son identité culturelle. Certaines habitudes personnelles peuvent être conservées. L’intégration ne signifie pas l’effacement des différences. La diversité est une richesse pour le pays d’accueil.",
+            "conseils": "Je pense qu’il faut adapter certaines habitudes sans tout changer. Par exemple, garder sa cuisine traditionnelle à la maison mais adopter les codes vestimentaires du pays permet de trouver un équilibre.",
+            "conclusion": "En conclusion, l’intégration réussie est un équilibre entre adaptation et préservation de son identité."
+          },
+          {
+            "theme": "Immigration et emploi",
+            "sujet": "Si vous partez vivre au Canada, pensez-vous pouvoir trouver facilement un emploi ? Pourquoi ?",
+            "introduction": "Le Canada est une destination prisée pour les immigrants. Trouver un emploi est souvent la clé d’une intégration réussie, mais cela peut présenter des défis.",
+            "avantages": "Le Canada a besoin d’immigrants pour son marché du travail. Certains secteurs recrutent facilement comme la santé ou l’informatique. Les politiques d’immigration favorisent l’intégration professionnelle. La diversité est bien accueillie dans les entreprises.",
+            "inconvenients": "La reconnaissance des diplômes peut poser problème. La concurrence est forte dans certaines villes. Les débuts sont souvent difficiles sans expérience locale. Le niveau de langue peut limiter les opportunités.",
+            "conseils": "À mon avis, il est possible de trouver un emploi au Canada mais cela demande des efforts. Un cousin qui a immigré a suivi une formation complémentaire pour faire reconnaître son diplôme et il a trouvé ensuite un bon poste.",
+            "conclusion": "En conclusion, la clé est une bonne préparation et la persévérance."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 5,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Santé et médias",
+            "sujet": "Chaque été, de nombreux magazines proposent des régimes pour maigrir. Pensez-vous que ces recommandations soient fiables et utiles ? Pourquoi ?",
+            "introduction": "Les magazines regorgent de conseils minceur, surtout avant l’été. Leur fiabilité est souvent discutable et leurs effets, parfois dangereux.",
+            "avantages": "Ils donnent des idées pour mieux manger. Certains conseils peuvent être motivants. Les gens prennent conscience de leur santé. Les régimes sont faciles à trouver et à lire.",
+            "inconvenients": "Beaucoup de régimes ne sont pas adaptés à tous. Les recommandations manquent de base scientifique. Cela peut mettre en danger la santé. Les résultats sont souvent temporaires.",
+            "conseils": "À mon avis, ces régimes ne sont pas vraiment fiables. Par exemple, une amie a suivi un programme trouvé dans un magazine, elle a perdu du poids rapidement mais a tout repris ensuite. Il vaut mieux demander l’avis d’un spécialiste.",
+            "conclusion": "En conclusion, mieux vaut se tourner vers des professionnels de la santé pour des conseils personnalisés."
+          },
+          {
+            "theme": "Amitié",
+            "sujet": "Deux personnes très différentes ne peuvent jamais rester amies toute leur vie. Êtes-vous d’accord ?",
+            "introduction": "L’amitié est une relation complexe. Les différences peuvent être une source d’enrichissement ou, au contraire, de conflit. Peuvent-elles durer toute une vie ?",
+            "avantages": "Les différences peuvent créer des conflits. Les modes de vie opposés compliquent les rencontres. Les valeurs différentes séparent parfois les amis. L’entourage ne comprend pas toujours cette amitié.",
+            "inconvenients": "Les différences peuvent enrichir la relation. Le respect et la tolérance permettent de rester amis. Les expériences variées apportent un équilibre. Une amitié solide résiste aux différences.",
+            "conseils": "Je pense que deux personnes différentes peuvent rester amies si elles se respectent. J’ai un ami très sportif alors que je ne le suis pas, pourtant nous restons proches grâce à notre complicité et nos discussions.",
+            "conclusion": "En conclusion, l’amitié dépend plus de la qualité de la relation que de la similitude des personnes."
+          },
+          {
+            "theme": "Voyage",
+            "sujet": "Voyager dans un pays étranger transforme une personne. Qu’en pensez-vous ?",
+            "introduction": "On dit souvent que les voyages forment la jeunesse. Découvrir un autre pays, une autre culture, peut effectivement changer notre vision du monde.",
+            "avantages": "On découvre de nouvelles cultures. On apprend à s’adapter à d’autres situations. Cela ouvre l’esprit et change la vision du monde. Les voyages développent l’autonomie.",
+            "inconvenients": "Certains voyagent mais restent fermés aux autres. Un court voyage ne suffit pas pour changer profondément. Le coût peut limiter les expériences vécues. Voyager n’assure pas forcément un changement personnel.",
+            "conseils": "À mon avis, voyager transforme surtout ceux qui veulent apprendre. Par exemple, après mon séjour en Espagne, j’ai changé ma façon de voir la gastronomie et la vie quotidienne, car j’ai partagé beaucoup de moments avec les habitants.",
+            "conclusion": "En conclusion, le voyage est une opportunité de transformation, mais tout dépend de l’attitude du voyageur."
+          },
+          {
+            "theme": "Technologie et vie quotidienne",
+            "sujet": "Avec les outils numériques, les tâches quotidiennes demandent moins de temps. Partagez-vous cette opinion ?",
+            "introduction": "Les outils numériques sont censés nous simplifier la vie. Gagnons-nous vraiment du temps au quotidien, ou créent-ils de nouvelles contraintes ?",
+            "avantages": "On gagne du temps avec les applications. Les démarches administratives sont plus rapides. Les achats en ligne évitent les déplacements. Les rappels automatiques facilitent l’organisation.",
+            "inconvenients": "Les problèmes techniques font parfois perdre du temps. Certaines personnes ne savent pas bien utiliser la technologie. Cela peut créer une dépendance. Tout n’est pas encore disponible en ligne.",
+            "conseils": "Je pense que les outils numériques aident beaucoup mais pas dans tous les cas. Par exemple, payer une facture en ligne est rapide, mais si le site ne fonctionne pas, cela devient plus compliqué que prévu.",
+            "conclusion": "En conclusion, les outils numériques sont un gain de temps potentiel, mais leur fiabilité et notre maîtrise sont déterminantes."
+          },
+          {
+            "theme": "Intégration sociale",
+            "sujet": "À votre avis, est-il facile de se faire des amis quand on arrive dans un nouveau pays ? Pourquoi ?",
+            "introduction": "Arriver dans un nouveau pays, c’est souvent repartir de zéro sur le plan social. Se faire des amis est un défi important pour se sentir chez soi.",
+            "avantages": "Les gens sont souvent curieux des étrangers. Les cours de langue et associations créent des rencontres. Les nouvelles technologies facilitent les contacts. Les voisins peuvent aider à s’intégrer.",
+            "inconvenients": "La barrière de la langue complique les relations. Les habitudes culturelles sont parfois très différentes. Certaines personnes ne sont pas ouvertes aux étrangers. Le manque de temps rend difficile la création de liens.",
+            "conseils": "À mon avis, il est possible de se faire des amis dans un nouveau pays, mais cela demande des efforts. Un collègue arrivé du Maroc a commencé par participer à un club de sport et c’est ainsi qu’il s’est intégré et a rencontré ses premiers amis.",
+            "conclusion": "En conclusion, il faut être actif et ouvert pour créer des liens dans un nouveau pays."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 4,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Carrière et expatriation",
+            "sujet": "Avoir vécu dans un pays étranger constitue-t-il un atout pour réussir sa carrière professionnelle ?",
+            "introduction": "L’expérience internationale est de plus en plus valorisée sur un CV. Mais est-elle un véritable atout pour la carrière, ou seulement un plus superficiel ?",
+            "avantages": "On apprend une nouvelle langue utile pour le travail. Cela développe l’adaptabilité et l’ouverture d’esprit. Les entreprises apprécient l’expérience internationale. On acquiert des compétences interculturelles.",
+            "inconvenients": "Tous les employeurs ne valorisent pas cette expérience. Les compétences techniques restent prioritaires. Vivre à l’étranger peut parfois ralentir une carrière locale. L’adaptation prend du temps avant d’être rentable.",
+            "conseils": "À mon avis, avoir vécu à l’étranger est un vrai atout, car cela montre la capacité à s’adapter. Par exemple, un ami revenu du Canada a trouvé rapidement un poste en France, car il parlait mieux anglais et avait travaillé dans un environnement international.",
+            "conclusion": "En conclusion, c’est une expérience qui, bien valorisée, peut faire la différence."
+          },
+          {
+            "theme": "Économie et tourisme",
+            "sujet": "Le tourisme représente-t-il une voie de développement intéressante pour tous les pays ? Pourquoi ?",
+            "introduction": "Le tourisme est souvent présenté comme un moteur de développement économique. Pourtant, ses effets ne sont pas toujours positifs pour les pays d’accueil.",
+            "avantages": "Le tourisme crée de nombreux emplois. Il rapporte des devises au pays. Il valorise le patrimoine culturel et naturel. Il favorise les échanges entre les peuples.",
+            "inconvenients": "Certains pays n’ont pas assez d’infrastructures. Le tourisme peut dégrader l’environnement. Il y a une forte dépendance économique. La culture locale peut être déformée pour plaire aux touristes.",
+            "conseils": "Je pense que le tourisme est une bonne voie de développement s’il est bien géré. Par exemple, au Maroc, il génère beaucoup d’emplois, mais certaines villes souffrent du sur-tourisme, ce qui montre qu’il faut trouver un équilibre.",
+            "conclusion": "En conclusion, le tourisme doit être durable et respectueux pour être vraiment bénéfique."
+          },
+          {
+            "theme": "Immigration",
+            "sujet": "Selon vous, est-il difficile de s’installer à l’étranger ? Pourquoi ?",
+            "introduction": "Le rêve d’une vie à l’étranger attire beaucoup de monde. Mais la réalité de l’installation est souvent plus complexe qu’il n’y paraît.",
+            "avantages": "La langue peut être une barrière. On est loin de la famille et des amis. Les démarches administratives sont compliquées. Le coût de la vie peut être élevé.",
+            "inconvenients": "On découvre de nouvelles opportunités. On apprend une autre culture. Il existe des associations pour aider les nouveaux arrivants. Internet facilite la communication avec les proches.",
+            "conseils": "À mon avis, s’installer à l’étranger est difficile au début, mais devient plus simple avec le temps. Par exemple, un cousin en Italie a eu des problèmes administratifs au départ, mais après quelques mois il s’est fait des amis et s’est bien intégré.",
+            "conclusion": "En conclusion, c’est un défi, mais avec de la persévérance, il peut être surmonté."
+          },
+          {
+            "theme": "Éducation et langues",
+            "sujet": "Est-il préférable de commencer l’apprentissage des langues étrangères dès l’enfance ? Pourquoi ?",
+            "introduction": "L’apprentissage des langues est un atout. Commencer tôt est souvent présenté comme la meilleure méthode pour bien les maîtriser.",
+            "avantages": "Les enfants apprennent plus vite. Ils développent une bonne prononciation. Cela améliore leurs capacités cognitives. Ils auront plus d’opportunités plus tard.",
+            "inconvenients": "Trop de langues peuvent perturber certains enfants. Les enseignants ne sont pas toujours bien formés. Cela peut augmenter la charge scolaire. L’enfant risque de perdre l’intérêt si ce n’est pas adapté.",
+            "conseils": "Je pense qu’il est préférable de commencer tôt, car les enfants mémorisent facilement. Par exemple, ma petite sœur a appris l’anglais à l’école primaire et aujourd’hui elle parle avec confiance alors que les adultes ont plus de mal.",
+            "conclusion": "En conclusion, une initiation précoce et ludique est un excellent investissement."
+          },
+          {
+            "theme": "Société et célébrités",
+            "sujet": "D’après vous, pour quelles raisons les gens aiment-ils découvrir la vie des célébrités ?",
+            "introduction": "La fascination pour les célébrités est un phénomène de société. Derrière cet intérêt se cachent des motivations psychologiques et sociales.",
+            "avantages": "Les célébrités inspirent beaucoup de personnes. Leur style de vie fait rêver. Les médias donnent facilement accès à leur quotidien. Cela crée un sujet de discussion entre amis.",
+            "inconvenients": "Cela détourne l’attention des vrais problèmes. Les célébrités montrent souvent une image artificielle. Cela peut créer de la jalousie ou de la frustration. La vie privée des stars est trop exposée.",
+            "conseils": "À mon avis, les gens aiment suivre les célébrités surtout pour se divertir. Par exemple, beaucoup regardent des émissions de télévision sur leur vie, mais il faut garder du recul car ce n’est pas la réalité quotidienne.",
+            "conclusion": "En conclusion, c’est un divertissement, mais il ne faut pas en faire une obsession."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 3,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Voyage et indépendance",
+            "sujet": "Certains choisissent de voyager en solitaire. Qu’en pensez-vous ?",
+            "introduction": "Voyager seul est une expérience de plus en plus prisée. Elle attire ceux qui recherchent la liberté et la rencontre. Mais est-ce fait pour tout le monde ?",
+            "avantages": "On est totalement libre dans ses choix. Cela permet de mieux se connaître soi-même. On fait plus facilement des rencontres locales. C’est une expérience enrichissante et unique.",
+            "inconvenients": "Voyager seul peut être dangereux. Les frais ne sont pas partagés. Il peut y avoir un sentiment de solitude. Certaines activités sont difficiles à faire seul.",
+            "conseils": "À mon avis, voyager seul est une belle expérience, mais ce n’est pas pour tout le monde. Par exemple, j’ai un ami qui est parti seul au Japon et il a adoré sa liberté, mais moi je préfère partager les moments de voyage avec quelqu’un pour en garder des souvenirs communs.",
+            "conclusion": "En conclusion, c’est une aventure personnelle qui peut être très formatrice pour ceux qui osent."
+          },
+          {
+            "theme": "Travail et management",
+            "sujet": "Préférez-vous travailler sous la direction d’un homme ou d’une femme ? Pourquoi ?",
+            "introduction": "La question du genre dans le management est souvent source de stéréotypes. Pourtant, les qualités d’un bon chef ne devraient-elles pas être jugées indépendamment de son sexe ?",
+            "avantages": "Certains trouvent les femmes plus attentives à la communication. D’autres pensent que les hommes sont plus fermes dans la gestion. Le style de direction peut influencer l’ambiance de travail. Le choix dépend souvent des expériences personnelles.",
+            "inconvenients": "Les compétences ne dépendent pas du genre. Ce qui compte, c’est la personnalité et le professionnalisme. Les préjugés peuvent créer des injustices. Une bonne équipe fonctionne bien peu importe le sexe du responsable.",
+            "conseils": "Pour moi, il n’y a pas de différence importante entre un chef homme ou femme. Ce qui compte, c’est la manière de diriger. Par exemple, j’ai eu une responsable femme très motivante et un responsable homme également très compétent. Dans les deux cas, l’efficacité dépendait plus de leur caractère que de leur genre.",
+            "conclusion": "En conclusion, le genre n’est pas un critère pertinent pour juger un manager."
+          },
+          {
+            "theme": "Technologie et éducation",
+            "sujet": "Les jeux vidéo contribuent-ils au développement de l’enfant ? Qu’en pensez-vous ?",
+            "introduction": "Longtemps diabolisés, les jeux vidéo sont aujourd’hui reconnus pour leurs potentiels éducatifs. Reste à savoir s’ils sont bénéfiques ou non pour le développement de l’enfant.",
+            "avantages": "Les jeux peuvent améliorer la concentration. Certains développent la mémoire et la logique. Ils stimulent la créativité. Les jeux en ligne favorisent parfois le travail en équipe.",
+            "inconvenients": "Une pratique excessive nuit à la santé. Les enfants risquent l’isolement social. Certains jeux contiennent de la violence. Cela peut faire baisser les résultats scolaires.",
+            "conseils": "Je pense que les jeux vidéo peuvent être positifs si on en contrôle la durée. Par exemple, mon petit cousin joue une heure par jour à des jeux éducatifs et cela lui a beaucoup aidé pour apprendre l’anglais, mais au-delà cela peut devenir nocif.",
+            "conclusion": "En conclusion, tout est une question de dosage et de choix des jeux."
+          },
+          {
+            "theme": "Tourisme et économie",
+            "sujet": "Pour quelles raisons chercherait-on à développer le tourisme dans un pays ?",
+            "introduction": "Le tourisme est souvent perçu comme une manne économique. Mais au-delà des aspects financiers, il y a d’autres raisons de vouloir attirer des visiteurs.",
+            "avantages": "Le tourisme crée des emplois locaux. Il rapporte de l’argent à l’économie. Il valorise le patrimoine culturel. Il favorise les échanges entre cultures.",
+            "inconvenients": "Cela peut abîmer l’environnement. Les prix augmentent dans les zones touristiques. La culture locale peut être déformée. Une trop grande dépendance économique est risquée.",
+            "conseils": "Selon moi, développer le tourisme est important mais doit rester contrôlé. Par exemple, au Maroc, certaines villes vivent surtout du tourisme et cela crée beaucoup d’emplois, mais il faut aussi protéger les sites pour ne pas les dégrader.",
+            "conclusion": "En conclusion, c’est un levier de développement puissant, à condition de le gérer durablement."
+          },
+          {
+            "theme": "Expatriation",
+            "sujet": "Vivre à l’étranger est difficile. Êtes-vous d’accord avec cette idée ?",
+            "introduction": "Partir vivre dans un autre pays est souvent vu comme une aventure excitante. Mais derrière ce rêve, la réalité du quotidien peut être semée d’embûches. Est-ce vraiment si difficile ?",
+            "avantages": "La langue peut être une barrière. On peut se sentir isolé sans famille ni amis. Les démarches administratives sont compliquées. Le choc culturel peut être fort.",
+            "inconvenients": "On découvre de nouvelles opportunités. On apprend une autre langue et une autre culture. Cela développe l’autonomie. On peut améliorer sa carrière professionnelle.",
+            "conseils": "À mon avis, vivre à l’étranger est difficile au début mais très formateur. J’ai un ami qui a étudié en France, il a eu du mal les premiers mois, mais ensuite il s’est fait des amis et a trouvé un bon stage qui a changé sa vie.",
+            "conclusion": "En conclusion, c’est un défi difficile mais extrêmement gratifiant."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 2,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Éducation et récompense",
+            "sujet": "Certains parents offrent de l’argent à leurs enfants lorsqu’ils obtiennent de bons résultats scolaires. Qu’en pensez-vous ?",
+            "introduction": "Récompenser les enfants pour leurs bonnes notes est une pratique courante. Mais est-ce une bonne façon de les motiver pour leurs études ?",
+            "avantages": "Cela motive les enfants à travailler davantage. C’est une récompense concrète et facile à comprendre. Les enfants apprennent la valeur de l’argent. Les parents montrent leur reconnaissance.",
+            "inconvenients": "L’enfant peut travailler seulement pour l’argent. Cela réduit l’importance de l’effort personnel. Les familles sans moyens ne peuvent pas toujours le faire. Cela peut créer de la jalousie entre frères et sœurs.",
+            "conseils": "À mon avis, il vaut mieux encourager les enfants avec des gestes symboliques plutôt qu’avec de l’argent. Par exemple, mes parents m’offraient une sortie en famille quand j’avais de bonnes notes, et cela me motivait beaucoup sans donner une valeur uniquement matérielle au travail scolaire.",
+            "conclusion": "En conclusion, la récompense doit rester un encouragement, pas une finalité."
+          },
+          {
+            "theme": "Économie et environnement",
+            "sujet": "Selon vous, est-il possible de favoriser la croissance économique tout en protégeant l’environnement ?",
+            "introduction": "Le dilemme entre croissance économique et protection de l’environnement est au cœur des débats. Peut-on vraiment concilier les deux ?",
+            "avantages": "Les nouvelles technologies permettent de produire de façon plus propre. Les énergies renouvelables créent des emplois. Les consommateurs demandent de plus en plus de produits respectueux de la nature. Des politiques publiques peuvent encourager un équilibre.",
+            "inconvenients": "La croissance rapide utilise beaucoup de ressources naturelles. Les entreprises préfèrent souvent le profit immédiat. Les mesures écologiques coûtent cher au départ. Certains secteurs, comme l’industrie lourde, polluent forcément.",
+            "conseils": "Je pense qu’il est possible de concilier économie et écologie, mais cela demande du temps et de la volonté politique. Par exemple, dans ma ville, des bus électriques ont été introduits. Cela coûte plus cher au début, mais à long terme cela réduit la pollution et crée aussi des emplois dans la maintenance.",
+            "conclusion": "En conclusion, c’est un défi, mais des solutions existent pour une croissance plus verte."
+          },
+          {
+            "theme": "Voyage et lecture",
+            "sujet": "Peut-on découvrir un pays uniquement grâce aux livres ? Pourquoi ?",
+            "introduction": "Les livres sont de fantastiques fenêtres sur le monde. Mais peuvent-ils remplacer l’expérience réelle d’un voyage dans un pays étranger ?",
+            "avantages": "Les livres donnent beaucoup d’informations sur l’histoire et la culture. Ils permettent de voyager sans se déplacer. C’est une solution économique et accessible à tous. On peut découvrir plusieurs points de vue à travers différents auteurs.",
+            "inconvenients": "Lire ne permet pas de vivre la réalité quotidienne. On ne ressent pas l’ambiance, les odeurs, les sons. Les livres peuvent contenir des clichés ou être incomplets. Le contact avec les habitants est essentiel pour comprendre un pays.",
+            "conseils": "À mon avis, les livres donnent une première idée, mais ils ne remplacent pas l’expérience réelle. Quand j’ai voyagé en Espagne, j’avais lu beaucoup avant, mais c’est seulement en parlant avec les habitants et en découvrant les rues que j’ai vraiment compris la culture.",
+            "conclusion": "En conclusion, les livres sont une excellente préparation, mais rien ne remplace le voyage lui-même."
+          },
+          {
+            "theme": "Intégration et traditions",
+            "sujet": "Pour réussir son intégration dans un pays, il faudrait abandonner ses traditions. Qu’en pensez-vous ?",
+            "introduction": "L’intégration dans un nouveau pays est un processus délicat. Faut-il pour cela renoncer à ses propres traditions, ou peut-on les conserver ?",
+            "avantages": "Cela permet d’éviter les malentendus culturels. On est plus facilement accepté dans la société d’accueil. On montre sa volonté d’adaptation. Cela peut ouvrir de nouvelles opportunités professionnelles ou sociales.",
+            "inconvenients": "Les traditions font partie de l’identité personnelle. Les abandonner peut créer un sentiment de perte. L’intégration ne veut pas dire l’effacement des différences. La diversité culturelle est une richesse pour la société.",
+            "conseils": "Je pense qu’il ne faut pas renoncer à ses traditions, mais plutôt trouver un équilibre. Par exemple, un ami marocain en France a gardé ses fêtes familiales tout en participant aux événements locaux, et cela lui a permis de s’intégrer tout en restant lui-même.",
+            "conclusion": "En conclusion, l’intégration réussie est un métissage, pas un reniement."
+          },
+          {
+            "theme": "Travail et bien-être",
+            "sujet": "Une entreprise doit placer le bien-être de ses employés au premier plan pour bien fonctionner. Qu’en pensez-vous ?",
+            "introduction": "Le bien-être au travail est devenu une préoccupation majeure. Est-il la clé de la réussite d’une entreprise, ou n’est-ce qu’un élément parmi d’autres ?",
+            "avantages": "Des employés heureux travaillent mieux. Cela réduit l’absentéisme et le stress. Une bonne ambiance améliore la coopération. Cela donne une meilleure image de l’entreprise.",
+            "inconvenients": "Cela peut coûter cher à l’entreprise. Les résultats financiers peuvent être mis au second plan. Certains employés profitent trop des avantages. Le bien-être ne garantit pas toujours l’efficacité.",
+            "conseils": "Je pense qu’une entreprise doit vraiment se soucier du bien-être de ses employés, car sans eux rien ne fonctionne. Par exemple, une société qui offre des horaires flexibles attire plus de candidats motivés, ce qui améliore la productivité à long terme.",
+            "conclusion": "En conclusion, le bien-être des employés est un investissement, pas une charge."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 1,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Immigration",
+            "sujet": "Immigrer seul(e) ou en famille, qu’en pensez-vous ?",
+            "introduction": "L’immigration est un projet de vie qui peut se faire seul ou en famille. Les deux options présentent des avantages et des défis spécifiques.",
+            "avantages": "On a plus de liberté pour prendre ses décisions. C’est plus simple d’organiser le voyage et les démarches. On s’adapte plus vite sans avoir à gérer les besoins d’une famille.",
+            "inconvenients": "On garde un soutien affectif et moral. Les enfants peuvent grandir dans un nouvel environnement culturel. La famille aide à surmonter les difficultés d’intégration.",
+            "conseils": "Je pense qu’immigrer avec sa famille peut être plus rassurant, même si c’est plus compliqué. Par exemple, un ami qui est parti seul au Canada s’est senti isolé au début, alors qu’une autre connaissance venue avec sa femme et ses enfants a trouvé plus facilement un équilibre.",
+            "conclusion": "En conclusion, le choix dépend des priorités et de la situation personnelle de chacun."
+          },
+          {
+            "theme": "Alimentation et habitudes",
+            "sujet": "Les habitudes alimentaires évoluent au fil de la vie. Qu’en pensez-vous ?",
+            "introduction": "Notre alimentation n’est pas figée. Elle peut changer pour des raisons de santé, de goût ou de mode de vie. Cette évolution est-elle inévitable ?",
+            "avantages": "En vieillissant, on fait plus attention à sa santé. Les goûts changent avec l’âge. Les modes de vie (travail, famille, sport) influencent l’alimentation.",
+            "inconvenients": "Certaines personnes gardent les mêmes habitudes toute leur vie. Les contraintes financières peuvent limiter le changement. La culture et l’éducation alimentaire jouent un rôle important et restent stables.",
+            "conseils": "Je pense que nos habitudes alimentaires évoluent forcément, car nos besoins changent. Par exemple, quand j’étais étudiant, je mangeais souvent vite et pas très équilibré. Aujourd’hui, je choisis plus de légumes et de plats faits maison pour être en meilleure santé.",
+            "conclusion": "En conclusion, s’adapter à ses besoins est une clé pour une bonne santé."
+          },
+          {
+            "theme": "Travail et compétences",
+            "sujet": "Il faut être compétent dans son métier pour progresser dans la hiérarchie d’une entreprise. Êtes-vous d’accord avec cette affirmation ?",
+            "introduction": "La compétence est souvent considérée comme le principal moteur de l’évolution professionnelle. Mais est-ce toujours le cas dans le monde du travail ?",
+            "avantages": "Les compétences permettent d’obtenir de meilleurs résultats. Un salarié compétent est plus facilement reconnu et promu. La formation et le savoir-faire renforcent la confiance de l’employeur.",
+            "inconvenients": "Parfois, ce sont les relations ou le réseau qui comptent plus que la compétence. Dans certaines entreprises, l’ancienneté prime sur les compétences. Les promotions peuvent aussi dépendre de la chance ou du contexte.",
+            "conseils": "Je pense que la compétence est essentielle, mais elle n’est pas suffisante. Par exemple, un collègue très compétent n’a pas été promu car il manquait de contacts, alors qu’une autre personne moins expérimentée a eu le poste grâce à son réseau.",
+            "conclusion": "En conclusion, la compétence est nécessaire, mais il faut aussi savoir la faire valoir."
+          },
+          {
+            "theme": "Éducation et diversité",
+            "sujet": "La diversité au sein des écoles favorise-t-elle l’épanouissement de tous les élèves. Êtes-vous d’accord avec cette affirmation ?",
+            "introduction": "L’école est un microcosme de la société. La diversité des origines et des cultures peut-elle contribuer au bien-être et à la réussite de tous les élèves ?",
+            "avantages": "La diversité permet de découvrir d’autres cultures et façons de penser. Elle favorise le respect et la tolérance. Les élèves apprennent à vivre dans une société variée.",
+            "inconvenients": "Les différences peuvent parfois créer des tensions. Certains élèves peuvent se sentir exclus ou incompris. Si l’école n’accompagne pas bien la diversité, cela peut devenir un problème.",
+            "conseils": "Je pense que la diversité est une richesse, à condition qu’elle soit bien encadrée. Par exemple, dans mon lycée, il y avait des élèves de plusieurs pays, et cela a permis d’organiser des journées culturelles très enrichissantes.",
+            "conclusion": "En conclusion, la diversité est un atout, mais elle nécessite un accompagnement pédagogique adapté."
+          },
+          {
+            "theme": "Travail et formation continue",
+            "sujet": "Les employeurs doivent-ils permettre à leurs employés de suivre des formations tout au long de leur vie professionnelle ? Cela est-il bénéfique pour tout le monde ?",
+            "introduction": "Dans un monde qui change vite, la formation continue est souvent présentée comme une nécessité. Mais est-ce vraiment bénéfique pour tous, employés comme employeurs ?",
+            "avantages": "Les employés développent de nouvelles compétences utiles à l’entreprise. La formation augmente la motivation et la confiance au travail. Cela permet de s’adapter aux évolutions technologiques.",
+            "inconvenients": "Les formations coûtent cher à l’entreprise. Tous les employés ne profitent pas de la formation de la même façon. Certains peuvent utiliser leurs nouvelles compétences pour quitter l’entreprise.",
+            "conseils": "Je pense que la formation continue est bénéfique, car elle profite à la fois aux employés et aux employeurs. Par exemple, un collègue qui a suivi une formation en informatique a pu améliorer ses compétences et aider l’entreprise à moderniser ses outils, ce qui a été positif pour tout le monde.",
+            "conclusion": "En conclusion, c’est un investissement gagnant-gagnant qui permet de rester compétitif."
+          }
+        ]
+      }
+    }
+  ]
+}
