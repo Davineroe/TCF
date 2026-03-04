@@ -72,5 +72,17 @@
       "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/12_tache2.json",
       "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2025/12_tache3.json"
     }
-  }
+  },
+    "eo_2024": {
+    "1": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2024/12_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2024/12_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2024/12_tache3.json"
+    },
+    "2": {
+      "tache_1": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2024/11_tache1.json",
+      "tache_2": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2024/11_tache2.json",
+      "tache_3": "https://davineroe.github.io/TCF/combinaison/eo_combinaison/2024/11_tache3.json"
+    }
+  },
 }
