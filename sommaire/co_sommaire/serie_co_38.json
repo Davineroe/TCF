@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q01-prepmontcfca.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q01-prepmontcfca-1024x395.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q02-prepmontcfca.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q02-prepmontcfca-1024x677.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q03-prepmontcfca.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q03-prepmontcfca-1024x686.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q04-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q05-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q06-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q07-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle a besoin de sa valise.",
+      "Elle invite Mika à dîner.",
+      "Elle part en vacances.",
+      "Elle travaille ce week-end."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CO27-8-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La représentation est annulée.",
+      "Le spectacle est complet.",
+      "Les places sont trop chères.",
+      "Les réservations sont terminées."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q09-prepmontcfca-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour annuler sa réservation.",
+      "Pour changer sa date d’arrivée.",
+      "Pour connaître l’heure d’ouverture.",
+      "Pour savoir le prix d’une chambre."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q10-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De consulter un médecin.",
+      "De regarder la météo.",
+      "De s’acheter des vêtements.",
+      "De s’habiller chaudement."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q11-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle a dû marcher jusqu’au travail.",
+      "Il y avait beaucoup de circulation.",
+      "Son véhicule est tombé en panne.",
+      "Un accident a bloqué le boulevard."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q12-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Dans la poubelle.",
+      "Aux archives.",
+      "Dans le tiroir.",
+      "Sur le bureau."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q13-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Parce qu’elle interdit à sa fille d’en manger.",
+      "Parce qu’elle déteste les sucreries.",
+      "Parce que sa fille a un problème de poids.",
+      "Parce qu’il en reste encore chez elles."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q14-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle n’existe plus depuis un moment.",
+      "Il n’est pas dans la bonne rue.",
+      "Il s’est trompé d’adresse et de nom.",
+      "Le passant ignore où elle se trouve."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q15-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un repas entre collègues.",
+      "Un voyage en Italie.",
+      "Une fête d’anniversaire.",
+      "Une formation d’équipe."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/06/CO37Q16-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a un restaurant.",
+      "Il déteste les pizzas.",
+      "Il préfère rester chez lui.",
+      "Il sait bien faire la cuisine."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q17-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il correspond à ses attentes.",
+      "Il dure six mois au total.",
+      "Il est proche de son domicile.",
+      "Il offre un très bon salaire."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q18-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle accueille une main-d’œuvre ciblée et expérimentée.",
+      "Elle bénéficie d’une situation géographique privilégiée.",
+      "Elle est la destination d’une population migrante jeune.",
+      "Elle pratique une politique nataliste très attractive."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q19-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Chez un boucher.",
+      "Chez un médecin.",
+      "Chez un libraire.",
+      "Chez un électricien."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q20-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’envie de changer de profession.",
+      "La nécessité de trouver un travail.",
+      "La réalisation d’un rêve de jeunesse.",
+      "La rencontre avec un passionné."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q21-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De conforter le rôle de chacun.",
+      "De faire des économies.",
+      "De renforcer les relations.",
+      "De transmettre des savoir-faire."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q22-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle a perdu aux jeux de société.",
+      "Elle est restée près de chez elle.",
+      "La météo était très mauvaise.",
+      "Le logement était mal situé."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q23-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un dispositif pour retrouver l’objet volé.",
+      "Un matériau incassable empêchant les vols.",
+      "Un site pour conseiller les victimes de vol.",
+      "Une invention pour identifier les voleurs."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q24-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Acquérir son logement.",
+      "Épargner de l’argent.",
+      "Exercer un autre métier.",
+      "Fonder un foyer."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q25-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils évitent les dépenses de voyage à cause de la crise.",
+      "Ils refusent de voyager en avion pour quelques jours.",
+      "Ils voyagent chaque année sur tous les continents.",
+      "Ils voyagent plusieurs fois par an de façon brève."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q26-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’anticiper les questions posées.",
+      "De faire valoir ses compétences.",
+      "De surprendre par son attitude.",
+      "D’évoquer le respect des règles."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q27-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle annonce la fin prochaine d’un projet.",
+      "Elle félicite des collègues pour un travail.",
+      "Elle prépare une opération commerciale.",
+      "Elle présente une nouveauté à des clients."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q28-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De devenir entrepreneur en créant son entreprise.",
+      "De s’informer sur les secteurs porteurs d’emplois.",
+      "De suivre une formation diplômante à l’université.",
+      "D’élargir sa recherche d’emploi à d’autres domaines."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q29-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il apportera des maladies inconnues jusqu’à présent.",
+      "Il dévoilera de nouvelles données sur notre passé.",
+      "Il facilitera la recherche sur les virus dans le monde.",
+      "Il s’accélérera à cause des forages dans l’Himalaya."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q30-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La confiance en soi que lui a donné sa réussite.",
+      "La conviction que sa carrière de comédien était terminée.",
+      "La découverte de sa fragilité en tant qu’être humain.",
+      "La révélation que les succès d’acteur sont éphémères."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q31-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle annonce de futures découvertes.",
+      "Elle confirme une théorie ancienne.",
+      "Elle illustre les progrès du matériel scientifique.",
+      "Elle permet la poursuite des travaux d’Einstein."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q32-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La richesse d’un père, c’est d’incarner l’autorité pour ses enfants.",
+      "Transmettre le sens des responsabilités, tel est le rôle du père.",
+      "La relation d’un père avec son enfant s’enrichit dans le partage du risque.",
+      "Le père doit construire la relation au plus tôt sans se cantonner à un seul rôle."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q33-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un horrible meurtre.",
+      "Une simple plaisanterie.",
+      "Un terrible drame.",
+      "Une grosse dispute."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q34-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Les classiques revisités.",
+      "Les nouveaux comédiens.",
+      "Les pièces de qualité.",
+      "Les records d’affluence."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q35-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle cherche à défendre sa richesse culturelle.",
+      "Elle s’adapte aux variations climatiques.",
+      "Elle s’organise en sociétés complexes.",
+      "Elle s’interroge sur le développement durable."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q36-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Les emballages respectent l’environnement.",
+      "Les livraisons s’effectuent en véhicules électriques.",
+      "Les marchandises sont stockées en extérieur.",
+      "Les produits sont acheminés de manière optimale."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q37-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’un citadin original.",
+      "D’un cuisinier renommé.",
+      "D’un historien passionné.",
+      "D’un homme préhistorique."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q38-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils achètent des objets conçus pour eux.",
+      "Ils deviennent de plus en plus nombreux.",
+      "Ils doivent se montrer dégourdis.",
+      "Ils sont mieux acceptés qu’autrefois."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2025/07/CO38Q39-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Le nombre de médiateurs est insuffisant pour répondre à la demande.",
+      "Les banques influencent les décisions prises par les médiateurs.",
+      "Les demandeurs trouvent que la procédure est trop longue et compliquée.",
+      "Quelle que soit la nature du litige, le médiateur n’a qu’un pouvoir consultatif."
+    ],
+    "bonne_reponse_index": 3
+  }
+]
