@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-01-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "À un cours de pâtisserie.",
+      "À un déjeuner chez un ami.",
+      "À une fête d’anniversaire.",
+      "À une sortie en discothèque."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-02-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Pour aller visiter un musée.",
+      "Pour participer à un concours.",
+      "Pour prendre un café ensemble.",
+      "Pour voir un événement sportif."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-03-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Aller à une réunion.",
+      "Déjeuner avec Claudia.",
+      "S’occuper des enfants.",
+      "Téléphoner à l’école."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/10/CE38-04-PREPMONTCFCA-1.png",
+    "sujet": "",
+    "choix": [
+      "Ils apprennent la géographie.",
+      "Ils invitent des amis à l’école.",
+      "Ils pratiquent des langues étrangères.",
+      "Ils préparent un voyage de classe."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-05-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Découvrir la nourriture locale",
+      "Gagner un repas traditionnel.",
+      "Prendre un cours de cuisine.",
+      "Visiter une ferme française."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-06-PREPMONTCFCA-1.png",
+    "sujet": "",
+    "choix": [
+      "D’écrire aux invités.",
+      "D’organiser la fête.",
+      "De garder des enfants.",
+      "De préparer des danses."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-07-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "La boutique est fermée.",
+      "La commande est arrivée.",
+      "La facture est disponible.",
+      "La livraison est en retard."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/10/CE38-08-PREPMONTCFCA-1.png",
+    "sujet": "",
+    "choix": [
+      "Une formation adaptée pendant les vacances.",
+      "Une grande variété de cours intensifs.",
+      "Une promotion spéciale pour un voyage.",
+      "Une réduction sur des stages pendant l’été."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/10/CE38-09-PREPMONTCFCA-1.png",
+    "sujet": "",
+    "choix": [
+      "De participer à un concours.",
+      "De s’inscrire à un stage.",
+      "De tester des activités",
+      "De voir un spectacle."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-10-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Comment acheter des produits congelés.",
+      "Comment cuisiner des recettes simples.",
+      "Comment faire à manger à bon marché.",
+      "Comment réaliser des plats originaux."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-11-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Gagner de l’argent pour leur séjour.",
+      "Participer à une compétition sportive.",
+      "Suivre un atelier de cuisine internationale.",
+      "Visiter un établissement scolaire étranger."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-12-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "D’utiliser des crèmes solaires à base de chocolat.",
+      "De diminuer sa consommation de chocolat.",
+      "De manger quotidiennement du chocolat.",
+      "De suivre un traitement de pilules au chocolat."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-13-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "D’envoyer très rapidement le devis.",
+      "D’interdire l’emploi de produits toxiques.",
+      "De libérer les lieux pendant les travaux.",
+      "De préciser la nature de l’intervention."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-14-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Certains solariums font une discrimination anti-jeunes.",
+      "La majorité des solariums ne respecte pas du tout la loi.",
+      "La plupart des jeunes filles ignorent l’interdiction légale.",
+      "La plupart des parents ignorent les dangers des solariums."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-15-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "D’assister à une réunion.",
+      "De participer à un voyage.",
+      "De suivre une formation.",
+      "De travailler à l’étranger."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-16-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "De dormir en milieu naturel.",
+      "De faire une visite originale.",
+      "De participer à un stage aventure.",
+      "De passer la nuit dans un zoo."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-17-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "La pression de la société.",
+      "La réputation des clubs.",
+      "Les bienfaits pour la santé.",
+      "Les envies des adolescents."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-18-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Corriger les mauvaises habitudes alimentaires des enfants.",
+      "Faire respecter la législation sur l’alimentation des enfants.",
+      "Mieux comprendre les préférences alimentaires des enfants.",
+      "Permettre aux enfants de découvrir de nouveaux aliments."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-19-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Annoncer le lancement d’une nouvelle ligne ferroviaire.",
+      "Faire patienter les usagers de la SNCF pendant leur trajet.",
+      "Promouvoir d’autres offres commerciales de la SNCF.",
+      "Rappeler que le train permet de rallier toutes les villes."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-20-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "L’origine historique de la recette.",
+      "Le secret d’une bonne préparation.",
+      "Les adresses où les consommer.",
+      "Les raisons de leur popularité."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-21-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Informer sur de nouvelles méthodes éducatives.",
+      "Montrer la vie de tous les jours d’un jeune couple.",
+      "Présenter les relations familiales avec humour.",
+      "Proposer de solutions a des situations de crise."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-22-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "C’est possible à la campagne.",
+      "C’est possible avec du temps.",
+      "C’est possible mais pénible.",
+      "C’est possible pour tous."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-23-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Pour améliorer leur situation financière.",
+      "Pour donner une bonne image d’eux.",
+      "Pour exécuter les ordres de la direction.",
+      "Pour quitter leur entreprise plus tôt."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-24-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Parce que la majorité des pays invités en a fait la demande.",
+      "Parce que la manifestation s’est centrée sur la région de Saint-Malo.",
+      "Parce que les partenaires ont réduit leurs subventions.",
+      "Parce que l’événement s’inscrit dans un principe d’universalité."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-25-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "L’urbanisation galopante des campagnes.",
+      "La faible étendue des réserves écologiques.",
+      "Le dérèglement climatique de la planète.",
+      "Les produits utilisés dans les cultures."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-26-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "L’esprit d’équipe est la clé de la réussite professionnelle.",
+      "La bonne humeur garantit de meilleures performances.",
+      "Le cadre de l’entreprise influe sur le moral des salariés.",
+      "Les primes contribuent à la motivation du personnel."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-27-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "L’image proposée par la publicité nuisait au fabricant.",
+      "Le produit vendu par la publicité était nocif pour la santé.",
+      "Le message véhiculé par la publicité était inacceptable.",
+      "L’usage du produit promu par la publicité était illicite."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-28-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Ils améliorent leurs résultats dans toutes les matières.",
+      "Ils regrettent le manque de possibilités d’échanges.",
+      "Ils s’impliquent de façon responsable dans les cours.",
+      "Ils sont de plus en plus nombreux à choisir ce système."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-29-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Comme un défaut d’honnêteté.",
+      "Comme un manque de confiance.",
+      "Comme une appréciation déguisée.",
+      "Comme une incitation à l’action."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-30-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Demander à une cliente de payer l’intégralité de sa commande.",
+      "Prévenir une cliente que sa commande sera livrée en retard.",
+      "Confirmer à une cliente que sa commande a bien été expédiée.",
+      "Prévenir une cliente qu’elle devra payer 20 euros de frais d’envoi."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-31-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Sur l’industrie des bois rares.",
+      "Sur la démographie dans ces zones.",
+      "Sur la pollution atmosphérique.",
+      "Sur la progression des cultures tropicales."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-32-PREPMONTCFCA-1.png",
+    "sujet": "",
+    "choix": [
+      "Le dosage des produits chimiques dans les aliments.",
+      "Le manque de lisibilité des étiquettes.",
+      "Les arguments hypocrites avancés par les fabricants.",
+      "Les conséquences sanitaires des ajouts."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-33-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "C’est un handicap qui peut se transformer en atout.",
+      "Il décuple l’ensemble des aptitudes cérébrales.",
+      "Il est officiellement reconnu comme une maladie.",
+      "Ses effets touchent plus particulièrement les seniors."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-34-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "L’idée de démocratie est aujourd’hui plus controversée qu’avant.",
+      "La démocratie est affaiblie par la diversité de ses formes.",
+      "La mise en place de la démocratie résulte d’un long processus.",
+      "Les fondements théoriques de la démocratie sont utopiques."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-35-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Ils se détériorent après un certain temps.",
+      "Ils sont dangereux pour la santé.",
+      "Ils sont nuisibles pour l’environnement.",
+      "Ils sont vendus à des prix élevés."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-36-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "L’influence de ses contemporains.",
+      "La singularité de ses portraits.",
+      "Son engouement pour la nature.",
+      "Son travail post-impressionniste."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-37-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Elle a accru la compétitivité industrielle.",
+      "Elle a amélioré les conditions de travail.",
+      "Elle a enrayé la hausse du chômage.",
+      "Elle a modifié l’organisation du travail."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-38-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "La dégradation des relations sociales à cause d’Internet.",
+      "La multiplication des sources d’information.",
+      "La nocivité des écrans sur le développement des enfants.",
+      "La recrudescence d’informations mensongères."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/12/CE39-39-PREPMONTCFCA.png",
+    "sujet": "",
+    "choix": [
+      "Il constitue une création artistique novatrice.",
+      "Il établit des ponts avec d’autres auteurs.",
+      "Il fait connaître les travaux d’un écrivain.",
+      "Il ouvre la voie à de prochaines réalisations."
+    ],
+    "bonne_reponse_index": 2
+  }
+]
