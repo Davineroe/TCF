@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q1.jpg",
+    "sujet": "",
+    "choix": [
+      "Le lundi matin.",
+      "Le mardi matin.",
+      "Le mercredi matin.",
+      "Le jeudi matin."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q2.jpg",
+    "sujet": "",
+    "choix": [
+      "Habiter à la compagne.",
+      "Réserver un hôtel.",
+      "Trouver un logement.",
+      "Vendre un appartement."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q3.jpg",
+    "sujet": "",
+    "choix": [
+      "Avec Mme Deor.",
+      "Avec un chauffeur.",
+      "En autobus.",
+      "En taxi."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q4.jpg",
+    "sujet": "",
+    "choix": [
+      "La comptable.",
+      "La secrétaire.",
+      "Le directeur.",
+      "Le réparateur."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q5.jpg",
+    "sujet": "",
+    "choix": [
+      "Une journée.",
+      "Une semaine.",
+      "Une nuit.",
+      "Un mois."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q6.jpg",
+    "sujet": "",
+    "choix": [
+      "Il est très occupé.",
+      "Il part en vacances.",
+      "Il travaille avec Fred.",
+      "Il veut venir plus tôt."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q7.jpg",
+    "sujet": "",
+    "choix": [
+      "À ses amis.",
+      "À ses collègues.",
+      "À ses enfants.",
+      "À ses voisins."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q8.jpg",
+    "sujet": "",
+    "choix": [
+      "En cours de soirée.",
+      "En début et en fin de soirée.",
+      "Entre chaque émission.",
+      "Quatre fois dans la soirée."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q9.jpg",
+    "sujet": "",
+    "choix": [
+      "Un atelier de cuisine.",
+      "Un déménagement.",
+      "Une fête entre voisins.",
+      "Une visite d’appartement."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q10.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle est autorisée.",
+      "Elle est dangereuse.",
+      "Elle est interdite.",
+      "Elle est limitée."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q11.jpg",
+    "sujet": "",
+    "choix": [
+      "Consulter le serveur vocal.",
+      "Prendre rendez-vous par téléphone.",
+      "Téléphoner aux horaires indiqués.",
+      "Demander le service de relation avec la clientèle."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q12.jpg",
+    "sujet": "",
+    "choix": [
+      "Un message d’excuse.",
+      "Une déclaration d’amour.",
+      "Une invitation à une fête.",
+      "Une lettre de vacances."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q13.jpg",
+    "sujet": "",
+    "choix": [
+      "D’envoyer très rapidement le devis.",
+      "D’interdire l’emploi de produits toxiques.",
+      "De libérer les lieux pendant les travaux.",
+      "De préciser la nature de l’intervention."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q14.jpg",
+    "sujet": "",
+    "choix": [
+      "Il montre des documentaires sur les conditions de vie des sourds.",
+      "Il organise des conférences sur la langue utilisée par les sourds.",
+      "Il présente des films réalisés par des personnes sourdes.",
+      "Il programme des spectacles destinés à un jeune public sourd."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q15.jpg",
+    "sujet": "",
+    "choix": [
+      "Casablanca.",
+      "Fès.",
+      "Marrakech.",
+      "Tanger."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q16.jpg",
+    "sujet": "",
+    "choix": [
+      "Un centre de loisirs pour les habitants de son quartier.",
+      "Un restaurant qui sert des spécialités de sa région.",
+      "Un service municipal d’aide sociale aux jeunes célibataires.",
+      "Une manière originale de rencontrer des gens près de chez elle."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q17.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour éviter de conduire.",
+      "Pour faire rêver les enfants.",
+      "Pour marcher sans souffrir.",
+      "Pour porter des objets lourds."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q18.jpg",
+    "sujet": "",
+    "choix": [
+      "Corriger les mauvaises habitudes alimentaires des enfants.",
+      "Faire respecter la législation sur l’alimentation des enfants.",
+      "Mieux comprendre les préférences alimentaires des enfants.",
+      "Permettre aux enfants de découvrir de nouveaux aliments."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q19.jpg",
+    "sujet": "",
+    "choix": [
+      "L’arrivée d’une troupe de comédiens à la campagne.",
+      "L’enquête policière d’une personne très rationnelle.",
+      "La vie des paysans néerlandais au XVIIIE siècle.",
+      "Les expériences originales d’un scientifique anglais."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q20.jpg",
+    "sujet": "",
+    "choix": [
+      "Leur conception de la cuisine est passée de mode.",
+      "Leur créativité leur assure une célébrité mondiale.",
+      "Leur nom s’est transformé en label de prestige.",
+      "Leurs établissements sont cotés en bourse."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q21.jpg",
+    "sujet": "",
+    "choix": [
+      "Le remboursement de son article.",
+      "L’échange de son téléphone.",
+      "L’envoi de son téléphone par la poste.",
+      "Une réclamation sur son achat."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q22.jpg",
+    "sujet": "",
+    "choix": [
+      "D’analyser les moyens de séduire les jeunes.",
+      "De moderniser le contenu des expositions.",
+      "De s’inspirer des approches pédagogiques scolaires.",
+      "De systématiser l’accès gratuit pour les adolescents."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q23.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle donne l’assurance d’un dépannage rapide.",
+      "Elle donne lieu à une réduction sur l’assurance.",
+      "Elle offre la possibilité d’une garantie de qualité.",
+      "Elle permet de dépenser moins d’argent."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q24.jpg",
+    "sujet": "",
+    "choix": [
+      "L’originalité des plats.",
+      "La qualité des produits.",
+      "Le cadre du restaurant.",
+      "Le prix des menus."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q25.jpg",
+    "sujet": "",
+    "choix": [
+      "Un rappel d’un impayé en cours.",
+      "Une facture à payer rapidement.",
+      "Une proposition de paiement différé.",
+      "Une erreur de règlement."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q26.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle favorise l’orientation des élèves après l’obtention du baccalauréat.",
+      "Elle permet de renforcer les liens éducatifs entre adultes et élèves.",
+      "Elle répond de manière pertinente aux difficultés et aux aspirations des élèves.",
+      "Elle veille à la concrétisation des projets professionnels des élèves."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q27.jpg",
+    "sujet": "",
+    "choix": [
+      "Obtenir de l’argent pour développer des centres d’accueil.",
+      "Convaincre les entreprises étrangères d’investir au Burundi.",
+      "Soutenir les étudiants burundais expatriés pour leurs études.",
+      "Trouver des bénévoles pour s’occuper des enfants à l’hôpital."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q28.jpg",
+    "sujet": "",
+    "choix": [
+      "Des outils de communication.",
+      "Des voyages organisés.",
+      "Une formation à l’écologie.",
+      "Un système d’information."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q29.jpg",
+    "sujet": "",
+    "choix": [
+      "L’abus d’anglicismes en langage informatique.",
+      "L’ambiguïté du néologisme « chat » à l’écrit.",
+      "Le laxisme orthographique dans les forums.",
+      "Le manque d’imagination des lexicologues."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q30.jpg",
+    "sujet": "",
+    "choix": [
+      "Guérir de leurs troubles du langage.",
+      "Intégrer une classe traditionnelle.",
+      "Préparer leur entrée au collègue.",
+      "Profiter d’un encadrement spécifique."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q31.jpg",
+    "sujet": "",
+    "choix": [
+      "D’attirer l’attention de l’interlocuteur.",
+      "D’imaginer des solutions originales.",
+      "De solliciter davantage la raison.",
+      "De trouver des réponses rapides."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q32.jpg",
+    "sujet": "",
+    "choix": [
+      "Le dosage des produits chimiques dans les aliments.",
+      "Le manque de lisibilité des étiquettes.",
+      "Les arguments hypocrites avancés par les fabricants.",
+      "Les conséquences sanitaires des ajouts."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q33.jpg",
+    "sujet": "",
+    "choix": [
+      "Il inquiète les patrons de sociétés.",
+      "Il touche les employés les plus faibles.",
+      "Son existence doit être officialisée.",
+      "Son traitement est peu efficace."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q34.jpg",
+    "sujet": "",
+    "choix": [
+      "Les gestes révèleraient systématiquement la langue maternelle des locuteurs.",
+      "Il existerait un ordre universel de la pensée, indépendant de l’ordre linguistique.",
+      "Il y aurait autant de façons de penser que de structures de langue différentes.",
+      "Les structures des langues seraient dépendantes de notre expérience du monde."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q35.jpg",
+    "sujet": "",
+    "choix": [
+      "C’est un vecteur de diffusion des œuvres littéraires.",
+      "C’est une source de connaissances sûre et fiable.",
+      "L’audience des émissions culturelles est en hausse.",
+      "La concurrence qu’elle mène à la lecture est acharnée."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q36.jpg",
+    "sujet": "",
+    "choix": [
+      "La quasi-absence d’héroïnes.",
+      "L’appel constant à la violence.",
+      "L’atténuation des clichés.",
+      "L’uniformité des scénarios."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q37.jpg",
+    "sujet": "",
+    "choix": [
+      "La capacité des plantes à nettoyer les sols.",
+      "La rentabilité d’un nouveau système d’extraction.",
+      "Le résultat des recherches de M. Van der Hent.",
+      "Les préoccupations écologistes des industriels."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q38.jpg",
+    "sujet": "",
+    "choix": [
+      "De concrétiser des objectifs personnels.",
+      "De fonctionner dans un cadre innovent.",
+      "De limiter la répartition des gains.",
+      "De renforcer les liens entre les générations."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-23Q39.jpg",
+    "sujet": "",
+    "choix": [
+      "Des attitudes contradictoires forgeant une identité.",
+      "Un égocentrisme désuet au temps de la mondialisation.",
+      "Un ensemble de valeurs partagées par une élite.",
+      "Une aptitude à l’ouverture qui tend à disparaître."
+    ],
+    "bonne_reponse_index": 0
+  }
+]
