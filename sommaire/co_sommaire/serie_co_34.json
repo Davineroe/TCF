@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q01-prepmontcfca.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q01-prepmontcfca.jpg",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q02-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q03-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q04-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q05-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q06-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q07-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q08-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Acheter un plan",
+      "Prendre un train",
+      "Trouver un hôtel",
+      "Visiter un musée"
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q09-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La publication de son CV en ligne.",
+      "Un remplacement dans son entreprise.",
+      "Une formation gratuite à l’université.",
+      "Une rencontre avec son patron."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q10-prepmontcfca-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La communication avec ses clients.",
+      "La recherche d’un nouveau travail.",
+      "L’achat d’un nouveau téléphone fixe.",
+      "L’utilisation de son ordinateur portable."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q11-prepmontcfca-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle a oublié un objet important.",
+      "Elle a raté son bus ce matin.",
+      "Elle doit s’absenter du bureau.",
+      "Elle est en retard à une réunion."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q12-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a été très agréablement surpris.",
+      "Il préfère attendre pour se prononcer.",
+      "Il aurait aimé se mettre déjà au travail.",
+      "Il a trouvé son supérieur peu disponible."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q13-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Manger des plats typiques.",
+      "Rencontrer sa famille.",
+      "Travailler toute la journée.",
+      "Voir une exposition."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q14-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La mission est sans intérêt.",
+      "La société est loin de chez lui.",
+      "Le contrat est temporaire.",
+      "Le salaire est insuffisant."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q15-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour lui présenter un produit.",
+      "Pour organiser un voyage.",
+      "Pour suivre une formation.",
+      "Pour visiter Lyon avec lui."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q16-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’histoire est compliquée.",
+      "La musique est ennuyeuse.",
+      "Le réalisateur est mauvais.",
+      "Les acteurs sont inconnus."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q17-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Le bon de garantie.",
+      "Le chèque cadeau.",
+      "Le justificatif d’achat.",
+      "Le mode d’emploi."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q18-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour confirmer un rendez-vous.",
+      "Pour demander un entretien.",
+      "Pour proposer un service.",
+      "Pour signaler un retard."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q19-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a peu de diplômes.",
+      "Il est déjà trop âgé.",
+      "Il est mauvais en langues.",
+      "Il manque d’expérience."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q20-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Le recrutement se fonde sur l’expérience.",
+      "Les salaires à l’embauche sont très élevés.",
+      "L’évolution professionnelle est très lente.",
+      "L’obtention d’un premier emploi est aisée."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q21-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Interviewer un réalisateur.",
+      "Participer à un festival.",
+      "Tourner un film.",
+      "Visiter des studios de cinéma."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q22-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Visiter des studios de cinéma.",
+      "Lui apporter un livre.",
+      "Lui présenter son travail.",
+      "Lui proposer une interview."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q23-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Leur public est en diminution.",
+      "Leur salaire est insuffisant.",
+      "Leur savoir est peu transmis.",
+      "Leur talent est dévalorisé."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q24-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a répondu à une demande de ses patients.",
+      "Il consacre son temps à son nouveau métier.",
+      "Il s’est remis en question suite à un échec.",
+      "Il veut éviter toute publicité personnelle."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q25-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Augmenter le nombre des surfaces exploitables.",
+      "Développer la production des fruits et légumes.",
+      "Diffuser des procédés en accord avec la nature.",
+      "Introduire la plantation de nouvelles espèces."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q26-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La recherche d’un appartement est rapide.",
+      "Le système de la colocation est encouragé.",
+      "Les habitations proposées sont de qualité.",
+      "Les logements sont bon marché en banlieue."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q27-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De ses difficultés à se réveiller le matin.",
+      "De son dernier salaire qui est insuffisant.",
+      "De son emploi du temps professionnel.",
+      "De son manque d’organisation habituel."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q28-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle est sortie en boîte de nuit.",
+      "Elle a dîné avec sa famille.",
+      "Elle est restée toute seule.",
+      "Elle a vu un mauvais film."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q29-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Jouer aux cartes.",
+      "Aller se promener.",
+      "Regarder la télévision.",
+      "Visiter la région."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q30-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a besoin d’être perfectionné.",
+      "Il fonctionne pour les romans.",
+      "Il peut adapter la ponctuation.",
+      "Il sert aux spécialistes du métier."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q31-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Comparer les mouvements des galaxies.",
+      "Étudier les trajectoires des déchets cosmiques.",
+      "Prévenir les risques de chute de météorites.",
+      "S’entrainer pour des voyages interplanétaires."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q32-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’absence de formes d’altruisme.",
+      "La place accordée à l’apparence.",
+      "La superficialité des relations.",
+      "Le manque d’estime de soi."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q33-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Comme la possibilité de s’évader dans d’autres vies.",
+      "Comme la réalisation d’un rêve d’enfance.",
+      "Comme le moyen d’être le centre de l’attention.",
+      "Comme le reflet d’un caractère authentique."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q34-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils concernent des investissements à long terme.",
+      "Ils impliquent des associations à but non lucratif.",
+      "Ils offrent des opportunités de bénéfices élevés.",
+      "Ils prennent en considération le facteur social."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q35-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’action politique doit s’appuyer sur les conclusions scientifiques.",
+      "La criminalité est en baisse dans les agglomérations modernes.",
+      "La croissance urbaine est un danger pour l’écologie.",
+      "La violence est indépendante de la densité humaine."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q36-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elles réapprennent certains gestes.",
+      "Elles rencontrent d’autres joueurs.",
+      "Elles se réintègrent à la communauté.",
+      "Elles stimulent leurs facultés cérébrales."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q37-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour mettre en pratique ses connaissances.",
+      "Pour opérer une reconversion professionnelle.",
+      "Pour pouvoir rembourser son emprunt.",
+      "Pour vivre quelques années à l’étranger."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q38-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Sur l’étroite collaboration avec les équipes locales.",
+      "Sur la formation des employés expatriés.",
+      "Sur la prédominance de bénévoles dans chaque pays.",
+      "Sur le montant élevé des bénéfices réalisés."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO34Q39-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Acheter des livres sur le bonheur rend heureux.",
+      "Chacun de nous est prédisposé au bonheur.",
+      "Des cours de bonheur s’imposent dès l’enfance.",
+      "L’accès au bonheur nécessite du travail."
+    ],
+    "bonne_reponse_index": 3
+  }
+]
