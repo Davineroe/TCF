@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q1.jpg",
+    "sujet": "",
+    "choix": [
+      "Un anniversaire.",
+      "Un concert.",
+      "Une exposition.",
+      "Une fête."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q2.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils ont besoin de l’aide de leur famille.",
+      "Ils travaillent pour payer leur logement.",
+      "Ils veulent finir leurs études rapidement.",
+      "Ils vont à l’université dans une autre ville."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q3.jpg",
+    "sujet": "",
+    "choix": [
+      "D’aider à faire des repas.",
+      "De caner de profession.",
+      "De servir dans une cantine.",
+      "De soigner des habitants."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q4.jpg",
+    "sujet": "",
+    "choix": [
+      "D’aller à un concert.",
+      "D’organiser un voyage.",
+      "De déjeuner chez lui.",
+      "De garder les enfants."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q5.jpg",
+    "sujet": "",
+    "choix": [
+      "Un repas au restaurant.",
+      "Un séjour à l’hôtel.",
+      "Une commande de matériel.",
+      "Une location de voiture."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q6.jpg",
+    "sujet": "",
+    "choix": [
+      "D’écrire aux invites.",
+      "D’organiser la fête.",
+      "De garder des enfants.",
+      "De préparer des danses."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q7.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour acheter un cadeau avec elle.",
+      "Pour annuler sa venue à une fête.",
+      "Pour décider d’un rendez-vous.",
+      "Pour inviter son amie à diner."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q8.jpg",
+    "sujet": "",
+    "choix": [
+      "Écrire un message.",
+      "Prendre un billet d’avion.",
+      "Réserver un hôtel.",
+      "S’inscrire à un jeu."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q9.jpg",
+    "sujet": "",
+    "choix": [
+      "De participer à un concours.",
+      "De s’inscrire à un stage.",
+      "De tester des activités.",
+      "De voir un spectacle."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q10.jpg",
+    "sujet": "",
+    "choix": [
+      "Dessiner des bâtiments publics originaux.",
+      "Donner le gout du voyage aux habitants.",
+      "Inventer une ville facile à vivre pour tous.",
+      "Prévoir de nouveaux moyens de transport."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q11.jpg",
+    "sujet": "",
+    "choix": [
+      "Des informations sur les sports.",
+      "Des activités pour l’été.",
+      "Des promotions pour les enfants.",
+      "Des visites de Paris."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q12.jpg",
+    "sujet": "",
+    "choix": [
+      "D’améliorer leur niveau de compétence.",
+      "De pratiquer leur sport différemment.",
+      "De se préparer à des compétitions.",
+      "De tester un autre type de matériel."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q13.jpg",
+    "sujet": "",
+    "choix": [
+      "Un candidat a des études supérieures.",
+      "Un étudiant en quête d’un stage.",
+      "Un informaticien en recherche d’emploi.",
+      "Un lycéen en demande d’orientation."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q14.jpg",
+    "sujet": "",
+    "choix": [
+      "D’une banque pour les mineurs.",
+      "D’une idée nouvelle de recyclage.",
+      "Des enfants qui doivent travailler.",
+      "Du problème créé par les déchets."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q15.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils s’exercent sans interruption dans l’année.",
+      "Ils sont en difficulté à cause des trente-cinq heures.",
+      "Ils sont inadaptés aux besoins des vacances.",
+      "Ils sont saisonniers et occupés par des étudiants."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q16.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils servent pour un seul trajet.",
+      "Les gens les jettent dans la rue.",
+      "Leur prix va encore augmenter.",
+      "On va arrêter de les vendre."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q17.jpg",
+    "sujet": "",
+    "choix": [
+      "Avoirs des réductions sur certains articles.",
+      "Faire des courses dans un magasin.",
+      "Offrir une surprise pour un anniversaire.",
+      "Retirer de l’argent a un distributeur."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q18.jpg",
+    "sujet": "",
+    "choix": [
+      "La pression de la société.",
+      "La réputation des clubs.",
+      "Les bienfaits pour la santé.",
+      "Les envies des adolescents."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q19.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils apprennent à se servir correctement des réseaux sociaux.",
+      "Ils communiquent plus facilement avec l’instituteur.",
+      "Ils comprennent mieux l’intérêt des apprentissages proposés.",
+      "Ils sont attentifs après un moment de détente."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q20.jpg",
+    "sujet": "",
+    "choix": [
+      "Il cite un extrait d’une œuvre de Modiano.",
+      "Il explique l’idée de départ d’un livre de Modiano.",
+      "Il présente le métier de Modiano à ses débuts.",
+      "Il raconte la rencontre entre Modiano et sa femme."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q21.jpg",
+    "sujet": "",
+    "choix": [
+      "Un spectacle de cirque.",
+      "Une activité de maquillage.",
+      "Une rencontre avec un clown.",
+      "Une sortie au zoo."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q22.jpg",
+    "sujet": "",
+    "choix": [
+      "Acheter les meilleurs produits et dépenser le moins possible.",
+      "Avoir la garantie de la qualité du produit.",
+      "Être amateur de viande et militer pour le bien-être animal.",
+      "Privilégier les aliments bio et avoir du mal à s’en procurer."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q23.jpg",
+    "sujet": "",
+    "choix": [
+      "Définir les conditions d’accueil des élèves en milieu professionnel.",
+      "Expliquer le déroulement des stages en entreprise pour les élèves.",
+      "Informer des mesures de sécurité des élèves lors de visites d’entreprises.",
+      "Lister les différents types de stages professionnels destinés aux élèves."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q24.jpg",
+    "sujet": "",
+    "choix": [
+      "Il devient la solution idéale des voyages organisés à la dernière minute.",
+      "Il est accessible à un nombre croissant d’utilisateurs grâce à internet.",
+      "Il occupe une place grandissante dans les petites annonces des journaux.",
+      "Il s’impose comme le moyen de déplacement à la mode chez les jeunes."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q25.png",
+    "sujet": "",
+    "choix": [
+      "Assurer une formation dans le secteur hôtelier.",
+      "Diversifier l’offre hôtelière au Brésil.",
+      "Former des professeurs dans le domaine hôtelier.",
+      "Promouvoir le développement du tourisme brésilien."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q26.jpg",
+    "sujet": "",
+    "choix": [
+      "L’essor de nouveaux modes de consommation.",
+      "La stagnation de la dépendance au numérique.",
+      "Le développement des voitures ultraconnectées.",
+      "Le recul des difficultés économiques des ménages."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q27.jpg",
+    "sujet": "",
+    "choix": [
+      "Faire découvrir des destinations authentiques.",
+      "Organiser des séjours à vocation humanitaire.",
+      "Recruter des salariés a l’international.",
+      "Reverser ses bénéfices à des associations."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q28.jpg",
+    "sujet": "",
+    "choix": [
+      "Il est difficile d’en évaluer l’impact sur la santé.",
+      "Il permet la consommation de médicaments.",
+      "Le sénat a toujours refusé de voter une loi sur le sujet.",
+      "Les Français sont encore attachés à cette tradition."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q29.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour améliorer la qualité des documentaires.",
+      "Pour dissimuler la pauvreté des contenus.",
+      "Pour moderniser leurs méthodes de travail.",
+      "Pour piéger les gens visés par les enquêtes."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q30.jpg",
+    "sujet": "",
+    "choix": [
+      "La faune aquatique est en danger.",
+      "La technologie facilite le pillage des mers.",
+      "Le nombre de voleurs dépaves augmente.",
+      "Les bateaux en détresse sont laissés à leur sort."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q31.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle devrait être réservée aux périodes de congés.",
+      "Elle est préconisée par la médecine.",
+      "Elle peine à se répandre en milieu professionnel.",
+      "Elle serait néfaste pour le rendement."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q32.jpg",
+    "sujet": "",
+    "choix": [
+      "Aider les femmes à se battre pour améliorer leur situation familiale.",
+      "Amener les spectateurs à s’émouvoir d’un quotidien douloureux.",
+      "Démontrer que la condition de la femme dans les cités est désastreuse.",
+      "Informer des difficultés que peuvent rencontrer les enfants des cités."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q33.jpg",
+    "sujet": "",
+    "choix": [
+      "Leur donner le gout de l’observation.",
+      "Leur permettre d’inventer des activités.",
+      "Leur procurer des jeux éducatifs.",
+      "Leur proposer des énigmes à résoudre."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q34.jpg",
+    "sujet": "",
+    "choix": [
+      "Sa structure est identique chez l’homme et l’animal.",
+      "Sa taille influe sur les compétences cognitives.",
+      "Son développement est ralenti les premiers mois.",
+      "Son fonctionnement est encore mystérieux."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q35.jpg",
+    "sujet": "",
+    "choix": [
+      "Sa technique puise dans divers mouvements artistiques.",
+      "Ses œuvres se fondent dans leur environnement.",
+      "Son inspiration provient de ses nombreuses lectures.",
+      "Son savoir-faire met en valeur des procédés connus."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q36.jpg",
+    "sujet": "",
+    "choix": [
+      "La primauté de l’apparence sur les compétences.",
+      "Le corporatisme pousse de certaines sociétés.",
+      "Le manque de formation aux nouvelles technologies.",
+      "Les principes actuels d’organisation du travail."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q37.jpg",
+    "sujet": "",
+    "choix": [
+      "La capacité des plantes à nettoyer les sols.",
+      "La rentabilité d’un nouveau système d’extraction.",
+      "Le résultat des recherches de Mr Van der Hert.",
+      "Les préoccupations écologistes des industriels."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q38.jpg",
+    "sujet": "",
+    "choix": [
+      "Concevoir des lieux de vie alternatifs.",
+      "Étudier de nouvelles technologies.",
+      "Proposer des activités futuristes.",
+      "Protéger des espaces marins menacés."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-22Q39.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle représenterait l’influence de l’inconscient.",
+      "Elle résulterait de l’observation de normes.",
+      "Elle révélerait la part de l’acquis due au groupe.",
+      "Elle serait issue du patrimoine génétique."
+    ],
+    "bonne_reponse_index": 1
+  }
+]
