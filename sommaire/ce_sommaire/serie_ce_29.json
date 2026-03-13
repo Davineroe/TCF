@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-1-1-1024x956.jpg",
+    "sujet": "",
+    "choix": [
+      "À un cours de pâtisserie.",
+      "À un déjeuner chez un ami.",
+      "À une fête d’anniversaire.",
+      "À une sortie en discothèque."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-2-1.png",
+    "sujet": "",
+    "choix": [
+      "D’acheter un appartement.",
+      "D’habiter avec quelqu’un.",
+      "De rencontrer ses voisins.",
+      "De visiter son quartier."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-3-1-1024x868.jpg",
+    "sujet": "",
+    "choix": [
+      "Un changement de lieu.",
+      "Un nouvel horaire.",
+      "Une absence de professeur.",
+      "Une rencontre entre étudiants."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-4.png",
+    "sujet": "",
+    "choix": [
+      "D’acheter un cadeau.",
+      "D’aider leur amie.",
+      "D’inviter des copains.",
+      "De partir en vacances."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-5-1-1024x664.jpg",
+    "sujet": "",
+    "choix": [
+      "Canadienne",
+      "Espagnole",
+      "Italienne",
+      "Mexicaine"
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-6-1-1024x551.jpg",
+    "sujet": "",
+    "choix": [
+      "Aller à un anniversaire.",
+      "Dîner avec son amie.",
+      "Partir en week-end.",
+      "Regarder des films."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-7-1-1024x664.jpg",
+    "sujet": "",
+    "choix": [
+      "Un concert gratuit",
+      "Un concours de chant",
+      "Un concours de cuisine",
+      "Un voyage à l’étranger"
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-8-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Un journal.",
+      "Un restaurant.",
+      "Une association.",
+      "Une école."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-9-1-1024x771.jpg",
+    "sujet": "",
+    "choix": [
+      "Il accepte de l’aider.",
+      "Il cherche une information.",
+      "Il l’invite à déjeuner.",
+      "Il organise un entretien."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-10-1-1024x619.jpg",
+    "sujet": "",
+    "choix": [
+      "Dialoguer avec le personnel enseignant.",
+      "Écouter une présentation du directeur.",
+      "Participer à une conférence sur l’éducation.",
+      "Répondre à un questionnaire sur les cours."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-11.jpg",
+    "sujet": "",
+    "choix": [
+      "L’agrandissement d’un parking.",
+      "La modernisation d’un bâtiment.",
+      "La transformation d’un logement.",
+      "Le déménagement d’une locataire."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-12.jpg",
+    "sujet": "",
+    "choix": [
+      "Accueillir les étudiants étrangers.",
+      "Faciliter la recherche d’emploi.",
+      "Préparer la rentrée universitaire.",
+      "Présenter de nouvelles formations."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-13.jpg",
+    "sujet": "",
+    "choix": [
+      "Leur couleur.",
+      "Leur forme.",
+      "Leur prix.",
+      "Leur taille."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-14.jpg",
+    "sujet": "",
+    "choix": [
+      "Apporter à boire.",
+      "Préparer un gâteau.",
+      "Contacter un ami.",
+      "Animer la soirée."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-15.jpg",
+    "sujet": "",
+    "choix": [
+      "De faire du sport et de rencontrer des personnes.",
+      "De nager régulièrement et de manger du poisson.",
+      "De se reposer et de découvrir le milieu marin.",
+      "De vivre au calme et de se retrouver en famille."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-16.jpg",
+    "sujet": "",
+    "choix": [
+      "La France compte de nombreux producteurs qui exportent peu.",
+      "La France demeure une petite productrice sur le plan européen.",
+      "La France fournit une part importante de la production mondiale.",
+      "La France parvient tout juste à répondre à sa demande nationale."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-17-1-1024x664.jpg",
+    "sujet": "",
+    "choix": [
+      "Des enregistrements sonores d’article de journal",
+      "Des extraits choisis de romans classiques",
+      "Des publications résumées des contenus de sites web",
+      "Des sélections de répliques de théâtres célèbres"
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-18.png",
+    "sujet": "",
+    "choix": [
+      "À leur couleur.",
+      "À leur dimension.",
+      "À leur emballage.",
+      "À leur quantité."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-19.jpg",
+    "sujet": "",
+    "choix": [
+      "Participer à un concours international d’astronomie.",
+      "Réaliser une étude d’observation des astres.",
+      "Se joindre à une formation d’enseignants en sciences.",
+      "Suivre un cours de rattrapage en sciences physiques."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-20.png",
+    "sujet": "",
+    "choix": [
+      "Envoyer un courriel.",
+      "Payer sa réservation.",
+      "Refaire une demande.",
+      "Téléphoner à la direction."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-21-1.jpg",
+    "sujet": "",
+    "choix": [
+      "a un timbre qui n’existe pas naturellement.",
+      "se confond avec la voix de l’enfant qui joue.",
+      "enregistre et reproduit les voix entendues.",
+      "imite à perfection la voix d’un enfant."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-22.jpg",
+    "sujet": "",
+    "choix": [
+      "Ils ont de moins en moins d’espace naturel.",
+      "Ils permettent de protéger la biodiversité.",
+      "Ils représentent un danger exagéré.",
+      "Ils sont décimés par la maladie."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-23-1-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Le nombre de courants dangereux a diminué.",
+      "La cartographie moderne a progressé.",
+      "Le guidage des navires s’est modernisé.",
+      "Le métier de marin a disparu."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-24.jpg",
+    "sujet": "",
+    "choix": [
+      "Elles concurrencent le marché numérique.",
+      "Elles contribuent à protéger l’environnement.",
+      "Elles favorisent l’épargne des citoyens.",
+      "Elles sécurisent les modes de paiement."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-25.jpg",
+    "sujet": "",
+    "choix": [
+      "En limitant la part de l’apprentissage pratique.",
+      "En rendant compréhensibles les décisions politiques.",
+      "En renouvelant les perspectives d’évolution.",
+      "En révisant les conditions de rémunération."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-26-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle est dépendante de décisions politiques.",
+      "Il estime qu’elles sont insuffisamment promues.",
+      "Il remet en question leurs retombées positives.",
+      "Il révèle qu’elles contribuent au déclin industriel."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-27.jpg",
+    "sujet": "",
+    "choix": [
+      "Il critique son concept.",
+      "Il dénonce son coût élevé.",
+      "Il doute de son efficacité.",
+      "Il prédit son échec."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-28.jpg",
+    "sujet": "",
+    "choix": [
+      "Changer la façon de gérer des équipes.",
+      "Compenser le manque de formateurs.",
+      "Réussir au sein d’une société.",
+      "Transmettre des connaissances."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-29.jpg",
+    "sujet": "",
+    "choix": [
+      "Elles détruisent les cellules du cerveau.",
+      "Elles développent la mémoire à court terme.",
+      "Elles modifient nos processus cognitifs.",
+      "Elles provoquent la disparition de l’écriture."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-30.jpg",
+    "sujet": "",
+    "choix": [
+      "La gestion du stress est difficile.",
+      "La santé est mise en péril.",
+      "Le corps est moins réactif.",
+      "Le système génétique est affecté."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-31.jpg",
+    "sujet": "",
+    "choix": [
+      "C’est la photographie qui est la forme d’art la moins valorisée.",
+      "Il y a peu d’événements culturels consacrés à la photographie.",
+      "Les photographies sont commercialisées à bas prix.",
+      "N’importe qui peut s’improviser photographe."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-32.jpg",
+    "sujet": "",
+    "choix": [
+      "De participer à l’exploration du monde numérique.",
+      "De restreindre le temps consacré aux jeux vidéo.",
+      "De sélectionner des contenus adaptés aux enfants.",
+      "De surveiller la navigation des jeunes sur la toile."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-33.jpg",
+    "sujet": "",
+    "choix": [
+      "L’absence de modèle comparatif de mobilité.",
+      "La déresponsabilisation des usagers.",
+      "Le déficit provoqué par son financement.",
+      "Le risque de saturation des réseaux."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-34.jpg",
+    "sujet": "",
+    "choix": [
+      "Des méthodes innovantes sur l’usage des TIC.",
+      "Des pistes de recherche sur l’apprentissage.",
+      "Un état des lieux des ressources pédagogiques.",
+      "Une analyse du contexte socio-éducatif actuel."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-35.jpg",
+    "sujet": "",
+    "choix": [
+      "Un esprit créatif dans le secteur des technologies Internet.",
+      "Une grande autonomie dans le domaine professionnel.",
+      "Une aptitude étonnante à savoir se mettre en avant.",
+      "Un esprit de solidarité avec les personnes sans emploi."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-36.jpg",
+    "sujet": "",
+    "choix": [
+      "Il revit des souvenirs lointains dans le bureau de la maison familiale.",
+      "Il se rappelle une pièce de travail poussiéreuse interdite aux enfants.",
+      "Il raconte son apprentissage de la lecture auprès de son grand-père.",
+      "Il évoque ses rentrées scolaires alors qu’il ne savait pas encore lire."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-37.jpg",
+    "sujet": "",
+    "choix": [
+      "Attirer davantage d’étudiants brillants.",
+      "Être à la pointe de la technologie.",
+      "Ouvrir ses cours à un public élargi.",
+      "Proposer des disciplines inédites."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-38.jpg",
+    "sujet": "",
+    "choix": [
+      "L’alternance entre le comique et le drame.",
+      "L’atmosphère énigmatique et inquiétante.",
+      "La présentation de particularités régionales.",
+      "L’émancipation des héros au cours du récit."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-test-29-39.jpg",
+    "sujet": "",
+    "choix": [
+      "La dégradation des relations sociales à cause d’Internet.",
+      "La multiplication des sources d’information.",
+      "La nocivité des écrans sur le développement des enfants.",
+      "La recrudescence d’informations mensongères."
+    ],
+    "bonne_reponse_index": 3
+  }
+]
