@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-1.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/26Q1.jpg",
+    "sujet": "Écoutez les 4 propositions, choisissez celle qui correspond à l'image.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-2-1.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/26Q2.jpg",
+    "sujet": "Écoutez les 4 propositions, choisissez celle qui correspond à l'image.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-3-1.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/26Q3-1024x748.jpeg",
+    "sujet": "Écoutez les 4 propositions, choisissez celle qui correspond à l'image.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-4-1.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/26Q4-1024x678.jpeg",
+    "sujet": "Écoutez les 4 propositions, choisissez celle qui correspond à l'image.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-5.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/26Q5-1024x737.jpeg",
+    "sujet": "Écoutez les 4 propositions, choisissez celle qui correspond à l'image.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-6.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-7.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-8.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-9.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Acheter un nouveau véhicule.",
+      "Connaître les horaires.",
+      "Obtenir un rendez-vous.",
+      "Se plaindre d’une réparation."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-10.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "D’un nouveau film à voir.",
+      "D’un souci de transport.",
+      "D’une recherche d’emploi.",
+      "D’une séance de sport."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-11.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Dîner au restaurant.",
+      "Faire des courses.",
+      "Travailler tard.",
+      "Voir une exposition."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-12.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Le test de niveau est difficile.",
+      "L’école est loin de son bureau.",
+      "Les cours ont lieu en journée.",
+      "Les tarifs sont chers pour lui."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-13.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Leur client.",
+      "Leur collègue.",
+      "Leur directeur.",
+      "Leur professeur."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-14.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Un chapeau de soleil.",
+      "Un maillot de foot.",
+      "Un sac de sport.",
+      "Un vêtement de plage."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-15.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "L’intérêt pour le cinéma.",
+      "Les activités de loisirs.",
+      "Les habitudes de transport.",
+      "L’utilisation des medias."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-16.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Obtenir une aide financière.",
+      "Récupérer un dossier.",
+      "Remettre un devoir.",
+      "S’inscrire à l’université."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-17.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Pour retirer le chéquier arrivé une semaine avant.",
+      "Pour vérifier le renouvellement de son chéquier.",
+      "Pour savoir quand il aura son carnet de chèques.",
+      "Pour corriger l’orthographe de son nom sur son chéquier."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-18.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "D’assister à une rencontre sportive.",
+      "De fêter leur victoire entre copains.",
+      "De jouer au basket-ball sans payer.",
+      "De s’inscrire dans un nouveau club."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-19.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "L’inadéquation entre l’université et le monde du travail.",
+      "La baisse de qualité des formations professionnelles.",
+      "La compétition pour entrer dans les grandes écoles.",
+      "Le coût de l’inscription dans l’enseignement supérieur."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-20.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "De créer des groupes de recherche scientifique.",
+      "De reculer l’âge de début de leur apprentissage.",
+      "De réviser les méthodes pédagogiques actuelles.",
+      "De sélectionner les meilleurs élèves des écoles."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-21.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Elle est en congé.",
+      "Elle est tombée malade.",
+      "Elle travaille la nuit.",
+      "Elle voyage souvent."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-22.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "D’attribuer à la lecture le statut de loisir.",
+      "De favoriser la lecture en autonomie.",
+      "De limiter la lecture d’histoires illustrées.",
+      "De sélectionner des lectures classiques."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-23.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Comment protéger ses végétaux.",
+      "Comment recycler son sapin.",
+      "Comment replanter un arbre.",
+      "Comment scier une branche."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-24.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Elle fournit une carte de lieux dangereux à éviter.",
+      "Elle leur enseigne des techniques d’autodéfense.",
+      "Elle leur permet de se loger en toute sécurité.",
+      "Elle propose une liste de numéros d’urgence."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-25.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Amener l’élève à participer à sa propre formation.",
+      "Axer principalement l’apprentissage sur le jeu",
+      "Initier les élèves à des activités parascolaires",
+      "Responsabiliser les élèves encore immatures"
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-26.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Elle a décidé d’adopter une attitude agressive.",
+      "Elle a eu des problèmes pour se faire une place",
+      "Elle est harcelée par des plaisanteries sexistes",
+      "Elle est respectée pour son professionnalisme."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-27.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Ils apprennent à communiquer.",
+      "Ils developpent leur créativité.",
+      "Ils s’ouvrent à d’autres cultures.",
+      "Ils sont dynamiques en cours."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-28.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Conseiller gratuitement des régimes minceur.",
+      "Faciliter la consommation de produits sains.",
+      "Livrer des spécialités régionales à domicile.",
+      "Proposer une émission de cuisine sur Internet."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-29.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "D’un ancien événement protestataire.",
+      "D’un nouveau code vestimentaire.",
+      "D’une fête scolaire traditionnelle.",
+      "D’une sensibilisation aux injustices."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-30.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "De la législation en vigueur.",
+      "De la paye des employés.",
+      "Du bon vouloir du client.",
+      "Du type d’établissement."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-31.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Elle annonce de futures découvertes",
+      "Elle confirme une théorie ancienne.",
+      "Elle illustre les progrès du matériel scientifique.",
+      "Elle permet la poursuite des travaux d’Einstein."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-32.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Il développe la volonté de vaincre",
+      "Il enrichit les relations humaines.",
+      "Il garantit l’équilibre psychologique.",
+      "Il procure des bienfaits physiques."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-33.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "En communiquant dans les médias.",
+      "En critiquant le pouvoir en place.",
+      "En représentant ses électeurs.",
+      "En s’engageant comme citoyenne."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-34.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Le coût de l’entretien d’une voiture.",
+      "Les tendances en matière de loisirs.",
+      "L’évolution des tarifs des transports.",
+      "L’intérêt de partager des services."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-35.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Les contrôles systématiques imposés aux banques",
+      "Les interventions nécessaires des États dans l’économie",
+      "Les règles strictes régulant les marchés",
+      "Les taxes importantes appliquées aux entreprises"
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-36.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "C’est un thème controversé.",
+      "C’est une croyance invraisemblable,",
+      "C’est une hypothèse vérifiée.",
+      "C’est une invention de science-fiction."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-37.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Il admet que les guérisons spontanées sont fréquentes.",
+      "Il considère que la médecine a du mal à tout expliquer.",
+      "Il déconseille l’utilisation de certains médicaments.",
+      "Il est convaincu de l’efficacité des remèdes naturels."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-38.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Le consensus à ce sujet semble impossible.",
+      "Le nombre de données complexifie l’analyse.",
+      "Les études existantes doivent être révisées.",
+      "Les thèses avancées varient selon les pays."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-39.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Les bâtiments restaurés sont en nombre insuffisan",
+      "Les cités réaménagées sont surtout résidentielles",
+      "Les municipalités privilégient les projets coûteux",
+      "Les réhabilitations ont une portée limitée"
+    ],
+    "bonne_reponse_index": 3
+  }
+]
