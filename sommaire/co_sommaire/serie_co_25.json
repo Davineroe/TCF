@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-1.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/25Q1-1.png",
+    "sujet": "Écoutez les 4 propositions, choisissez celle qui correspond à l'image.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-2.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/25Q2.png",
+    "sujet": "Écoutez les 4 propositions, choisissez celle qui correspond à l'image.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-3.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-4-1.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-5.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-6.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-7.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-8.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-9.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-10.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Écrire.",
+      "Téléphoner.",
+      "Lire.",
+      "Écouter."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-11.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "La mode.",
+      "La nature.",
+      "Les saisons.",
+      "Les vacances."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-12.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Leur client.",
+      "Leur collègue.",
+      "Leur directeur.",
+      "Leur professeur."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-13.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "La création d’un réseau de médiateurs.",
+      "Le financement nécessaire aux médiateurs.",
+      "Le partage d’expériences entre médiateurs.",
+      "Le rôle des médiateurs en milieu scolaire."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-14.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Féliciter les acteurs dans leur loge.",
+      "Remettre un vêtement au vestiaire.",
+      "Retourner à la salle de spectacle.",
+      "S’informer sur la programmation."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-15.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Pour conseiller un livre.",
+      "Pour discuter d’écologie.",
+      "Pour parler de sa ville.",
+      "Pour raconter un voyage."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-16.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "La crise de l’économie mondiale.",
+      "L’accroissement de la population.",
+      "Les nouvelles règles d’hygiène.",
+      "Les récentes découvertes médicales."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-17.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Pour annuler une réunion.",
+      "Pour convoquer un collègue.",
+      "Pour changer un rendez-vous.",
+      "Pour annoncer un retard."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-18.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Le prix élevé des produits.",
+      "Les délais pour être livrée.",
+      "Les difficultés en cas d’échange.",
+      "Les tailles de vêtements différentes."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-19.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "De déjeuner ensemble.",
+      "De faire une soirée.",
+      "De participer à un jeu.",
+      "De rencontrer un invité."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-20.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "L’affiche.",
+      "Le carton.",
+      "Les billets.",
+      "Les jouets."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-21.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "D’un projet de voyage.",
+      "D’un changement de travail.",
+      "D’un futur déménagement.",
+      "D’une sortie au cinéma."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-22.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Il fait des compliments.",
+      "Il formule une invitation.",
+      "Il cherche à convaincre.",
+      "Il donne des conseils."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-23.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "De disposer d’une petite surface.",
+      "De partager sa salle de bain.",
+      "De payer un loyer excessif.",
+      "De prendre ses repas seule."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-24.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Ils choisissent de partager leur habitation avec des jeunes.",
+      "Ils recherchent des appartements aménagés selon leurs besoins.",
+      "Ils refusent de laisser leurs biens à des locataires sans emploi.",
+      "Ils s’organisent pour faire valoir leur droit au logement."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-25.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "lls abusent de repas très caloriques.",
+      "Ils consomment peu de produits frais.",
+      "lls ignorent l’origine de leurs plats.",
+      "Ils refusent de manger des légumes."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-26.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "D’avoir choisi d’y aller seul.",
+      "D’avoir attendu dans une file",
+      "D’avoir manqué quelques œuvres.",
+      "D’avoir suivi le conseil de son amie."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-27.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "À partir en voyage en province.",
+      "À acheter les bougies d’anniversaire.",
+      "À acheter le cadeau pour leur amie.",
+      "À s’occuper du gâteau d’anniversaire."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-28.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Une ascension professionnelle accompagnée de revenus confortables.",
+      "Une nomination à un premier poste valorisant au sein de l’entreprise.",
+      "Une opportunité de multiplier les contrats dans différentes entreprises.",
+      "Une reconnaissance rapide de leurs supérieurs sur les résultats obtenus."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-29.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Un mariage.",
+      "Un anniversaire.",
+      "Une naissance.",
+      "Une promotion."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-30.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "D’un appel à projets imaginaires.",
+      "D’un examen de fin d’études.",
+      "D’un nouveau plan d’urbanisme.",
+      "D’une rénovation d’un monument."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-31.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "D’une compétition sportive.",
+      "D’une croisière maritime.",
+      "D’une histoire familiale.",
+      "D’une rencontre amoureuse."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-32.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Ils nagent en plein air dans la capitale.",
+      "Ils s’amusent dans un parc d’attractions.",
+      "Ils se retrouvent à la piscine municipale.",
+      "Ils sont en vacances au bord de la mer."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-33.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Sur l’amplitude de l’effet de la dette sur la croissance.",
+      "Sur l’utilisation des recettes fiscales pour régler la dette.",
+      "Sur l’acquittement de la dette par la vente du patrimoine de l’état.",
+      "Sur le montant de la dette contractée par la province québécoise."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-34.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Avoir un bon salaire en fabriquant de beaux objets.",
+      "Exercer une activité intellectuellement enrichissante.",
+      "Rencontrer des célébrités et travailler avec elles.",
+      "Travailler avec ses collègues et développer ses projets."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-35.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "De contester les bienfaits des aliments naturels.",
+      "De protéger les fabricants de produits de synthèse.",
+      "De rejeter les résultats des dernières recherches.",
+      "De valoriser les qualités nutritionnelles du sucre."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-36.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "ll est commun à toutes les cultures.",
+      "Il est le propre des êtres humains.",
+      "Il est lié à une grande intelligence.",
+      "Il est reproductible artificiellement."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-37.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "De consulter un médecin psychothérapeute.",
+      "D’attendre que le temps ait fait son œuvre.",
+      "De prescrire un traitement médicamenteux.",
+      "D’informer les utilisateurs sur leurs dangers."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-38.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Elles demandent un nouveau statut juridique.",
+      "Elles exigent des garanties réelles et tangibles.",
+      "Elles mettent en doute la viabilité du projet.",
+      "Elles veulent que les terres restent intactes."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-39.mp3",
+    "image_url": "",
+    "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
+    "choix": [
+      "Pratiquer des exercices mentaux.",
+      "Exprimer ses sentiments.",
+      "Se montrer chaleureux.",
+      "Se retirer régulièrement au calme."
+    ],
+    "bonne_reponse_index": 2
+  }
+]
