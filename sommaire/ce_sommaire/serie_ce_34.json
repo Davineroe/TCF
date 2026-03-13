@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-1-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "D’apprendre une nouvelle langue.",
+      "De participer à un concours.",
+      "De prendre des cours de cuisine.",
+      "De rencontrer des étrangers."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-2-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Ses leçons à distance.",
+      "Ses professeurs expérimentés.",
+      "Ses salles neuves connectées.",
+      "Ses tarifs bon marché."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-3-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Demander de téléphoner.",
+      "Prendre des nouvelles.",
+      "Présenter des produits.",
+      "Rappeler un rendez-vous."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-4-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "A Pour annuler un diner.",
+      "Pour expliquer un problème.",
+      "Pour l’inviter chez elle.",
+      "Pour lui proposer de sortir."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-5-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Les amis d’Adrien.",
+      "La famille d’Adrien.",
+      "Les médecins d’Adrien.",
+      "Les voisins d’Adrien."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-6-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Un atelier de peinture.",
+      "Un concours de cuisine.",
+      "Un salon des plantes.",
+      "Une course en forêt."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-7-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Des avions.",
+      "Des yeux.",
+      "Des stages.",
+      "Des statistiques."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-8-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Comment elle a acheté un article en ligne.",
+      "Où elle a cherché un cadeau bon marché.",
+      "Pourquoi elle a eu un chèque de réduction.",
+      "Quand elle a échangé un vêtement solde."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-9-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "À acheter des cadeaux.",
+      "À envoyer des paquets.",
+      "À louer des camions.",
+      "À réserver des billets."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-10-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Des visites de musées.",
+      "Des voyages en Europe.",
+      "Un mois de vacances.",
+      "Un semestre d’études."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-11-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Aller déjeuner avec monsieur Dubois.",
+      "Ecrire un message à monsieur Dubois.",
+      "Envoyer un dossier à monsieur Dubois.",
+      "Rendre visite à monsieur Dubois."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-12-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "A Leur couleur.",
+      "Leur forme.",
+      "Leur prix.",
+      "Leur taille."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-13-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Centraliser les demandes de location des retraités.",
+      "Favoriser la cohabitation entre les générations.",
+      "Loger des jeunes en difficulté dans un studio.",
+      "Offrir une assistance médicale aux personnes âgées."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-14-1024x885.png",
+    "sujet": "",
+    "choix": [
+      "Ils doivent être réservés à l’avance.",
+      "Ils donnent accès au sauna.",
+      "Ils ont eu pendant les vacances.",
+      "Ils sont gratuits pour les enfants."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-15-1024x863.png",
+    "sujet": "",
+    "choix": [
+      "Accueillir le théâtre à l’école.",
+      "Apprendre l’histoire du théâtre.",
+      "Connaitre les métiers du théâtre.",
+      "Suivre des cours de théâtre."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-16-1024x858.png",
+    "sujet": "",
+    "choix": [
+      "À la montagne.",
+      "À La Rochelle.",
+      "Sur un bateau.",
+      "Sur une île."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-17-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "C’est une pratique courante.",
+      "Les pharmaciens s’y opposent.",
+      "C’est Leur paiement est sécurisé.",
+      "On s’en méfie en France."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-18-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Les échanges en famille s’améliorent.",
+      "L’attention en classe est en hausse.",
+      "Les adolescents sont plus en forme.",
+      "La réussite aux examens augmente."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-19-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Participer à un concours international d’astronomie.",
+      "Réaliser une étude d’observation des astres.",
+      "Se joindre à une formation d’enseignants en sciences.",
+      "Suivre un cours de rattrapage en sciences physiques."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-20-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Un club pour les jeunes enfants.",
+      "Un espace de remise en forme.",
+      "Une formule en pension complète.",
+      "Une offre de restauration vannée."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-21-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Améliorer les capacités physiques.",
+      "Découvrir de nouveaux types de sports.",
+      "Développer le cercle de ses relations sociales.",
+      "Maintenir les performances de la mémoire."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-22-1024x858.png",
+    "sujet": "",
+    "choix": [
+      "Effectuer un calcul.",
+      "Evoquer un fait divers.",
+      "Fournir un support.",
+      "Sélectionner un souvenir."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-23-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Il a acclamé de toutes ses forces la chanteuse.",
+      "Il a demandé l’annulation du concert.",
+      "Il a invité le groupe suivant à partir.",
+      "Il l’a retenue prisonnière toute la nuit."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-24-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Pour accueillir des enfants plus âgés.",
+      "Pour améliorer la sécurité du bâtiment.",
+      "Pour multiplier les activités artistiques.",
+      "Pour proposer davantage de places."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-25-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Rationaliser la gestion des associations.",
+      "Elargir le recrutement à de nouveaux bénévoles.",
+      "Former les responsables des associations.",
+      "Mieux communiquer sur L’utilisation des fonds."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-26-1024x877.png",
+    "sujet": "",
+    "choix": [
+      "Dialoguer avec leurs enfants.",
+      "Prendre appui sur leur expérience.",
+      "S’affranchir de leur héritage familial.",
+      "Trouver des valeurs communes."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-27-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Développer la mixité sociale dans les quartiers.",
+      "Diversifier les activités en centre-ville.",
+      "Encourager la croissance du secteur immobilier.",
+      "Stabiliser le nombre de logements."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-28-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "De la concurrence des autres générations.",
+      "De la course à la compétitivité.",
+      "De la situation économique tendue.",
+      "Des critiques émanant de leurs parents."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-29-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "L’accès universel à des aliments bon marché..",
+      "L’innovation des procédés de production.",
+      "Le développement du commerce équitable.",
+      "Le partage d’expériences traditionnelles."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-30-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "consiste en un grand évènement religieux.",
+      "permet de découvre les saveurs antillaises.",
+      "se réduit à une manifestation pour touristes.",
+      "se déroule dans un ancien monument restauré."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-31-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "C’est la photographie qui est la forme d’art la moins valorisée.",
+      "Il y a peu d’événements culturels consacrés à la photographie.",
+      "Les photographies sont commercialisées à bas prix.",
+      "N’importe qui peut s’improviser photographe."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-32-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Développer leur esprit critique.",
+      "Encourager les débats entre eux.",
+      "Enrichir leur capacité mémorielle.",
+      "Evaluer régulièrement leurs acquis."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-33-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Il inquiète les patrons de sociétés.",
+      "Il touche les employés les plus faibles.",
+      "Son existence dot être officialisée.",
+      "Son traitement est peu efficace."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-34-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Dans un centre de relaxation.",
+      "Dans un laboratoire.",
+      "Dans un musée archéologique.",
+      "Dans un parc naturel."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-35-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Parce que des tests sur les réacteurs nucléaires sont en cours.",
+      "Parce que l’approvisionnement en électricité est compromis.",
+      "Parce que la production française couvre à peine les besoins nationaux.",
+      "Parce que la régulation de la consommation d’énergie est inefficace."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-36-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "L’écologie est avant tout une affaire d’État.",
+      "La concertation est la clé d’une action réussie.",
+      "Les mesures protectionnistes sont dépassées.",
+      "L’influence des lobbies est à prendre en compte."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-37-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Je ressentais pleinement l’anxiété des bêtes.",
+      "Je percevais parfaitement la quiétude de cet instant.",
+      "Je découvrais inopinément un spectacle effrayant et inquiétant.",
+      "J’éprouvais un sentiment de crainte face à ces troupeaux d’animaux sauvages."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-38-1024x869.png",
+    "sujet": "",
+    "choix": [
+      "Il faut accepter l’évolution d’une langue.",
+      "Il faut bannir les termes anglais.",
+      "Il faut plaire à l’ensemble des lecteurs.",
+      "Il faut utiliser des mots basiques."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CE34-39-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Améliorer les résultats scolaires.",
+      "Avoir plus de temps pour eux.",
+      "Resserrer les liens familiaux.",
+      "Se donner bonne conscience."
+    ],
+    "bonne_reponse_index": 3
+  }
+]
