@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q1-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour lui annoncer un projet.",
+      "Pour lui présenter un nouveau produit.",
+      "Pour organiser leur journée de travail.",
+      "Pour préparer son voyage."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q2-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "C’est un succès.",
+      "Elle changera de lieu.",
+      "Elle est déjà finie.",
+      "L’entrée est gratuite."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q3-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Un concert.",
+      "Une exposition.",
+      "Un film.",
+      "Un livre."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q4-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Aider des familles en difficulté.",
+      "Donner un vélo à des élèves.",
+      "Ouvrir de nouveaux collèges.",
+      "Réparer de vieilles bicyclettes."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q5-925x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "L’Internet.",
+      "La presse.",
+      "La radio.",
+      "La télévision."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q6-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Beaucoup de personnes le visitent.",
+      "Il vend des articles bon marché.",
+      "Il y a un célèbre musée à l’intérieur.",
+      "On y donne des cours de cuisine."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q7-957x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Comment elle a acheté un article en ligne.",
+      "Où elle a cherché un cadeau bon marché.",
+      "Où elle a cherché un cadeau bon marché.",
+      "Quand elle a échangé un vêtement soldé."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q8-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Elles ont besoin d’accompagnement.",
+      "Elles ont peur de quitter leur logement.",
+      "Elles souffrent de grande solitude.",
+      "Elles suivent des traitements coûteux."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q9-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour proposer une promenade en bateau.",
+      "Pour raconter son séjour en Bretagne.",
+      "Pour répondre à son cousin Benjamin.",
+      "Pour réserver une place dans un camping."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q10-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "D’aider à organiser une",
+      "Devenir membre d’une association.",
+      "Distribuer des repas gratuits.",
+      "De participer à un événement sportif."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q11-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "De cuisiner tous ensemble.",
+      "De faire un repas entre voisins.",
+      "De s’inscrire à des activités.",
+      "De visiter de nouveaux logements."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q12-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Avoir des réductions sur certains articles.",
+      "Faire des courses dans un magasin.",
+      "Offrir une surprise pour un anniversaire.",
+      "Retirer de l’argent à un distributeur."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q13-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle est bonne pour la santé.",
+      "Elle facilite la socialisation.",
+      "Elle développe la mémoire.",
+      "Elle enrichit la personnalité."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q14-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "L’offre spéciale de l’été.",
+      "La date des vacances.",
+      "Le prix de l’entrée.",
+      "Les heures d’ouverture."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q15-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Avoir des réductions sur certains produits.",
+      "Bénéficier de facilités de paiement.",
+      "Faire ses courses plus rapidement.",
+      "Recevoir sans frais des produits d’essai."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q16-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "De dormir au milieu de la nature.",
+      "De faire un parcours dans les arbres.",
+      "De participer à une aventure sportive.",
+      "De passer une nuit sous la tente."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q17-924x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Pour clarifier ses idées.",
+      "Pour combler la solitude.",
+      "Pour exercer la mémoire.",
+      "Pour prendre des décisions."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q18-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il commente une loi.",
+      "Il formule une plainte.",
+      "Il donne un conseil.",
+      "Il raconte une anecdote."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q19-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Si c’est une occasion d’élargir son réseau social.",
+      "Si c’est une opportunité de changer de mode de vie.",
+      "Si c’est la possibilité de trouver un emploi.",
+      "Si c’est le fruit d’une décision personnelle."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q20-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Améliorer les capacités physiques.",
+      "Découvrir de nouveaux types de sports.",
+      "Développer le cercle de ses relations sociales.",
+      "Maintenir les performances de la mémoire."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q21-1183x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Le dessinateur utilise une technique inédite.",
+      "Le public se reconnaît à travers le héros.",
+      "Le scénario repose sur une intrigue excitante.",
+      "Les adolescents adorent l’univers imaginé."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q22-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "À un vol interstellaire vers une planète lointaine.",
+      "À une expérience d’autosuffisance alimentaire.",
+      "À une exploration de cratères de volcans.",
+      "À une simulation de mission spatiale."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q23-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Avoir une expérience dans l’enseignement.",
+      "Être impérativement disponible le matin.",
+      "Être titulaire d’une formation reconnue.",
+      "Pouvoir travailler en totale autonomie."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q24-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Allouer une bourse aux plus modestes.",
+      "Épauler les familles en difficulté.",
+      "Favoriser l’égalité des chances.",
+      "Garantir une pédagogie différenciée."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q25-988x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Chaque magasin met en place son propre système.",
+      "Elles diminuent avec l’automatisation des caisses.",
+      "L’optimisation de leur gestion est en cours d’étude.",
+      "Leur multiplication réduit le stress des consommateurs."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q26-988x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Les producteurs évitent de prendre des risques.",
+      "Les réalisateurs sont à la recherche d’idées neuves.",
+      "Les scénaristes font preuve d’une imagination limitée.",
+      "Les spectateurs privilégient les créations classiques."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q27-1029x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle abrite une vie animée.",
+      "Elle perpétue des traditions.",
+      "Elle se préserve du tourisme.",
+      "Elle tente d’imiter sa voisine."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q28-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Aider à la préservation de leur quartier.",
+      "Choisir des actions pour leur commune.",
+      "Contrôler les dépenses privées des élus.",
+      "Opposer un veto à certaines décisions."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q29-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il appartient à une réflexion philosophique.",
+      "Il fait souvent la une des journaux.",
+      "Il résulte des modes de vie contemporains.",
+      "II véhicule des valeurs obsolètes."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q30-994x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle représenterait l’influence de l’inconscient.",
+      "Elle résulterait de l’observation de normes.",
+      "Elle serait issue du patrimoine génétique.",
+      "Elle révèlerait la part de l’acquis due au groupe."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q31-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Des musées sont prêts à les accueillir.",
+      "Le marché voit leur cote grimper.",
+      "Leurs auteurs sont devenus célèbres.",
+      "On veut les préserver durablement."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q32-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il déconseille au grand public de les adopter.",
+      "Il estime qu’elles sont insuffisamment promues.",
+      "Il remet en question leurs retombées positives.",
+      "Il révèle qu’elles contribuent au déclin industriel."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q33-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Ce sont des blessures corporelles superficielles.",
+      "Elles sont commises par des groupes minoritaires.",
+      "Les autorités universitaires s’en préoccupent peu.",
+      "Lutter contre elles peut nuire à certaines libertés."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q34-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Aider les femmes à se battre pour améliorer leur situation familiale.",
+      "Amener les spectateurs à s’émouvoir d’un quotidien douloureux.",
+      "Démontrer que la condition de la femme dans les cités est désastreuse.",
+      "Informer des difficultés que peuvent rencontrer les enfants des cités."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q35-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Améliorer la formation des enseignants.",
+      "Instaurer des discussions en classe.",
+      "Programmer des sorties dans la nature.",
+      "Simplifier le vocabulaire employé."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q36-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Elle devrait être réservée aux périodes de congés.",
+      "Elle est préconisée par la médecine.",
+      "Elle peine à se répandre en milieu professionnel.",
+      "Elle serait néfaste pour le rendement."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q37-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Elles bénéficient d’un effet de mode.",
+      "Elles inquiètent les jeunes enfants.",
+      "Elles relèvent d’un genre spécifique.",
+      "Elles symbolisent la peur de l’inconnu."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q38-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "La formation au métier de journaliste est devenue tout à fait inutile.",
+      "Une frontière est apparue entre les journalistes confirmés et les autres.",
+      "L’évolution d’Internet a affaibli le respect porté au statut de journaliste.",
+      "Des internautes publiant sur le net se prennent pour des journalistes."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/comprehension-ecrite-25Q39-943x800-1.jpg",
+    "sujet": "",
+    "choix": [
+      "Il est à l’origine d’une politique de diminution des flux.",
+      "Il nécessite une réorganisation des lieux les plus visités.",
+      "Il permet de répartir les voyageurs sur tout le territoire.",
+      "Il suscite l’engouement des professionnels du secteur."
+    ],
+    "bonne_reponse_index": 1
+  }
+]
