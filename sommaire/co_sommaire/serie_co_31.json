@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q1-Prepmontcfca.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CO31-1.jpg",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q2-Prepmontcfca.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CO31-2.jpg",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q3-Prepmontcfca.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CO31-3.jpg",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q4-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q5-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q6-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q7-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q8-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q9-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle coûte très cher à réparer.",
+      "Elle est restée au garage.",
+      "Elle fait un bruit anormal.",
+      "Elle vient de tomber en panne."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q10-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Dormir plus longtemps.",
+      "Faire un bilan de santé.",
+      "Manger équilibré.",
+      "Pratiquer un sport."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q11-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un bouquet.",
+      "Un gâteau.",
+      "Un roman.",
+      "Un vêtement."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q12-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a été très agréablement surpris.",
+      "Il préfère attendre pour se prononcer.",
+      "Il aurait aimé se mettre déjà au travail.",
+      "Il a trouvé son supérieur peu disponible."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q13-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un chapeau de soleil.",
+      "Un maillot de foot.",
+      "Un sac de sport.",
+      "Un vêtement de plage."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q14-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Rentrer en France.",
+      "Remplir un dossier.",
+      "Se rendre à l’ambassade.",
+      "Prendre contact avec sa banque."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q15-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle n’existe plus depuis un moment.",
+      "Il n’est pas dans la bonne rue.",
+      "Il s’est trompé d’adresse et de nom.",
+      "Le passant ignore où elle se trouve."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q16-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a détesté le mauvais temps.",
+      "Il a dû changer ses habitudes.",
+      "Il avait du mal à s’intégrer.",
+      "Il connaissait peu le pays."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q17-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’acheter des médicaments.",
+      "D’aller au travail ensemble.",
+      "De faire une promenade.",
+      "De manger au restaurant."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q18-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a été déçu par le concert de rap.",
+      "Il a payé ses billets trop cher.",
+      "La banque a refusé son règlement.",
+      "Le spectacle a été annulé."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q19-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "C’est une interprète sincère.",
+      "Des danseurs l’accompagnent.",
+      "Elle répète très régulièrement.",
+      "Son répertoire est romantique."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q20-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle va assister à un match de rugby.",
+      "Elle va faire une promenade à vélo.",
+      "Elle va passer la soirée à la maison.",
+      "Elle va voir un ami malade à l’hôpital."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q21-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Le comportement des habitants.",
+      "Le sentiment de solitude.",
+      "Les conditions météorologiques.",
+      "Les obstacles linguistiques."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q22-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il fait des compliments.",
+      "Il formule une invitation.",
+      "Il cherche à convaincre.",
+      "Il donne des conseils."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q23-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Acquérir son logement.",
+      "Épargner de l’argent.",
+      "Exercer un autre métier.",
+      "Fonder un foyer."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q24-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Développer le marché du livre de jeunesse en Autriche.",
+      "Faire découvrir aux élèves la culture française.",
+      "Favoriser la création artistique en classe de langue.",
+      "Utiliser la littérature comme un support pédagogique."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q25-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a quatre ans d’expérience.",
+      "Il a travaillé dans un commerce.",
+      "Il accepte de travailler l’été.",
+      "Il est très motivé par la formation."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q26-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Parce que la salle est en travaux aujourd’hui.",
+      "Parce qu’un vol a eu lieu dans cette salle.",
+      "Parce que le personnel procède au nettoyage.",
+      "Parce qu’il manque du personnel aujourd’hui."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q27-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La peur de faire de la peine à leur entourage familial.",
+      "Le confort que leur procure leur structure familiale.",
+      "Le plaisir de voir leur famille comme ils le souhaitent.",
+      "L’obligation de soutenir financièrement leur famille."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q28-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’établir un diagnostic en ligne.",
+      "D’éviter des pertes de temps.",
+      "De réduire les frais de santé.",
+      "De vérifier la qualité des soins."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q29-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Accroître la mixité sociale dans les grandes villes.",
+      "Décrocher des financements pour ses activités.",
+      "Modifier le fonctionnement des marchés aux puces.",
+      "Obtenir un statut professionnel officiel pour les biffins."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q30-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il parle toujours anglais avec ses amis anglais.",
+      "Il bavarde régulièrement avec son voisin anglais.",
+      "Il va souvent au café avec un groupe d’amis anglais.",
+      "Il fait beaucoup d’exercices avec un ami anglais."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q31-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’inégalité dans la répartition des tâches.",
+      "La surabondance de sollicitations.",
+      "Le manque de fonctionnalité des locaux.",
+      "Les interventions des collègues."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q32-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’envisager des formations dans des secteurs de pointe.",
+      "D’initier des programmes humanitaires.",
+      "De concevoir des équipements technologiques.",
+      "De prendre part à des expéditions scientifiques."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q33-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour illustrer des brochures touristiques.",
+      "Pour s’imprégner des rencontres effectuées.",
+      "Pour s’occuper pendant la durée des trajets.",
+      "Pour repérer des itinéraires de promenade."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q34-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Avoir un bon salaire en fabriquant de beaux objets.",
+      "Exercer une activité intellectuellement enrichissante.",
+      "Rencontrer des célébrités et travailler avec elles.",
+      "Travailler avec ses collègues et développer ses projets."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q35-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un festival d’improvisations.",
+      "Un récital de nouveautés.",
+      "Une interprétation sincère.",
+      "Une performance impeccable."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q36-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Des partitions musicales ponctuent les chapitres.",
+      "Elle réunit des textes de musiciens sur le thème de la peur.",
+      "L’éditeur a choisi d’accompagner le livre d’un DVD.",
+      "Sa mise en page est comparable à celle du livret d’un disque."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q37-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’affiner l’écoute entre musiciens.",
+      "D’exprimer l’originalité d’une interprétation.",
+      "De faire varier le répertoire des concerts.",
+      "De perfectionner la technique du violoniste."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q38-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle déplore le manque de structures pour accueillir et réunir les jeunes.",
+      "Elle désapprouve la disparition d’endroits consacrés aux pratiques culturelles.",
+      "Elle estime insuffisantes les tentatives des cinémas de mélanger les publics.",
+      "Elle regrette le désintérêt des publics pour les espaces et les échanges culturels."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/Comprehension-Oral-test-31–Q39-Prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un désir de changement face à l’immobilisme des élus.",
+      "Un questionnement des pratiques du secteur industriel.",
+      "Une convention écologique internationale.",
+      "Une volonté d’aider les citoyens démunis."
+    ],
+    "bonne_reponse_index": 0
+  }
+]
