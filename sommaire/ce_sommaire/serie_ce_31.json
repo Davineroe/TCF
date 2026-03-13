@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-01-1-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Donner des conseils.",
+      "Informer sur la météo.",
+      "Présenter des activités.",
+      "Proposer un menu."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-02.png",
+    "sujet": "",
+    "choix": [
+      "Compléter des documents.",
+      "Demander un programme.",
+      "Prendre un rendez-vous.",
+      "Visiter un établissement."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-03-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Des ateliers pour enfants.",
+      "Du matériel de sport.",
+      "Un emploi à la montagne.",
+      "Une location de vacances."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-04-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Des achats de produits frais.",
+      "Des conseils pour maigrir.",
+      "La radio.",
+      "Des repas livrés à domicile."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-05-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Canadienne.",
+      "Espagnole.",
+      "Italienne.",
+      "Mexicaine."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-06-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "D’écrire aux invités.",
+      "D’organiser la fête.",
+      "De garder des enfants.",
+      "De préparer des danses."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-07-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "La boutique est fermée.",
+      "La commande est arrivée.",
+      "La facture est disponible.",
+      "La livraison est en retard."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-08-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Pour annoncer son déménagement.",
+      "Pour donner de ses nouvelles.",
+      "Pour inviter Lucie en vacances.",
+      "Pour remercier son amie."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-09-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Aller chercher un colis.",
+      "Échanger son achat.",
+      "Envoyer une lettre.",
+      "Réserver son article."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-10-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Dessiner des bâtiments publics originaux.",
+      "Donner le goût du voyage aux habitants.",
+      "Inventer une ville facile à vivre pour tous.",
+      "Prévoir de nouveaux moyens de transport."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-11-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "De changer les poubelles.",
+      "De collecter du plastique.",
+      "De gagner une bicyclette.",
+      "De travailler pour la mairie."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-12-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "L’anniversaire d’un magasin.",
+      "L’augmentation des ventes.",
+      "L’ouverture d’un commerce.",
+      "Le début des soldes d’été."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-13-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "De parler de ses qualités personnelles.",
+      "De préparer un entretien d’embauche.",
+      "D’élaborer un curriculum vitae original.",
+      "D’insister sur sa formation universitaire."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-14-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Assister à des spectacles.",
+      "Obtenir de meilleures places.",
+      "Rencontrer des comédiens.",
+      "Suivre des visites guidées."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-15-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "De l’utilisation du portable.",
+      "De la sécurité au volant.",
+      "Du bruit de la circulation.",
+      "Du vote d’une nouvelle loi."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-16-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "De diffuser de la musique.",
+      "De réutiliser des objets.",
+      "De s’engager en politique.",
+      "De tourner des publicités."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-17-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Elle apprend le français.",
+      "Elle est dans sa famille.",
+      "Elle prépare un long voyage.",
+      "Elle visite le Royaume-Uni."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-18-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Ils apprennent à se servir correctement des réseaux sociaux.",
+      "Ils communiquent plus facilement avec l’instituteur.",
+      "Ils comprennent mieux l’intérêt des apprentissages proposés.",
+      "Ils sont plus attentifs après un moment de détente."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-19-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Le rôle joué par les historiens.",
+      "Le rythme de son avancement.",
+      "Le succès auprès du public.",
+      "Les personnes qui y travaillent."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-20-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "La réputation de restaurants touristiques est menacée par Internet.",
+      "La technologie modifie la relation à la gastronomie.",
+      "Les grands chefs livrent leurs secrets sur des sites.",
+      "Les traditions culinaires peuvent se perpétuer grâce au numérique."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-21-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "L’adaptation de l’offre culinaire à la mode actuelle.",
+      "La baisse de la qualité des établissements.",
+      "La disparition graduelle de la cuisine traditionnelle.",
+      "L’hostilité des critiques spécialisés locaux."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-22-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Effectuer un calcul.",
+      "Évoquer un fait divers.",
+      "Fournir un support.",
+      "Sélectionner un souvenir."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-23-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Elle attire beaucoup d’investisseurs.",
+      "Elle enregistre des ventes record.",
+      "Elle recherche une clientèle aisée.",
+      "Elle soutient l’esprit de création."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-24-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Ils ont plus de facilités d’apprentissage.",
+      "Ils ont une idée claire de leur futur métier.",
+      "Ils sont déterminés à travailler beaucoup.",
+      "Ils sont plus sûrs de leur nouveau choix."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-25-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Ils influencent les élèves au-delà de la classe.",
+      "Ils instillent le goût du travail en équipe.",
+      "Ils permettent au système de se maintenir.",
+      "Ils suscitent de nombreuses vocations."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-26-1024x880.png",
+    "sujet": "",
+    "choix": [
+      "De nouvelles pédagogies semblent nécessaires.",
+      "Il conviendrait d’améliorer les résultats des élèves.",
+      "L’Europe doit engager une réforme des programmes.",
+      "Un soutien scolaire journalier serait bénéfique."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-27-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Des libraires menacent de fermer boutique.",
+      "La qualité des livres publiés est catastrophique.",
+      "Le nombre d’ouvrages à paraître a diminué.",
+      "Un éditeur refuse de participer à cette tradition."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-28-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Ils perpétuent une forme d’exclusion.",
+      "Le nombre de candidats s’amenuise.",
+      "Leur niveau d’exigence diminue.",
+      "On les réforme régulièrement."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-29-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Elles contribuent à une bonne hygiène de vie.",
+      "Elles facilitent les transactions sur Internet.",
+      "Elles permettent de communiquer à moindre frais.",
+      "Elles sont recommandées par le corps médical."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-30-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "L’accès universel à des aliments bon marché.",
+      "L’innovation des procédés de production.",
+      "Le développement du commerce équitable.",
+      "Le partage d’expériences traditionnelles."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-31-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "La longévité des programmes.",
+      "La qualité des services offerts.",
+      "Le changement régulier des séries.",
+      "Le contentement de leurs abonnés."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-32-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "L’attirance pour les espaces naturels.",
+      "L’insécurité des zones urbaines.",
+      "La précarité du monde professionnel.",
+      "Le désir de vivre en communauté."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-33-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Ils créent un climat de méfiance envers la technologie.",
+      "Ils entraînent la disparition de pratiques traditionnelles.",
+      "Ils facilitent la vie quotidienne des personnes âgées.",
+      "Ils sont à l’origine de l’expansion économique du pays."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-34-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Ils correspondent à des programmes scolaires obsolètes.",
+      "Ils méconnaissent l’existence des familles recomposées.",
+      "Ils présentent un partage sexiste des tâches dans le couple.",
+      "Ils se moquent du quotidien des personnes sans emploi."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-35-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Ils se détériorent après un certain temps.",
+      "Ils sont dangereux pour la santé.",
+      "Ils sont nuisibles pour l’environnement.",
+      "Ils sont vendus à des prix élevés."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-36-1-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Être au plus près de l’actualité.",
+      "Présenter des histoires positives.",
+      "Proposer des anecdotes amusantes.",
+      "Recenser les dérives de la société."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-37-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Il analyse l’établissement d’une dynastie royale.",
+      "Il explique l’origine d’une légende médiévale.",
+      "Il explore la construction identitaire des Français.",
+      "Il renforce le mythe de la bataille de Bouvines."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-38-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Des associations de consommateurs.",
+      "Des techniques de production nouvelles.",
+      "Des valeurs et des intentions claires.",
+      "Une population citadine et fortunée."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CE31-39-1024x887.png",
+    "sujet": "",
+    "choix": [
+      "Ils augmentent les ressources des municipalités.",
+      "Ils contribuent à la protection de l’environnement.",
+      "Ils garantissent la fourniture continue d’énergie.",
+      "Ils participent à l’élimination des animaux nuisibles."
+    ],
+    "bonne_reponse_index": 1
+  }
+]
