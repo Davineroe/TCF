@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q01-prepmontcfca.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q01-prepmontcfca.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q02-prepmontcfca.mp3",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q02-prepmontcfca.png",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q03-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q04-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q05-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q06-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q07-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q08-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q09-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q10-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q11-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’un prochain déménagement.",
+      "De sport pour le week-end.",
+      "De vacances en famille.",
+      "D’un problème de santé."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q12-prepmontcfca-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’un souvenir d’enfance.",
+      "D’une journée habituelle.",
+      "D’une recette de cuisine.",
+      "D’une visite de famille."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q13-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Dîner avec un ami.",
+      "Regarder un film.",
+      "Rentrer avec elle.",
+      "Travailler tard."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q14-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La mission est sans intérêt.",
+      "La société est loin de chez lui.",
+      "Le contrat est temporaire.",
+      "Le salaire est insuffisant."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q15-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De visiter le sud de la France.",
+      "De partir ensemble à l’étranger.",
+      "De partir chacun de leur côté.",
+      "D’aller pêcher avec d’autres amis."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q16-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La crise de l’économie mondiale.",
+      "L’accroissement de la population.",
+      "Les nouvelles règles d’hygiène.",
+      "Les récentes découvertes médicales."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q17-prepmontcfca-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Étudier à Ottawa.",
+      "Travailler à l’université.",
+      "Vivre avec son épouse.",
+      "Voyager au Niger."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q18-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Comment diminuer la consommation d’énergie.",
+      "Comment il faut appliquer les conseils des experts.",
+      "Comment la santé est influencée par le calendrier.",
+      "Comment se protège des maladies contagieuses."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q19-prepmontcfca-3.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’envie de changer de profession.",
+      "La nécessité de trouver un travail.",
+      "La réalisation d’un rêve de jeunesse.",
+      "La rencontre avec un passionné."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q20-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle est en congé.",
+      "Elle est tombée malade.",
+      "Elle travaille la nuit.",
+      "Elle voyage souvent."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q21-prepmontcfca-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a adoré l’Espagne.",
+      "Il a nagé chaque jour.",
+      "Il a séjourné à l’hôtel.",
+      "Il était avec son cousin."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q22-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Un point de vue sur la situation mondiale aujourd’hui.",
+      "Une analyse de l’actualité économique dans le monde.",
+      "Une critique des conséquences de la mondialisation.",
+      "Une réflexion sur les relations politiques mondiales."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q23-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’attribuer à la lecture le statut de loisir.",
+      "De favoriser la lecture en autonomie.",
+      "De limiter la lecture d’histoires illustrées.",
+      "De sélectionner des lectures classiques."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q24-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "lls abusent de repas très caloriques.",
+      "Ils consomment peu de produits frais.",
+      "lls ignorent l’origine de leurs plats.",
+      "Ils refusent de manger des légumes."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q25-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La recherche d’un appartement est rapide.",
+      "Le système de la colocation est encouragé.",
+      "Les habitations proposées sont de qualité.",
+      "Les logements sont bon marché en banlieue."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q26-prepmontcfca-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il assouvit un rêve d’enfance.",
+      "Il enrichit ses relations humaines.",
+      "Il fait progresser la recherche.",
+      "Il perpétue une tradition familiale."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q27-prepmontcfca-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "D’anticiper les questions posées.",
+      "De faire valoir ses compétences.",
+      "De surprendre par son attitude.",
+      "D’évoquer le respect des règles."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q28-prepmontcfca-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Faire le portrait des habitants des villages de Provence.",
+      "Partager son regard sur la luminosité de la Côte d’Azur.",
+      "Présenter les paysages du Sud dans des tonalités hivernales.",
+      "Rendre compte de l’évolution architecturale de la Riviera."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q29-prepmontcfca-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’envie de dénoncer la situation de l’école.",
+      "La nostalgie de l’école de leur jeunesse.",
+      "Le constat d’une école fermée sur elle-même.",
+      "L’approche identique de la question de l’école."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q30-prepmontcfca-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour donner des astuces pour briser la monotonie.",
+      "Pour encourager la pratique d’activités physiques.",
+      "Pour évoquer les problèmes de santé liés au stress.",
+      "Pour présenter une étude sur les rythmes journaliers."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q31-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Aujourd’hui, être à la mode est une préoccupation superficielle.",
+      "Il faut porter des vêtements adaptés à toutes circonstances.",
+      "La société actuelle donne trop de place à l’apparence.",
+      "La tenue vestimentaire influence l’état psychologique."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q32-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La conférence qui a eu lieu est uniquement symbolique.",
+      "La secrétaire d’État a fait part de son pessimisme.",
+      "Les discussions s’annoncent longues et difficiles.",
+      "Tous les points de l’accord ont déjà été traités sans succès."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q33-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Sur l’amplitude de l’effet de la dette sur la croissance.",
+      "Sur l’utilisation des recettes fiscales pour régler la dette.",
+      "Sur l’acquittement de la dette par la vente du patrimoine de l’état.",
+      "Sur le montant de la dette contractée par la province québécoise."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q34-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour améliorer le confort des automobiles.",
+      "Pour limiter la nuisance des automobiles.",
+      "Pour protéger la santé des automobilistes.",
+      "Pour relancer le marché de l’automobile."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q35-prepmontcfca-1.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elles peuvent développer des maladies.",
+      "Elles peuvent pourrir.",
+      "Elles peuvent rompre.",
+      "Elles peuvent succomber au froid."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q36-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il conditionne l’humeur.",
+      "Il dope l’énergie.",
+      "Il minimise l’angoisse.",
+      "Il stimule la créativité."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q37-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il admet que les guérisons spontanées sont fréquentes.",
+      "Il considère que la médecine a du mal à tout expliquer.",
+      "Il déconseille l’utilisation de certains médicaments.",
+      "Il est convaincu de l’efficacité des remèdes naturels."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q38-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Améliorer la présentation des produits.",
+      "Augmenter le nombre de clients.",
+      "Multiplier les points de vente.",
+      "Maintenir des tarifs compétitifs."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/09/CO33Q39-prepmontcfca.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "À l’occasion d’une entrevue.",
+      "En côtoyant des auteurs connus.",
+      "Grâce à des relations amicales.",
+      "Lors d’une émission de radio."
+    ],
+    "bonne_reponse_index": 0
+  }
+]
