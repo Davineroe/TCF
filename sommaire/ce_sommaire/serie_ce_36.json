@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-01-PREPMONTCFCA-1-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Appeler la secrétaire.",
+      "Consulter un médecin.",
+      "Envoyer des documents.",
+      "Payer les cours de judo."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-02-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Boire.",
+      "Cuisiner.",
+      "Manger.",
+      "Sortir."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-03-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Dans un café.",
+      "Dans un cinéma.",
+      "Dans une boutique.",
+      "Dans une entreprise."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-04-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Les artistes.",
+      "Les élèves.",
+      "Les enseignants.",
+      "Les familles."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-05-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "D’acheter du matériel en soldes.",
+      "De participer à un concours.",
+      "De rencontrer des professionnels.",
+      "De suivre des cours débutants."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-06-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "D’écrire aux invités.",
+      "D’organiser la fête.",
+      "De garder des enfants.",
+      "De préparer des danses."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-07-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "La boutique est fermée.",
+      "La commande est arrivée.",
+      "La facture est disponible.",
+      "La livraison est en retard."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-08-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Des échanges de logements.",
+      "Des locations bon marché.",
+      "Des réservations sans frais.",
+      "Des visites d’appartements."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-09-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Un savon pour le corps.",
+      "Un shampoing aux herbes.",
+      "Une boisson pour dormir.",
+      "Une crème de beauté."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-10-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Comment acheter des produits congelés.",
+      "Comment cuisiner des recettes simples.",
+      "Comment faire à manger à bon marché.",
+      "Comment réaliser des plats originaux."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-11-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Gagner de l’argent pour leur séjour.",
+      "Participer à une compétition sportive.",
+      "Suivre un atelier de cuisine internationale.",
+      "Visiter un établissement scolaire étranger."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-12-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "De l’aide pour une association.",
+      "De nouveaux rayons jouets.",
+      "Un concours de jeux vidéo.",
+      "Une remise de 2 euros par article."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-13-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Ils téléchargent des jeux sur leur poste.",
+      "Ils trouvent difficilement des informations.",
+      "Leur rendement au travail diminue.",
+      "Leurs échanges perdent en efficacité."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-14-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Elles adorent utiliser Facebook.",
+      "Elles enseignent dans la même école.",
+      "Elles habitent dans le même pays.",
+      "Elles ont la même famille adoptive."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-15-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "De faire du sport et de rencontrer des personnes.",
+      "De nager régulièrement et de manger du poisson.",
+      "De se reposer et de découvrir le milieu marin.",
+      "De vivre au calme et de se retrouver en famille."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-16-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "C’est un appui pédagogique supplémentaire.",
+      "C’est un réel facteur de cohésion de groupe.",
+      "C’est un simple moyen de communication.",
+      "C’est une source de distraction en classe."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-17-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Lire des nouveautés en ligne.",
+      "Parler à des dessinateurs.",
+      "Payer des entrées sur un site.",
+      "Réserver une visite guidée."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-18-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "La crainte de la dépendance.",
+      "Le désert affectif ambiant.",
+      "La quête du bonheur facile.",
+      "La recherche de l’équilibre."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-19-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Il cite un extrait d’une œuvre de Modiano.",
+      "Il explique l’idée de départ d’un livre de Modiano.",
+      "Il présente le métier de Modiano à ses débuts.",
+      "II raconte la rencontre entre Modiano et sa femme."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-20-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Pour créer un lien entre générations.",
+      "Pour compléter leurs études.",
+      "Pour améliorer leurs revenus.",
+      "Parce qu’ils ne veulent plus être seuls."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-21-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Un spectacle de cirque.",
+      "Une activité de maquillage.",
+      "Une rencontre avec un clown.",
+      "Une sortie au zoo."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-22-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "D’interdire les photos portant atteinte à leur dignité.",
+      "De diversifier le type de femmes prises pour modèles.",
+      "De mentionner les références précises des produits.",
+      "De signaler sur les photos les modifications effectuées."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-23-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "C’est un phénomène mondial.",
+      "II influence la productivité des salariés.",
+      "On peut facilement le repérer.",
+      "Ses effets sont néfastes pour l’emploi."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-24-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "La faible qualité de la production française.",
+      "Le manque d’innovation dans son entreprise.",
+      "Les contraintes des contrôles financiers.",
+      "L’expansion de la concurrence internationale."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-25-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Il est obligatoire sur les produits.",
+      "Il facilite la lecture des étiquettes.",
+      "Il répond à une décision des fabricants.",
+      "Il transforme l’organisation des rayons."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-26-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Il a des effets encore inconnus.",
+      "Il rallonge l’espérance de vie.",
+      "Il se propage imperceptiblement.",
+      "II suscite un fort engouement."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-27-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Critiquer l’engagement des sportifs en politique internationale.",
+      "Décrire les rapports du sport et de la politique internationale.",
+      "Dénoncer l’utilisation de l’image des sportifs en diplomatie.",
+      "Montrer l’utilité du sport dans la résolution de conflits internationaux."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-28-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Commencer une thérapie.",
+      "Multiplier les passe-temps.",
+      "Rechercher l’âme sœur.",
+      "Travailler sur soi-même."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-29-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Il doit intervenir dès le plus jeune âge.",
+      "Il est indissociable de celui des savoirs.",
+      "Il exige une formation solide des professeurs.",
+      "Il varie selon la politique éducative des pays."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-30-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Elles peuvent être touchées par le public.",
+      "Elles répondent à une thématique unique.",
+      "Elles sont destinées à être recyclées.",
+      "Elles sont issues de techniques variées."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-31-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "À la protection de la biodiversité.",
+      "À la transmission de souvenirs.",
+      "À l’abolition des frontières.",
+      "À l’enrichissement du lexique."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-32-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Aider les femmes à se battre pour améliorer leur situation familiale.",
+      "Amener les spectateurs à s’émouvoir d’un quotidien douloureux.",
+      "Démontrer que la condition de la femme dans les cités est désastreuse.",
+      "Informer des difficultés que peuvent rencontrer les enfants des cités."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-33-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Ils sont aptes à coloniser un territoire vierge.",
+      "Ils sont capables de communiquer entre eux.",
+      "Ils sont en compétition pour leur croissance.",
+      "Ils sont susceptibles de ressentir des émotions."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-34-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "De laisser trop de temps à l’oisiveté.",
+      "De s’écarter du modèle éducatif légal.",
+      "De satisfaire avant tout les adultes.",
+      "D’être à l’origine de l’échec scolaire."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-35-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "En abandonnant les codes traditionnels du roman.",
+      "En cherchant des sources d’inspiration inédites.",
+      "En proposant de nouveaux concepts universels.",
+      "En se jouant des difficultés liées à l’écriture."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-36-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Elle a accru la compétitivité industrielle.",
+      "Elle a amélioré les conditions de travail.",
+      "Elle a enrayé la hausse du chômage.",
+      "Elle a modifié l’organisation du travail."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-37-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Le coût social élevé de prise en charge des maladies génétiques.",
+      "Le développement de traitements curatifs de pathologies génétiques.",
+      "Le mode de financement de la recherche génétique fondamentale.",
+      "Les dérives induites par l’amélioration du patrimoine génétique."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-38-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Elle plagie la doctrine d’un célèbre linguiste.",
+      "Elle remet en cause les théories habituelles.",
+      "Elle soutient des hypothèses indémontrables.",
+      "Elle utilise des outils scientifiques peu fiables."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2024/06/CE36-39-PREPMONTCFCA-1024x868.png",
+    "sujet": "",
+    "choix": [
+      "Il reconnaît ses aspects pratiques.",
+      "Il remet en cause ses bienfaits.",
+      "Il s’inquiète de son usage abusif.",
+      "Il s’émerveille de sa technologie."
+    ],
+    "bonne_reponse_index": 2
+  }
+]
