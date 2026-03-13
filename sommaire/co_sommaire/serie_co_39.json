@@ -1,0 +1,587 @@
+[
+  {
+    "question": 1,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CO28-2.ogg",
+    "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CO28-2-1.webp",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 2,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO23-2.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 3,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-15-3.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 4,
+    "points": 3,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CO28-4.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 5,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CO28-5.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 6,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-6.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 7,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO26-7.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 8,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-12_8.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 9,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-12_9.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 10,
+    "points": 9,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-11_10.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La communication avec ses clients.",
+      "La recherche d’un nouveau travail.",
+      "L’achat d’un nouveau téléphone fixe.",
+      "L’utilisation de son ordinateur portable."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 11,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-11.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La mode.",
+      "La nature.",
+      "Les saisons.",
+      "Les vacances."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 12,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/01/CO29-12.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De leur voyage en Argentine.",
+      "Des résultats des examens.",
+      "Du cout de la vie en ville.",
+      "D’un séjour linguistique."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 13,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-3_12.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a été très agréablement surpris.",
+      "Il préfère attendre pour se prononcer.",
+      "Il aurait aimé se mettre déjà au travail.",
+      "Il a trouvé son supérieur peu disponible."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 14,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-10_14.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De visiter le sud de la France.",
+      "De partir ensemble à l’étranger.",
+      "De partir chacun de leur côté.",
+      "D’aller pêcher avec d’autres amis."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 15,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-15.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour conseiller un livre.",
+      "Pour discuter d’écologie.",
+      "Pour parler de sa ville.",
+      "Pour raconter un voyage."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 16,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/11/CO25-16.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La crise de l’économie mondiale.",
+      "L’accroissement de la population.",
+      "Les nouvelles règles d’hygiène.",
+      "Les récentes découvertes médicales."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 17,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/12/CO28-17.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour avoir un logement plus grand et peu cher.",
+      "Pour louer des chambres à des étudiants.",
+      "Pour partager les tâches ménagères.",
+      "Pour rencontrer de nouvelles personnes."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 18,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-2_19.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Avoir de l’expérience dans la vente.",
+      "Habiter près de Sainton-les-Tonges.",
+      "Pratiquer régulièrement un sport.",
+      "Savoir gérer un site internet."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 19,
+    "points": 15,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-7_19.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il a peu de diplômes.",
+      "Il est déjà trop âgé.",
+      "Il est mauvais en langues.",
+      "Il manque d’expérience."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 20,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-5_20.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Le recrutement se fonde sur l’expérience.",
+      "Les salaires à l’embauche sont très élevés.",
+      "L’évolution professionnelle est très lente.",
+      "L’obtention d’un premier emploi est aisée."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 21,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO21-20.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle veut faire du vélo.",
+      "Elle a horreur du volley.",
+      "Elle trouve le vent trop fort.",
+      "Elle se sent fatiguée."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 22,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-8_21.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Des habitants ont voté pour un maire écologiste.",
+      "Les écologistes refusent la construction d’une autoroute.",
+      "L’Union européenne veut faire construire une autoroute.",
+      "Un maire propose d’ouvrir une réserve naturelle."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 23,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-11_23.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’atmosphère détendue.",
+      "La souplesse des horaires.",
+      "L’efficacité de son équipe.",
+      "Les opportunités de carrière."
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 24,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO24-24.ogg",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour conserver le poisson.",
+      "Pour ranger leur matériel.",
+      "Pour se réchauffer.",
+      "Pour se reposer."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 25,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-5_25.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils aiment passer leurs vieux jours dans le sud de la France.",
+      "Ils osent davantage partir à l’étranger qu’auparavant.",
+      "Ils payent plus d’impôts que les autres citoyens européens.",
+      "Ils prennent des cours de langue pour améliorer leur niveau."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 26,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-14-26.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils annulent leurs activités.",
+      "Ils partent à la montagne.",
+      "Ils préfèrent sortir la nuit.",
+      "Ils restent au frais à l’intérieur."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 27,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-6_27.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils espèrent obtenir une allocation de l’État.",
+      "Ils voient leur futur de manière positive.",
+      "Ils comptent sur le soutien de leurs proches.",
+      "Ils refusent d’habiter chez leurs parents."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 28,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-7_29.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils devront demander le remboursement de leur billet par écrit.",
+      "Ils devront descendre en gare de Valence suite à une panne.",
+      "Ils devront patienter à leur place jusqu’à l’arrêt complet du train.",
+      "Ils devront présenter leur billet à leur descente du train."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 29,
+    "points": 21,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-3_29.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De maigrir plus rapidement.",
+      "De manger sans compter.",
+      "De s’entraîner moins souvent.",
+      "De vivre plus longtemps."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 30,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-4_30.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’absence de formation sur l’élaboration d’un budget.",
+      "Le désintérêt des jeunes pour les questions financières.",
+      "Le manque de cours d’économie à l’université.",
+      "Le peu d’informations des banques sur les crédits."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 31,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-1_30.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "L’attitude des touristes accélère sa dégradation.",
+      "Le financement des travaux d’entretien est menacé.",
+      "Les autorités restaurent actuellement les vestiges.",
+      "L’intérêt pour l’architecture des lieux est en déclin."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 32,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2024/03/CO30-32.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Elle peut rompre les branches.",
+      "Elle peut geler les racines.",
+      "Elle peut surcharger les branches.",
+      "Elle peut empêcher la lumière du soleil."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 33,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-6_32.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Ils nagent en plein air dans la capitale.",
+      "Ils s’amusent dans un parc d’attractions.",
+      "Ils se retrouvent à la piscine municipale.",
+      "Ils sont en vacances au bord de la mer."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 34,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-6_33.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "De la particularité de sa voix.",
+      "De la reprise d’une œuvre.",
+      "De sa nouvelle tournée.",
+      "De son dernier rôle au cinéma."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 35,
+    "points": 26,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-11_34.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pour accélérer la rénovation d’anciennes constructions.",
+      "Pour comparer les styles des maisons nord-américaines.",
+      "Pour conserver la trace du patrimoine architectural.",
+      "Pour dénoncer la dégradation des logements urbains."
+    ],
+    "bonne_reponse_index": 2
+  },
+  {
+    "question": 36,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-13_36.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Il conditionne l’humeur",
+      "Il dope l’énergie",
+      "Il minimise l’angoisse",
+      "Il stimule la créativité"
+    ],
+    "bonne_reponse_index": 3
+  },
+  {
+    "question": 37,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/Comprehension-Oral-test-1_37.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La relation liant Camille Claudel et Rodin.",
+      "La richesse du musée Auguste Rodin.",
+      "Les difficultés rencontrées par Rodin.",
+      "Les sources d’inspiration de Rodin."
+    ],
+    "bonne_reponse_index": 0
+  },
+  {
+    "question": 38,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO24-38.ogg",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "La pénibilité au travail est d’ordre physique.",
+      "Moins de travail physique, plus de stress explique le malaise.",
+      "Augmentation de la pénibilité physique et psychique.",
+      "Le malaise vient de plus de travail dans le privé."
+    ],
+    "bonne_reponse_index": 1
+  },
+  {
+    "question": 39,
+    "points": 33,
+    "question_text": "",
+    "audio_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/CO-18-39.mp3",
+    "image_url": "",
+    "sujet": null,
+    "choix": [
+      "Pratiquer des exercices mentaux.",
+      "Exprimer ses sentiments.",
+      "Se montrer chaleureux.",
+      "Se retirer régulièrement au calme."
+    ],
+    "bonne_reponse_index": 2
+  }
+]
