@@ -7,10 +7,10 @@
     "image_url": "https://prepmontcfca.com/wp-content/uploads/2023/09/21Q1.png",
     "sujet": "Écoutez les 4 propositions, choisissez celle qui correspond à l'image.",
     "choix": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "",
+      "",
+      "",
+      ""
     ],
     "bonne_reponse_index": 2
   },
@@ -22,10 +22,10 @@
     "image_url": "",
     "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
     "choix": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "",
+      "",
+      "",
+      ""
     ],
     "bonne_reponse_index": 0
   },
@@ -37,10 +37,10 @@
     "image_url": "",
     "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
     "choix": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "",
+      "",
+      "",
+      ""
     ],
     "bonne_reponse_index": 2
   },
@@ -52,10 +52,10 @@
     "image_url": "",
     "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
     "choix": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "",
+      "",
+      "",
+      ""
     ],
     "bonne_reponse_index": 0
   },
@@ -67,10 +67,10 @@
     "image_url": "",
     "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
     "choix": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "",
+      "",
+      "",
+      ""
     ],
     "bonne_reponse_index": 1
   },
@@ -82,10 +82,10 @@
     "image_url": "",
     "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
     "choix": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "",
+      "",
+      "",
+      ""
     ],
     "bonne_reponse_index": 0
   },
@@ -97,10 +97,10 @@
     "image_url": "",
     "sujet": "Écoutez l'extrait sonore et la question. Choisissez la bonne réponse.",
     "choix": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "",
+      "",
+      "",
+      ""
     ],
     "bonne_reponse_index": 2
   },
