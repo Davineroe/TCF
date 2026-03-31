@@ -75,7 +75,7 @@
             },
             {
               "numero": 2,
-              "consigne": "COURRIER DES LECTEURS\n\nTout quitter pour partir voyager pendant un an : est-ce une bonne ou une mauvaise idée ?\n\nÉcrivez votre réponse sur notre site Internet : “voyage.internaute.fr”. Dans votre message, donnez votre avis en illustrant votre réponse avec des exemples tirés de votre expérience personnelle.",
+              "consigne": "Tout quitter pour partir voyager pendant un an : est-ce une bonne ou une mauvaise idée ?\n\nÉcrivez votre réponse sur notre site Internet : “voyage.internaute.fr”. Dans votre message, donnez votre avis en illustrant votre réponse avec des exemples tirés de votre expérience personnelle.",
               "min_mots": 120,
               "max_mots": 150
             },
