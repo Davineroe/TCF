@@ -1,0 +1,132 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez invité votre ami Cédric à votre mariage au Château de Chombony. Il vous a répondu qu’il ne connaît pas cet endroit. Vous lui décrivez le château (situation, accès, moyens de transport, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Sur un forum, vous racontez votre expérience dans l’apprentissage d’une langue étrangère (vous écrivez en partageant votre expérience dans l’étude d’une langue étrangère).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Cuisinier Amateur ou Professionnel ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les cuisiniers amateurs parviennent à réaliser certaines recettes, mais ils manquent souvent des techniques et du savoir-faire des professionnels. Pour maîtriser l’art culinaire, une formation et une expérience approfondie sont essentielles."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certains autodidactes se sont fait un nom grâce aux réseaux sociaux et à des formations en ligne. L’histoire d’une passionnée devenue cheffe et auteure de livres de cuisine illustre qu’il est possible de réussir sans passer par un parcours traditionnel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami, Mehdi vient d’arriver en ville et cherche des informations sur les moyens de transport. Tu lui envoies un message détaillant les différentes options, les tarifs et les abonnements disponibles.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu exprimes ton admiration pour une personnalité célèbre ou non à travers un article de blog. Tu mets en avant ses actions et expliques pourquoi elle t’inspire.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vivre en Colocation : Avantages et Inconvénients",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "La colocation présente plusieurs bénéfices. Partager un logement avec d’autres personnes permet de réduire les coûts comme le loyer, les charges ou les dépenses communes. Elle favorise aussi les relations sociales et les échanges culturels. Vivre avec des colocataires offre l’occasion de rencontrer des personnes d’origines variées, de créer des amitiés et de partager des expériences enrichissantes."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La vie en colocation comporte toutefois des inconvénients. Les différences de caractère et de style de vie peuvent générer des tensions. La répartition des tâches ménagères et des responsabilités peut aussi causer des conflits. En outre, la colocation peut réduire l’intimité et l’espace personnel. Pour que la cohabitation reste agréable, il est essentiel d’instaurer une communication claire et respectueuse ainsi que des règles communes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous prévoyez de partir en week-end avec vos amis le mois prochain. Écrivez-leur un message pour leur présenter votre projet : parlez du lieu choisi, du moyen de transport et des activités prévues.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "COURRIER DES LECTEURS\n\nTout quitter pour partir voyager pendant un an : est-ce une bonne ou une mauvaise idée ?\n\nÉcrivez votre réponse sur notre site Internet : “voyage.internaute.fr”. Dans votre message, donnez votre avis en illustrant votre réponse avec des exemples tirés de votre expérience personnelle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail : Favorable ou Défavorable ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le travail occupe une place centrale dans nos vies. Depuis l’enfance, on nous demande souvent : « Que veux-tu faire plus tard ? ». Travailler devrait rimer avec réussite et épanouissement, mais pour beaucoup, cela signifie plutôt fatigue et contraintes. Aujourd’hui, certains estiment qu’on ne consacre pas assez de temps à sa famille ou à ses amis. Selon eux, il est urgent de repenser la place du travail dans notre société. Travailler moins offrirait plus de temps libre et améliorerait la qualité de vie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "D’autres ont choisi de quitter leur emploi pour changer de mode de vie. Pourtant, travailler reste essentiel aujourd’hui. La question : « Tu fais quoi dans la vie ? » est souvent posée lors d’une rencontre. Cela montre que l’emploi fait partie de notre identité. Selon le spécialiste Jean-Daniel Remond, l’entreprise est un lieu fondamental : les relations quotidiennes, les réseaux, les amitiés, le sentiment d’être utile mais aussi les difficultés participent à la construction de soi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Matthias t’annonce une excellente nouvelle : il a enfin obtenu son visa pour le Canada et arrivera le 3 mars. Il te demande de l’aider à trouver un hôtel pour sa première semaine sur place.\n\nTu lui réponds en lui envoyant un courriel détaillant l’établissement que tu as réservé, en précisant son emplacement, le prix et les services disponibles.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Tu as récemment passé une soirée mémorable avec des amis en assistant à un spectacle (film, pièce de théâtre, concert, etc.) qui t’a particulièrement plu. Sur ton blog, tu partages ton ressenti en expliquant ce qui t’a marqué et pourquoi cet événement a été si spécial.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Relations Amicales au Travail",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Tisser des liens d’amitié avec ses collègues présente de nombreux avantages. Un environnement de travail où règnent la convivialité et la bonne entente favorise une ambiance agréable et motivante. Avoir des amis parmi ses collègues renforce la cohésion d’équipe, améliore la communication et facilite la collaboration. Ces relations permettent également de mieux gérer les défis professionnels et de trouver plus facilement des solutions aux problèmes rencontrés. De plus, partager des moments de détente en dehors du cadre professionnel, comme des repas ou des activités communes, contribue à renforcer ces liens et à créer une dynamique d’équipe plus solide."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Toutefois, il est important de maintenir un équilibre entre amitié et professionnalisme. Des liens trop étroits entre collègues peuvent parfois générer des tensions, notamment lors de prises de décision importantes. De plus, des affinités trop marquées entre certains membres d’une équipe peuvent mener à l’exclusion d’autres collègues, ce qui nuit à l’esprit de groupe et à la collaboration. Il est donc essentiel d’établir des limites claires afin que les relations amicales ne compromettent ni la hiérarchie, ni l’efficacité, ni l’harmonie au sein de l’entreprise."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
