@@ -1,0 +1,349 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 11,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami(e) veut commencer à faire du sport. Rédigez un message pour lui recommander une salle dans votre quartier en précisant son emplacement, les tarifs et les activités proposées.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à un événement marquant (anniversaire, mariage, etc.). Écrivez un récit pour partager votre souvenir et mettre en avant ce qui vous a le plus marqué.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Lecture pour les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Avec le développement des nouvelles technologies et l’omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo, du sport ou de la musique. Contrairement aux adultes d’aujourd’hui, qui ont grandi en lisant de nombreux livres, la jeune génération passe plus de temps sur les réseaux sociaux ou à suivre les grandes stars du sport. Alors, faut-il vraiment forcer les enfants à lire ? Comme le dit un proverbe, « le goût de la lecture ne s’impose pas ». Il vaut mieux les laisser choisir leurs lectures sans les y contraindre."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans. Lire régulièrement aide les enfants à mieux maîtriser la langue et à améliorer leur concentration. Pour encourager cette habitude, les parents peuvent consacrer 10 minutes par jour à la lecture avec leur enfant, un moment de partage qui renforce leur complicité."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez passé un week-end à la campagne et souhaitez partager votre expérience avec un(e) ami(e). Rédigez un message pour lui raconter ce que vous avez vécu.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Votre entreprise recherche une salle pouvant accueillir 100 invités pour la fête de fin d’année. Vous avez trouvé un espace idéal et vous écrivez à votre direction pour leur en donner les détails (emplacement, tarifs, services proposés, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’Usage des Nouvelles Technologies dans les Écoles : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Pierre : Je suis persuadé que l’intégration des nouvelles technologies à l’école est essentielle pour préparer les élèves au monde numérique. L’utilisation de tablettes et d’ordinateurs capte leur attention et enrichit leur apprentissage en leur donnant accès à une multitude de ressources. Cela stimule aussi leur créativité et leur autonomie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Sophia : J’ai des réserves quant à l’omniprésence des technologies dans l’éducation. Je pense que cela peut réduire les interactions humaines essentielles et engendrer une dépendance excessive aux écrans. Selon moi, les méthodes d’enseignement traditionnelles et la relation directe avec les enseignants restent indispensables pour un apprentissage équilibré."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous organisez une fête d’anniversaire dans un restaurant et souhaitez inviter vos amis. Vous leur écrivez un courriel pour leur fournir tous les détails (lieu, date, heure, menu, prix) et leur demander un retour avec une réponse.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez quitté la ville pour vivre à la campagne. Sur un forum en ligne, vous expliquez les raisons de ce choix et décrivez les avantages de cette nouvelle vie.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Caméras de Surveillance dans les Écoles : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Dans l’école où j’enseigne à Montréal, des caméras sont installées un peu partout. Cette surveillance permet de faire comprendre aux élèves que tout acte de violence sera sanctionné. Ce dispositif est largement accepté par les parents, les enseignants et la majorité des élèves. Les parents se sentent rassurés quant à la sécurité de leurs enfants, et les professeurs y voient une garantie pour exercer leur métier dans de bonnes conditions. Cependant, certains élèves critiquent la présence des caméras, affirmant qu’elles portent atteinte à leur vie privée."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Je suis opposé à l’installation de caméras de surveillance dans les écoles de Montréal. Dans les pays où ce système est utilisé, les résultats ne sont pas très concluants. Les caméras étant facilement repérables, une personne extérieure pourrait entrer dans l’établissement en contournant les zones surveillées. Pour améliorer la discipline, une meilleure communication entre les élèves, l’administration et les enseignants serait souvent suffisante. Plutôt que d’installer des caméras, il vaudrait mieux s’assurer que le règlement intérieur soit bien compris et respecté par tous. D’après lapresse.co"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Je souhaite acheter un vélo en bon état à un prix abordable. Vous pouvez me contacter par e-mail : mathieu@gmail.com » Vous possédez un vélo que vous souhaitez vendre. Rédigez un courriel à l’acheteur potentiel pour lui décrire votre vélo, proposer un prix et lui fixer un rendez-vous pour l’essayer.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé une journée agréable à la campagne avec vos amis. À votre retour, vous écrivez un message sur un forum pour partager votre expérience. Vous expliquez ce que vous avez apprécié (les activités, le paysage, les animaux, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Sévérité des Parents envers leurs Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "J’ai bientôt 22 ans et je vis encore chez mes parents. Malgré ma majorité, ils restent stricts avec moi. Lorsque j’étais plus jeune, ils m’interdisaient de dormir ailleurs et de rentrer après 21h lorsque je sortais avec des amies. Aujourd’hui, même si j’ai le droit de rester dehors plus tard, ma mère m’appelle constamment jusqu’à ce que je sois de retour à la maison."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certains parents ont peur d’être trop autoritaires avec leurs enfants. Ils redoutent qu’une éducation trop stricte freine leur épanouissement et les empêche de développer leur personnalité. Pourtant, leur céder tout par amour peut aussi être néfaste une fois devenus adultes. En effet, pour bien vivre en société, certaines règles doivent être respectées."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous répondez à un ami qui souhaite avoir des renseignements sur une salle de sport bien connue pour la qualité de ses services. Dans votre message, donnez-lui des informations sur cette salle (équipements, ambiance, horaires, tarifs, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Rédigez un message pour raconter votre expérience avec une formation en ligne. Mettez en avant les aspects positifs du programme suivi, mais évoquez aussi les éventuelles difficultés que vous avez rencontrées pendant l’apprentissage.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Produits faits Maison : Solution responsable ou pas ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Préparer soi-même ses produits bio à la maison permet de choisir les ingrédients avec précision, pour un résultat plus sain et adapté à ses besoins. Cela réduit aussi les déchets plastiques grâce à l’usage de contenants réutilisables. Cette démarche écologique, en plus d’être économique sur le long terme, valorise la créativité et encourage un mode de vie respectueux de l’environnement."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, fabriquer ses produits chez soi n’est pas sans risques. Une mauvaise composition peut réduire leur efficacité ou causer des réactions cutanées. Cela demande aussi du temps et de la rigueur pour trouver des ingrédients fiables. Sans contrôle strict, le produit peut se détériorer ou se contaminer. Enfin, l’achat d’ingrédients de qualité peut représenter un coût important."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez bientôt fêter votre anniversaire. Rédigez un message à vos amis pour les inviter et leur décrire ce que vous avez prévu (lieu, programme, ambiance, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Quelqu’un a publié un message sur Facebook à propos des études à l’étranger. Écrivez un commentaire pour exprimer votre point de vue en évoquant les avantages et les difficultés de cette expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Enfants et les Technologies Modernes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les élèves du primaire peuvent utiliser la technologie pour enrichir leurs apprentissages. Par exemple, ils peuvent regarder des vidéos éducatives ou jouer à des jeux interactifs qui développent leurs compétences en lecture, en calcul ou en dactylographie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, de nombreux parents s’inquiètent du rôle passif que ces outils peuvent provoquer chez les enfants. Les écrans réduisent les échanges humains, les jeux créatifs et l’activité physique. Il serait utile de proposer des activités originales et stimulantes pour les encourager à décrocher un peu des écrans."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message pour inviter votre ami(e) à venir passer ses vacances dans votre ville. Présentez-lui les lieux intéressants et les endroits à visiter.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours pour gagner un séjour de deux semaines dans la ville que vous préférez. Le thème du concours est « Mon artiste préféré ». Rédigez un article de blog pour présenter cet artiste.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Chasse Aux Animaux : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "« Je fais partie de ces personnes qui ne parviennent pas à comprendre qu’on puisse ressentir du plaisir en tuant des animaux. Cela me dépasse totalement. J’ai également du mal à concevoir que certaines personnes puissent prétendre aimer la nature tout en participant activement à sa destruction. » – Sabrina, 29 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "« Il existe de nombreuses raisons pour lesquelles certaines personnes pratiquent la chasse. Cela peut être pour se nourrir, dans un but commercial, ou encore pour gérer et réguler certaines espèces animales. D’autres le font pour défendre leurs terres ou simplement comme activité physique, de loisir ou même pour gagner en reconnaissance sociale. » – David, journaliste à la FRM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut, j’ai entendu dire que tu vas dans une super salle de sport. Tu peux m’en parler ? » Vous lui répondez dans un message et vous donnez des détails sur cette salle (ambiance, équipements, prix, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez lu un débat sur un forum au sujet des formations en ligne. Écrivez un message pour raconter votre propre expérience (cours de langue, formation professionnelle, etc.). Dites ce que vous avez apprécié et ce que vous avez moins aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Produits Faits Maison : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Préparer soi-même des produits bio à la maison permet de maîtriser totalement les ingrédients utilisés, ce qui assure des solutions plus adaptées et meilleures pour la santé. Cela aide aussi à limiter les déchets plastiques en utilisant des contenants réutilisables. Par ailleurs, cela permet d’économiser sur le long terme et d’apprendre des savoir-faire créatifs, tout en adoptant un mode de vie plus responsable."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Faire des produits bio chez soi présente certains inconvénients. Des erreurs dans les recettes peuvent rendre les produits inefficaces ou causer des réactions. De plus, chercher et préparer les ingrédients demande du temps et de l’énergie. Ces produits n’ont pas toujours de garanties de sécurité ou de conservation, ce qui peut favoriser les bactéries. Enfin, les ingrédients de qualité coûtent cher au départ, ce qui peut décourager certaines personnes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez bientôt vous installer à Nice. Vous écrivez un message à une agence immobilière pour chercher un logement. Indiquez ce que vous recherchez (taille du logement, budget, nombre de pièces, quartier, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez de commencer des cours dans une école de langues. Vous écrivez à vos amis pour leur raconter votre première semaine. Donnez vos impressions sur les cours, les professeurs et l’ambiance de l’école.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Caméras De Surveillance : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Aujourd’hui, les caméras de surveillance sont de plus en plus présentes dans les villes. Beaucoup de Français les apprécient, car elles leur donnent un sentiment de sécurité. Selon un sondage, 75 % des personnes interrogées soutiennent leur développement. La majorité accepte d’être filmée dans les lieux publics comme les rues, les magasins ou les transports. En revanche, ils ne veulent pas être surveillés sur leur lieu de travail. En France, très peu de caméras sont installées dans les entreprises."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Des recherches montrent que la vidéosurveillance est coûteuse et peu efficace. Les caméras sont faciles à repérer, ce qui limite leur impact pour empêcher les délits comme le vol, la drogue ou la violence. De plus, leur utilisation demande beaucoup de ressources humaines. Une étude allemande indique qu’il faut jusqu’à sept personnes pour suivre et analyser les images d’une seule caméra."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami(e) souhaite découvrir la région où vous habitez. Rédigez-lui un message dans lequel vous lui recommandez quelques endroits intéressants à visiter.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez récemment suivi un cours de sport dans une salle de votre ville. Rédigez un article pour votre blog personnel afin de raconter cette expérience et donner votre avis sur cette salle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Livraison Des Repas Au Bureau : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Commander un repas livré au bureau fait gagner du temps. En effet, on peut rester sur place pendant la pause déjeuner, ce qui permet de finir plus tôt sa journée. Ce service permet aussi à chacun de choisir le repas qui lui plaît : si l’un veut un plat italien et l’autre des sushis, chacun peut commander séparément sans problème. Un autre avantage est la disponibilité : certains restaurants fonctionnent 24 heures sur 24, ce qui rend ce service accessible à tout moment."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Mais ce mode de consommation présente aussi des limites. Quand il y a trop de commandes, les livreurs peuvent être débordés, ce qui entraîne des retards et du stress. Pour les employés, rester assis à son bureau sans faire de vraie pause peut provoquer de la fatigue. Il est donc conseillé de faire une vraie coupure, même courte, pour rester efficace dans son travail."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous prévoyez de partir en week-end avec vos amis le mois prochain. Écrivez-leur un message pour leur présenter votre projet : parlez du lieu choisi, du moyen de transport et des activités prévues.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "COURRIER DES LECTEURS\n\nTout quitter pour partir voyager pendant un an : est-ce une bonne ou une mauvaise idée ?\n\nÉcrivez votre réponse sur notre site Internet : \"voyage.internaute.fr\". Dans votre message, donnez votre avis en illustrant votre réponse avec des exemples tirés de votre expérience personnelle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail : Favorable ou Défavorable ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le travail occupe une place centrale dans nos vies. Depuis l’enfance, on nous demande souvent : « Que veux-tu faire plus tard ? ». Travailler devrait rimer avec réussite et épanouissement, mais pour beaucoup, cela signifie plutôt fatigue et contraintes. Aujourd’hui, certains estiment qu’on ne consacre pas assez de temps à sa famille ou à ses amis. Selon eux, il est urgent de repenser la place du travail dans notre société. Travailler moins offrirait plus de temps libre et améliorerait la qualité de vie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "D’autres ont choisi de quitter leur emploi pour changer de mode de vie. Pourtant, travailler reste essentiel aujourd’hui. La question : « Tu fais quoi dans la vie ? » est souvent posée lors d’une rencontre. Cela montre que l’emploi fait partie de notre identité. Selon le spécialiste Jean-Daniel Remond, l’entreprise est un lieu fondamental : les relations quotidiennes, les réseaux, les amitiés, le sentiment d’être utile mais aussi les difficultés participent à la construction de soi."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
