@@ -32,6 +32,316 @@
               ]
             }
           ]
+        },
+        {
+          "numero": 10,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Je recherche un vélo en bon état à un prix abordable. Contactez-moi par courriel : Thomas@gmail.com » Vous possédez un vélo à vendre. Vous écrivez un courriel pour présenter votre vélo et proposer un prix. Vous fixez également un rendez-vous pour que la personne puisse l’essayer.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous écrivez un message à vos amis pour leur raconter votre expérience de travail saisonnier réalisé pendant les vacances d’été.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Gratuité des Transports en Commun : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Rendre les transports en commun gratuits est une excellente initiative. Cela permet de réduire le nombre de voitures en circulation et de limiter les embouteillages. C’est aussi une solution efficace pour diminuer la pollution et les problèmes de santé liés à la qualité de l’air. Dans ma ville, les transports sont gratuits et on constate une augmentation de leur utilisation. Cette mesure a également eu un effet positif sur les commerces du centre-ville, car les habitants y reviennent plus facilement pour faire leurs achats."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Selon moi, cette idée n’est pas pertinente. Tout d’abord, la gratuité représenterait un coût important pour les municipalités, alors que certaines villes, comme Toulouse, ont d’autres priorités. Par exemple, l’aménagement des espaces verts devrait être traité en premier. Ensuite, il serait préférable d’améliorer l’organisation des transports publics plutôt que de les rendre gratuits, car certains quartiers sont mal desservis. Enfin, garder les transports payants incite les usagers à mieux respecter les équipements, puisqu’ils contribuent financièrement à leur fonctionnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez invité votre ami Cédric à votre mariage au Château de Chombony. Il vous a répondu qu’il ne connaît pas cet endroit. Vous lui décrivez le château (situation, accès, moyens de transport, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Sur un forum, vous racontez votre expérience dans l’apprentissage d’une langue étrangère (vous écrivez en partageant votre expérience dans l’étude d’une langue étrangère).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Cuisinier Amateur ou Professionnel ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les cuisiniers amateurs parviennent à réaliser certaines recettes, mais ils manquent souvent des techniques et du savoir-faire des professionnels. Pour maîtriser l’art culinaire, une formation et une expérience approfondie sont essentielles."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certains autodidactes se sont fait un nom grâce aux réseaux sociaux et à des formations en ligne. L’histoire d’une passionnée devenue cheffe et auteure de livres de cuisine illustre qu’il est possible de réussir sans passer par un parcours traditionnel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous organisez votre anniversaire. Vous écrivez un message à vos amis pour les inviter. Vous leur expliquez le programme de la soirée et vous leur demandez un coup de main pour la préparation.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours de cuisine. Sur votre site Internet, vous racontez comment la journée s’est déroulée et vous expliquez ce que vous avez aimé ou moins apprécié dans cette expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Étudiants et les Emplois Saisonniers",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Après plusieurs mois d’études, les vacances sont souvent l’occasion pour les jeunes de se reposer, voyager ou profiter de leur temps libre. Pourtant, certains choisissent de travailler pendant l’été dans des secteurs comme la restauration, la garde d’enfants ou l’agriculture. Même si ces emplois présentent certains avantages, ils réduisent le temps consacré au repos, aux loisirs et à la famille. De plus, ces travaux sont parfois fatigants, répétitifs ou peu rémunérés."
+                },
+                {
+                  "numero": 2,
+                  "texte": "De nombreux étudiants travaillent pendant les vacances pour acquérir une première expérience professionnelle. Cela leur permet de développer leur autonomie, leur sens des responsabilités et de découvrir le monde du travail. L’aspect financier est également important : certains souhaitent financer leurs loisirs ou leurs voyages, tandis que d’autres ont besoin de cet argent pour payer leurs études, leur logement ou leurs dépenses quotidiennes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous prévoyez de partir en week-end avec vos amis le mois prochain. Écrivez-leur un message pour leur présenter votre projet : parlez du lieu choisi, du moyen de transport et des activités prévues.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "COURRIER DES LECTEURS\n\nTout quitter pour partir voyager pendant un an : est-ce une bonne ou une mauvaise idée ?\n\nÉcrivez votre réponse sur notre site Internet : “voyage.internaute.fr”. Dans votre message, donnez votre avis en illustrant votre réponse avec des exemples tirés de votre expérience personnelle.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Le Travail : Favorable ou Défavorable ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Le travail occupe une place centrale dans nos vies. Depuis l’enfance, on nous demande souvent : « Que veux-tu faire plus tard ? ». Travailler devrait rimer avec réussite et épanouissement, mais pour beaucoup, cela signifie plutôt fatigue et contraintes. Aujourd’hui, certains estiment qu’on ne consacre pas assez de temps à sa famille ou à ses amis. Selon eux, il est urgent de repenser la place du travail dans notre société. Travailler moins offrirait plus de temps libre et améliorerait la qualité de vie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "D’autres ont choisi de quitter leur emploi pour changer de mode de vie. Pourtant, travailler reste essentiel aujourd’hui. La question : « Tu fais quoi dans la vie ? » est souvent posée lors d’une rencontre. Cela montre que l’emploi fait partie de notre identité. Selon le spécialiste Jean-Daniel Remond, l’entreprise est un lieu fondamental : les relations quotidiennes, les réseaux, les amitiés, le sentiment d’être utile mais aussi les difficultés participent à la construction de soi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Un proche souhaite voyager pour découvrir un nouveau pays. Vous lui écrivez un message pour lui présenter votre pays et ses traditions. Vous lui conseillez des lieux à visiter, des monuments et des sites touristiques.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez de commencer un nouveau travail. Vous envoyez un courriel à vos proches pour raconter votre première semaine. Vous décrivez l’entreprise, votre poste et les tâches que vous réalisez.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Femmes et les Hommes au Travail",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Dans certaines régions, notamment au Québec, l’égalité entre les femmes et les hommes est de plus en plus visible. De nombreuses femmes occupent aujourd’hui des postes de direction et exercent des professions autrefois réservées aux hommes, comme dans la construction ou la gestion. Grâce aux lois sur l’égalité et à l’évolution des mentalités, les femmes peuvent accéder aux mêmes carrières que les hommes sans discrimination."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Malgré les progrès réalisés, des inégalités existent encore dans le monde du travail. Certains métiers restent majoritairement occupés par des femmes, comme ceux d’assistante maternelle ou de sage-femme. Par ailleurs, certaines personnes considèrent encore que les femmes devraient privilégier leur rôle familial plutôt que des fonctions exigeantes ou à responsabilités. Il reste donc du chemin à parcourir pour assurer une véritable égalité des chances entre les femmes et les hommes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Je souhaite acheter un vélo en bon état à un prix abordable. Vous pouvez me contacter par e-mail : mathieu@gmail.com » Vous possédez un vélo que vous souhaitez vendre. Rédigez un courriel à l’acheteur potentiel pour lui décrire votre vélo, proposer un prix et lui fixer un rendez-vous pour l’essayer.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé une journée agréable à la campagne avec vos amis. À votre retour, vous écrivez un message sur un forum pour partager votre expérience. Vous expliquez ce que vous avez apprécié (les activités, le paysage, les animaux, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Sévérité des Parents envers leurs Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "J’ai bientôt 22 ans et je vis encore chez mes parents. Malgré ma majorité, ils restent stricts avec moi. Lorsque j’étais plus jeune, ils m’interdisaient de dormir ailleurs et de rentrer après 21h lorsque je sortais avec des amies. Aujourd’hui, même si j’ai le droit de rester dehors plus tard, ma mère m’appelle constamment jusqu’à ce que je sois de retour à la maison."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certains parents ont peur d’être trop autoritaires avec leurs enfants. Ils redoutent qu’une éducation trop stricte freine leur épanouissement et les empêche de développer leur personnalité. Pourtant, leur céder tout par amour peut aussi être néfaste une fois devenus adultes. En effet, pour bien vivre en société, certaines règles doivent être respectées."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez terminé un séjour professionnel dans un pays étranger et vous souhaitez organiser un repas avant votre départ. Vous écrivez un courriel à vos collègues pour les inviter au restaurant. Vous présentez votre projet et vous donnez les informations nécessaires (adresse, date, heure, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez commencé un nouveau sport. Sur votre blog, vous racontez votre expérience et vous expliquez pourquoi cette activité peut intéresser différentes personnes.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Animaux de Compagnie au Bureau",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Amener son animal de compagnie au travail devient de plus en plus courant. Selon certains, la présence d’un chien ou d’un chat aide à réduire le stress des employés et améliore l’ambiance au sein de l’entreprise. Cela favoriserait aussi de meilleures relations entre collègues et une plus grande motivation au travail."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certaines personnes sont opposées à la présence d’animaux au bureau. Elles estiment que cela peut provoquer des problèmes de santé, notamment pour les employés allergiques, et créer des distractions. D’autres se sentent également mal à l’aise avec les animaux et pensent que cela peut nuire à la concentration et à la productivité."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Envoyez un courriel pour inviter vos amis à un anniversaire surprise organisé pour votre meilleur(e) ami(e). Précisez le lieu, la date et l’heure de l’événement.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une brocante dans votre ville et vous avez beaucoup aimé cette expérience d’achat et de vente d’objets d’occasion. Écrivez un article sur votre blog personnel pour expliquer pourquoi cette activité vous a plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Vols à Bas Prix",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je voyage souvent avec des compagnies aériennes à bas coût. Ces entreprises proposent des tarifs bien inférieurs à ceux des compagnies régulières, ce qui me revient parfois moins cher qu’un voyage en voiture ou en train. Toutefois, ces prix attractifs ont un revers : aucun service à bord n’est inclus (ni repas, ni boissons). Ces compagnies ne conviennent donc pas pour les vols long-courriers."
+                },
+                {
+                  "numero": 2,
+                  "texte": "J’ai récemment décidé d’arrêter d’utiliser les compagnies low-cost. Après réflexion, ce choix s’est imposé comme une évidence : sièges inconfortables, conditions de travail difficiles pour le personnel, avions vieillissants qui posent des questions de sécurité… Pour les longs trajets, mieux vaut privilégier une compagnie régulière, et pour les distances plus courtes, le train offre un confort supérieur et permet d’admirer de magnifiques paysages."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez pratiquer le français dans une ambiance conviviale ? Trouvez dans votre ville une personne avec qui échanger en français. Envoyez votre demande à echange@linguistique.com. Vous répondez à cette annonce. Vous vous présentez, vous parlez de vos centres d’intérêt et vous expliquez pourquoi vous cherchez quelqu’un avec qui pratiquer le français.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez été invité(e) à une fête de famille. Vous écrivez un message à vos amis pour raconter cette soirée et expliquer ce que vous avez particulièrement apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’Interdiction des Voitures en Ville",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De nombreuses grandes villes souhaitent aujourd’hui réduire ou interdire l’utilisation de la voiture, considérée comme trop polluante. Limiter la circulation automobile est avant tout une question de santé publique, mais aussi une manière de réduire la consommation d’énergie. À Paris, par exemple, les autorités encouragent fortement l’usage du vélo, ferment certaines grandes routes à la circulation et développent les transports en commun. Les villes pourraient-elles devenir à l’avenir des espaces davantage réservés aux piétons et aux cyclistes ?"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Interdire les voitures en ville ne semble pas être une solution adaptée pour tout le monde. La voiture reste indispensable pour de nombreuses personnes. Les personnes âgées ou malades, par exemple, ne peuvent pas toujours utiliser les transports publics. De plus, avec l’augmentation du prix des logements dans les centres-villes, beaucoup de familles vivent plus loin et ont besoin de leur voiture pour travailler ou faire leurs achats."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez organiser une grande fête avec vos amis. Vous leur envoyez un message pour présenter votre projet (lieu, date, thème, etc.) et demander leur aide pour préparer l’événement.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à une compétition sportive. Sur votre site Internet, vous racontez cette expérience et vous donnez votre opinion sur ce type d’activité.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Menus Sans Viande dans les Cantines des Écoles",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De plus en plus d’établissements scolaires proposent des repas sans viande à la cantine, au moins deux fois par semaine. Certaines recherches montrent que les enfants consomment trop de protéines animales. Pour des raisons de santé, les écoles remplacent donc la viande par d’autres aliments comme le soja, les céréales ou les légumes, qui sont moins gras et bénéfiques pour la croissance. En plus, ces menus coûtent moins cher aux familles. Cette initiative est appréciée par de nombreux parents et enfants."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La suppression de la viande dans les cantines fait aussi débat. La viande étant un produit coûteux, la cantine représente parfois le seul endroit où certains enfants peuvent en manger régulièrement. Les éleveurs locaux sont également opposés à cette mesure, car une partie de leur production est destinée aux cantines scolaires, ce qui représente une perte économique. Enfin, beaucoup d’enfants disent préférer les steaks de bœuf aux alternatives végétales, qu’ils trouvent moins savoureuses."
+                }
+              ]
+            }
+          ]
         }
       ]
     }
