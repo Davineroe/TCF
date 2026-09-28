@@ -7,27 +7,27 @@
           "taches": [
             {
               "numero": 1,
-              "consigne": "Un(e) ami(e) souhaite découvrir la région où vous habitez. Vous lui écrivez un message pour lui conseiller quelques endroits intéressants à visiter.",
+              "consigne": "Votre ami(e) veut commencer à faire du sport. Rédigez un message pour lui recommander une salle dans votre quartier en précisant son emplacement, les tarifs et les activités proposées.",
               "min_mots": 60,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Vous avez récemment participé à un cours de sport dans une salle de votre ville. Vous rédigez un article sur votre blog pour raconter cette expérience et donner votre avis sur cette salle.",
+              "consigne": "Vous avez assisté à un événement marquant (anniversaire, mariage, etc.). Écrivez un récit pour partager votre souvenir et mettre en avant ce qui vous a le plus marqué.",
               "min_mots": 120,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "Repas Livrés au Bureau : Pour ou Contre",
+              "theme": "La Lecture pour les Enfants",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "La livraison de repas sur le lieu de travail présente plusieurs avantages. Elle permet de gagner du temps puisqu’il n’est pas nécessaire de sortir pendant la pause déjeuner. Les employés peuvent ainsi mieux organiser leur journée et parfois terminer leur travail plus tôt. De plus, chacun est libre de choisir le plat qui lui convient. Enfin, grâce aux nombreux restaurants ouverts toute la journée, ce service reste disponible à presque n’importe quel moment."
+                  "texte": "Avec le développement des nouvelles technologies et l’omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo, du sport ou de la musique. Contrairement aux adultes d’aujourd’hui, qui ont grandi en lisant de nombreux livres, la jeune génération passe plus de temps sur les réseaux sociaux ou à suivre les grandes stars du sport. Alors, faut-il vraiment forcer les enfants à lire ? Comme le dit un proverbe, « le goût de la lecture ne s’impose pas ». Il vaut mieux les laisser choisir leurs lectures sans les y contraindre."
                 },
                 {
                   "numero": 2,
-                  "texte": "Cependant, ce mode de fonctionnement comporte aussi des inconvénients. Lors des périodes de forte demande, les livreurs peuvent rencontrer des difficultés à respecter les délais, ce qui entraîne des retards. Par ailleurs, rester au bureau pendant la pause ne permet pas toujours de se détendre. Faire une véritable coupure, même courte, est souvent bénéfique pour réduire la fatigue et améliorer la concentration au travail."
+                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans. Lire régulièrement aide les enfants à mieux maîtriser la langue et à améliorer leur concentration. Pour encourager cette habitude, les parents peuvent consacrer 10 minutes par jour à la lecture avec leur enfant, un moment de partage qui renforce leur complicité."
                 }
               ]
             }
@@ -38,27 +38,27 @@
           "taches": [
             {
               "numero": 1,
-              "consigne": "« Je recherche un vélo en bon état à un prix abordable. Contactez-moi par courriel : Thomas@gmail.com » Vous possédez un vélo à vendre. Vous écrivez un courriel pour présenter votre vélo et proposer un prix. Vous fixez également un rendez-vous pour que la personne puisse l’essayer.",
+              "consigne": "Vous avez passé un week-end à la campagne et souhaitez partager votre expérience avec un(e) ami(e). Rédigez un message pour lui raconter ce que vous avez vécu.",
               "min_mots": 60,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Vous écrivez un message à vos amis pour leur raconter votre expérience de travail saisonnier réalisé pendant les vacances d’été.",
+              "consigne": "Votre entreprise recherche une salle pouvant accueillir 100 invités pour la fête de fin d’année. Vous avez trouvé un espace idéal et vous écrivez à votre direction pour leur en donner les détails (emplacement, tarifs, services proposés, etc.).",
               "min_mots": 120,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "La Gratuité des Transports en Commun : Pour ou Contre ?",
+              "theme": "L’Usage des Nouvelles Technologies dans les Écoles : Pour ou Contre ?",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Rendre les transports en commun gratuits est une excellente initiative. Cela permet de réduire le nombre de voitures en circulation et de limiter les embouteillages. C’est aussi une solution efficace pour diminuer la pollution et les problèmes de santé liés à la qualité de l’air. Dans ma ville, les transports sont gratuits et on constate une augmentation de leur utilisation. Cette mesure a également eu un effet positif sur les commerces du centre-ville, car les habitants y reviennent plus facilement pour faire leurs achats."
+                  "texte": "Pierre : Je suis persuadé que l’intégration des nouvelles technologies à l’école est essentielle pour préparer les élèves au monde numérique. L’utilisation de tablettes et d’ordinateurs capte leur attention et enrichit leur apprentissage en leur donnant accès à une multitude de ressources. Cela stimule aussi leur créativité et leur autonomie."
                 },
                 {
                   "numero": 2,
-                  "texte": "Selon moi, cette idée n’est pas pertinente. Tout d’abord, la gratuité représenterait un coût important pour les municipalités, alors que certaines villes, comme Toulouse, ont d’autres priorités. Par exemple, l’aménagement des espaces verts devrait être traité en premier. Ensuite, il serait préférable d’améliorer l’organisation des transports publics plutôt que de les rendre gratuits, car certains quartiers sont mal desservis. Enfin, garder les transports payants incite les usagers à mieux respecter les équipements, puisqu’ils contribuent financièrement à leur fonctionnement."
+                  "texte": "Sophia : J’ai des réserves quant à l’omniprésence des technologies dans l’éducation. Je pense que cela peut réduire les interactions humaines essentielles et engendrer une dépendance excessive aux écrans. Selon moi, les méthodes d’enseignement traditionnelles et la relation directe avec les enseignants restent indispensables pour un apprentissage équilibré."
                 }
               ]
             }
@@ -69,27 +69,27 @@
           "taches": [
             {
               "numero": 1,
-              "consigne": "Vous avez invité votre ami Cédric à votre mariage au Château de Chombony. Il vous a répondu qu’il ne connaît pas cet endroit. Vous lui décrivez le château (situation, accès, moyens de transport, etc.).",
+              "consigne": "Vous organisez une fête d’anniversaire dans un restaurant et souhaitez inviter vos amis. Vous leur écrivez un courriel pour leur fournir tous les détails (lieu, date, heure, menu, prix) et leur demander un retour avec une réponse.",
               "min_mots": 60,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Sur un forum, vous racontez votre expérience dans l’apprentissage d’une langue étrangère (vous écrivez en partageant votre expérience dans l’étude d’une langue étrangère).",
+              "consigne": "Vous avez quitté la ville pour vivre à la campagne. Sur un forum en ligne, vous expliquez les raisons de ce choix et décrivez les avantages de cette nouvelle vie.",
               "min_mots": 120,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "Cuisinier Amateur ou Professionnel ?",
+              "theme": "Les Caméras de Surveillance dans les Écoles : Pour ou Contre ?",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Les cuisiniers amateurs parviennent à réaliser certaines recettes, mais ils manquent souvent des techniques et du savoir-faire des professionnels. Pour maîtriser l’art culinaire, une formation et une expérience approfondie sont essentielles."
+                  "texte": "Dans l’école où j’enseigne à Montréal, des caméras sont installées un peu partout. Cette surveillance permet de faire comprendre aux élèves que tout acte de violence sera sanctionné. Ce dispositif est largement accepté par les parents, les enseignants et la majorité des élèves. Les parents se sentent rassurés quant à la sécurité de leurs enfants, et les professeurs y voient une garantie pour exercer leur métier dans de bonnes conditions. Cependant, certains élèves critiquent la présence des caméras, affirmant qu’elles portent atteinte à leur vie privée."
                 },
                 {
                   "numero": 2,
-                  "texte": "Certains autodidactes se sont fait un nom grâce aux réseaux sociaux et à des formations en ligne. L’histoire d’une passionnée devenue cheffe et auteure de livres de cuisine illustre qu’il est possible de réussir sans passer par un parcours traditionnel."
+                  "texte": "Je suis opposé à l’installation de caméras de surveillance dans les écoles de Montréal. Dans les pays où ce système est utilisé, les résultats ne sont pas très concluants. Les caméras étant facilement repérables, une personne extérieure pourrait entrer dans l’établissement en contournant les zones surveillées. Pour améliorer la discipline, une meilleure communication entre les élèves, l’administration et les enseignants serait souvent suffisante. Plutôt que d’installer des caméras, il vaudrait mieux s’assurer que le règlement intérieur soit bien compris et respecté par tous. D’après lapresse.co"
                 }
               ]
             }
@@ -97,99 +97,6 @@
         },
         {
           "numero": 8,
-          "taches": [
-            {
-              "numero": 1,
-              "consigne": "Vous organisez votre anniversaire. Vous écrivez un message à vos amis pour les inviter. Vous leur expliquez le programme de la soirée et vous leur demandez un coup de main pour la préparation.",
-              "min_mots": 60,
-              "max_mots": 120
-            },
-            {
-              "numero": 2,
-              "consigne": "Vous avez participé à un concours de cuisine. Sur votre site Internet, vous racontez comment la journée s’est déroulée et vous expliquez ce que vous avez aimé ou moins apprécié dans cette expérience.",
-              "min_mots": 120,
-              "max_mots": 150
-            },
-            {
-              "numero": 3,
-              "theme": "Les Étudiants et les Emplois Saisonniers",
-              "documents": [
-                {
-                  "numero": 1,
-                  "texte": "Après plusieurs mois d’études, les vacances sont souvent l’occasion pour les jeunes de se reposer, voyager ou profiter de leur temps libre. Pourtant, certains choisissent de travailler pendant l’été dans des secteurs comme la restauration, la garde d’enfants ou l’agriculture. Même si ces emplois présentent certains avantages, ils réduisent le temps consacré au repos, aux loisirs et à la famille. De plus, ces travaux sont parfois fatigants, répétitifs ou peu rémunérés."
-                },
-                {
-                  "numero": 2,
-                  "texte": "De nombreux étudiants travaillent pendant les vacances pour acquérir une première expérience professionnelle. Cela leur permet de développer leur autonomie, leur sens des responsabilités et de découvrir le monde du travail. L’aspect financier est également important : certains souhaitent financer leurs loisirs ou leurs voyages, tandis que d’autres ont besoin de cet argent pour payer leurs études, leur logement ou leurs dépenses quotidiennes."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "numero": 7,
-          "taches": [
-            {
-              "numero": 1,
-              "consigne": "Vous prévoyez de partir en week-end avec vos amis le mois prochain. Écrivez-leur un message pour leur présenter votre projet : parlez du lieu choisi, du moyen de transport et des activités prévues.",
-              "min_mots": 60,
-              "max_mots": 120
-            },
-            {
-              "numero": 2,
-              "consigne": "COURRIER DES LECTEURS\n\nTout quitter pour partir voyager pendant un an : est-ce une bonne ou une mauvaise idée ?\n\nÉcrivez votre réponse sur notre site Internet : “voyage.internaute.fr”. Dans votre message, donnez votre avis en illustrant votre réponse avec des exemples tirés de votre expérience personnelle.",
-              "min_mots": 120,
-              "max_mots": 150
-            },
-            {
-              "numero": 3,
-              "theme": "Le Travail : Favorable ou Défavorable ?",
-              "documents": [
-                {
-                  "numero": 1,
-                  "texte": "Le travail occupe une place centrale dans nos vies. Depuis l’enfance, on nous demande souvent : « Que veux-tu faire plus tard ? ». Travailler devrait rimer avec réussite et épanouissement, mais pour beaucoup, cela signifie plutôt fatigue et contraintes. Aujourd’hui, certains estiment qu’on ne consacre pas assez de temps à sa famille ou à ses amis. Selon eux, il est urgent de repenser la place du travail dans notre société. Travailler moins offrirait plus de temps libre et améliorerait la qualité de vie."
-                },
-                {
-                  "numero": 2,
-                  "texte": "D’autres ont choisi de quitter leur emploi pour changer de mode de vie. Pourtant, travailler reste essentiel aujourd’hui. La question : « Tu fais quoi dans la vie ? » est souvent posée lors d’une rencontre. Cela montre que l’emploi fait partie de notre identité. Selon le spécialiste Jean-Daniel Remond, l’entreprise est un lieu fondamental : les relations quotidiennes, les réseaux, les amitiés, le sentiment d’être utile mais aussi les difficultés participent à la construction de soi."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "numero": 6,
-          "taches": [
-            {
-              "numero": 1,
-              "consigne": "Un proche souhaite voyager pour découvrir un nouveau pays. Vous lui écrivez un message pour lui présenter votre pays et ses traditions. Vous lui conseillez des lieux à visiter, des monuments et des sites touristiques.",
-              "min_mots": 60,
-              "max_mots": 120
-            },
-            {
-              "numero": 2,
-              "consigne": "Vous venez de commencer un nouveau travail. Vous envoyez un courriel à vos proches pour raconter votre première semaine. Vous décrivez l’entreprise, votre poste et les tâches que vous réalisez.",
-              "min_mots": 120,
-              "max_mots": 150
-            },
-            {
-              "numero": 3,
-              "theme": "Les Femmes et les Hommes au Travail",
-              "documents": [
-                {
-                  "numero": 1,
-                  "texte": "Dans certaines régions, notamment au Québec, l’égalité entre les femmes et les hommes est de plus en plus visible. De nombreuses femmes occupent aujourd’hui des postes de direction et exercent des professions autrefois réservées aux hommes, comme dans la construction ou la gestion. Grâce aux lois sur l’égalité et à l’évolution des mentalités, les femmes peuvent accéder aux mêmes carrières que les hommes sans discrimination."
-                },
-                {
-                  "numero": 2,
-                  "texte": "Malgré les progrès réalisés, des inégalités existent encore dans le monde du travail. Certains métiers restent majoritairement occupés par des femmes, comme ceux d’assistante maternelle ou de sage-femme. Par ailleurs, certaines personnes considèrent encore que les femmes devraient privilégier leur rôle familial plutôt que des fonctions exigeantes ou à responsabilités. Il reste donc du chemin à parcourir pour assurer une véritable égalité des chances entre les femmes et les hommes."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "numero": 5,
           "taches": [
             {
               "numero": 1,
@@ -220,31 +127,124 @@
           ]
         },
         {
-          "numero": 4,
+          "numero": 7,
           "taches": [
             {
               "numero": 1,
-              "consigne": "Vous avez terminé un séjour professionnel dans un pays étranger et vous souhaitez organiser un repas avant votre départ. Vous écrivez un courriel à vos collègues pour les inviter au restaurant. Vous présentez votre projet et vous donnez les informations nécessaires (adresse, date, heure, etc.).",
+              "consigne": "Vous répondez à un ami qui souhaite avoir des renseignements sur une salle de sport bien connue pour la qualité de ses services. Dans votre message, donnez-lui des informations sur cette salle (équipements, ambiance, horaires, tarifs, etc.).",
               "min_mots": 60,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Vous avez commencé un nouveau sport. Sur votre blog, vous racontez votre expérience et vous expliquez pourquoi cette activité peut intéresser différentes personnes.",
+              "consigne": "Rédigez un message pour raconter votre expérience avec une formation en ligne. Mettez en avant les aspects positifs du programme suivi, mais évoquez aussi les éventuelles difficultés que vous avez rencontrées pendant l’apprentissage.",
               "min_mots": 120,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "Les Animaux de Compagnie au Bureau",
+              "theme": "Les Produits faits Maison : Solution responsable ou pas ?",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Amener son animal de compagnie au travail devient de plus en plus courant. Selon certains, la présence d’un chien ou d’un chat aide à réduire le stress des employés et améliore l’ambiance au sein de l’entreprise. Cela favoriserait aussi de meilleures relations entre collègues et une plus grande motivation au travail."
+                  "texte": "Préparer soi-même ses produits bio à la maison permet de choisir les ingrédients avec précision, pour un résultat plus sain et adapté à ses besoins. Cela réduit aussi les déchets plastiques grâce à l’usage de contenants réutilisables. Cette démarche écologique, en plus d’être économique sur le long terme, valorise la créativité et encourage un mode de vie respectueux de l’environnement."
                 },
                 {
                   "numero": 2,
-                  "texte": "Certaines personnes sont opposées à la présence d’animaux au bureau. Elles estiment que cela peut provoquer des problèmes de santé, notamment pour les employés allergiques, et créer des distractions. D’autres se sentent également mal à l’aise avec les animaux et pensent que cela peut nuire à la concentration et à la productivité."
+                  "texte": "Cependant, fabriquer ses produits chez soi n’est pas sans risques. Une mauvaise composition peut réduire leur efficacité ou causer des réactions cutanées. Cela demande aussi du temps et de la rigueur pour trouver des ingrédients fiables. Sans contrôle strict, le produit peut se détériorer ou se contaminer. Enfin, l’achat d’ingrédients de qualité peut représenter un coût important."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous allez bientôt fêter votre anniversaire. Rédigez un message à vos amis pour les inviter et leur décrire ce que vous avez prévu (lieu, programme, ambiance, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Quelqu’un a publié un message sur Facebook à propos des études à l’étranger. Écrivez un commentaire pour exprimer votre point de vue en évoquant les avantages et les difficultés de cette expérience.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Enfants et les Technologies Modernes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les élèves du primaire peuvent utiliser la technologie pour enrichir leurs apprentissages. Par exemple, ils peuvent regarder des vidéos éducatives ou jouer à des jeux interactifs qui développent leurs compétences en lecture, en calcul ou en dactylographie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Cependant, de nombreux parents s’inquiètent du rôle passif que ces outils peuvent provoquer chez les enfants. Les écrans réduisent les échanges humains, les jeux créatifs et l’activité physique. Il serait utile de proposer des activités originales et stimulantes pour les encourager à décrocher un peu des écrans."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Écrivez un message pour inviter votre ami(e) à venir passer ses vacances dans votre ville. Présentez-lui les lieux intéressants et les endroits à visiter.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à un concours pour gagner un séjour de deux semaines dans la ville que vous préférez. Le thème du concours est « Mon artiste préféré ». Rédigez un article de blog pour présenter cet artiste.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Chasse Aux Animaux : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "« Je fais partie de ces personnes qui ne parviennent pas à comprendre qu’on puisse ressentir du plaisir en tuant des animaux. Cela me dépasse totalement. J’ai également du mal à concevoir que certaines personnes puissent prétendre aimer la nature tout en participant activement à sa destruction. » – Sabrina, 29 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "« Il existe de nombreuses raisons pour lesquelles certaines personnes pratiquent la chasse. Cela peut être pour se nourrir, dans un but commercial, ou encore pour gérer et réguler certaines espèces animales. D’autres le font pour défendre leurs terres ou simplement comme activité physique, de loisir ou même pour gagner en reconnaissance sociale. » – David, journaliste à la FRM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut, j’ai entendu dire que tu vas dans une super salle de sport. Tu peux m’en parler ? » Vous lui répondez dans un message et vous donnez des détails sur cette salle (ambiance, équipements, prix, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez lu un débat sur un forum au sujet des formations en ligne. Écrivez un message pour raconter votre propre expérience (cours de langue, formation professionnelle, etc.). Dites ce que vous avez apprécié et ce que vous avez moins aimé.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Produits Faits Maison : Pour Ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Préparer soi-même des produits bio à la maison permet de maîtriser totalement les ingrédients utilisés, ce qui assure des solutions plus adaptées et meilleures pour la santé. Cela aide aussi à limiter les déchets plastiques en utilisant des contenants réutilisables. Par ailleurs, cela permet d’économiser sur le long terme et d’apprendre des savoir-faire créatifs, tout en adoptant un mode de vie plus responsable."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Faire des produits bio chez soi présente certains inconvénients. Des erreurs dans les recettes peuvent rendre les produits inefficaces ou causer des réactions. De plus, chercher et préparer les ingrédients demande du temps et de l’énergie. Ces produits n’ont pas toujours de garanties de sécurité ou de conservation, ce qui peut favoriser les bactéries. Enfin, les ingrédients de qualité coûtent cher au départ, ce qui peut décourager certaines personnes."
                 }
               ]
             }
@@ -255,27 +255,27 @@
           "taches": [
             {
               "numero": 1,
-              "consigne": "Envoyez un courriel pour inviter vos amis à un anniversaire surprise organisé pour votre meilleur(e) ami(e). Précisez le lieu, la date et l’heure de l’événement.",
+              "consigne": "Vous allez bientôt vous installer à Nice. Vous écrivez un message à une agence immobilière pour chercher un logement. Indiquez ce que vous recherchez (taille du logement, budget, nombre de pièces, quartier, etc.).",
               "min_mots": 60,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Vous avez assisté à une brocante dans votre ville et vous avez beaucoup aimé cette expérience d’achat et de vente d’objets d’occasion. Écrivez un article sur votre blog personnel pour expliquer pourquoi cette activité vous a plu.",
+              "consigne": "Vous venez de commencer des cours dans une école de langues. Vous écrivez à vos amis pour leur raconter votre première semaine. Donnez vos impressions sur les cours, les professeurs et l’ambiance de l’école.",
               "min_mots": 120,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "Les Vols à Bas Prix",
+              "theme": "Caméras De Surveillance : Pour Ou Contre ?",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "Je voyage souvent avec des compagnies aériennes à bas coût. Ces entreprises proposent des tarifs bien inférieurs à ceux des compagnies régulières, ce qui me revient parfois moins cher qu’un voyage en voiture ou en train. Toutefois, ces prix attractifs ont un revers : aucun service à bord n’est inclus (ni repas, ni boissons). Ces compagnies ne conviennent donc pas pour les vols long-courriers."
+                  "texte": "Aujourd’hui, les caméras de surveillance sont de plus en plus présentes dans les villes. Beaucoup de Français les apprécient, car elles leur donnent un sentiment de sécurité. Selon un sondage, 75 % des personnes interrogées soutiennent leur développement. La majorité accepte d’être filmée dans les lieux publics comme les rues, les magasins ou les transports. En revanche, ils ne veulent pas être surveillés sur leur lieu de travail. En France, très peu de caméras sont installées dans les entreprises."
                 },
                 {
                   "numero": 2,
-                  "texte": "J’ai récemment décidé d’arrêter d’utiliser les compagnies low-cost. Après réflexion, ce choix s’est imposé comme une évidence : sièges inconfortables, conditions de travail difficiles pour le personnel, avions vieillissants qui posent des questions de sécurité… Pour les longs trajets, mieux vaut privilégier une compagnie régulière, et pour les distances plus courtes, le train offre un confort supérieur et permet d’admirer de magnifiques paysages."
+                  "texte": "Des recherches montrent que la vidéosurveillance est coûteuse et peu efficace. Les caméras sont faciles à repérer, ce qui limite leur impact pour empêcher les délits comme le vol, la drogue ou la violence. De plus, leur utilisation demande beaucoup de ressources humaines. Une étude allemande indique qu’il faut jusqu’à sept personnes pour suivre et analyser les images d’une seule caméra."
                 }
               ]
             }
@@ -286,27 +286,27 @@
           "taches": [
             {
               "numero": 1,
-              "consigne": "Vous souhaitez pratiquer le français dans une ambiance conviviale ? Trouvez dans votre ville une personne avec qui échanger en français. Envoyez votre demande à echange@linguistique.com. Vous répondez à cette annonce. Vous vous présentez, vous parlez de vos centres d’intérêt et vous expliquez pourquoi vous cherchez quelqu’un avec qui pratiquer le français.",
+              "consigne": "Votre ami(e) souhaite découvrir la région où vous habitez. Rédigez-lui un message dans lequel vous lui recommandez quelques endroits intéressants à visiter.",
               "min_mots": 60,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Vous avez été invité(e) à une fête de famille. Vous écrivez un message à vos amis pour raconter cette soirée et expliquer ce que vous avez particulièrement apprécié.",
+              "consigne": "Vous avez récemment suivi un cours de sport dans une salle de votre ville. Rédigez un article pour votre blog personnel afin de raconter cette expérience et donner votre avis sur cette salle.",
               "min_mots": 120,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "L’Interdiction des Voitures en Ville",
+              "theme": "Livraison Des Repas Au Bureau : Pour Ou Contre ?",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "De nombreuses grandes villes souhaitent aujourd’hui réduire ou interdire l’utilisation de la voiture, considérée comme trop polluante. Limiter la circulation automobile est avant tout une question de santé publique, mais aussi une manière de réduire la consommation d’énergie. À Paris, par exemple, les autorités encouragent fortement l’usage du vélo, ferment certaines grandes routes à la circulation et développent les transports en commun. Les villes pourraient-elles devenir à l’avenir des espaces davantage réservés aux piétons et aux cyclistes ?"
+                  "texte": "Commander un repas livré au bureau fait gagner du temps. En effet, on peut rester sur place pendant la pause déjeuner, ce qui permet de finir plus tôt sa journée. Ce service permet aussi à chacun de choisir le repas qui lui plaît : si l’un veut un plat italien et l’autre des sushis, chacun peut commander séparément sans problème. Un autre avantage est la disponibilité : certains restaurants fonctionnent 24 heures sur 24, ce qui rend ce service accessible à tout moment."
                 },
                 {
                   "numero": 2,
-                  "texte": "Interdire les voitures en ville ne semble pas être une solution adaptée pour tout le monde. La voiture reste indispensable pour de nombreuses personnes. Les personnes âgées ou malades, par exemple, ne peuvent pas toujours utiliser les transports publics. De plus, avec l’augmentation du prix des logements dans les centres-villes, beaucoup de familles vivent plus loin et ont besoin de leur voiture pour travailler ou faire leurs achats."
+                  "texte": "Mais ce mode de consommation présente aussi des limites. Quand il y a trop de commandes, les livreurs peuvent être débordés, ce qui entraîne des retards et du stress. Pour les employés, rester assis à son bureau sans faire de vraie pause peut provoquer de la fatigue. Il est donc conseillé de faire une vraie coupure, même courte, pour rester efficace dans son travail."
                 }
               ]
             }
@@ -317,27 +317,27 @@
           "taches": [
             {
               "numero": 1,
-              "consigne": "Vous souhaitez organiser une grande fête avec vos amis. Vous leur envoyez un message pour présenter votre projet (lieu, date, thème, etc.) et demander leur aide pour préparer l’événement.",
+              "consigne": "Vous prévoyez de partir en week-end avec vos amis le mois prochain. Écrivez-leur un message pour leur présenter votre projet : parlez du lieu choisi, du moyen de transport et des activités prévues.",
               "min_mots": 60,
               "max_mots": 120
             },
             {
               "numero": 2,
-              "consigne": "Vous avez participé à une compétition sportive. Sur votre site Internet, vous racontez cette expérience et vous donnez votre opinion sur ce type d’activité.",
+              "consigne": "COURRIER DES LECTEURS\n\nTout quitter pour partir voyager pendant un an : est-ce une bonne ou une mauvaise idée ?\n\nÉcrivez votre réponse sur notre site Internet : \"voyage.internaute.fr\". Dans votre message, donnez votre avis en illustrant votre réponse avec des exemples tirés de votre expérience personnelle.",
               "min_mots": 120,
               "max_mots": 150
             },
             {
               "numero": 3,
-              "theme": "Menus Sans Viande dans les Cantines des Écoles",
+              "theme": "Le Travail : Favorable ou Défavorable ?",
               "documents": [
                 {
                   "numero": 1,
-                  "texte": "De plus en plus d’établissements scolaires proposent des repas sans viande à la cantine, au moins deux fois par semaine. Certaines recherches montrent que les enfants consomment trop de protéines animales. Pour des raisons de santé, les écoles remplacent donc la viande par d’autres aliments comme le soja, les céréales ou les légumes, qui sont moins gras et bénéfiques pour la croissance. En plus, ces menus coûtent moins cher aux familles. Cette initiative est appréciée par de nombreux parents et enfants."
+                  "texte": "Le travail occupe une place centrale dans nos vies. Depuis l’enfance, on nous demande souvent : « Que veux-tu faire plus tard ? ». Travailler devrait rimer avec réussite et épanouissement, mais pour beaucoup, cela signifie plutôt fatigue et contraintes. Aujourd’hui, certains estiment qu’on ne consacre pas assez de temps à sa famille ou à ses amis. Selon eux, il est urgent de repenser la place du travail dans notre société. Travailler moins offrirait plus de temps libre et améliorerait la qualité de vie."
                 },
                 {
                   "numero": 2,
-                  "texte": "La suppression de la viande dans les cantines fait aussi débat. La viande étant un produit coûteux, la cantine représente parfois le seul endroit où certains enfants peuvent en manger régulièrement. Les éleveurs locaux sont également opposés à cette mesure, car une partie de leur production est destinée aux cantines scolaires, ce qui représente une perte économique. Enfin, beaucoup d’enfants disent préférer les steaks de bœuf aux alternatives végétales, qu’ils trouvent moins savoureuses."
+                  "texte": "D’autres ont choisi de quitter leur emploi pour changer de mode de vie. Pourtant, travailler reste essentiel aujourd’hui. La question : « Tu fais quoi dans la vie ? » est souvent posée lors d’une rencontre. Cela montre que l’emploi fait partie de notre identité. Selon le spécialiste Jean-Daniel Remond, l’entreprise est un lieu fondamental : les relations quotidiennes, les réseaux, les amitiés, le sentiment d’être utile mais aussi les difficultés participent à la construction de soi."
                 }
               ]
             }
