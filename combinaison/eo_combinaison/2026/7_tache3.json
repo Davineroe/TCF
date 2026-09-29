@@ -1,0 +1,544 @@
+{
+  "parties": [
+    {
+      "numero": 10,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Éducation et autorité",
+            "sujet": "Selon vous, l’autorité est-elle indispensable dans l’éducation des enfants ? Expliquez votre avis.",
+            "introduction": "À mon avis, l’autorité est nécessaire dans l’éducation des enfants. Un enfant a besoin de règles pour comprendre ce qui est bien ou mal. Sans cadre, il peut avoir du mal à se construire.",
+            "avantages": "L’autorité permet d’apprendre le respect, la discipline et les limites. Elle aide l’enfant à vivre avec les autres et à accepter certaines règles dans la famille, à l’école et plus tard dans la société. Un enfant qui grandit avec des repères clairs se sent souvent plus en sécurité.",
+            "inconvenients": "Cependant, une autorité trop dure peut être mauvaise. Si les parents crient tout le temps ou interdisent tout sans expliquer, l’enfant peut avoir peur ou se révolter. Trop d’autorité peut casser le dialogue et la confiance.",
+            "conseils": "Je pense qu’il faut une autorité calme et juste. Les parents doivent poser des règles simples, expliquer leurs décisions et écouter l’enfant. Il faut être ferme, mais aussi bienveillant. Le but n’est pas de punir tout le temps, mais d’aider l’enfant à grandir.",
+            "conclusion": "Pour conclure, je pense que l’autorité est indispensable dans l’éducation des enfants. Mais elle doit être équilibrée, claire et accompagnée de dialogue."
+          },
+          {
+            "theme": "Technologie et usage numérique",
+            "sujet": "Quels effets et quels risques voyez-vous dans l’usage quotidien des appareils électroniques comme les téléphones, ordinateurs ou tablettes ?",
+            "introduction": "Aujourd’hui, nous utilisons les appareils électroniques tous les jours. Ils sont devenus très utiles dans la vie moderne. Mais ils ont aussi des effets négatifs et des risques qu’il faut connaître.",
+            "avantages": "Ces appareils permettent de communiquer rapidement, de travailler, d’étudier et de chercher des informations. Ils font gagner du temps et rendent beaucoup de choses plus faciles. Grâce à eux, on peut aussi rester en contact avec des proches qui vivent loin.",
+            "inconvenients": "Le problème vient surtout de l’excès. Trop d’écrans peut fatiguer les yeux, réduire le sommeil et créer une forme de dépendance. Certaines personnes deviennent moins concentrées et passent moins de temps avec leur famille ou leurs amis. Il y a aussi des risques liés aux fausses informations, au harcèlement sur Internet et au manque de protection de la vie privée.",
+            "conseils": "Je pense qu’il faut utiliser ces appareils avec modération. Il est important de faire des pauses, de limiter le temps d’écran, surtout le soir, et de garder des activités sans technologie. Il faut aussi apprendre à protéger ses données personnelles et à vérifier les informations.",
+            "conclusion": "Pour conclure, les appareils électroniques sont utiles, mais ils présentent aussi de vrais risques. L’important est de les utiliser intelligemment et sans excès."
+          },
+          {
+            "theme": "Égalité et politique",
+            "sujet": "Certains pays imposent une parité entre hommes et femmes en politique pour favoriser l’égalité. Que pensez-vous de cette décision ?",
+            "introduction": "Je pense que cette décision peut être positive. Pendant longtemps, les femmes ont été moins présentes en politique. La parité peut donc aider à créer plus d’égalité et de justice.",
+            "avantages": "La parité permet de mieux représenter toute la société. Les femmes ont leur place dans les décisions politiques autant que les hommes. Cette mesure peut aussi encourager plus de femmes à s’engager et à participer à la vie publique. Elle envoie un message fort sur l’égalité.",
+            "inconvenients": "Cependant, certaines personnes pensent qu’il faut choisir les responsables seulement selon leurs compétences. Elles ont peur que la parité donne l’impression qu’on choisit une personne pour remplir un chiffre. Cette critique existe, même si elle ne doit pas faire oublier les inégalités réelles.",
+            "conseils": "Je pense qu’il faut chercher un bon équilibre. La parité peut être utile pour corriger une situation injuste, mais il faut aussi continuer à valoriser les compétences, la motivation et l’expérience. Il faut surtout donner aux femmes les mêmes chances dès le départ.",
+            "conclusion": "Pour conclure, je suis plutôt favorable à la parité en politique. C’est une mesure utile pour avancer vers plus d’égalité entre les hommes et les femmes."
+          },
+          {
+            "theme": "Culture et immersion",
+            "sujet": "Faut-il, selon vous, vivre dans un pays pour en comprendre réellement la culture ?",
+            "introduction": "À mon avis, vivre dans un pays aide beaucoup à comprendre sa culture. Mais je ne pense pas que ce soit la seule façon d’apprendre. On peut déjà découvrir beaucoup de choses autrement.",
+            "avantages": "Quand on vit dans un pays, on voit les habitudes réelles des habitants. On découvre leur façon de parler, de manger, de travailler et de vivre au quotidien. Cela permet de comprendre la culture de manière plus profonde et plus concrète. L’expérience directe est donc très utile.",
+            "inconvenients": "Cependant, tout le monde ne peut pas voyager ou s’installer à l’étranger. Heureusement, on peut aussi apprendre grâce aux livres, aux films, aux documentaires et aux échanges avec des personnes du pays. On peut donc connaître une culture sans y vivre, même si cette connaissance est parfois moins complète.",
+            "conseils": "Je pense qu’il faut utiliser plusieurs moyens. Lire, regarder des films, parler avec des habitants et, si possible, séjourner quelque temps dans le pays permet d’avoir une meilleure compréhension. Il ne faut pas dépendre d’une seule source.",
+            "conclusion": "Pour conclure, vivre dans un pays n’est pas absolument obligatoire pour comprendre sa culture, mais cela aide énormément. C’est souvent la meilleure façon de découvrir la réalité du pays."
+          },
+          {
+            "theme": "Mobilité professionnelle",
+            "sujet": "Pensez-vous qu’il soit simple de travailler à l’étranger ? Pourquoi ?",
+            "introduction": "Non, je ne pense pas qu’il soit simple de travailler à l’étranger. Cette expérience peut être très intéressante, mais elle demande beaucoup d’adaptation. Il y a souvent plusieurs difficultés au début.",
+            "avantages": "Travailler à l’étranger permet de découvrir une nouvelle culture, d’améliorer une langue et d’apprendre de nouvelles méthodes de travail. Cela peut aussi donner plus d’expérience et rendre le profil professionnel plus intéressant. Pour certaines personnes, c’est une belle opportunité.",
+            "inconvenients": "Mais les difficultés sont nombreuses. Il faut parfois parler une autre langue, comprendre d’autres règles et s’adapter à une nouvelle façon de vivre. Il peut aussi y avoir le mal du pays, la solitude, les démarches administratives et des différences dans le monde du travail. Tout cela peut rendre le début compliqué.",
+            "conseils": "Je pense qu’il faut bien préparer son départ. Il est utile de se renseigner sur le pays, le travail, la langue et le coût de la vie. Il faut aussi être patient et accepter que l’adaptation prenne du temps. Une bonne préparation aide beaucoup.",
+            "conclusion": "Pour conclure, je pense qu’il n’est pas simple de travailler à l’étranger, surtout au début. Mais avec de la préparation et de la motivation, cela peut devenir une expérience très positive."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 9,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Commerce et numérique",
+            "sujet": "Avec le développement des ventes en ligne, les magasins physiques risquent-ils de disparaître ? Qu’en pensez-vous ?",
+            "introduction": "Les ventes en ligne prennent une place de plus en plus importante dans la vie quotidienne. Beaucoup de personnes achètent maintenant sur Internet pour gagner du temps et comparer facilement les prix. Pourtant, je ne pense pas que les magasins vont complètement disparaître.",
+            "avantages": "Le commerce en ligne offre plusieurs avantages. Il permet d’acheter rapidement, d’avoir plus de choix et parfois de payer moins cher. Pour les clients occupés ou pour ceux qui vivent loin des grands centres commerciaux, c’est une solution très pratique. Il est donc normal que ce mode d’achat continue à se développer.",
+            "inconvenients": "Cependant, les magasins gardent une utilité réelle. Beaucoup de gens aiment voir les produits, les essayer, demander un conseil direct ou repartir immédiatement avec leur achat. Les commerces physiques jouent aussi un rôle social dans les villes et les quartiers. Si tout passait uniquement par Internet, certaines habitudes de vie disparaîtraient et beaucoup d’emplois seraient menacés.",
+            "conseils": "Je pense que les magasins doivent s’adapter plutôt que disparaître. Ils peuvent proposer un meilleur accueil, des services plus personnalisés et une expérience plus agréable pour le client. De leur côté, les commerces en ligne continueront à répondre à d’autres besoins. Les deux formes de vente peuvent donc coexister.",
+            "conclusion": "Pour conclure, je ne crois pas que les magasins vont disparaître totalement. Les ventes en ligne vont continuer à progresser, mais les commerces physiques garderont une place importante dans la société."
+          },
+          {
+            "theme": "Jeunesse et engagement",
+            "sujet": "Selon vous, les jeunes sont-ils moins engagés aujourd’hui dans des causes comme l’environnement, la politique ou la santé ? Pourquoi ?",
+            "introduction": "Certaines personnes affirment que les jeunes d’aujourd’hui sont moins engagés qu’avant dans les grands sujets de société. Pour ma part, je ne suis pas vraiment d’accord avec cette idée. Je pense surtout que leur manière de s’engager a changé.",
+            "avantages": "Beaucoup de jeunes s’intéressent à l’environnement, à la santé, aux inégalités ou à certaines questions politiques. Ils participent à des actions, utilisent les réseaux sociaux pour défendre des idées et s’expriment plus librement qu’avant. Leur engagement est parfois moins traditionnel, mais il existe bien.",
+            "inconvenients": "Cependant, il est vrai que certains jeunes se sentent découragés ou éloignés de la politique classique. Ils ont parfois l’impression que leur voix ne change pas grand-chose. En plus, les écrans et le rythme de vie moderne peuvent disperser leur attention. Cela donne parfois l’image d’une génération moins active, même si ce n’est pas toujours vrai.",
+            "conseils": "Je pense qu’il faut mieux écouter les jeunes et leur donner de vraies occasions d’agir. L’école, les associations et les institutions devraient leur laisser plus de place pour s’exprimer et participer à des projets concrets. Plus ils se sentent utiles, plus ils s’engagent.",
+            "conclusion": "Pour conclure, je ne pense pas que les jeunes soient moins engagés aujourd’hui. Ils s’engagent autrement, avec d’autres outils et d’autres formes d’action."
+          },
+          {
+            "theme": "Télétravail",
+            "sujet": "Faut-il imposer le télétravail à toutes les personnes qui peuvent travailler à distance ? Expliquez pourquoi.",
+            "introduction": "Le télétravail s’est beaucoup développé ces dernières années et il est devenu courant dans certains métiers. Certaines personnes pensent qu’il faudrait le rendre obligatoire dès qu’il est possible. À mon avis, ce serait une mauvaise idée.",
+            "avantages": "Le télétravail présente de vrais avantages. Il permet de gagner du temps, d’éviter les transports et parfois de mieux organiser sa journée. Pour certaines personnes, il améliore le confort et la concentration. Il peut aussi réduire la fatigue liée aux déplacements quotidiens.",
+            "inconvenients": "Mais tout le monde ne vit pas bien le télétravail. Certaines personnes se sentent isolées, travaillent moins bien à la maison ou ont du mal à séparer vie professionnelle et vie privée. En plus, même si un métier peut se faire à distance, cela ne signifie pas que cette organisation convient à tout le monde. Une obligation générale serait donc trop rigide.",
+            "conseils": "Je pense qu’il vaut mieux laisser du choix quand c’est possible. Les entreprises peuvent proposer une formule souple, par exemple quelques jours à distance et d’autres sur place. L’important est d’adapter l’organisation au poste et aux besoins de la personne.",
+            "conclusion": "Pour conclure, je ne pense pas qu’il faille rendre le télétravail obligatoire pour tous. C’est une possibilité utile, mais elle doit rester flexible et adaptée à chaque situation."
+          },
+          {
+            "theme": "Études et réussite professionnelle",
+            "sujet": "Faire de longues études est-il indispensable pour réussir sa carrière professionnelle ? Êtes-vous d’accord ?",
+            "introduction": "Beaucoup de personnes pensent encore que les longues études sont la seule vraie voie vers la réussite professionnelle. Il est vrai qu’elles sont nécessaires pour certains métiers. Cependant, je ne suis pas d’accord avec l’idée qu’elles soient indispensables pour tout le monde.",
+            "avantages": "Les études longues permettent d’acquérir des connaissances solides et d’accéder à certaines professions exigeantes, comme la médecine, le droit ou l’ingénierie. Elles peuvent aussi donner plus de sécurité dans certains secteurs. Pour certaines personnes, elles représentent donc un choix utile et logique.",
+            "inconvenients": "Mais la réussite professionnelle dépend aussi d’autres éléments. L’expérience, la motivation, les compétences pratiques, le sérieux et la capacité d’adaptation jouent un rôle très important. Beaucoup de personnes réussissent très bien avec des formations plus courtes, des métiers techniques ou un parcours plus concret. Un diplôme long n’est donc pas la seule clé.",
+            "conseils": "Je pense qu’il faut surtout choisir une voie adaptée à ses capacités et à ses objectifs. Les longues études conviennent à certains profils, mais d’autres peuvent réussir autrement. Il est important de mieux valoriser tous les parcours, pas seulement les plus académiques.",
+            "conclusion": "Pour conclure, je ne pense pas qu’il soit nécessaire de faire de longues études pour réussir sa vie professionnelle. Elles sont utiles dans certains cas, mais la réussite peut prendre des chemins très différents."
+          },
+          {
+            "theme": "Jeunesse et autonomie",
+            "sujet": "Tous les jeunes devraient-ils vivre à l’étranger au moins six mois pour apprendre à être autonomes ? Qu’en pensez-vous ?",
+            "introduction": "Vivre à l’étranger pendant plusieurs mois peut être une expérience très riche. Beaucoup de jeunes en reviennent plus autonomes et plus ouverts. Pourtant, je ne pense pas que tous les jeunes devraient être obligés de le faire.",
+            "avantages": "Partir à l’étranger permet souvent d’apprendre une langue, de découvrir une autre culture et de développer son autonomie. Un jeune doit gérer seul beaucoup de choses, comme le logement, les déplacements ou l’organisation quotidienne. Cette expérience peut donc faire grandir très vite.",
+            "inconvenients": "Cependant, ce projet n’est pas possible pour tout le monde. Il demande de l’argent, une bonne préparation et une certaine stabilité personnelle. Certains jeunes ne se sentent pas prêts, et d’autres ont des contraintes familiales ou financières. Ce qui est bénéfique pour une personne ne l’est pas forcément pour toutes.",
+            "conseils": "Je pense qu’il faut encourager ce type d’expérience sans en faire une obligation. Ceux qui en ont la possibilité peuvent beaucoup y gagner, mais il existe aussi d’autres façons d’apprendre à se débrouiller, comme travailler, étudier loin de chez soi ou prendre des responsabilités dans la vie quotidienne.",
+            "conclusion": "Pour conclure, vivre à l’étranger pendant six mois peut être une excellente expérience, mais cela ne doit pas être imposé à tous les jeunes. L’important est surtout de trouver une manière de devenir autonome et responsable."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 8,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Immigration et mobilité",
+            "sujet": "Partir s’installer à l’étranger est plus simple quand on est jeune. Êtes-vous d’accord avec cette idée ?",
+            "introduction": "À mon avis, il est souvent plus simple de s’installer à l’étranger quand on est jeune. Les jeunes ont généralement plus d’énergie et moins de responsabilités. Mais cela ne veut pas dire que c’est toujours facile.",
+            "avantages": "Quand on est jeune, on peut s’adapter plus facilement à une nouvelle langue, à une nouvelle culture et à une nouvelle façon de vivre. On peut aussi reprendre des études, commencer une carrière ou accepter un premier emploi plus facilement. En général, les jeunes ont moins d’engagements familiaux, donc ils peuvent changer de pays avec plus de liberté.",
+            "inconvenients": "Cependant, partir jeune peut aussi être difficile. Un jeune peut manquer d’argent, d’expérience ou de maturité. Il peut aussi se sentir seul loin de sa famille. S’installer dans un autre pays demande beaucoup de courage, même quand on est jeune.",
+            "conseils": "Je pense qu’il faut bien préparer son départ. Il faut apprendre la langue du pays, se renseigner sur le logement, le travail et les démarches administratives. Il faut aussi avoir un budget de sécurité pour les premiers mois.",
+            "conclusion": "Pour conclure, je suis plutôt d’accord avec cette idée. Partir à l’étranger est souvent plus simple quand on est jeune, mais cela demande quand même une bonne préparation."
+          },
+          {
+            "theme": "Télétravail et équilibre de vie",
+            "sujet": "Le télétravail aide à mieux concilier vie professionnelle et vie privée. Qu’en pensez-vous ?",
+            "introduction": "Aujourd’hui, le télétravail est de plus en plus courant. Beaucoup de personnes travaillent de chez elles, totalement ou en partie. À mon avis, le télétravail peut aider à mieux équilibrer la vie professionnelle et la vie privée.",
+            "avantages": "Le télétravail permet de gagner du temps, car on évite les trajets entre la maison et le travail. On peut aussi mieux organiser sa journée. Par exemple, on peut passer plus de temps avec sa famille ou gérer plus facilement certaines tâches personnelles. Cela peut réduire la fatigue et le stress.",
+            "inconvenients": "Cependant, le télétravail peut aussi créer des problèmes. Quand on travaille à la maison, il est parfois difficile de séparer le travail et la vie privée. Certaines personnes travaillent plus longtemps sans s’en rendre compte. D’autres se sentent seules ou moins motivées.",
+            "conseils": "Je pense qu’il faut mettre des règles claires. Il faut avoir des horaires fixes, un espace de travail calme et des pauses régulières. Il est aussi important de garder un contact avec les collègues. Le télétravail fonctionne mieux quand il est bien organisé.",
+            "conclusion": "Pour conclure, je pense que le télétravail peut aider à mieux concilier travail et vie privée. Mais il faut savoir poser des limites pour éviter les abus."
+          },
+          {
+            "theme": "Sécurité et vie privée",
+            "sujet": "Les caméras de surveillance renforcent la sécurité des citoyens dans les espaces publics. Êtes-vous d’accord ?",
+            "introduction": "Les caméras de surveillance sont présentes dans beaucoup de lieux publics, comme les rues, les gares ou les magasins. Certaines personnes pensent qu’elles protègent les citoyens. À mon avis, elles peuvent renforcer la sécurité, mais il faut les utiliser avec prudence.",
+            "avantages": "Les caméras peuvent aider à éviter certains vols ou certaines agressions. Elles peuvent aussi aider la police à retrouver une personne ou à comprendre ce qui s’est passé après un incident. Dans certains endroits, leur présence peut rassurer les citoyens.",
+            "inconvenients": "Cependant, les caméras ne règlent pas tous les problèmes. Elles ne remplacent pas la présence humaine, comme la police ou les agents de sécurité. Il y a aussi une question importante : le respect de la vie privée. Les citoyens ne doivent pas se sentir surveillés tout le temps.",
+            "conseils": "Je pense qu’il faut installer des caméras seulement dans les lieux où elles sont vraiment utiles. Il faut aussi expliquer pourquoi elles sont là et protéger les images enregistrées. La sécurité est importante, mais la liberté des citoyens l’est aussi.",
+            "conclusion": "Pour conclure, je suis plutôt d’accord. Les caméras peuvent renforcer la sécurité dans les espaces publics, mais elles doivent être utilisées de manière contrôlée et responsable."
+          },
+          {
+            "theme": "Société et apparence",
+            "sujet": "Selon vous, la façon de s’habiller joue-t-elle un rôle important dans la vie ? Expliquez pourquoi.",
+            "introduction": "La façon de s’habiller fait partie de l’image que l’on donne aux autres. Elle peut montrer notre personnalité, notre culture ou notre sérieux. À mon avis, les vêtements jouent un rôle important, mais ils ne doivent pas être le seul critère pour juger une personne.",
+            "avantages": "Bien s’habiller peut aider dans certaines situations. Par exemple, pour un entretien d’embauche, une réunion ou une cérémonie, une tenue correcte peut donner une bonne impression. Les vêtements peuvent aussi donner confiance en soi. Quand on se sent bien dans sa tenue, on peut se sentir plus à l’aise avec les autres.",
+            "inconvenients": "Cependant, il ne faut pas juger les gens seulement sur leur apparence. Une personne peut être compétente, gentille et sérieuse même si ses vêtements sont simples. Parfois, la société donne trop d’importance à l’apparence, et cela peut créer de la pression.",
+            "conseils": "Je pense qu’il faut choisir ses vêtements selon la situation. Il n’est pas nécessaire de porter des vêtements chers, mais il faut être propre, soigné et respectueux du contexte. Le plus important reste le comportement, les qualités et les compétences.",
+            "conclusion": "Pour conclure, la façon de s’habiller joue un rôle important dans la vie, surtout pour la première impression. Mais elle ne doit jamais remplacer le jugement sur la vraie personnalité d’une personne."
+          },
+          {
+            "theme": "Environnement et gestes individuels",
+            "sujet": "Les gestes individuels pour protéger l’environnement (tri, économies d’eau et d’énergie, etc.) sont-ils réellement efficaces ? Qu’en pensez-vous ?",
+            "introduction": "Aujourd’hui, on demande souvent aux citoyens de faire des gestes pour protéger l’environnement, comme trier les déchets, économiser l’eau ou utiliser moins d’énergie. À mon avis, ces gestes sont utiles, même s’ils ne suffisent pas seuls.",
+            "avantages": "Les gestes individuels peuvent avoir un effet positif si beaucoup de personnes les font. Par exemple, trier les déchets permet de recycler davantage. Économiser l’eau et l’électricité réduit le gaspillage. Ces gestes aident aussi les gens à prendre conscience de l’importance de l’environnement.",
+            "inconvenients": "Cependant, les citoyens ne peuvent pas tout résoudre seuls. Les grandes entreprises, les gouvernements et les industries ont aussi une grande responsabilité. Si une personne fait des efforts, mais que les grands pollueurs ne changent rien, les résultats restent limités.",
+            "conseils": "Je pense qu’il faut agir à deux niveaux. Les citoyens doivent continuer les petits gestes du quotidien. Mais les gouvernements doivent aussi créer des lois plus fortes, développer les transports propres et encourager les entreprises à moins polluer.",
+            "conclusion": "Pour conclure, les gestes individuels sont réellement utiles, surtout quand ils sont faits par beaucoup de personnes. Mais pour protéger efficacement l’environnement, il faut aussi des actions collectives et politiques."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 7,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Médias et mode de vie",
+            "sujet": "Certaines personnes décident de ne jamais regarder la télévision. Qu’en pensez-vous ?",
+            "introduction": "Aujourd’hui, de plus en plus de personnes choisissent de ne plus regarder la télévision. Elles préfèrent utiliser Internet ou d’autres moyens pour s’informer et se divertir. Cette décision peut avoir des avantages, mais aussi quelques limites.",
+            "avantages": "Ne pas regarder la télévision permet de gagner du temps et de réduire l’exposition à certaines émissions peu intéressantes. Cela peut aussi encourager des activités plus actives comme la lecture, le sport ou les sorties. De plus, certaines personnes estiment que l’information à la télévision est parfois répétitive ou trop négative.",
+            "inconvenients": "Cependant, la télévision reste un moyen simple pour s’informer rapidement et découvrir des documentaires ou des programmes culturels. Ne jamais la regarder peut limiter l’accès à certaines informations ou événements importants. Cela peut aussi réduire les moments partagés en famille.",
+            "conseils": "À mon avis, il n’est pas nécessaire d’abandonner complètement la télévision. Il vaut mieux choisir des programmes de qualité et limiter le temps passé devant l’écran.",
+            "conclusion": "Pour conclure, ne pas regarder la télévision peut être positif si cela permet de mieux utiliser son temps, mais un usage modéré reste utile et enrichissant."
+          },
+          {
+            "theme": "Sport et rémunération",
+            "sujet": "Selon certaines personnes, les sportifs sont trop bien payés. Êtes-vous d’accord ?",
+            "introduction": "Le salaire des sportifs professionnels fait souvent débat. Certaines personnes pensent qu’ils gagnent trop d’argent par rapport à d’autres métiers essentiels. Cette question divise beaucoup l’opinion.",
+            "avantages": "Les sportifs de haut niveau font de nombreux sacrifices et s’entraînent intensément depuis leur jeunesse. Leur carrière est souvent courte et incertaine. De plus, ils génèrent beaucoup d’argent grâce aux compétitions, aux sponsors et aux médias.",
+            "inconvenients": "Cependant, certains salaires sont très élevés comparés à ceux des enseignants, infirmiers ou autres professions importantes. Cela peut créer un sentiment d’injustice dans la société. Le sport devient parfois plus un business qu’une passion.",
+            "conseils": "Je pense qu’il faudrait mieux valoriser les autres métiers essentiels tout en acceptant que le sport professionnel fonctionne selon des règles économiques particulières.",
+            "conclusion": "En conclusion, les sportifs peuvent être bien payés, mais il est important de rééquilibrer la reconnaissance entre toutes les professions."
+          },
+          {
+            "theme": "Enfants et écrans",
+            "sujet": "À votre avis, les enfants passent-ils trop de temps devant les écrans ? Pourquoi ?",
+            "introduction": "Aujourd’hui, les écrans font partie du quotidien des enfants, que ce soit pour les loisirs ou l’école. Beaucoup de parents s’inquiètent du temps passé devant la télévision, les téléphones ou les tablettes.",
+            "avantages": "Les écrans peuvent être utiles pour apprendre, se divertir et développer certaines compétences. Ils permettent aussi aux enfants de rester en contact avec leurs amis et de découvrir de nouveaux contenus éducatifs.",
+            "inconvenients": "Cependant, un usage excessif peut nuire à la santé, notamment à la vue et au sommeil. Les enfants peuvent devenir moins actifs physiquement et avoir moins de relations sociales réelles. Cela peut aussi créer une dépendance.",
+            "conseils": "Il est important de fixer des limites claires et d’encourager d’autres activités comme le sport, les jeux en plein air ou la lecture.",
+            "conclusion": "Pour conclure, les écrans ne sont pas mauvais en soi, mais leur utilisation doit être contrôlée pour préserver le bien-être des enfants."
+          },
+          {
+            "theme": "Immigration et adaptation",
+            "sujet": "Lorsqu’on s’installe dans un nouveau pays, faut-il modifier ses habitudes de vie (alimentation, loisirs, vêtements, etc.) ?",
+            "introduction": "S’installer dans un nouveau pays implique souvent de grands changements. Beaucoup se demandent s’il est nécessaire de modifier ses habitudes de vie pour mieux s’intégrer.",
+            "avantages": "Changer certaines habitudes permet de mieux comprendre la culture locale et de faciliter les relations avec les habitants. Adapter son alimentation ou ses loisirs aide souvent à se sentir plus à l’aise dans le pays d’accueil.",
+            "inconvenients": "Cependant, abandonner totalement ses habitudes peut être difficile et source de frustration. Garder une partie de sa culture d’origine est important pour l’équilibre personnel.",
+            "conseils": "À mon avis, il faut trouver un équilibre entre adaptation et respect de sa culture. Il est possible de s’ouvrir à de nouvelles pratiques tout en conservant ses traditions.",
+            "conclusion": "En conclusion, modifier certaines habitudes est utile pour s’intégrer, mais sans renoncer à son identité."
+          },
+          {
+            "theme": "Immigration et emploi",
+            "sujet": "Si vous partez vivre au Canada, pensez-vous trouver facilement un emploi ? Pourquoi ?",
+            "introduction": "Le Canada attire de nombreux immigrants grâce à ses opportunités professionnelles. Cependant, trouver un emploi n’est pas toujours simple au début.",
+            "avantages": "Le marché du travail canadien offre des opportunités dans plusieurs secteurs. Les compétences, l’expérience et la motivation sont souvent valorisées. Certains programmes facilitent aussi l’intégration des nouveaux arrivants.",
+            "inconvenients": "Malgré cela, la reconnaissance des diplômes et l’expérience locale peuvent poser problème. La langue et les différences culturelles au travail peuvent également compliquer la recherche d’emploi.",
+            "conseils": "Il est conseillé de bien préparer son projet, d’améliorer son niveau de langue et de se renseigner sur le marché du travail avant de partir.",
+            "conclusion": "Pour conclure, trouver un emploi au Canada est possible, mais cela demande du temps, de la préparation et de la persévérance."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 6,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Voyage et autonomie",
+            "sujet": "Certains choisissent de voyager en solitaire. Qu’en pensez-vous ?",
+            "introduction": "Aujourd’hui, de plus en plus de personnes choisissent de voyager seules. Pour certains, cela peut sembler étrange ou même dangereux. Pour d’autres, c’est une expérience très enrichissante. À mon avis, voyager en solitaire peut être une très bonne chose, mais il faut bien se préparer.",
+            "avantages": "Voyager seul permet d’être libre. On peut choisir sa destination, son programme, son rythme et ses activités sans devoir s’adapter aux autres. Cela permet aussi de mieux se connaître, car on doit prendre des décisions seul et résoudre les petits problèmes du voyage. En plus, une personne qui voyage seule peut parfois rencontrer plus facilement de nouvelles personnes, parce qu’elle est plus ouverte aux échanges.",
+            "inconvenients": "Cependant, voyager en solitaire peut aussi être difficile. On peut se sentir seul, surtout pendant les repas ou le soir. Il y a aussi des risques liés à la sécurité, surtout dans un pays inconnu. En cas de problème, comme une maladie, une perte de papiers ou un retard de transport, il peut être plus stressant de tout gérer seul.",
+            "conseils": "Je pense qu’il faut bien organiser son voyage avant de partir. Il est important de choisir une destination sûre, de réserver un logement correct et de garder les contacts importants avec soi. Il faut aussi informer sa famille ou ses amis de son itinéraire. Pour une première expérience, il vaut mieux commencer par un court séjour dans un endroit facile à visiter.",
+            "conclusion": "Pour conclure, je pense que voyager en solitaire peut être une expérience positive. Cela donne de la liberté et de la confiance en soi. Mais pour que le voyage se passe bien, il faut rester prudent et bien préparé."
+          },
+          {
+            "theme": "Travail et égalité",
+            "sujet": "Préférez-vous travailler sous la direction d’un homme ou d’une femme ? Pourquoi ?",
+            "introduction": "Dans le monde du travail, on peut être dirigé par un homme ou par une femme. À mon avis, le sexe du responsable n’est pas le plus important. Ce qui compte vraiment, ce sont ses compétences, son attitude et sa façon de gérer l’équipe.",
+            "avantages": "Un bon responsable, homme ou femme, doit savoir écouter, organiser le travail et respecter les employés. Il doit aussi être juste, clair et capable de motiver son équipe. Certaines femmes dirigent très bien, comme certains hommes dirigent très bien aussi. La qualité d’un chef ne dépend donc pas du genre, mais de la personnalité et de l’expérience.",
+            "inconvenients": "Cependant, certaines personnes ont encore des préjugés. Elles pensent parfois qu’un homme est plus autoritaire ou qu’une femme est plus compréhensive. Ces idées ne sont pas toujours vraies. Il existe des hommes très à l’écoute et des femmes très fermes. Juger un responsable seulement parce qu’il est homme ou femme peut donc être injuste.",
+            "conseils": "Je pense qu’il faut choisir les responsables selon leurs qualités professionnelles. Une entreprise doit donner les mêmes chances aux hommes et aux femmes. Les employés doivent aussi apprendre à respecter l’autorité d’une personne compétente, quel que soit son sexe. Le plus important est d’avoir une bonne communication et une bonne ambiance au travail.",
+            "conclusion": "Pour conclure, je n’ai pas de préférence entre travailler sous la direction d’un homme ou d’une femme. Je préfère travailler avec une personne compétente, juste et respectueuse."
+          },
+          {
+            "theme": "Enfants et jeux vidéo",
+            "sujet": "Les jeux vidéo contribuent-ils au développement de l’enfant ? Qu’en pensez-vous ?",
+            "introduction": "Les jeux vidéo sont très présents dans la vie des enfants aujourd’hui. Certains parents les voient comme un danger, alors que d’autres pensent qu’ils peuvent être utiles. À mon avis, les jeux vidéo peuvent contribuer au développement de l’enfant, mais seulement s’ils sont bien encadrés.",
+            "avantages": "Certains jeux peuvent développer la mémoire, la logique et la concentration. Ils peuvent aussi apprendre à résoudre des problèmes, à prendre des décisions rapidement et à travailler en équipe. Certains jeux éducatifs aident les enfants à apprendre des langues, des calculs ou des connaissances générales. Dans ce cas, les jeux vidéo peuvent être un outil intéressant.",
+            "inconvenients": "Mais les jeux vidéo peuvent aussi poser des problèmes si l’enfant joue trop. Il peut devenir dépendant, dormir moins bien et passer moins de temps à faire du sport ou à parler avec sa famille. Certains jeux sont violents ou ne sont pas adaptés à son âge. Sans règles, les jeux vidéo peuvent donc avoir un effet négatif sur son comportement et sa santé.",
+            "conseils": "Je pense que les parents doivent choisir les jeux avec attention. Ils doivent vérifier l’âge conseillé, limiter le temps de jeu et encourager d’autres activités comme la lecture, le sport ou les sorties. Il est aussi utile de discuter avec l’enfant de ce qu’il regarde et de ce qu’il fait dans le jeu.",
+            "conclusion": "Pour conclure, les jeux vidéo peuvent aider au développement de l’enfant s’ils sont bien utilisés. Mais ils ne doivent pas remplacer les activités réelles, les études et les relations avec les autres."
+          },
+          {
+            "theme": "Tourisme et développement",
+            "sujet": "Pour quelles raisons chercherait-on à développer le tourisme dans un pays ?",
+            "introduction": "Beaucoup de pays cherchent à développer le tourisme, car ce secteur peut apporter plusieurs avantages. Les touristes visitent des villes, découvrent des paysages, consomment dans les commerces et participent à l’économie locale. À mon avis, développer le tourisme peut être très utile pour un pays, mais il faut le faire avec intelligence.",
+            "avantages": "Le tourisme permet d’abord de créer des emplois. Les hôtels, les restaurants, les agences de voyages, les taxis, les guides et les commerces profitent de l’arrivée des visiteurs. Le tourisme permet aussi de faire connaître la culture, l’histoire, la cuisine et les traditions d’un pays. Il peut améliorer l’image du pays à l’étranger et attirer d’autres investissements.",
+            "inconvenients": "Cependant, le tourisme peut aussi avoir des effets négatifs. Quand il y a trop de touristes, certains lieux deviennent trop remplis, les prix augmentent et les habitants peuvent être dérangés. Le tourisme peut aussi provoquer de la pollution et abîmer les sites naturels ou historiques. Si un pays dépend trop du tourisme, il peut souffrir en cas de crise.",
+            "conseils": "Je pense qu’il faut développer un tourisme responsable. Il faut protéger les monuments, respecter la nature et éviter le tourisme de masse. Il est aussi important que les habitants profitent réellement des bénéfices du tourisme. Le pays doit organiser ce secteur de manière équilibrée.",
+            "conclusion": "Pour conclure, on cherche à développer le tourisme pour créer des emplois, améliorer l’économie et faire connaître le pays. Mais ce développement doit être contrôlé pour protéger la population, la culture et l’environnement."
+          },
+          {
+            "theme": "Vie à l’étranger",
+            "sujet": "Vivre à l’étranger est difficile. Êtes-vous d’accord avec cette idée ?",
+            "introduction": "Vivre à l’étranger est une expérience qui attire beaucoup de personnes. On peut imaginer une vie meilleure, un bon travail ou de nouvelles opportunités. Mais, à mon avis, vivre à l’étranger est souvent difficile, surtout au début.",
+            "avantages": "Malgré les difficultés, vivre à l’étranger peut apporter beaucoup. On découvre une nouvelle culture, une autre manière de vivre et parfois une nouvelle langue. Cette expérience peut rendre une personne plus forte, plus indépendante et plus ouverte d’esprit. Elle peut aussi offrir de meilleures chances pour les études ou le travail.",
+            "inconvenients": "Cependant, les premiers mois peuvent être compliqués. Il faut trouver un logement, comprendre les démarches administratives, s’adapter aux règles du pays et parfois chercher un emploi. La langue peut être un grand obstacle. Il y a aussi la solitude, le mal du pays et la distance avec la famille. Tout cela peut rendre l’adaptation difficile.",
+            "conseils": "Je pense qu’il faut bien préparer son départ avant de vivre à l’étranger. Il est important de se renseigner sur le pays, d’apprendre la langue, de prévoir un budget et de chercher des contacts sur place. Il faut aussi être patient, car l’intégration prend du temps. Avec une bonne préparation, les difficultés deviennent plus faciles à gérer.",
+            "conclusion": "Pour conclure, oui, je suis d’accord avec l’idée que vivre à l’étranger est difficile. Mais c’est aussi une expérience très riche. Avec du courage, de la patience et une bonne organisation, elle peut devenir une grande réussite."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 5,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Études et réussite professionnelle",
+            "sujet": "Pensez-vous que réussir dans sa vie professionnelle dépend surtout des études et du diplôme ?",
+            "introduction": "À mon avis, les études et le diplôme sont importants pour réussir dans la vie professionnelle. Ils peuvent ouvrir des portes et donner de bonnes bases. Mais je ne pense pas que la réussite dépende seulement de cela.",
+            "avantages": "Un diplôme peut aider à trouver un emploi plus facilement, surtout dans certains domaines comme la médecine, l’ingénierie ou l’enseignement. Les études permettent aussi d’acquérir des connaissances, des méthodes de travail et une certaine discipline. Elles donnent plus de confiance au début d’une carrière.",
+            "inconvenients": "Cependant, le diplôme ne suffit pas toujours. Une personne peut avoir beaucoup de diplômes, mais manquer d’expérience, de motivation ou de compétences humaines. À l’inverse, certaines personnes réussissent très bien grâce à leur travail, leur sérieux, leur créativité ou leur capacité à apprendre sur le terrain.",
+            "conseils": "Je pense qu’il faut combiner les études avec l’expérience pratique. Les stages, les formations, les projets personnels et les qualités humaines sont aussi très importants. Il faut continuer à apprendre même après l’école, car le monde du travail change rapidement.",
+            "conclusion": "Pour conclure, les études et le diplôme aident beaucoup à réussir professionnellement, mais ils ne sont pas les seuls éléments. La réussite dépend aussi de l’expérience, de l’effort et de la capacité à s’adapter."
+          },
+          {
+            "theme": "Société et vie quotidienne",
+            "sujet": "Est-ce une bonne chose que les personnes âgées continuent à travailler dans la société ?",
+            "introduction": "Aujourd’hui, certaines personnes âgées continuent à travailler après l’âge habituel de la retraite. À mon avis, cela peut être une bonne chose, mais seulement si la personne le souhaite et si sa santé le permet.",
+            "avantages": "Les personnes âgées ont souvent beaucoup d’expérience. Elles peuvent transmettre leurs connaissances aux jeunes et aider l’entreprise ou la société avec leur savoir-faire. Travailler peut aussi leur permettre de rester actives, de garder un lien social et de se sentir utiles.",
+            "inconvenients": "Cependant, il ne faut pas obliger les personnes âgées à travailler trop longtemps. Certaines ont exercé des métiers difficiles et sont fatiguées physiquement ou mentalement. Il faut aussi laisser de la place aux jeunes sur le marché du travail. Continuer à travailler doit donc rester un choix, pas une obligation.",
+            "conseils": "Je pense qu’il faut proposer des solutions souples. Par exemple, les personnes âgées peuvent travailler à temps partiel, conseiller les jeunes ou faire du bénévolat. Il faut respecter leur expérience, mais aussi respecter leur droit au repos.",
+            "conclusion": "Pour conclure, je pense que c’est une bonne chose que les personnes âgées continuent à travailler si elles le désirent. Mais cela doit dépendre de leur santé, de leur envie et de leur situation personnelle."
+          },
+          {
+            "theme": "Bénévolat et solidarité",
+            "sujet": "Certaines personnes profitent de leur temps libre pour faire du bénévolat. Qu’en pensez-vous ?",
+            "introduction": "Le bénévolat consiste à donner de son temps pour aider les autres sans attendre d’argent en retour. À mon avis, c’est une très belle activité, car elle est utile pour la société et pour la personne qui s’engage.",
+            "avantages": "Faire du bénévolat permet d’aider des personnes en difficulté, de protéger les animaux, de soutenir une association ou de participer à des actions locales. Cela donne aussi un sentiment d’utilité. Le bénévole peut rencontrer de nouvelles personnes, apprendre des choses et développer des qualités comme la solidarité et la patience.",
+            "inconvenients": "Cependant, le bénévolat demande du temps et de l’énergie. Certaines personnes peuvent se fatiguer si elles donnent trop sans se reposer. Il faut aussi faire attention à ne pas remplacer des emplois payés par du travail bénévole. L’engagement doit rester équilibré.",
+            "conseils": "Je pense qu’il faut choisir une cause qui nous tient vraiment à cœur. Il vaut mieux commencer doucement, par exemple quelques heures par semaine. Il faut aussi respecter ses limites pour que le bénévolat reste une expérience positive.",
+            "conclusion": "Pour conclure, je pense que faire du bénévolat pendant son temps libre est une excellente chose. Cela aide les autres et cela permet aussi de se sentir plus utile dans la société."
+          },
+          {
+            "theme": "Culture et loisirs",
+            "sujet": "Aimez-vous mieux regarder des films ou aller au théâtre ? Expliquez pourquoi.",
+            "introduction": "Les films et le théâtre sont deux formes de divertissement très intéressantes. Les deux permettent de découvrir des histoires et des personnages. Personnellement, je préfère regarder des films, car c’est plus simple et plus accessible.",
+            "avantages": "Regarder un film est pratique. On peut le faire à la maison, au cinéma ou sur une plateforme. Il y a beaucoup de choix : comédie, action, drame, documentaire ou film historique. Les films utilisent aussi des images, de la musique et des effets spéciaux qui rendent l’histoire très vivante.",
+            "inconvenients": "Cependant, le théâtre a aussi beaucoup de valeur. Il offre une expérience plus directe, car les acteurs jouent devant le public. C’est souvent plus vivant et plus humain. Mais le théâtre peut être plus cher, moins disponible et parfois moins facile à comprendre pour certaines personnes.",
+            "conseils": "Je pense qu’il faut profiter des deux quand c’est possible. Les films sont parfaits pour se détendre facilement, mais le théâtre permet de vivre une expérience culturelle différente. Il est bon de varier les activités pour découvrir de nouvelles choses.",
+            "conclusion": "Pour conclure, je préfère regarder des films parce que c’est plus pratique et plus varié. Mais je pense que le théâtre reste une activité culturelle très riche et intéressante."
+          },
+          {
+            "theme": "Immigration et âge",
+            "sujet": "D’après vous, à quel âge est-il préférable d’émigrer ? Pourquoi ?",
+            "introduction": "Émigrer est une décision importante qui change beaucoup de choses dans la vie. À mon avis, il n’y a pas un âge parfait pour tout le monde. Mais il est souvent préférable d’émigrer quand on est encore jeune adulte.",
+            "avantages": "Quand une personne émigre jeune, par exemple entre 20 et 35 ans, elle a souvent plus d’énergie pour s’adapter. Elle peut apprendre une nouvelle langue plus facilement, reprendre des études ou commencer une carrière dans le nouveau pays. Elle a aussi plus de temps pour construire sa vie professionnelle et personnelle.",
+            "inconvenients": "Cependant, émigrer très jeune peut aussi être difficile. Une personne peut manquer d’expérience, d’argent ou de maturité. À l’inverse, émigrer plus tard peut être compliqué à cause de la famille, du travail ou des habitudes déjà installées. Chaque âge a donc ses avantages et ses difficultés.",
+            "conseils": "Je pense qu’il faut surtout émigrer quand on est bien préparé. Il faut avoir un projet clair, un budget, des informations sur le pays et, si possible, une base dans la langue. L’âge compte, mais la préparation compte encore plus.",
+            "conclusion": "Pour conclure, il est souvent préférable d’émigrer à l’âge jeune adulte, car l’adaptation peut être plus facile. Mais le meilleur moment dépend surtout de la préparation, du projet et de la situation personnelle."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 4,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Éducation et métier d’enseignant",
+            "sujet": "Pourquoi le métier d’enseignant peut-il sembler difficile ou intimidant ?",
+            "introduction": "Le métier d’enseignant est souvent respecté, mais il peut aussi faire peur. Beaucoup de personnes pensent qu’il demande beaucoup de qualités et de patience. À mon avis, ce métier peut sembler difficile parce qu’il demande à la fois des connaissances, de l’énergie et un bon contact avec les autres.",
+            "avantages": "Être enseignant est un métier utile et important. Il permet d’aider des élèves à apprendre, à progresser et à préparer leur avenir. C’est aussi un travail vivant, car chaque journée est différente. On peut avoir le sentiment d’être vraiment utile à la société.",
+            "inconvenients": "Cependant, ce métier peut être intimidant. Il faut parler devant toute une classe, garder l’attention des élèves et gérer des comportements parfois compliqués. Il faut aussi préparer les cours, corriger les exercices et répondre aux attentes des parents ou de l’école. Tout cela peut sembler très lourd, surtout au début.",
+            "conseils": "Je pense qu’il faut bien se préparer avant de choisir ce métier. Il est utile de faire des stages, d’observer des enseignants et de comprendre la réalité du travail. Il faut aussi apprendre à rester calme, organisé et patient. Avec de l’expérience, ce métier devient souvent moins impressionnant.",
+            "conclusion": "Pour conclure, le métier d’enseignant peut sembler difficile parce qu’il demande beaucoup de responsabilités. Mais c’est aussi un métier très utile et humain, qui peut apporter une grande satisfaction."
+          },
+          {
+            "theme": "Animaux et bien-être",
+            "sujet": "Les animaux de compagnie peuvent-ils contribuer au bonheur des personnes ? Pourquoi ?",
+            "introduction": "Aujourd’hui, beaucoup de personnes vivent avec un chien, un chat ou un autre animal de compagnie. Pour certains, ces animaux occupent une place très importante dans la famille. À mon avis, oui, les animaux de compagnie peuvent contribuer au bonheur des personnes.",
+            "avantages": "Un animal apporte souvent de la présence, de l’affection et de la joie. Il peut aider une personne seule à se sentir moins isolée. Il crée aussi des habitudes positives, comme sortir marcher ou prendre soin d’un autre être vivant. Pour les enfants, il peut apprendre la patience et le sens des responsabilités.",
+            "inconvenients": "Cependant, avoir un animal n’est pas toujours facile. Cela demande du temps, de l’argent et de l’organisation. Il faut penser à la nourriture, aux soins, aux promenades et aux vacances. Si une personne n’est pas prête à assumer tout cela, l’animal peut devenir une source de stress au lieu d’apporter du bonheur.",
+            "conseils": "Je pense qu’il faut bien réfléchir avant d’adopter un animal. Il est important de choisir un animal adapté à son logement, à son budget et à son mode de vie. Si la décision est réfléchie, l’animal peut vraiment améliorer le quotidien.",
+            "conclusion": "Pour conclure, je pense que les animaux de compagnie peuvent rendre les personnes plus heureuses. Mais cela reste positif seulement si l’on est prêt à s’en occuper sérieusement."
+          },
+          {
+            "theme": "Emploi des jeunes",
+            "sujet": "Selon vous, quelles démarches un jeune doit-il entreprendre pour trouver un emploi ?",
+            "introduction": "Trouver un emploi n’est pas toujours facile pour un jeune, surtout au début. Il faut souvent faire plusieurs efforts avant d’obtenir une réponse positive. À mon avis, un jeune doit être actif, organisé et prêt à apprendre.",
+            "avantages": "La première chose à faire est de préparer un bon CV et une lettre de motivation claire. Il faut aussi chercher des offres sérieusement, envoyer des candidatures et se renseigner sur les entreprises. En plus, un jeune peut utiliser son réseau, demander de l’aide à ses proches ou participer à des stages pour gagner de l’expérience. Toutes ces démarches augmentent ses chances.",
+            "inconvenients": "Mais la recherche d’emploi peut être longue et décourageante. Certains jeunes manquent d’expérience, ce qui rend les débuts plus difficiles. Ils peuvent aussi ne pas savoir comment se présenter ou comment réussir un entretien. Sans aide, ils risquent de perdre confiance.",
+            "conseils": "Je pense qu’un jeune doit accepter de commencer petit si nécessaire. Il faut aussi améliorer ses compétences, par exemple en suivant une formation, en faisant un stage ou en apprenant à mieux parler en entretien. La patience et la régularité sont essentielles. Il vaut mieux avancer étape par étape.",
+            "conclusion": "Pour conclure, je pense qu’un jeune doit préparer ses documents, chercher activement, accepter d’apprendre et rester motivé. Trouver un emploi demande des efforts, mais avec une bonne méthode, cela devient plus possible."
+          },
+          {
+            "theme": "Environnement et priorités mondiales",
+            "sujet": "Quelle cause mondiale devrait être une priorité aujourd’hui ? Pourquoi ?",
+            "introduction": "Le monde fait face à plusieurs grands problèmes, comme la pauvreté, les guerres, les inégalités ou la pollution. Il est donc difficile de choisir une seule priorité. Pourtant, à mon avis, la protection de l’environnement devrait être une cause mondiale urgente.",
+            "avantages": "L’environnement concerne tout le monde. Le changement climatique, la pollution de l’air et de l’eau ou la destruction de la nature ont des conséquences directes sur la santé, l’agriculture et la vie quotidienne. Si la planète se dégrade davantage, tous les autres problèmes seront encore plus difficiles à résoudre. Protéger l’environnement, c’est aussi protéger l’avenir des générations suivantes.",
+            "inconvenients": "Cependant, certains pays pensent d’abord à l’économie ou à leurs problèmes immédiats. Pour eux, l’écologie semble parfois moins urgente que l’emploi, la sécurité ou la santé. En plus, les actions écologiques demandent souvent de l’argent et des changements dans les habitudes, ce qui peut faire peur.",
+            "conseils": "Je pense que les États doivent agir ensemble. Il faut développer les transports propres, réduire les déchets, protéger les forêts et mieux informer les citoyens. L’école peut aussi jouer un rôle important. Enfin, chacun peut faire de petits efforts dans sa vie quotidienne.",
+            "conclusion": "Pour conclure, je pense que la protection de l’environnement devrait être une priorité mondiale. C’est une cause essentielle, car elle touche directement la vie de tous les êtres humains."
+          },
+          {
+            "theme": "Travail et retraite",
+            "sujet": "Jusqu’à quel âge une personne devrait-elle pouvoir travailler ? Expliquez votre réponse.",
+            "introduction": "La question de l’âge du travail revient souvent dans les débats sur la retraite. Certaines personnes veulent partir plus tôt, d’autres préfèrent continuer plus longtemps. À mon avis, il ne devrait pas y avoir une seule réponse pour tout le monde.",
+            "avantages": "Certaines personnes peuvent travailler longtemps avec plaisir, surtout si elles ont un métier peu physique. Elles ont de l’expérience, des compétences et peuvent encore être très utiles. Pour elles, continuer à travailler après 60 ou 65 ans peut être une bonne chose. Cela peut aussi les aider à rester actives.",
+            "inconvenients": "Mais tous les métiers ne se ressemblent pas. Une personne qui fait un travail dur physiquement ou très fatigant ne peut pas forcément continuer aussi longtemps. La santé, la fatigue et les douleurs doivent être prises en compte. Il serait injuste d’imposer le même âge à tout le monde.",
+            "conseils": "Je pense qu’il faut plus de souplesse. Une personne en bonne santé qui veut continuer à travailler devrait pouvoir le faire. En revanche, une autre qui exerce un métier pénible devrait pouvoir arrêter plus tôt. Il faut adapter les règles à la réalité des situations.",
+            "conclusion": "Pour conclure, je pense qu’une personne devrait pouvoir travailler tant qu’elle en a la capacité physique et mentale et qu’elle le souhaite. L’âge est important, mais il ne doit pas être le seul critère."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 3,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Environnement et biodiversité",
+            "sujet": "Il faut protéger tous les animaux en danger. Êtes-vous d’accord avec cette affirmation ? Pourquoi ?",
+            "introduction": "Aujourd’hui, de nombreuses espèces animales disparaissent à cause des activités humaines. À mon avis, il est essentiel de protéger les animaux en danger, car cela concerne l’équilibre de toute la planète.",
+            "avantages": "Protéger les animaux permet de préserver la biodiversité. Certaines espèces jouent un rôle important dans les écosystèmes. Cela montre aussi que l’être humain est responsable et soucieux de son environnement.",
+            "inconvenients": "Cependant, la protection de toutes les espèces coûte cher et demande beaucoup de ressources. Certains pays n’ont pas les moyens ou les infrastructures pour le faire correctement.",
+            "conseils": "Il faudrait renforcer les lois environnementales, créer davantage de réserves naturelles et sensibiliser les populations. Les organisations internationales peuvent aussi aider les pays qui en ont besoin.",
+            "conclusion": "En conclusion, protéger les animaux en danger est une priorité. Même si cela demande des efforts, c’est essentiel pour l’avenir de la planète."
+          },
+          {
+            "theme": "Travail et bien-être",
+            "sujet": "Le plus important dans la vie, c’est d’être heureux au travail. Qu’en pensez-vous ?",
+            "introduction": "Beaucoup de personnes passent une grande partie de leur vie au travail. Certains pensent donc que le plus important est d’y être heureux. Je suis assez d’accord avec cette idée.",
+            "avantages": "Être heureux au travail améliore la motivation et la qualité de vie. Cela permet aussi de réduire le stress et de créer une meilleure ambiance avec les collègues.",
+            "inconvenients": "Cependant, on ne peut pas toujours choisir son emploi. Certaines personnes doivent accepter un travail difficile pour des raisons financières. De plus, d’autres aspects de la vie, comme la famille ou la santé, sont tout aussi importants.",
+            "conseils": "Il faut essayer de trouver un travail qui correspond à nos valeurs, développer de nouvelles compétences et discuter avec son employeur lorsqu’on rencontre des difficultés.",
+            "conclusion": "En conclusion, être heureux au travail est très important, mais ce n’est pas le seul élément qui contribue à une vie équilibrée."
+          },
+          {
+            "theme": "Lecture et culture",
+            "sujet": "Lire est une perte de temps. Êtes-vous d’accord avec cette affirmation ? Pourquoi ?",
+            "introduction": "Certaines personnes pensent que lire ne sert plus à rien, surtout avec les nouvelles technologies. Pour ma part, je ne suis pas d’accord avec cette affirmation.",
+            "avantages": "Lire permet de développer l’imagination, d’améliorer la langue et d’acquérir des connaissances. C’est aussi un bon moyen de se détendre et de s’évader.",
+            "inconvenients": "Cependant, certaines lectures peuvent être longues ou difficiles, et tout le monde n’a pas le temps. De plus, certains préfèrent d’autres formes de contenu comme les vidéos ou les podcasts.",
+            "conseils": "Je pense qu’il faut choisir des livres adaptés à ses goûts et commencer par des formats courts. Les bibliothèques et les livres numériques peuvent aussi aider à lire plus facilement.",
+            "conclusion": "En conclusion, lire n’est pas une perte de temps. Au contraire, c’est une activité enrichissante qui apporte beaucoup à notre développement personnel."
+          },
+          {
+            "theme": "Mode de vie et bonheur",
+            "sujet": "On peut être heureux quand on vit seul. Qu’en pensez-vous ?",
+            "introduction": "De plus en plus de personnes vivent seules, par choix ou par situation. Certains pensent qu’on ne peut pas être heureux ainsi, mais je crois le contraire.",
+            "avantages": "Vivre seul permet une grande liberté. On organise son temps comme on veut et on peut se concentrer sur ses projets personnels. Cela aide aussi à mieux se connaître.",
+            "inconvenients": "Cependant, la solitude peut parfois provoquer de l’isolement ou de la tristesse. Certaines personnes ont besoin de compagnie pour se sentir bien.",
+            "conseils": "Il faut garder un lien social actif, pratiquer des activités qui nous plaisent et apprendre à apprécier les moments seuls. Les réseaux sociaux et les clubs peuvent aussi aider.",
+            "conclusion": "En conclusion, on peut être heureux seul si on trouve un bon équilibre entre autonomie et relations sociales."
+          },
+          {
+            "theme": "Santé et alimentation",
+            "sujet": "Pour être en bonne santé, le plus important c’est de manger équilibré. Qu’en pensez-vous ?",
+            "introduction": "La santé est un sujet essentiel, et beaucoup pensent que l’alimentation joue un rôle central. Je suis d’accord sur le fait qu’une alimentation équilibrée est très importante.",
+            "avantages": "Manger équilibré permet d’avoir suffisamment d’énergie, de prévenir certaines maladies et de garder un poids stable. Cela améliore aussi la qualité de vie.",
+            "inconvenients": "Cependant, une bonne alimentation ne suffit pas toujours. Il faut aussi faire du sport, bien dormir et réduire le stress. De plus, manger sain peut coûter cher pour certaines familles.",
+            "conseils": "Il faut encourager les gens à cuisiner davantage, choisir des produits locaux et limiter les aliments trop gras ou sucrés. L’éducation alimentaire dès l’école peut aussi aider.",
+            "conclusion": "En conclusion, manger équilibré est essentiel pour la santé, mais cela doit s’accompagner d’un mode de vie globalement sain."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 2,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Éducation et motivation",
+            "sujet": "Certains parents donnent de l’argent à leurs enfants pour leurs bons résultats scolaires. Qu’en pensez-vous ?",
+            "introduction": "Certains parents donnent de l’argent à leurs enfants quand ils ont de bonnes notes. Cette méthode peut sembler motivante. Mais, à mon avis, il faut faire attention, car l’école ne doit pas devenir seulement une question d’argent.",
+            "avantages": "Donner une récompense peut encourager certains enfants à faire plus d’efforts. Cela peut leur donner envie de mieux travailler et de prendre leurs études plus au sérieux. Cela montre aussi que les parents remarquent leurs progrès.",
+            "inconvenients": "Cependant, l’enfant peut finir par travailler seulement pour recevoir de l’argent. Il risque de ne plus comprendre que les études servent d’abord à apprendre et à préparer son avenir. Cette méthode peut aussi créer de la pression ou des comparaisons entre les enfants.",
+            "conseils": "Je pense qu’il vaut mieux encourager l’enfant avec des félicitations, du dialogue ou une petite récompense symbolique. Les parents peuvent aussi l’aider à mieux s’organiser et à avoir confiance en lui. Le plus important est de développer le plaisir d’apprendre.",
+            "conclusion": "Pour conclure, donner de l’argent peut parfois motiver, mais ce n’est pas la meilleure solution. Il vaut mieux encourager l’enfant avec équilibre et lui apprendre la valeur de l’effort."
+          },
+          {
+            "theme": "Économie et environnement",
+            "sujet": "D’après vous, est-il possible de développer l’économie et de respecter l’environnement en même temps ?",
+            "introduction": "Pendant longtemps, on a pensé qu’il fallait choisir entre l’économie et l’environnement. Aujourd’hui, je pense qu’il est possible de développer les deux en même temps, mais cela demande de vrais changements.",
+            "avantages": "Une économie plus verte peut créer de nouveaux emplois. Par exemple, les énergies renouvelables, le recyclage, les transports propres et la rénovation des bâtiments peuvent développer de nouvelles activités. Les entreprises peuvent aussi inventer des solutions plus respectueuses de la nature.",
+            "inconvenients": "Cependant, cette transition n’est pas facile. Elle coûte souvent cher au début. Certaines entreprises préfèrent garder des méthodes anciennes parce qu’elles sont moins chères. Il peut aussi être difficile de changer les habitudes des consommateurs.",
+            "conseils": "Je pense que les gouvernements doivent encourager les entreprises responsables. Il faut aussi aider les citoyens à consommer mieux, réduire le gaspillage et utiliser des produits plus durables. L’économie doit se développer, mais pas au détriment de la planète.",
+            "conclusion": "Pour conclure, oui, il est possible de développer l’économie tout en respectant l’environnement. Mais il faut de l’organisation, de l’innovation et une vraie volonté collective."
+          },
+          {
+            "theme": "Culture et découverte",
+            "sujet": "Peut-on connaître un pays seulement à travers des livres ? Pourquoi ?",
+            "introduction": "Les livres permettent d’apprendre beaucoup de choses sur un pays. Ils parlent de son histoire, de sa culture et parfois de ses habitants. Mais, à mon avis, on ne peut pas connaître complètement un pays seulement grâce aux livres.",
+            "avantages": "Les livres sont très utiles pour découvrir un pays. Ils permettent de comprendre son passé, ses traditions, sa littérature et certaines habitudes. Un bon livre peut donner envie de voyager et aider à mieux comprendre une société.",
+            "inconvenients": "Mais un pays ne se résume pas aux livres. Il faut aussi sentir l’ambiance des rues, écouter la langue, goûter la nourriture et rencontrer les habitants. Certaines choses se comprennent seulement avec l’expérience directe.",
+            "conseils": "Je pense qu’il faut utiliser les livres comme un point de départ. Ensuite, on peut regarder des films, parler avec des personnes du pays ou, si possible, voyager. Plus les sources sont variées, plus la connaissance du pays devient complète.",
+            "conclusion": "Pour conclure, les livres permettent de beaucoup apprendre sur un pays, mais ils ne suffisent pas pour le connaître totalement. L’expérience réelle reste très importante."
+          },
+          {
+            "theme": "Immigration et intégration",
+            "sujet": "Pour bien s’intégrer dans un pays, il faut renoncer à ses traditions. Qu’en pensez-vous ?",
+            "introduction": "Quand une personne arrive dans un nouveau pays, elle doit s’adapter à une nouvelle culture. Certaines personnes pensent qu’il faut abandonner ses traditions pour bien s’intégrer. Je ne suis pas d’accord avec cette idée.",
+            "avantages": "Il est important de respecter le pays d’accueil. Il faut apprendre la langue, comprendre les règles et accepter certaines habitudes locales. Cela aide à mieux vivre avec les autres et à éviter l’isolement.",
+            "inconvenients": "Mais renoncer complètement à ses traditions me semble excessif. Les traditions font partie de l’identité d’une personne. On peut garder sa langue, sa cuisine, ses fêtes ou certaines habitudes tout en respectant le pays où l’on vit.",
+            "conseils": "Je pense qu’il faut trouver un équilibre. Il faut s’ouvrir à la culture du pays d’accueil, mais aussi garder ce qui est important dans sa propre culture. L’intégration ne doit pas être un effacement de soi.",
+            "conclusion": "Pour conclure, je pense qu’il n’est pas nécessaire de renoncer à ses traditions pour bien s’intégrer. On peut respecter un nouveau pays tout en gardant une partie de son identité."
+          },
+          {
+            "theme": "Travail et bien-être",
+            "sujet": "Une entreprise doit donner la priorité au bien-être de ses employés pour bien fonctionner. Qu’en pensez-vous ?",
+            "introduction": "Le bien-être des employés est très important dans une entreprise. Des salariés fatigués, stressés ou mal respectés travaillent souvent moins bien. À mon avis, une entreprise doit vraiment faire attention à ses employés.",
+            "avantages": "Quand les employés se sentent bien, ils sont souvent plus motivés et plus efficaces. Une bonne ambiance réduit les conflits et les absences. Les salariés restent aussi plus longtemps dans l’entreprise quand ils se sentent respectés.",
+            "inconvenients": "Cependant, une entreprise doit aussi rester organisée et rentable. Elle ne peut pas penser seulement au confort des employés. Il faut aussi atteindre des objectifs, satisfaire les clients et produire un travail de qualité.",
+            "conseils": "Je pense qu’il faut trouver un équilibre entre bien-être et performance. L’entreprise doit proposer de bonnes conditions de travail, écouter ses employés et reconnaître leurs efforts. De leur côté, les salariés doivent aussi être sérieux et responsables.",
+            "conclusion": "Pour conclure, je pense qu’une entreprise fonctionne mieux quand elle respecte le bien-être de ses employés. Ce n’est pas le seul élément important, mais c’est une base essentielle pour réussir durablement."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 1,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Carrière internationale",
+            "sujet": "Avoir vécu dans un pays étranger constitue-t-il un atout pour réussir sa carrière professionnelle ?",
+            "introduction": "À mon avis, avoir vécu dans un pays étranger peut être un vrai atout pour réussir sa carrière professionnelle. Cette expérience montre qu’une personne est capable de s’adapter à un nouvel environnement et d’apprendre de nouvelles choses.",
+            "avantages": "Vivre à l’étranger permet souvent d’améliorer une langue étrangère, de découvrir une autre culture et de développer son autonomie. Dans le monde du travail, ces qualités sont très appréciées. Une personne qui a vécu ailleurs peut aussi mieux comprendre des clients, des collègues ou des partenaires internationaux.",
+            "inconvenients": "Cependant, cette expérience ne garantit pas automatiquement la réussite professionnelle. Si la personne n’a pas de compétences solides ou si elle ne sait pas valoriser son expérience, cela peut avoir peu d’effet. Parfois, il faut aussi du temps pour faire reconnaître ses diplômes ou son expérience dans un autre pays.",
+            "conseils": "Je pense qu’il faut savoir présenter cette expérience comme une force. Il faut expliquer ce qu’on a appris : la langue, l’adaptation, l’ouverture d’esprit et l’autonomie. Il est aussi important de continuer à développer ses compétences professionnelles.",
+            "conclusion": "Pour conclure, vivre dans un pays étranger peut aider à réussir sa carrière, surtout dans un monde de plus en plus international. Mais cela doit être accompagné de compétences, de travail et de motivation."
+          },
+          {
+            "theme": "Tourisme et développement",
+            "sujet": "Le tourisme représente-t-il une voie de développement intéressante pour tous les pays ? Pourquoi ?",
+            "introduction": "Le tourisme est souvent présenté comme une bonne solution pour développer un pays. Il peut attirer des visiteurs, créer des emplois et faire connaître une culture. Mais, à mon avis, il n’est pas forcément adapté à tous les pays de la même façon.",
+            "avantages": "Le tourisme peut être très utile pour l’économie. Il développe les hôtels, les restaurants, les transports et les activités culturelles. Il peut aussi aider certaines régions pauvres à créer de nouvelles sources de revenus. En plus, il permet de faire connaître le patrimoine, les paysages et les traditions d’un pays.",
+            "inconvenients": "Cependant, tous les pays ne peuvent pas dépendre du tourisme. Certains n’ont pas assez d’infrastructures, de sécurité ou de stabilité politique. Le tourisme peut aussi provoquer de la pollution, une hausse des prix et une dépendance économique dangereuse. Si une crise arrive, le secteur peut s’arrêter rapidement.",
+            "conseils": "Je pense que le tourisme doit être développé avec prudence. Il faut investir dans les infrastructures, protéger l’environnement et respecter les habitants. Un pays ne doit pas compter uniquement sur le tourisme, mais l’utiliser comme une partie de son développement.",
+            "conclusion": "Pour conclure, le tourisme peut être une voie intéressante pour beaucoup de pays, mais pas pour tous de la même manière. Il doit être bien organisé et rester équilibré."
+          },
+          {
+            "theme": "Immigration et adaptation",
+            "sujet": "Selon vous, est-il difficile de s’installer à l’étranger ? Pourquoi ?",
+            "introduction": "S’installer à l’étranger est une décision importante. Beaucoup de personnes rêvent de vivre dans un autre pays, mais la réalité peut être compliquée. À mon avis, oui, il est souvent difficile de s’installer à l’étranger.",
+            "avantages": "Cette expérience peut apporter beaucoup. Elle permet de découvrir une nouvelle culture, d’apprendre une langue et de devenir plus autonome. Elle peut aussi offrir de meilleures possibilités d’études, de travail ou de qualité de vie. Pour certaines personnes, c’est une chance importante.",
+            "inconvenients": "Mais les difficultés sont nombreuses. Il faut trouver un logement, comprendre les démarches administratives, chercher un travail et s’adapter aux habitudes locales. La langue peut aussi être un obstacle. En plus, la solitude et le mal du pays peuvent rendre les premiers mois difficiles.",
+            "conseils": "Je pense qu’il faut bien préparer son installation. Il faut se renseigner sur le pays, prévoir un budget, apprendre la langue et demander conseil à des personnes déjà installées. Il faut aussi être patient, car l’adaptation prend du temps.",
+            "conclusion": "Pour conclure, s’installer à l’étranger est souvent difficile, surtout au début. Mais avec une bonne préparation et de la persévérance, cette expérience peut devenir très positive."
+          },
+          {
+            "theme": "Apprentissage des langues",
+            "sujet": "Est-il préférable de commencer l’apprentissage des langues étrangères dès l’enfance ? Pourquoi ?",
+            "introduction": "À mon avis, il est préférable de commencer l’apprentissage des langues étrangères dès l’enfance. Les enfants apprennent souvent plus facilement et plus naturellement que les adultes.",
+            "avantages": "Quand un enfant commence tôt, il peut mieux développer sa prononciation et sa compréhension. Il a aussi moins peur de faire des erreurs. Apprendre une langue étrangère dès l’enfance peut ouvrir l’esprit et aider à mieux découvrir d’autres cultures. Plus tard, cela peut aussi être un avantage pour les études et le travail.",
+            "inconvenients": "Cependant, il ne faut pas mettre trop de pression sur les enfants. Si l’apprentissage est trop difficile ou trop scolaire, l’enfant peut perdre sa motivation. Il faut aussi respecter son rythme et ne pas négliger sa langue maternelle.",
+            "conseils": "Je pense qu’il faut apprendre les langues de manière simple et agréable. Les chansons, les jeux, les dessins animés et les activités orales peuvent beaucoup aider. L’objectif doit être de donner le goût des langues, pas de créer du stress.",
+            "conclusion": "Pour conclure, commencer les langues étrangères dès l’enfance est une très bonne idée. Mais l’apprentissage doit rester progressif, naturel et adapté à l’âge de l’enfant."
+          },
+          {
+            "theme": "Célébrités et médias",
+            "sujet": "D’après vous, pour quelles raisons les gens aiment-ils découvrir la vie des célébrités ?",
+            "introduction": "Aujourd’hui, beaucoup de personnes s’intéressent à la vie des célébrités. On les voit à la télévision, sur Internet et sur les réseaux sociaux. À mon avis, cet intérêt s’explique par la curiosité, le rêve et parfois le besoin de divertissement.",
+            "avantages": "Les célébrités font souvent rêver. Leur vie semble plus belle, plus riche ou plus intéressante que la vie ordinaire. Certaines personnes aiment suivre leurs réussites, leurs voyages, leurs vêtements ou leurs projets. Cela permet aussi de se divertir et d’oublier un peu les problèmes du quotidien.",
+            "inconvenients": "Cependant, cet intérêt peut devenir excessif. Certaines personnes passent trop de temps à suivre la vie des stars et comparent leur propre vie à une image souvent fausse. Il y a aussi un manque de respect pour la vie privée des célébrités, surtout quand les médias cherchent des scandales.",
+            "conseils": "Je pense qu’il faut garder une certaine distance. On peut s’intéresser aux célébrités pour se divertir, mais il ne faut pas croire que leur vie est parfaite. Il faut aussi respecter leur intimité et se concentrer sur sa propre vie.",
+            "conclusion": "Pour conclure, les gens aiment découvrir la vie des célébrités parce que cela les fait rêver et les divertit. Mais cet intérêt doit rester raisonnable et ne pas devenir une obsession."
+          }
+        ]
+      }
+    }
+  ]
+}
