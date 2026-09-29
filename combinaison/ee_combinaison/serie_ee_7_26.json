@@ -1,0 +1,256 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez célébrer votre anniversaire dans un restaurant. Vous écrivez un courriel à vos amis pour les inviter. Vous leur communiquez toutes les informations utiles (restaurant, date, heure, menu, prix, etc.) et vous leur demandez de confirmer leur présence.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez quitté la ville pour vivre à la campagne. Sur un forum Internet, vous racontez les raisons de ce changement et vous présentez les avantages de votre nouvelle vie.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Caméras de Surveillance à l’École : Utiles ou Non ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Certaines personnes sont opposées à l’installation de caméras de surveillance dans les écoles. Selon elles, les résultats obtenus dans les pays où ce système existe restent limités. Les personnes mal intentionnées peuvent contourner les zones surveillées. Pour améliorer la discipline, elles estiment qu’il vaut mieux renforcer le dialogue entre les élèves, les enseignants et l’administration, ainsi que faire respecter le règlement de l’établissement."
+                },
+                {
+                  "numero": 2,
+                  "texte": "D’autres considèrent que les caméras contribuent à renforcer la sécurité dans les écoles. Elles permettent de décourager les actes de violence et rassurent les parents ainsi que les enseignants. Beaucoup pensent que ce système favorise un meilleur climat scolaire et de meilleures conditions de travail. En revanche, certains élèves estiment que cette surveillance porte atteinte au respect de leur vie privée."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez commencer une activité sportive et vous aimeriez que votre ami(e) vous accompagne. Vous lui écrivez un message pour lui proposer de faire du sport ensemble.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez étudié pendant quelque temps dans une université à l’étranger. Vous rédigez un article sur votre blog pour raconter cette expérience et partager vos impressions.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’Uniforme Scolaire : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Selon certaines personnes, le port de l’uniforme empêche les élèves d’exprimer leur personnalité. Ils ne peuvent pas choisir leurs vêtements ni montrer leur style. Beaucoup de jeunes aiment se distinguer par la mode ou les accessoires qu’ils portent. Avec un uniforme, ils ont l’impression de perdre leur liberté et de ne plus pouvoir affirmer leur identité."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Pour d’autres, l’uniforme scolaire renforce le sentiment d’appartenance à l’établissement et favorise l’esprit de groupe. Il limite également les différences liées aux vêtements ou au niveau de vie des familles. Les parents dépensent moins d’argent pour acheter des vêtements de marque, et les élèves sont moins jugés sur leur apparence. L’uniforme contribue ainsi à réduire certaines inégalités sociales."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez assister au concert de votre artiste préféré(e). Vous écrivez un courriel à un(e) ami(e) pour l’inviter à vous accompagner. Vous lui donnez les informations importantes (date, lieu, prix, artiste, durée, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Les enseignants de l’école de votre quartier organisent une présentation des métiers. Vous souhaitez participer pour parler de votre expérience professionnelle. Vous leur écrivez. Vous présentez votre métier (missions, collègues, environnement de travail, etc.) et vous expliquez pourquoi vous l’appréciez.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Location de Courte Durée",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De plus en plus de personnes louent leur logement ou une chambre à des voyageurs afin de gagner un revenu supplémentaire ou de faire de nouvelles rencontres. Ce système, fondé sur la confiance, permet aux touristes de se loger à moindre coût par rapport à un hôtel. Avec l’accord du propriétaire, ils peuvent également utiliser la cuisine et limiter leurs dépenses au restaurant. En outre, l’hôte peut leur donner des conseils et leur faire découvrir les lieux à visiter, ce qui rend l’expérience enrichissante pour chacun."
+                },
+                {
+                  "numero": 2,
+                  "texte": "L’an dernier, j’ai loué mon appartement à des touristes venus passer une semaine à Marseille. Cette expérience m’a complètement découragé. Les locataires sont arrivés en retard et j’ai dû attendre longtemps pour leur remettre les clés. Pendant leur séjour, ils ont fait beaucoup de bruit et ont dérangé les voisins. À leur départ, ils ont laissé l’appartement sale, avec de la vaisselle non lavée et des déchets. J’ai passé plusieurs heures à tout nettoyer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous partez bientôt en vacances avec vos amis et vous avez trouvé un hôtel. Vous leur écrivez un message pour leur présenter cet établissement (prix, emplacement, équipements, etc.) et leur suggérez d’y faire une réservation.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous travaillez actuellement à l’étranger. Vous écrivez un message à vos amis pour leur raconter cette nouvelle expérience professionnelle et partagez ce qui vous a le plus plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Des recherches ont montré que certaines zones du cerveau chez l’adulte peuvent se développer grâce aux jeux vidéo. Ils peuvent donc être bénéfiques, car ils améliorent la réflexion, la rapidité et la prise de décision. C’est une bonne chose, puisque 83 % des joueurs sont des adultes. Cependant, il faut rester vigilant, car tous les jeux ne produisent pas ces effets positifs sur le cerveau.Lucas, 28 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Une étude menée pendant trois ans auprès d’enfants de 8 à 17 ans révèle que ceux qui jouent beaucoup aux jeux vidéo deviennent plus nerveux, plus agressifs et plus stressés. Ils obtiennent aussi de moins bons résultats scolaires que les autres. Il est donc recommandé aux parents de surveiller le temps de jeu et d’en limiter l’usage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Votre ami(e) veut commencer à faire du sport. Rédigez un message pour lui recommander une salle dans votre quartier en précisant son emplacement, les tarifs et les activités proposées.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à un événement marquant (anniversaire, mariage, etc.). Écrivez un récit pour partager votre souvenir et mettre en avant ce qui vous a le plus marqué.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Lecture pour les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Avec le développement des nouvelles technologies et l’omniprésence des appareils high-tech, les enfants délaissent la lecture au profit des jeux vidéo, du sport ou de la musique. Contrairement aux adultes d’aujourd’hui, qui ont grandi en lisant de nombreux livres, la jeune génération passe plus de temps sur les réseaux sociaux ou à suivre les grandes stars du sport. Alors, faut-il vraiment forcer les enfants à lire ? Comme le dit un proverbe, « le goût de la lecture ne s’impose pas ». Il vaut mieux les laisser choisir leurs lectures sans les y contraindre."
+                },
+                {
+                  "numero": 2,
+                  "texte": "La passion pour la lecture se transmet de génération en génération. Pourtant, ces dernières années, les livres sont souvent remplacés par les écrans. Lire régulièrement aide les enfants à mieux maîtriser la langue et à améliorer leur concentration. Pour encourager cette habitude, les parents peuvent consacrer 10 minutes par jour à la lecture avec leur enfant, un moment de partage qui renforce leur complicité."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Dans le cadre d’un reportage consacré aux activités sportives amateurs, France Télévisions recherche des témoignages. Quelle place le sport occupe-t-il dans votre quotidien ? Envoyez votre témoignage sur francetelevision.fr.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé vos vacances dans une très belle région de votre pays. Vous écrivez un message à vos amis pour raconter votre séjour et expliquer ce qui vous a particulièrement plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’École privée : Avantages et Inconvénients",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "En France, les établissements privés ont accueilli davantage d’élèves lors de la dernière rentrée scolaire. Leur succès ne repose pas seulement sur les résultats académiques. De nombreux parents sont attirés par leur réputation, estimant que l’encadrement y est plus strict, que les élèves sont mieux suivis et que les enseignants sont plus investis. Ils apprécient également le profil des élèves qui fréquentent ces écoles, souvent issus de milieux favorisés. Cette situation s’explique en partie par les frais de scolarité, alors que l’enseignement public est gratuit."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les établissements privés accueillent relativement peu d’élèves issus de familles modestes. Le coût des études constitue un frein pour de nombreux ménages. Cette séparation entre enseignement public et privé réduit la mixité sociale dans les écoles. Les élèves scolarisés dans le privé ont ainsi moins d’occasions de côtoyer des jeunes venant d’horizons différents. Certains estiment que ce système contribue à maintenir les inégalités sociales et peut accentuer le sentiment d’exclusion chez une partie de la jeunesse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez passé un week-end à la campagne et souhaitez partager votre expérience avec un(e) ami(e). Rédigez un message pour lui raconter ce que vous avez vécu.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Votre entreprise recherche une salle pouvant accueillir 100 invités pour la fête de fin d’année. Vous avez trouvé un espace idéal et vous écrivez à votre direction pour leur en donner les détails (emplacement, tarifs, services proposés, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’Usage des Nouvelles Technologies dans les Écoles : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Pierre : Je suis persuadé que l’intégration des nouvelles technologies à l’école est essentielle pour préparer les élèves au monde numérique. L’utilisation de tablettes et d’ordinateurs capte leur attention et enrichit leur apprentissage en leur donnant accès à une multitude de ressources. Cela stimule aussi leur créativité et leur autonomie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Sophia : J’ai des réserves quant à l’omniprésence des technologies dans l’éducation. Je pense que cela peut réduire les interactions humaines essentielles et engendrer une dépendance excessive aux écrans. Selon moi, les méthodes d’enseignement traditionnelles et la relation directe avec les enseignants restent indispensables pour un apprentissage équilibré."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Un proche souhaite voyager pour découvrir un nouveau pays. Vous lui écrivez un message pour lui présenter votre pays et ses traditions. Vous lui conseillez des lieux à visiter, des monuments et des sites touristiques.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez de commencer un nouveau travail. Vous envoyez un courriel à vos proches pour raconter votre première semaine. Vous décrivez l’entreprise, votre poste et les tâches que vous réalisez.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Femmes et les Hommes au Travail",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Dans certaines régions, notamment au Québec, l’égalité entre les femmes et les hommes est de plus en plus visible. De nombreuses femmes occupent aujourd’hui des postes de direction et exercent des professions autrefois réservées aux hommes, comme dans la construction ou la gestion. Grâce aux lois sur l’égalité et à l’évolution des mentalités, les femmes peuvent accéder aux mêmes carrières que les hommes sans discrimination."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Malgré les progrès réalisés, des inégalités existent encore dans le monde du travail. Certains métiers restent majoritairement occupés par des femmes, comme ceux d’assistante maternelle ou de sage-femme. Par ailleurs, certaines personnes considèrent encore que les femmes devraient privilégier leur rôle familial plutôt que des fonctions exigeantes ou à responsabilités. Il reste donc du chemin à parcourir pour assurer une véritable égalité des chances entre les femmes et les hommes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
