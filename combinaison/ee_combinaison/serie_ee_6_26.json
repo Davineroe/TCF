@@ -1,0 +1,194 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Dans le cadre d’un reportage consacré aux activités sportives amateurs, France Télévisions recherche des témoignages. Quelle place le sport occupe-t-il dans votre quotidien ? Envoyez votre témoignage sur francetelevision.fr.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez passé vos vacances dans une très belle région de votre pays. Vous écrivez un message à vos amis pour raconter votre séjour et expliquer ce qui vous a particulièrement plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’École privée : Avantages et Inconvénients",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "En France, les établissements privés ont accueilli davantage d’élèves lors de la dernière rentrée scolaire. Leur succès ne repose pas seulement sur les résultats académiques. De nombreux parents sont attirés par leur réputation, estimant que l’encadrement y est plus strict, que les élèves sont mieux suivis et que les enseignants sont plus investis. Ils apprécient également le profil des élèves qui fréquentent ces écoles, souvent issus de milieux favorisés. Cette situation s’explique en partie par les frais de scolarité, alors que l’enseignement public est gratuit."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Les établissements privés accueillent relativement peu d’élèves issus de familles modestes. Le coût des études constitue un frein pour de nombreux ménages. Cette séparation entre enseignement public et privé réduit la mixité sociale dans les écoles. Les élèves scolarisés dans le privé ont ainsi moins d’occasions de côtoyer des jeunes venant d’horizons différents. Certains estiment que ce système contribue à maintenir les inégalités sociales et peut accentuer le sentiment d’exclusion chez une partie de la jeunesse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez passé un week-end à la campagne et souhaitez partager votre expérience avec un(e) ami(e). Rédigez un message pour lui raconter ce que vous avez vécu.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Votre entreprise recherche une salle pouvant accueillir 100 invités pour la fête de fin d’année. Vous avez trouvé un espace idéal et vous écrivez à votre direction pour leur en donner les détails (emplacement, tarifs, services proposés, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’Usage des Nouvelles Technologies dans les Écoles : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Pierre : Je suis persuadé que l’intégration des nouvelles technologies à l’école est essentielle pour préparer les élèves au monde numérique. L’utilisation de tablettes et d’ordinateurs capte leur attention et enrichit leur apprentissage en leur donnant accès à une multitude de ressources. Cela stimule aussi leur créativité et leur autonomie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Sophia : J’ai des réserves quant à l’omniprésence des technologies dans l’éducation. Je pense que cela peut réduire les interactions humaines essentielles et engendrer une dépendance excessive aux écrans. Selon moi, les méthodes d’enseignement traditionnelles et la relation directe avec les enseignants restent indispensables pour un apprentissage équilibré."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez vu une annonce sur un site Internet proposant d’aider les personnes qui souhaitent apprendre le français en les mettant en contact avec des partenaires pour pratiquer la langue et améliorer leur niveau. Vous envoyez un courriel pour répondre à cette annonce, en vous présentant et en expliquant pourquoi vous voulez pratiquer le français.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez été invité(e) à une fête de famille. Vous écrivez un message à vos amis pour raconter cette fête et expliquer ce que vous avez le plus apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’Interdiction des Voitures dans les Centres-Villes",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Face à des niveaux de pollution très élevés observés dans plusieurs régions du monde, certaines villes ont choisi d’interdire la circulation automobile dans les zones urbaines. La ville d’Oslo, en Norvège, a récemment adopté cette mesure et en tire un bilan positif, estimant qu’elle profite à tous. Avec le temps, les accidents diminuent, la dépendance au pétrole baisse et la qualité de l’air s’améliore."
+                },
+                {
+                  "numero": 2,
+                  "texte": "De nombreuses villes lancent des projets visant à interdire les voitures en centre-ville sans prévoir les infrastructures nécessaires à cette transition. Il est vrai que la réduction du trafic permettrait de diminuer les embouteillages, le stress et la pollution de l’air. Cependant, il faut aussi anticiper la création de grands parkings, renforcer les transports en commun comme les bus et les métros, et accorder des autorisations spéciales à certains professionnels, tels que les services d’urgence, la police ou les livreurs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Un proche souhaite voyager pour découvrir un nouveau pays. Vous lui écrivez un message pour lui présenter votre pays et ses traditions. Vous lui conseillez des lieux à visiter, des monuments et des sites touristiques.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez de commencer un nouveau travail. Vous envoyez un courriel à vos proches pour raconter votre première semaine. Vous décrivez l’entreprise, votre poste et les tâches que vous réalisez.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Femmes et les Hommes au Travail",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Dans certaines régions, notamment au Québec, l’égalité entre les femmes et les hommes est de plus en plus visible. De nombreuses femmes occupent aujourd’hui des postes de direction et exercent des professions autrefois réservées aux hommes, comme dans la construction ou la gestion. Grâce aux lois sur l’égalité et à l’évolution des mentalités, les femmes peuvent accéder aux mêmes carrières que les hommes sans discrimination."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Malgré les progrès réalisés, des inégalités existent encore dans le monde du travail. Certains métiers restent majoritairement occupés par des femmes, comme ceux d’assistante maternelle ou de sage-femme. Par ailleurs, certaines personnes considèrent encore que les femmes devraient privilégier leur rôle familial plutôt que des fonctions exigeantes ou à responsabilités. Il reste donc du chemin à parcourir pour assurer une véritable égalité des chances entre les femmes et les hommes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Envoyez un courriel pour inviter vos amis à un anniversaire surprise organisé pour votre meilleur(e) ami(e). Précisez le lieu, la date et l’heure de l’événement.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez assisté à une brocante dans votre ville et vous avez beaucoup aimé cette expérience d’achat et de vente d’objets d’occasion. Écrivez un article sur votre blog personnel pour expliquer pourquoi cette activité vous a plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Vols à Bas Prix",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je voyage souvent avec des compagnies aériennes à bas coût. Ces entreprises proposent des tarifs bien inférieurs à ceux des compagnies régulières, ce qui me revient parfois moins cher qu’un voyage en voiture ou en train. Toutefois, ces prix attractifs ont un revers : aucun service à bord n’est inclus (ni repas, ni boissons). Ces compagnies ne conviennent donc pas pour les vols long-courriers."
+                },
+                {
+                  "numero": 2,
+                  "texte": "J’ai récemment décidé d’arrêter d’utiliser les compagnies low-cost. Après réflexion, ce choix s’est imposé comme une évidence : sièges inconfortables, conditions de travail difficiles pour le personnel, avions vieillissants qui posent des questions de sécurité… Pour les longs trajets, mieux vaut privilégier une compagnie régulière, et pour les distances plus courtes, le train offre un confort supérieur et permet d’admirer de magnifiques paysages."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous souhaitez pratiquer le français dans une ambiance conviviale ? Trouvez dans votre ville une personne avec qui échanger en français. Envoyez votre demande à echange@linguistique.com. Vous répondez à cette annonce. Vous vous présentez, vous parlez de vos centres d’intérêt et vous expliquez pourquoi vous cherchez quelqu’un avec qui pratiquer le français.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez été invité(e) à une fête de famille. Vous écrivez un message à vos amis pour raconter cette soirée et expliquer ce que vous avez particulièrement apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’Interdiction des Voitures en Ville",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "De nombreuses grandes villes souhaitent aujourd’hui réduire ou interdire l’utilisation de la voiture, considérée comme trop polluante. Limiter la circulation automobile est avant tout une question de santé publique, mais aussi une manière de réduire la consommation d’énergie. À Paris, par exemple, les autorités encouragent fortement l’usage du vélo, ferment certaines grandes routes à la circulation et développent les transports en commun. Les villes pourraient-elles devenir à l’avenir des espaces davantage réservés aux piétons et aux cyclistes ?"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Interdire les voitures en ville ne semble pas être une solution adaptée pour tout le monde. La voiture reste indispensable pour de nombreuses personnes. Les personnes âgées ou malades, par exemple, ne peuvent pas toujours utiliser les transports publics. De plus, avec l’augmentation du prix des logements dans les centres-villes, beaucoup de familles vivent plus loin et ont besoin de leur voiture pour travailler ou faire leurs achats."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
