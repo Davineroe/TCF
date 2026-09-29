@@ -1,0 +1,287 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 9,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez mis en ligne une annonce pour louer votre appartement à Montréal. Vous répondez par courriel à une personne intéressée et vous lui donnez des renseignements sur le logement (caractéristiques, montant du loyer, quartier, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous venez de commencer vos études à l’Université de Montréal. Vous écrivez un message à un(e) ami(e) pour raconter votre première semaine. Vous donnez également votre avis sur l’université et les cours.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Animaux de Compagnie pour les Enfants",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Offrir un animal de compagnie à un enfant peut avoir de nombreux effets positifs, selon plusieurs psychologues. Pour un enfant sans frère ni sœur, l’animal peut devenir un véritable compagnon et réduire le sentiment de solitude. Il peut aussi aider l’enfant à prendre confiance en lui et à comprendre qu’un animal demande de l’attention et du respect. Grâce à cette présence, l’enfant peut se sentir rassuré et apprendre progressivement à devenir plus autonome."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Beaucoup d’enfants souhaitent avoir un animal, souvent un chien ou un chat. Pourtant, avant d’accepter, les parents doivent bien réfléchir. Un animal fait partie de la famille pendant plusieurs années et demande du temps, de l’argent et beaucoup de responsabilités. Il ne peut pas être considéré comme un simple jouet que l’on abandonne lorsque l’enfant ne s’y intéresse plus."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous partez en voyage et un(e) ami(e) va rester dans votre appartement pendant votre absence. Vous lui écrivez un message pour lui présenter votre logement et lui donner les informations utiles (immeuble, appartement, accès, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous rédigez un article sur votre blog pour raconter votre meilleur souvenir de voyage. Vous décrivez cette expérience et expliquez pourquoi elle vous a particulièrement marqué(e).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Vivre chez ses Parents : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Vivre chez ses parents présente plusieurs avantages pour les jeunes, notamment pendant leurs études. Cela permet d’économiser de l’argent, car ils n’ont généralement pas de loyer ni de nourriture à payer. Ils profitent aussi d’un certain confort : repas préparés, ménage fait et vêtements propres. Pour certains jeunes, rester dans la maison familiale permet également d’éviter la solitude et de mettre de l’argent de côté pour leurs futurs projets."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Pour d’autres, rester chez ses parents limite la liberté et l’indépendance. Les jeunes peuvent avoir l’impression que leurs parents continuent à prendre des décisions à leur place et qu’ils manquent d’intimité. Vivre seul permet au contraire d’apprendre à être autonome et responsable. Certains jeunes qui doivent retourner chez leurs parents après avoir vécu seuls considèrent même cette situation comme un retour en arrière."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous partez bientôt en vacances avec vos amis et vous avez trouvé un hôtel. Vous leur écrivez un message pour leur présenter cet établissement (prix, emplacement, équipements, etc.) et leur suggérez d’y faire une réservation.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous travaillez actuellement à l’étranger. Vous écrivez un message à vos amis pour leur raconter cette nouvelle expérience professionnelle et partagez ce qui vous a le plus plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Des recherches ont montré que certaines zones du cerveau chez l’adulte peuvent se développer grâce aux jeux vidéo. Ils peuvent donc être bénéfiques, car ils améliorent la réflexion, la rapidité et la prise de décision. C’est une bonne chose, puisque 83 % des joueurs sont des adultes. Cependant, il faut rester vigilant, car tous les jeux ne produisent pas ces effets positifs sur le cerveau.Lucas, 28 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Une étude menée pendant trois ans auprès d’enfants de 8 à 17 ans révèle que ceux qui jouent beaucoup aux jeux vidéo deviennent plus nerveux, plus agressifs et plus stressés. Ils obtiennent aussi de moins bons résultats scolaires que les autres. Il est donc recommandé aux parents de surveiller le temps de jeu et d’en limiter l’usage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut ! Je suis d’accord pour m’occuper de ta maison et de ton jardin pendant tes vacances. Tu peux m’expliquer ce que je dois faire ? À bientôt, Cédric » Vous répondez à Cédric. Dans votre message, vous lui indiquez ce qu’il doit faire chez vous pendant votre absence (entretien du jardin, plantes, courrier, animaux, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez effectué un séjour à l’étranger organisé par une agence de voyages, mais vous êtes déçu(e) des services proposés. Vous écrivez à l’agence pour raconter votre expérience et donner votre avis sur la qualité du séjour.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Restauration Rapide : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je suis totalement opposée à la restauration rapide, car on ignore souvent quels ingrédients sont utilisés. Pour moi, la qualité des aliments dans ces établissements est mauvaise. Ce type de nourriture peut provoquer des problèmes de santé, comme le montre le film « Supersize Me ». Certes, manger des hamburgers ou des frites est simple et peu coûteux, mais il vaut mieux faire d’autres choix pour préserver sa santé."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Je suis favorable à la restauration rapide. Je travaille pour une grande chaîne et je pense qu’on peut y manger équilibré. Les menus sont complets : salades, légumes, viande, pain, etc. Le client reste responsable de ses choix alimentaires. S’il commande trop de sandwichs ou de sauces, ce n’est pas un repas sain. De plus, ces restaurants respectent des règles strictes d’hygiène et sont pratiques pour venir en famille ou entre amis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous écrivez une lettre à votre ami pour l’inviter à un festival de musique dans votre ville. Vous donnez les détails importants (le lieu, la date, les artistes invités, etc…)",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Sur votre blog, parlez de votre dernière visite à un restaurant (l’endroit, la nourriture, le service, etc.). Racontez ce que votre experience et dites ce qui vous a vraiment plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Voyager Seul ou Accompagné ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Voyager seul est une expérience riche et singulière qui présente de nombreux attraits. Tout d’abord, cela offre une liberté totale d’organiser son parcours et ses activités selon ses envies sans avoir à se plier aux contraintes d’un groupe. On découvre ainsi les lieux visités à son propre rythme, en prenant tout le temps nécessaire pour s’imprégner pleinement de leur atmosphère unique. Surtout, voyager en solo permet de sortir de sa zone de confort et de faire d’inestimables rencontres avec les populations locales ou d’autres voyageurs, favorisant ainsi l’ouverture d’esprit et l’enrichissement personnel."
+                },
+                {
+                  "numero": 2,
+                  "texte": "S’il comporte des avantages certains, le voyage en solo n’est pas exempt d’inconvénients que l’on ne saurait négliger. Outre le sentiment de solitude qui peut parfois s’installer, l’absence d’un compagnon de route prive le voyageur d’un soutien précieux en cas d’imprévu ou de situation délicate. De plus, certaines activités comme l’exploration de sites reculés ou de régions au climat rude gagnent à être réalisées en groupe pour des raisons évidentes de sécurité. Enfin, partager ses découvertes et ses émotions avec un proche ou des amis demeure l’un des plaisirs uniques du voyage accompagné."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "La bibliothèque de votre quartier organise une rencontre avec un(e) écrivain(e). Vous souhaitez y assister avec un(e) ami(e). Vous lui écrivez un message pour décrire l’événement et l’inviter à venir avec vous.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Dans le cadre de la Semaine du goût, vous avez participé à une activité de découverte des cuisines du monde. Vous rédigez un article pour le site de votre ville afin de raconter cette expérience et d’expliquer ce que vous avez apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’art Urbain : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Dans de nombreuses grandes villes, on voit de plus en plus de peintures et de fresques sur les murs des bâtiments, des écoles ou même des églises. L’art urbain permet d’intégrer la culture dans l’espace public. Certains maires estiment qu’il est essentiel d’offrir aux artistes des lieux autorisés pour s’exprimer. De plus, ces œuvres attirent les touristes, qui découvrent la ville à travers des visites dédiées à cet art."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Plusieurs villes dépensent beaucoup d’argent pour effacer les graffitis. Ces dessins sur les murs, les bancs ou dans le métro sont difficiles à nettoyer et nécessitent l’intervention d’équipes spécialisées. Certains habitants pensent que ces peintures dégradent l’image de leur quartier et irritent les propriétaires, qui doivent parfois les effacer eux-mêmes. Malgré les amendes et les interdictions, de nouveaux graffitis apparaissent sans cesse dans les villes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Je suis votre amie Anna et je prévois de passer un week-end dans votre ville. Donnez-moi des informations sur les moyens de transport disponibles pour découvrir la ville. Répondez à Anna dans un message.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez participé à la fête des voisins de votre quartier. Écrivez un article sur votre blog pour expliquer pourquoi vous avez apprécié cet événement.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Distributeurs de Boissons dans les Lycées : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je suis favorable à la présence de distributeurs de boissons dans les lycées. Ils offrent un service pratique aux élèves, surtout à ceux qui n’ont pas le temps d’aller à la cafétéria pendant les pauses. S’ils sont bien gérés, ils peuvent proposer des boissons saines comme de l’eau, des jus de fruits naturels ou des boissons sans sucre ajouté. De plus, les bénéfices générés peuvent aider à financer des projets ou améliorer les équipements scolaires."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Je suis opposé à l’installation de distributeurs de boissons dans les lycées, principalement pour des raisons de santé. La majorité contient des boissons trop sucrées, comme les sodas, qui favorisent le surpoids et le diabète. Même les jus de fruits peuvent contenir beaucoup de sucre. L’école doit promouvoir de bonnes habitudes alimentaires, et la présence de ces distributeurs risque d’encourager une consommation excessive de produits sucrés."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez invité votre ami Cédric à votre mariage au Château de Chombony. Il vous a répondu qu’il ne connaît pas cet endroit. Vous lui décrivez le château (situation, accès, moyens de transport, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Sur un forum, vous racontez votre expérience dans l’apprentissage d’une langue étrangère (vous écrivez en partageant votre expérience dans l’étude d’une langue étrangère).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Cuisinier Amateur ou Professionnel ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Les cuisiniers amateurs parviennent à réaliser certaines recettes, mais ils manquent souvent des techniques et du savoir-faire des professionnels. Pour maîtriser l’art culinaire, une formation et une expérience approfondie sont essentielles."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Certains autodidactes se sont fait un nom grâce aux réseaux sociaux et à des formations en ligne. L’histoire d’une passionnée devenue cheffe et auteure de livres de cuisine illustre qu’il est possible de réussir sans passer par un parcours traditionnel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous avez passé un week-end à la campagne et souhaitez partager votre expérience avec un(e) ami(e). Rédigez un message pour lui raconter ce que vous avez vécu.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Votre entreprise recherche une salle pouvant accueillir 100 invités pour la fête de fin d’année. Vous avez trouvé un espace idéal et vous écrivez à votre direction pour leur en donner les détails (emplacement, tarifs, services proposés, etc.).",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’Usage des Nouvelles Technologies dans les Écoles : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Pierre : Je suis persuadé que l’intégration des nouvelles technologies à l’école est essentielle pour préparer les élèves au monde numérique. L’utilisation de tablettes et d’ordinateurs capte leur attention et enrichit leur apprentissage en leur donnant accès à une multitude de ressources. Cela stimule aussi leur créativité et leur autonomie."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Sophia : J’ai des réserves quant à l’omniprésence des technologies dans l’éducation. Je pense que cela peut réduire les interactions humaines essentielles et engendrer une dépendance excessive aux écrans. Selon moi, les méthodes d’enseignement traditionnelles et la relation directe avec les enseignants restent indispensables pour un apprentissage équilibré."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
