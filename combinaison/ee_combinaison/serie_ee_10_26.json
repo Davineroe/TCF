@@ -1,0 +1,132 @@
+{
+  "expression_ecrite": [
+    {
+      "combinaisons": [
+        {
+          "numero": 4,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous partez bientôt en vacances avec vos amis et vous avez trouvé un hôtel. Vous leur écrivez un message pour leur présenter cet établissement (prix, emplacement, équipements, etc.) et leur suggérez d’y faire une réservation.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous travaillez actuellement à l’étranger. Vous écrivez un message à vos amis pour leur raconter cette nouvelle expérience professionnelle et partagez ce qui vous a le plus plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Les Jeux Vidéo : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Des recherches ont montré que certaines zones du cerveau chez l’adulte peuvent se développer grâce aux jeux vidéo. Ils peuvent donc être bénéfiques, car ils améliorent la réflexion, la rapidité et la prise de décision. C’est une bonne chose, puisque 83 % des joueurs sont des adultes. Cependant, il faut rester vigilant, car tous les jeux ne produisent pas ces effets positifs sur le cerveau.Lucas, 28 ans"
+                },
+                {
+                  "numero": 2,
+                  "texte": "Une étude menée pendant trois ans auprès d’enfants de 8 à 17 ans révèle que ceux qui jouent beaucoup aux jeux vidéo deviennent plus nerveux, plus agressifs et plus stressés. Ils obtiennent aussi de moins bons résultats scolaires que les autres. Il est donc recommandé aux parents de surveiller le temps de jeu et d’en limiter l’usage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "« Salut ! Je suis d’accord pour m’occuper de ta maison et de ton jardin pendant tes vacances. Tu peux m’expliquer ce que je dois faire ? À bientôt, Cédric » Vous répondez à Cédric. Dans votre message, vous lui indiquez ce qu’il doit faire chez vous pendant votre absence (entretien du jardin, plantes, courrier, animaux, etc.).",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Vous avez effectué un séjour à l’étranger organisé par une agence de voyages, mais vous êtes déçu(e) des services proposés. Vous écrivez à l’agence pour raconter votre expérience et donner votre avis sur la qualité du séjour.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "La Restauration Rapide : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Je suis totalement opposée à la restauration rapide, car on ignore souvent quels ingrédients sont utilisés. Pour moi, la qualité des aliments dans ces établissements est mauvaise. Ce type de nourriture peut provoquer des problèmes de santé, comme le montre le film « Supersize Me ». Certes, manger des hamburgers ou des frites est simple et peu coûteux, mais il vaut mieux faire d’autres choix pour préserver sa santé."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Je suis favorable à la restauration rapide. Je travaille pour une grande chaîne et je pense qu’on peut y manger équilibré. Les menus sont complets : salades, légumes, viande, pain, etc. Le client reste responsable de ses choix alimentaires. S’il commande trop de sandwichs ou de sauces, ce n’est pas un repas sain. De plus, ces restaurants respectent des règles strictes d’hygiène et sont pratiques pour venir en famille ou entre amis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "Vous écrivez une lettre à votre ami pour l’inviter à un festival de musique dans votre ville. Vous donnez les détails importants (le lieu, la date, les artistes invités, etc…)",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Sur votre blog, parlez de votre dernière visite à un restaurant (l’endroit, la nourriture, le service, etc.). Racontez ce que votre experience et dites ce qui vous a vraiment plu.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "Voyager Seul ou Accompagné ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Voyager seul est une expérience riche et singulière qui présente de nombreux attraits. Tout d’abord, cela offre une liberté totale d’organiser son parcours et ses activités selon ses envies sans avoir à se plier aux contraintes d’un groupe. On découvre ainsi les lieux visités à son propre rythme, en prenant tout le temps nécessaire pour s’imprégner pleinement de leur atmosphère unique. Surtout, voyager en solo permet de sortir de sa zone de confort et de faire d’inestimables rencontres avec les populations locales ou d’autres voyageurs, favorisant ainsi l’ouverture d’esprit et l’enrichissement personnel."
+                },
+                {
+                  "numero": 2,
+                  "texte": "S’il comporte des avantages certains, le voyage en solo n’est pas exempt d’inconvénients que l’on ne saurait négliger. Outre le sentiment de solitude qui peut parfois s’installer, l’absence d’un compagnon de route prive le voyageur d’un soutien précieux en cas d’imprévu ou de situation délicate. De plus, certaines activités comme l’exploration de sites reculés ou de régions au climat rude gagnent à être réalisées en groupe pour des raisons évidentes de sécurité. Enfin, partager ses découvertes et ses émotions avec un proche ou des amis demeure l’un des plaisirs uniques du voyage accompagné."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 1,
+          "taches": [
+            {
+              "numero": 1,
+              "consigne": "La bibliothèque de votre quartier organise une rencontre avec un(e) écrivain(e). Vous souhaitez y assister avec un(e) ami(e). Vous lui écrivez un message pour décrire l’événement et l’inviter à venir avec vous.",
+              "min_mots": 60,
+              "max_mots": 120
+            },
+            {
+              "numero": 2,
+              "consigne": "Dans le cadre de la Semaine du goût, vous avez participé à une activité de découverte des cuisines du monde. Vous rédigez un article pour le site de votre ville afin de raconter cette expérience et d’expliquer ce que vous avez apprécié.",
+              "min_mots": 120,
+              "max_mots": 150
+            },
+            {
+              "numero": 3,
+              "theme": "L’art Urbain : Pour ou Contre ?",
+              "documents": [
+                {
+                  "numero": 1,
+                  "texte": "Dans de nombreuses grandes villes, on voit de plus en plus de peintures et de fresques sur les murs des bâtiments, des écoles ou même des églises. L’art urbain permet d’intégrer la culture dans l’espace public. Certains maires estiment qu’il est essentiel d’offrir aux artistes des lieux autorisés pour s’exprimer. De plus, ces œuvres attirent les touristes, qui découvrent la ville à travers des visites dédiées à cet art."
+                },
+                {
+                  "numero": 2,
+                  "texte": "Plusieurs villes dépensent beaucoup d’argent pour effacer les graffitis. Ces dessins sur les murs, les bancs ou dans le métro sont difficiles à nettoyer et nécessitent l’intervention d’équipes spécialisées. Certains habitants pensent que ces peintures dégradent l’image de leur quartier et irritent les propriétaires, qui doivent parfois les effacer eux-mêmes. Malgré les amendes et les interdictions, de nouveaux graffitis apparaissent sans cesse dans les villes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
