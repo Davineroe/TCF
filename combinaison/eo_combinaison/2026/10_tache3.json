@@ -1,0 +1,166 @@
+{
+  "parties": [
+    {
+      "numero": 3,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Argent et bonheur",
+            "sujet": "Pour profiter de la vie, il faut gagner beaucoup d’argent. Êtes-vous d’accord ? Pourquoi ?",
+            "introduction": "Beaucoup de personnes pensent que l’argent est indispensable pour profiter pleinement de la vie. Selon cette idée, un bon salaire permet d’avoir plus de confort et de liberté. Cependant, cette vision peut être discutée.",
+            "avantages": "Avoir beaucoup d’argent permet de vivre plus confortablement, de voyager, de se divertir et de ne pas s’inquiéter des dépenses quotidiennes. Cela peut aussi réduire le stress lié aux problèmes financiers et offrir de meilleures conditions de vie à sa famille.",
+            "inconvenients": "Cependant, l’argent ne garantit pas le bonheur. Certaines personnes très riches manquent de temps, sont stressées ou se sentent seules. Profiter de la vie peut aussi passer par des choses simples comme la santé, les relations humaines ou le temps libre.",
+            "conseils": "À mon avis, il est important de chercher un équilibre. Gagner suffisamment pour vivre correctement est essentiel, mais il faut aussi savoir apprécier les petits moments du quotidien.",
+            "conclusion": "Pour conclure, l’argent aide à profiter de la vie, mais ce n’est pas le seul élément important pour être heureux."
+          },
+          {
+            "theme": "Technologie et travail",
+            "sujet": "Selon vous, Internet a-t-il modifié les comportements au travail ?",
+            "introduction": "Internet occupe aujourd’hui une place très importante dans le monde professionnel. Il a profondément changé la manière de travailler et de communiquer.",
+            "avantages": "Internet permet de travailler plus rapidement et plus efficacement. Il facilite le télétravail, la communication à distance et l’accès à l’information. Les échanges entre collègues sont plus simples et plus rapides.",
+            "inconvenients": "Cependant, Internet peut aussi provoquer des distractions et une surcharge d’informations. Certains employés ont du mal à se déconnecter, ce qui peut augmenter le stress et réduire la concentration.",
+            "conseils": "Il est important d’utiliser Internet de manière raisonnable, avec des règles claires, comme limiter les notifications et respecter des horaires de travail précis.",
+            "conclusion": "En conclusion, Internet a modifié positivement le travail, mais son utilisation doit être bien encadrée pour éviter les excès."
+          },
+          {
+            "theme": "Médias et information",
+            "sujet": "Parmi les médias suivants (journaux, radio, télévision, Internet, réseaux sociaux), lequel utilisez-vous le plus pour vous informer ? Pourquoi ?",
+            "introduction": "Aujourd’hui, il existe de nombreux moyens pour s’informer, comme les journaux, la radio, la télévision ou Internet. Chacun choisit le média qui lui semble le plus pratique.",
+            "avantages": "Personnellement, j’utilise surtout Internet pour m’informer, car l’information est rapide et accessible à tout moment. On peut comparer plusieurs sources et suivre l’actualité en temps réel.",
+            "inconvenients": "Cependant, sur Internet, certaines informations peuvent être fausses ou exagérées. Il faut donc être vigilant et vérifier les sources avant de croire une information.",
+            "conseils": "Je pense qu’il est préférable de croiser plusieurs médias, par exemple Internet et la presse écrite, pour avoir une information plus fiable.",
+            "conclusion": "Pour conclure, Internet est très pratique pour s’informer, mais il doit être utilisé avec esprit critique."
+          },
+          {
+            "theme": "Immigration et intégration",
+            "sujet": "Pour bien s’intégrer dans un pays étranger, est-il nécessaire de nouer des relations avec les habitants ? Qu’en pensez-vous ?",
+            "introduction": "S’installer dans un pays étranger représente un grand changement. Beaucoup se demandent s’il est nécessaire de créer des relations avec les habitants pour réussir son intégration.",
+            "avantages": "Nouer des relations avec les habitants permet de mieux comprendre la culture, la langue et les habitudes du pays. Cela aide aussi à se sentir moins seul et à créer un réseau social.",
+            "inconvenients": "Cependant, certaines personnes préfèrent rester proches de leur communauté d’origine, surtout au début. Il peut être difficile de créer des liens à cause de la langue ou des différences culturelles.",
+            "conseils": "À mon avis, il est important d’être ouvert aux autres tout en avançant à son rythme. Participer à des activités locales peut faciliter les rencontres.",
+            "conclusion": "En conclusion, créer des relations avec les habitants est un élément clé pour bien s’intégrer dans un pays étranger."
+          },
+          {
+            "theme": "Langues et intégration",
+            "sujet": "Quand on vit à l’étranger avec ses enfants, faut-il leur parler dans la langue du pays d’accueil ou dans la langue d’origine ? Expliquez pourquoi.",
+            "introduction": "Quand une famille vit à l’étranger avec des enfants, la question de la langue à utiliser à la maison se pose souvent. Ce choix est important pour leur développement.",
+            "avantages": "Parler la langue du pays d’accueil aide les enfants à mieux s’intégrer à l’école et à communiquer facilement avec les autres. Cela facilite aussi leur réussite scolaire et sociale.",
+            "inconvenients": "Cependant, ne plus utiliser la langue d’origine peut entraîner une perte des racines culturelles et des difficultés de communication avec la famille restée dans le pays d’origine.",
+            "conseils": "La meilleure solution est souvent le bilinguisme. Par exemple, parler la langue d’origine à la maison et la langue du pays à l’extérieur permet aux enfants de bénéficier des deux.",
+            "conclusion": "Pour conclure, parler les deux langues est une richesse pour les enfants et favorise à la fois l’intégration et la préservation de l’identité culturelle."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 2,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Mobilité professionnelle",
+            "sujet": "Partir travailler à l’étranger est facile. Êtes-vous d’accord avec cette idée ? Pourquoi ?",
+            "introduction": "De nombreuses personnes rêvent de travailler à l’étranger pour découvrir une nouvelle culture et améliorer leur carrière. Cependant, dire que cette démarche est facile mérite d’être nuancé.",
+            "avantages": "Aujourd’hui, grâce à la mondialisation et aux technologies numériques, il est plus simple de trouver des offres d’emploi à l’international. Certains pays proposent des programmes pour attirer les travailleurs étrangers, ce qui facilite les démarches administratives. De plus, cette expérience peut enrichir le parcours professionnel et développer l’ouverture d’esprit.",
+            "inconvenients": "Cependant, partir travailler à l’étranger implique des démarches complexes comme l’obtention d’un visa et la reconnaissance des diplômes. L’adaptation à une nouvelle culture et à une autre langue peut aussi être difficile. L’éloignement de la famille constitue également un défi émotionnel important.",
+            "conseils": "Il est essentiel de bien se renseigner avant de partir et de préparer son projet professionnel avec sérieux. Apprendre la langue et comprendre les règles du pays d’accueil facilitent l’intégration.",
+            "conclusion": "À mon avis, partir travailler à l’étranger n’est pas toujours facile, mais avec une bonne préparation, cette expérience peut devenir très enrichissante."
+          },
+          {
+            "theme": "Bien-être et motivation",
+            "sujet": "Le stress peut parfois être bénéfique et motiver les personnes. Qu’en pensez-vous ?",
+            "introduction": "Le stress est souvent perçu comme un élément négatif dans la vie quotidienne. Pourtant, il peut parfois jouer un rôle positif.",
+            "avantages": "Un certain niveau de stress peut stimuler la motivation et aider à rester concentré. Face à une échéance importante, il peut pousser une personne à mieux s’organiser et à donner le meilleur d’elle-même. Il peut donc agir comme un moteur temporaire.",
+            "inconvenients": "Cependant, un stress prolongé ou excessif peut nuire à la santé physique et mentale. Il peut entraîner de la fatigue, des troubles du sommeil et une baisse de performance. À long terme, il devient un facteur de mal-être.",
+            "conseils": "Il est important d’apprendre à gérer son stress grâce à une bonne organisation et à des moments de détente. Le sport et les activités relaxantes peuvent aider à maintenir un équilibre.",
+            "conclusion": "Je pense que le stress peut être bénéfique s’il reste modéré, mais il devient dangereux lorsqu’il est constant."
+          },
+          {
+            "theme": "Éducation et autorité",
+            "sujet": "Est-il nécessaire d’être autoritaire avec ses enfants ? Expliquez votre avis.",
+            "introduction": "L’éducation des enfants est un sujet sensible et complexe. Certains parents pensent qu’il faut être strict, tandis que d’autres privilégient le dialogue.",
+            "avantages": "Une certaine autorité permet de fixer des limites claires et d’assurer la sécurité de l’enfant. Les règles aident les jeunes à comprendre les responsabilités et à respecter les autres.",
+            "inconvenients": "Cependant, une autorité excessive peut créer de la peur et nuire à la confiance entre parents et enfants. Les enfants ont besoin d’écoute et de compréhension pour se développer de manière équilibrée.",
+            "conseils": "Il est préférable de combiner fermeté et dialogue. Expliquer les règles et encourager la communication favorise une relation saine.",
+            "conclusion": "À mon avis, il ne faut pas être autoritaire de manière excessive, mais instaurer un cadre clair et respectueux."
+          },
+          {
+            "theme": "Santé et alimentation",
+            "sujet": "Comment jugez-vous la qualité de l’alimentation dans votre pays ? Pourquoi ?",
+            "introduction": "La qualité de l’alimentation influence directement la santé de la population. Dans mon pays, cette question suscite de nombreuses discussions.",
+            "avantages": "Il existe une grande variété de produits frais et traditionnels. Les marchés locaux offrent souvent des aliments de qualité et les plats traditionnels sont riches en saveurs.",
+            "inconvenients": "Cependant, la consommation de produits industriels et transformés augmente. Le manque de temps et les habitudes modernes favorisent parfois une alimentation moins équilibrée.",
+            "conseils": "Il serait important de promouvoir une alimentation saine à travers l’éducation et des campagnes de sensibilisation. Encourager la consommation de produits locaux peut améliorer la qualité des repas.",
+            "conclusion": "Je pense que la qualité de l’alimentation est globalement satisfaisante, mais elle doit être améliorée face aux nouvelles habitudes de consommation."
+          },
+          {
+            "theme": "Médias et éducation",
+            "sujet": "La télévision participe au développement des enfants. Êtes-vous d’accord ? Justifiez votre réponse.",
+            "introduction": "La télévision fait partie du quotidien de nombreux enfants. Son influence peut être positive ou négative selon l’usage qui en est fait.",
+            "avantages": "Certains programmes éducatifs permettent aux enfants d’apprendre de nouvelles choses et de développer leur curiosité. La télévision peut aussi élargir leurs connaissances culturelles.",
+            "inconvenients": "Cependant, un temps d’écran excessif peut limiter l’activité physique et réduire les interactions sociales. Certains contenus ne sont pas adaptés à leur âge.",
+            "conseils": "Il est essentiel de contrôler le temps passé devant la télévision et de sélectionner des programmes appropriés. L’accompagnement des parents est indispensable.",
+            "conclusion": "À mon avis, la télévision peut contribuer au développement des enfants si elle est utilisée avec modération et discernement."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 1,
+      "consigne": "Expression d’un point de vue. Vous avez 3 minutes pour me convaincre.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "theme": "Santé publique",
+            "sujet": "L’État doit-il prendre en charge les frais de santé des citoyens ? Êtes-vous d’accord ? Pourquoi ?",
+            "introduction": "À mon avis, l’État doit prendre en charge une grande partie des frais de santé. La santé est un besoin essentiel. Tout le monde doit pouvoir se soigner, même avec peu d’argent.",
+            "avantages": "Quand l’État aide à payer les soins, les citoyens peuvent aller chez le médecin plus facilement. Les personnes pauvres peuvent aussi recevoir des traitements importants. Cela permet d’avoir une société plus juste et de mieux protéger la population.",
+            "inconvenients": "Cependant, ce système coûte très cher à l’État. Les citoyens doivent souvent payer plus d’impôts pour financer les hôpitaux et les soins. Il peut aussi y avoir des abus si certaines personnes utilisent les services médicaux sans réelle nécessité.",
+            "conseils": "Je pense que l’État doit payer les soins essentiels et aider surtout les personnes qui en ont besoin. Il faut aussi mieux contrôler les dépenses et développer la prévention pour éviter certaines maladies.",
+            "conclusion": "Pour conclure, je suis d’accord pour que l’État participe fortement aux frais de santé. Personne ne devrait renoncer à se soigner à cause du manque d’argent."
+          },
+          {
+            "theme": "Technologie et vie quotidienne",
+            "sujet": "Aujourd’hui, peut-on encore vivre sans téléphone portable ? Qu’en pensez-vous ?",
+            "introduction": "Aujourd’hui, le téléphone portable est présent presque partout. On l’utilise pour communiquer, travailler, payer ou chercher des informations. À mon avis, il est encore possible de vivre sans téléphone, mais cela devient très difficile.",
+            "avantages": "Le téléphone facilite beaucoup la vie quotidienne. On peut contacter rapidement sa famille, utiliser un GPS, consulter ses messages ou faire certaines démarches. Il est aussi très utile en cas d’urgence.",
+            "inconvenients": "Cependant, le téléphone peut prendre trop de place dans notre vie. Certaines personnes deviennent dépendantes et passent plusieurs heures par jour devant leur écran. Cela peut réduire les contacts réels et créer du stress.",
+            "conseils": "Je pense qu’il ne faut pas supprimer complètement le téléphone. Il faut plutôt apprendre à bien l’utiliser. On peut limiter le temps d’écran, éviter le téléphone pendant les repas et garder des moments sans Internet.",
+            "conclusion": "Pour conclure, vivre sans téléphone est encore possible, mais ce serait compliqué aujourd’hui. Le plus important est de l’utiliser avec modération."
+          },
+          {
+            "theme": "Culture et découverte",
+            "sujet": "Explorer un pays, c’est aussi découvrir ses artistes. Partagez-vous cette opinion ?",
+            "introduction": "Quand on visite un pays, on découvre souvent ses villes, sa cuisine et ses monuments. À mon avis, il est aussi important de découvrir ses artistes pour mieux comprendre sa culture.",
+            "avantages": "Les artistes montrent une partie de l’histoire et de l’identité d’un pays. La musique, le cinéma, la peinture ou la littérature permettent de mieux comprendre les habitants. Découvrir les artistes locaux rend donc le voyage plus intéressant.",
+            "inconvenients": "Cependant, tout le monde ne s’intéresse pas à l’art. Certaines personnes préfèrent la nature, la gastronomie ou les monuments. Il n’est donc pas nécessaire d’aimer tous les artistes pour apprécier un pays.",
+            "conseils": "Je pense qu’il est intéressant de découvrir au moins quelques artistes locaux. On peut visiter un musée, écouter de la musique du pays ou regarder un film local. Cela permet d’avoir une expérience plus complète.",
+            "conclusion": "Pour conclure, je partage cette opinion. Découvrir les artistes d’un pays permet de mieux comprendre sa culture et sa manière de vivre."
+          },
+          {
+            "theme": "Sport et santé",
+            "sujet": "Selon vous, est-ce une bonne idée de débuter un sport après 50 ans ?",
+            "introduction": "À mon avis, commencer un sport après 50 ans est une très bonne idée. Il n’est jamais trop tard pour prendre soin de sa santé. Il faut simplement choisir une activité adaptée.",
+            "avantages": "Le sport permet de rester en forme et de garder de l’énergie. Il peut aussi améliorer le sommeil, réduire le stress et protéger la santé. En plus, faire du sport peut permettre de rencontrer d’autres personnes.",
+            "inconvenients": "Cependant, il faut être prudent. Après 50 ans, certaines personnes ont des problèmes de santé ou des douleurs. Commencer un sport trop difficile peut provoquer des blessures.",
+            "conseils": "Je pense qu’il faut commencer doucement. La marche, la natation ou le vélo sont de bonnes activités. Il est aussi préférable de demander conseil à un médecin avant de commencer, surtout si on a des problèmes de santé.",
+            "conclusion": "Pour conclure, commencer un sport après 50 ans est une excellente idée. Il faut simplement respecter son corps et avancer progressivement."
+          },
+          {
+            "theme": "Éducation et égalité",
+            "sujet": "L’école garantit-elle les mêmes opportunités à tous les élèves ? Qu’en pensez-vous ?",
+            "introduction": "En principe, l’école doit donner les mêmes chances à tous les élèves. Mais, dans la réalité, je pense qu’il existe encore beaucoup de différences.",
+            "avantages": "L’école permet à tous les enfants d’apprendre à lire, à écrire et à développer leurs connaissances. Elle peut aussi aider les élèves à préparer leur avenir et à trouver un métier. Pour certains enfants, l’école est une vraie chance de réussir.",
+            "inconvenients": "Cependant, tous les élèves n’ont pas les mêmes conditions. Certaines familles peuvent payer des cours particuliers, acheter du matériel ou aider davantage leurs enfants. D’autres élèves vivent dans des régions où les écoles ont moins de moyens. Cela crée des inégalités.",
+            "conseils": "Je pense qu’il faut donner plus d’aide aux élèves en difficulté. Les écoles doivent avoir suffisamment de professeurs, de matériel et de soutien. Il faut aussi proposer des activités gratuites pour les familles qui ont moins de moyens.",
+            "conclusion": "Pour conclure, l’école essaie de donner les mêmes opportunités à tous, mais ce n’est pas encore totalement le cas. Il faut continuer à réduire les différences entre les élèves."
+          }
+        ]
+      }
+    }
+  ]
+}
