@@ -1,0 +1,102 @@
+{
+  "parties": [
+    {
+      "numero": 2,
+      "consigne": "Exprimez votre point de vue et justifiez votre réponse de manière claire et structurée.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "sujet": "Pour gagner beaucoup d’argent, il est indispensable d’avoir fait des études. Êtes-vous d’accord avec cette affirmation ?",
+            "introduction": "À mon avis, les études peuvent aider à gagner un bon salaire. Mais je ne pense pas qu’elles soient indispensables pour gagner beaucoup d’argent.",
+            "avantages": "Faire des études permet d’avoir des connaissances et un diplôme. Dans certains métiers, comme médecin, ingénieur ou avocat, les études sont obligatoires. Un bon diplôme peut aussi aider à trouver un emploi stable et bien payé.",
+            "inconvenients": "Cependant, certaines personnes gagnent beaucoup d’argent sans avoir fait de longues études. Des entrepreneurs, des commerçants ou des personnes avec un métier technique peuvent très bien réussir. Le travail, l’expérience et les bonnes idées sont aussi importants.",
+            "conseils": "Je pense qu’il faut choisir une formation adaptée à ses qualités et à son projet. Les études sont utiles, mais il faut aussi développer des compétences pratiques et apprendre à saisir les bonnes occasions.",
+            "conclusion": "Pour conclure, je ne pense pas qu’il soit indispensable d’avoir fait de longues études pour gagner beaucoup d’argent. Les études peuvent aider, mais elles ne garantissent pas la réussite."
+          },
+          {
+            "sujet": "À la maison, les parents devraient interdire à leurs enfants l’utilisation d’Internet. Êtes-vous d’accord avec cette affirmation ?",
+            "introduction": "Aujourd’hui, Internet fait partie de la vie des enfants. À mon avis, il ne faut pas l’interdire complètement, mais il faut bien contrôler son utilisation.",
+            "avantages": "Internet peut être très utile pour apprendre. Les enfants peuvent faire des recherches, suivre des cours ou regarder des contenus éducatifs. Ils peuvent aussi communiquer avec leur famille et leurs amis.",
+            "inconvenients": "Cependant, Internet présente aussi des risques. Les enfants peuvent voir des contenus dangereux, parler avec des inconnus ou passer trop de temps devant l’écran. Cela peut aussi réduire leur sommeil ou leur concentration.",
+            "conseils": "Je pense que les parents doivent fixer des règles simples. Ils peuvent limiter le temps d’écran, contrôler certains sites et expliquer les dangers d’Internet. Il faut aussi encourager les enfants à faire du sport et d’autres activités.",
+            "conclusion": "Pour conclure, je ne suis pas pour une interdiction totale d’Internet. Il vaut mieux apprendre aux enfants à l’utiliser correctement et avec modération."
+          },
+          {
+            "sujet": "Il est possible de vivre dans un pays sans parler sa langue. Qu’en pensez-vous ?",
+            "introduction": "Il est possible de vivre quelque temps dans un pays sans parler sa langue. Mais, à mon avis, cela devient vite difficile dans la vie quotidienne.",
+            "avantages": "Aujourd’hui, on peut utiliser des applications de traduction ou demander de l’aide à d’autres personnes. Dans certaines grandes villes, plusieurs langues sont parlées. Cela peut aider au début.",
+            "inconvenients": "Cependant, sans parler la langue, il est plus difficile de trouver un emploi, de faire des démarches ou de parler avec les habitants. La personne peut aussi se sentir seule et dépendre des autres.",
+            "conseils": "Je pense qu’il faut apprendre au moins les bases de la langue du pays. On peut suivre des cours, parler avec les habitants et pratiquer un peu chaque jour. Il ne faut pas avoir peur de faire des erreurs.",
+            "conclusion": "Pour conclure, il est possible de vivre sans parler la langue pendant un certain temps. Mais pour être autonome et bien s’intégrer, il est très important de l’apprendre."
+          },
+          {
+            "sujet": "Prendre la décision de quitter son pays est facile. Qu’en pensez-vous ?",
+            "introduction": "À mon avis, quitter son pays est une décision difficile. Cela peut apporter de nouvelles possibilités, mais cela demande aussi beaucoup de courage.",
+            "avantages": "Partir à l’étranger peut permettre de trouver un meilleur travail, de poursuivre des études ou d’offrir un meilleur avenir à sa famille. Cela permet aussi de découvrir une nouvelle culture et de vivre de nouvelles expériences.",
+            "inconvenients": "Cependant, quitter son pays signifie souvent laisser sa famille, ses amis et ses habitudes. Il faut recommencer beaucoup de choses dans un nouvel endroit. La langue, le logement et le travail peuvent aussi créer des difficultés.",
+            "conseils": "Je pense qu’il faut réfléchir sérieusement avant de partir. Il faut se renseigner sur le pays, préparer un budget et avoir un projet clair. Il est aussi important de parler avec sa famille avant de prendre la décision.",
+            "conclusion": "Pour conclure, je ne pense pas que quitter son pays soit une décision facile. C’est un grand changement qui demande beaucoup de préparation."
+          },
+          {
+            "sujet": "Certains économistes pensent que les nouvelles technologies vont détruire les emplois. Qu’en pensez-vous ?",
+            "introduction": "Les nouvelles technologies changent rapidement le monde du travail. À mon avis, elles peuvent faire disparaître certains emplois, mais elles peuvent aussi en créer de nouveaux.",
+            "avantages": "Les machines et les logiciels peuvent faire des tâches répétitives, difficiles ou dangereuses. Cela peut aider les entreprises à travailler plus vite. De nouveaux métiers apparaissent aussi dans l’informatique, la technologie et les services numériques.",
+            "inconvenients": "Cependant, certains travailleurs peuvent perdre leur emploi si une machine fait leur travail. Les personnes qui n’ont pas les bonnes compétences peuvent avoir plus de difficultés à trouver un nouvel emploi.",
+            "conseils": "Je pense qu’il faut préparer les travailleurs à ces changements. Les entreprises et les gouvernements doivent proposer des formations. Les personnes doivent aussi apprendre de nouvelles compétences pendant leur carrière.",
+            "conclusion": "Pour conclure, les nouvelles technologies vont supprimer certains emplois, mais elles vont aussi en créer d’autres. Le plus important est de savoir s’adapter aux changements."
+          }
+        ]
+      }
+    },
+    {
+      "numero": 1,
+      "consigne": "Exprimez votre point de vue et justifiez votre réponse de manière claire et structurée.",
+      "duree": 270,
+      "reponse": {
+        "sujets": [
+          {
+            "sujet": "Est-il simple de conserver sa culture d’origine lorsqu’on vit à l’étranger ? Pourquoi ?",
+            "introduction": "Vivre à l’étranger implique de s’adapter à une nouvelle culture, mais beaucoup de personnes souhaitent garder un lien avec leur culture d’origine.",
+            "avantages": "Aujourd’hui, il est plus facile de conserver sa culture grâce à internet, aux réseaux sociaux et aux communautés culturelles. La langue, la cuisine et les traditions peuvent être maintenues en famille. Les fêtes culturelles permettent aussi de garder un sentiment d’appartenance.",
+            "inconvenients": "Cependant, avec le temps, certaines personnes s’éloignent de leur culture d’origine pour mieux s’intégrer dans le pays d’accueil. Le manque de temps ou l’absence de communauté peut rendre cette démarche plus difficile.",
+            "conseils": "Il est important de trouver un équilibre entre intégration et respect de sa culture. Participer à des activités culturelles tout en s’ouvrant à la société locale peut être une bonne solution.",
+            "conclusion": "À mon avis, conserver sa culture à l’étranger est possible, mais cela demande un effort personnel et une volonté constante."
+          },
+          {
+            "sujet": "Doit-on toujours être totalement honnête avec les enfants ? Qu’en pensez-vous ?",
+            "introduction": "L’honnêteté joue un rôle important dans l’éducation des enfants, mais dire toute la vérité en toutes circonstances pose question.",
+            "avantages": "Dire la vérité permet de construire une relation de confiance entre les adultes et les enfants. Cela aide les enfants à mieux comprendre le monde et à développer des valeurs comme le respect et la sincérité.",
+            "inconvenients": "Cependant, certaines vérités peuvent être difficiles à comprendre ou à accepter pour un enfant. Une honnêteté trop directe peut provoquer de la peur ou de l’anxiété, surtout si l’enfant est jeune.",
+            "conseils": "Il est préférable d’adapter la vérité à l’âge de l’enfant, en utilisant des mots simples et rassurants, sans mentir mais sans choquer.",
+            "conclusion": "Je pense qu’il faut être honnête avec les enfants, mais de manière adaptée et progressive."
+          },
+          {
+            "sujet": "Les écoles devraient-elles accorder davantage d’importance aux activités artistiques (musique, théâtre, arts plastiques, etc.) ? Qu’en pensez-vous ?",
+            "introduction": "À l’école, les matières académiques occupent une place centrale, mais le rôle des activités artistiques est de plus en plus discuté.",
+            "avantages": "Les activités artistiques développent la créativité, l’expression personnelle et la confiance en soi. Elles permettent aussi à certains élèves de mieux s’épanouir et de trouver leur motivation à l’école.",
+            "inconvenients": "Cependant, donner plus de place aux activités artistiques peut réduire le temps consacré aux matières principales. De plus, toutes les écoles n’ont pas les moyens financiers ou humains nécessaires.",
+            "conseils": "Un bon équilibre est nécessaire. Les écoles peuvent intégrer les activités artistiques sans diminuer l’importance des matières fondamentales.",
+            "conclusion": "À mon avis, les activités artistiques devraient avoir plus de place, tout en restant complémentaires aux autres disciplines."
+          },
+          {
+            "sujet": "Quel est votre avis sur les modes de consommation dans les pays développés ?",
+            "introduction": "Dans les pays développés, la consommation joue un rôle important dans la vie quotidienne.",
+            "avantages": "Ces modes de consommation offrent un bon niveau de confort et un large choix de produits. Ils favorisent aussi le développement économique et la création d’emplois.",
+            "inconvenients": "Cependant, la surconsommation entraîne du gaspillage et a un impact négatif sur l’environnement. Elle encourage aussi des habitudes peu responsables et une consommation excessive.",
+            "conseils": "Il est important de promouvoir une consommation plus responsable, en privilégiant les produits durables et en réduisant le gaspillage.",
+            "conclusion": "Selon moi, les pays développés doivent changer leurs habitudes pour adopter une consommation plus équilibrée."
+          },
+          {
+            "sujet": "Pensez-vous que la présence d’enfants facilite l’intégration dans un nouveau pays ? Pourquoi ?",
+            "introduction": "S’intégrer dans un nouveau pays est souvent une étape difficile, surtout au début.",
+            "avantages": "Avoir des enfants peut faciliter l’intégration grâce à l’école et aux activités scolaires. Les parents rencontrent plus facilement d’autres familles et créent des liens sociaux.",
+            "inconvenients": "Cependant, les enfants peuvent aussi rendre l’intégration plus compliquée à cause des responsabilités, du stress et des différences culturelles dans l’éducation.",
+            "conseils": "Il est important que les parents s’impliquent dans la vie scolaire et sociale pour faciliter l’intégration de toute la famille.",
+            "conclusion": "À mon avis, les enfants peuvent aider à l’intégration, mais cela dépend surtout de l’implication et de l’ouverture des parents."
+          }
+        ]
+      }
+    }
+  ]
+}
