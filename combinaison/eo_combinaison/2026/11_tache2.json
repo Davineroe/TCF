@@ -1,0 +1,172 @@
+{
+  "parties": [
+    {
+      "numero": 2,
+      "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
+      "duree": 330,
+      "reponse": {
+        "sujets": [
+          {
+            "sujet": "Je suis votre ami(e) qui vit au Canada. Vous venez de vous installer ici avec votre famille et vous cherchez une solution pour faire garder vos enfants. Vous me demandez quelles options existent.",
+            "questions_possibles": [
+              "Quelles sont les options les plus courantes pour faire garder les enfants ici ?",
+              "Est-ce qu’il y a des crèches publiques ou privées ?",
+              "À partir de quel âge les enfants peuvent aller en garderie ?",
+              "Les horaires sont flexibles ?",
+              "Tu sais s’il existe des aides financières pour la garde ?",
+              "Il y a des assistantes maternelles agréées dans le quartier ?",
+              "Comment trouver une personne de confiance ?",
+              "Tu connais des familles qui partagent une nounou ?",
+              "Est-ce qu’il faut s’inscrire très tôt ?",
+              "Tu as eu une bonne expérience avec ton mode de garde ?"
+            ]
+          },
+          {
+            "sujet": "Je travaille dans une animalerie. Vous souhaitez adopter un animal. Vous me posez des questions pour vous aider à faire un bon choix.",
+            "questions_possibles": [
+              "Quels types d’animaux sont disponibles à l’adoption ?",
+              "Est-ce que les animaux sont vaccinés et stérilisés ?",
+              "Quels sont les frais d’adoption ?",
+              "Vous proposez aussi des accessoires (litière, croquettes, jouets) ?",
+              "Il y a un test pour voir si l’animal convient à notre mode de vie ?",
+              "Est-ce qu’on peut passer du temps avec l’animal avant de se décider ?",
+              "Vous proposez des conseils pour les premiers jours ?",
+              "Il y a des animaux adaptés aux familles avec enfants ?",
+              "Comment se passe le processus d’adoption ?",
+              "Est-ce qu’il faut un jardin pour certains animaux ?"
+            ]
+          },
+          {
+            "sujet": "Je suis votre voisin(e). Vous venez de vous installer dans la région et vous aimeriez organiser un week-end en famille. Vous me demandez ce qu’il y a à visiter dans les environs.",
+            "questions_possibles": [
+              "Tu connais des endroits sympas à visiter en famille dans la région ?",
+              "Il y a des parcs naturels ou des lacs à proximité ?",
+              "Est-ce qu’il y a des musées adaptés aux enfants ?",
+              "Tu conseillerais de louer une voiture ou les transports suffisent ?",
+              "Il y a des événements le week-end ?",
+              "Tu connais des fermes ou des activités à la campagne ?",
+              "Est-ce qu’il y a un marché local ou un village typique à découvrir ?",
+              "Tu recommandes plutôt une sortie nature ou en ville ?",
+              "C’est une région touristique ou plutôt tranquille ?",
+              "Tu as un endroit “coup de cœur” à partager ?"
+            ]
+          },
+          {
+            "sujet": "Je travaille dans un centre culturel et sportif. Vous êtes récemment arrivé(e) au Canada et vous cherchez une activité pour occuper votre temps libre. Vous me demandez des informations sur ce que propose notre centre.",
+            "questions_possibles": [
+              "Quelles activités propose le centre ?",
+              "Il y a des cours pour adultes débutants ?",
+              "Quels sont les horaires d’ouverture ?",
+              "Est-ce qu’il faut s’inscrire à l’avance ?",
+              "Les tarifs sont mensuels ou à la séance ?",
+              "Il y a des réductions pour les nouveaux arrivants ?",
+              "Il y a des activités artistiques ou seulement du sport ?",
+              "Est-ce qu’il y a des clubs pour rencontrer d’autres personnes ?",
+              "On peut faire une séance d’essai gratuite ?",
+              "Le centre est bien desservi par les transports ?"
+            ]
+          },
+          {
+            "sujet": "Je travaille à l’accueil d’un centre de formation. Vous voulez commencer une nouvelle formation professionnelle. Vous me posez des questions sur le programme, la durée, le prix, etc.",
+            "questions_possibles": [
+              "Quelle formation professionnelle est proposée en ce moment ?",
+              "Est-ce qu’elle mène à un diplôme ou une certification ?",
+              "Quelle est la durée totale du programme ?",
+              "Combien de jours par semaine ?",
+              "Quel est le prix de la formation ?",
+              "Est-ce qu’il y a des aides financières ou des facilités de paiement ?",
+              "Il y a une partie en stage ou c’est uniquement théorique ?",
+              "C’est adapté pour les adultes en reconversion ?",
+              "Quel est le contenu du programme (matières principales) ?",
+              "Est-ce qu’on peut rencontrer un conseiller avant de s’inscrire ?"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "numero": 1,
+      "consigne": "Exercice en interaction. Posez-moi des questions pour obtenir des informations.",
+      "duree": 330,
+      "reponse": {
+        "sujets": [
+          {
+            "sujet": "Je suis votre collègue et j’ai passé quelques jours dans une région du Canada. Vous me posez des questions sur mon séjour (endroits visités, logement, activités, etc.).",
+            "questions_possibles": [
+              "Dans quelle région du Canada es-tu allé exactement pendant ton séjour ?",
+              "Combien de jours es-tu resté sur place au total ?",
+              "Quels sont les endroits ou les villes que tu as visités pendant ce voyage ?",
+              "Quel type de logement as-tu choisi pour ton séjour (hôtel, location, chez l’habitant) ?",
+              "Est-ce que le logement était bien situé par rapport aux transports et aux activités ?",
+              "Quelles activités as-tu faites sur place (visites, nature, loisirs, culture) ?",
+              "Est-ce que tu as voyagé seul ou avec d’autres personnes ?",
+              "Comment as-tu trouvé les transports dans cette région ?",
+              "Quel a été le moment le plus marquant ou le plus agréable de ton séjour ?",
+              "Est-ce que tu recommanderais cette région à d’autres personnes et pourquoi ?"
+            ]
+          },
+          {
+            "sujet": "Je suis votre collègue. Vous venez de vous installer au Canada et vous me posez des questions sur le système de santé (médecins, hôpitaux, congés maladie, médicaments, etc.).",
+            "questions_possibles": [
+              "Comment fonctionne le système de santé au Canada en général ?",
+              "Est-ce qu’il est facile de trouver un médecin de famille quand on arrive ?",
+              "Comment fait-on pour consulter un médecin ou un spécialiste ?",
+              "Les consultations médicales sont-elles gratuites pour tous ?",
+              "Comment se passe une visite à l’hôpital en cas d’urgence ?",
+              "Est-ce que les délais d’attente sont longs pour voir un médecin ?",
+              "Les médicaments sont-ils remboursés par le système de santé ?",
+              "Faut-il une assurance complémentaire pour certains soins ?",
+              "Comment fonctionnent les congés maladie au travail ?",
+              "Selon toi, quels sont les points forts et les difficultés du système de santé canadien ?"
+            ]
+          },
+          {
+            "sujet": "Je travaille dans un office de tourisme. Vous souhaitez visiter un parc à thème (aquarium, zoo, réserve naturelle). Vous me posez des questions pour vous informer (horaires, prix, restauration, etc.).",
+            "questions_possibles": [
+              "Quels types de parcs à thème proposez-vous (aquarium, zoo, réserve naturelle) ?",
+              "Quels sont les horaires d’ouverture du parc selon les saisons ?",
+              "Quel est le prix des billets pour les adultes et pour les enfants ?",
+              "Existe-t-il des tarifs réduits ou des forfaits familiaux ?",
+              "Combien de temps faut-il prévoir pour bien visiter le parc ?",
+              "Quelles sont les principales attractions ou activités proposées ?",
+              "Y a-t-il des espaces de restauration à l’intérieur du parc ?",
+              "Peut-on apporter son propre repas ou pique-niquer sur place ?",
+              "Le parc est-il accessible en transports en commun ou en voiture ?",
+              "À quelle période de l’année conseillez-vous de venir visiter ce parc ?"
+            ]
+          },
+          {
+            "sujet": "Je travaille dans une agence touristique au Canada. Vous envisagez de faire une croisière et vous me posez des questions (tarifs, durée, activités proposées, etc.).",
+            "questions_possibles": [
+              "Quelles destinations sont proposées pour les croisières au Canada ?",
+              "Quelle est la durée moyenne d’une croisière ?",
+              "Quels sont les tarifs selon le type de cabine choisi ?",
+              "Qu’est-ce qui est inclus dans le prix de la croisière ?",
+              "Quelles activités sont proposées à bord du bateau ?",
+              "Y a-t-il des animations ou des spectacles pendant la croisière ?",
+              "Les repas sont-ils compris et y a-t-il plusieurs choix de restauration ?",
+              "Est-ce que des excursions sont organisées lors des escales ?",
+              "À quel public s’adresse cette croisière (familles, couples, seniors) ?",
+              "Quelle est la meilleure période de l’année pour faire une croisière ?"
+            ]
+          },
+          {
+            "sujet": "Vous visitez un appartement à louer. Je suis l’ancien(ne) locataire. Vous me posez des questions sur l’immeuble, le voisinage, le gardien et le quartier.",
+            "questions_possibles": [
+              "Depuis combien de temps as-tu vécu dans cet appartement ?",
+              "Comment est l’immeuble en général (calme, propre, bien entretenu) ?",
+              "Y a-t-il un gardien ou un service de sécurité dans l’immeuble ?",
+              "Comment sont les voisins dans l’immeuble ?",
+              "Le quartier est-il plutôt calme ou animé ?",
+              "Y a-t-il des commerces et des services à proximité ?",
+              "Est-ce que le quartier est bien desservi par les transports en commun ?",
+              "As-tu rencontré des problèmes particuliers pendant ton séjour ici ?",
+              "Comment est la gestion de l’immeuble en cas de problème ?",
+              "Recommanderais-tu cet appartement à quelqu’un qui cherche à louer ?"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
